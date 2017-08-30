@@ -16,8 +16,8 @@
   <phrase title="6_months_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sei mesi fa]]></phrase>
   <phrase title="9_months_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nove mesi fa]]></phrase>
   <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[A moment ago]]></phrase>
-  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[A-Z, 0-9, and _ only]]></phrase>
-  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A-Z, a-z, 0-9, and _ only]]></phrase>
+  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[È consentito l'uso solo di A-Z, 0-9 e _]]></phrase>
+  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[È consentito l'uso solo di A-Z, a-z, 0-9 e _]]></phrase>
   <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[About]]></phrase>
   <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[About you]]></phrase>
   <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent]]></phrase>
@@ -27,12 +27,12 @@
   <phrase title="account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account upgrades]]></phrase>
   <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Account upgrades cannot be purchased while your account is unconfirmed.]]></phrase>
   <phrase title="action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azione]]></phrase>
-  <phrase title="action_available_via_post_only" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This action is available via POST only. Please press the back button and try again.]]></phrase>
-  <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quest'azione non può essere completate perché non sei più loggato. Ti preghiamo di ricaricare la pagina.]]></phrase>
+  <phrase title="action_available_via_post_only" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Questa azione è disponibile solo tramite richiesta POST. Ti preghiamo di tornare indietro e riprovare.]]></phrase>
+  <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quest'azione non può essere completata perché non sei più loggato. Ti preghiamo di ricaricare la pagina.]]></phrase>
   <phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Action prefix]]></phrase>
-  <phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azione da prendere]]></phrase>
+  <phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azione da compiere]]></phrase>
   <phrase title="actions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azioni]]></phrase>
-  <phrase title="active_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Active providers]]></phrase>
+  <phrase title="active_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Providers attivi]]></phrase>
   <phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Active reports]]></phrase>
   <phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The active user has changed. Reload the page for the latest version.]]></phrase>
   <phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Active user upgrades]]></phrase>
@@ -108,16 +108,16 @@
   <phrase title="add_ip_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi ban IP]]></phrase>
   <phrase title="add_language" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi lingua]]></phrase>
   <phrase title="add_link_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi forum link]]></phrase>
-  <phrase title="add_member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add member stat]]></phrase>
+  <phrase title="add_member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi statistiche utente]]></phrase>
   <phrase title="add_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi moderatore]]></phrase>
   <phrase title="add_moderator_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi moderatore ai gruppi utente]]></phrase>
   <phrase title="add_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add navigation]]></phrase>
   <phrase title="add_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi nodo]]></phrase>
   <phrase title="add_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add notice]]></phrase>
   <phrase title="add_on" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Add-on]]></phrase>
-  <phrase title="add_on_directory_x_is_not_writable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The add-on directory ({dir}) is not writable.]]></phrase>
-  <phrase title="add_on_files_do_not_appear_to_be_from_correct_version" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The add-on files do not appear to be from the correct version. Please re-upload the correct files.]]></phrase>
-  <phrase title="add_on_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Add-on IDs must be unique. The specified ID is already in use.]]></phrase>
+  <phrase title="add_on_directory_x_is_not_writable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La cartella degli add-on ({dir}) non è scrivibile.]]></phrase>
+  <phrase title="add_on_files_do_not_appear_to_be_from_correct_version" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I files dell'add-on non sono della versione corretta. Ti invitiamo a ricaricare i files corretti.]]></phrase>
+  <phrase title="add_on_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[L'ID Add-on deve essere univoco. L'ID specificato è già in uso.]]></phrase>
   <phrase title="add_ons" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Add-ons]]></phrase>
   <phrase title="add_option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi opzione]]></phrase>
   <phrase title="add_option_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add option group]]></phrase>
@@ -151,111 +151,111 @@
   <phrase title="add_warning_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi azione avvertimento]]></phrase>
   <phrase title="add_widget" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add widget]]></phrase>
   <phrase title="add_widget_definition" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add widget definition]]></phrase>
-  <phrase title="add_widget_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add widget position]]></phrase>
+  <phrase title="add_widget_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi posizione widget]]></phrase>
   <phrase title="additional_contact" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Additional contact]]></phrase>
   <phrase title="additional_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gruppi utente addizionali]]></phrase>
   <phrase title="additional_user_groups_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Puts the user in the selected groups while the upgrade is active.]]></phrase>
   <phrase title="admin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin]]></phrase>
-  <phrase title="admin_control_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin control panel]]></phrase>
-  <phrase title="admin_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin log]]></phrase>
-  <phrase title="admin_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin log entry]]></phrase>
+  <phrase title="admin_control_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pannello di Controllo Admin]]></phrase>
+  <phrase title="admin_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log Admin]]></phrase>
+  <phrase title="admin_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Registri dei Log Admin]]></phrase>
   <phrase title="admin_login" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrator log in]]></phrase>
   <phrase title="admin_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin navigation]]></phrase>
   <phrase title="admin_navigation.addOns" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add-ons]]></phrase>
   <phrase title="admin_navigation.adminLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin log]]></phrase>
   <phrase title="admin_navigation.adminNavigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin navigation]]></phrase>
   <phrase title="admin_navigation.adminPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrator permissions]]></phrase>
-  <phrase title="admin_navigation.admins" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrators]]></phrase>
-  <phrase title="admin_navigation.advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising]]></phrase>
-  <phrase title="admin_navigation.advertisingPositions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising positions]]></phrase>
+  <phrase title="admin_navigation.admins" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Amministratori]]></phrase>
+  <phrase title="admin_navigation.advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pubblicità]]></phrase>
+  <phrase title="admin_navigation.advertisingPositions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posizioni Pubblicità]]></phrase>
   <phrase title="admin_navigation.alertUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert users]]></phrase>
   <phrase title="admin_navigation.analyzePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Analyze permissions]]></phrase>
-  <phrase title="admin_navigation.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appearance]]></phrase>
-  <phrase title="admin_navigation.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachments]]></phrase>
-  <phrase title="admin_navigation.bannedEmails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banned emails]]></phrase>
-  <phrase title="admin_navigation.bannedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banned IP addresses]]></phrase>
-  <phrase title="admin_navigation.bannedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banned users]]></phrase>
+  <phrase title="admin_navigation.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aspetto]]></phrase>
+  <phrase title="admin_navigation.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allegati]]></phrase>
+  <phrase title="admin_navigation.bannedEmails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email Bannate]]></phrase>
+  <phrase title="admin_navigation.bannedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzi IP Bannati]]></phrase>
+  <phrase title="admin_navigation.bannedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti Bannati]]></phrase>
   <phrase title="admin_navigation.batchUpdateThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Batch update threads]]></phrase>
   <phrase title="admin_navigation.batchUpdateUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Batch update users]]></phrase>
   <phrase title="admin_navigation.bbCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB code]]></phrase>
   <phrase title="admin_navigation.bbCodeMediaSites" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB code media sites]]></phrase>
-  <phrase title="admin_navigation.checksAndTests" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Checks and tests]]></phrase>
+  <phrase title="admin_navigation.checksAndTests" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Verifica e Testa]]></phrase>
   <phrase title="admin_navigation.classExtensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Class extensions]]></phrase>
   <phrase title="admin_navigation.codeEventListeners" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Code event listeners]]></phrase>
   <phrase title="admin_navigation.codeEvents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Code events]]></phrase>
   <phrase title="admin_navigation.communication" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Communication]]></phrase>
-  <phrase title="admin_navigation.connectedAccountProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Connected accounts]]></phrase>
+  <phrase title="admin_navigation.connectedAccountProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account Connessi]]></phrase>
   <phrase title="admin_navigation.contactUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact users]]></phrase>
-  <phrase title="admin_navigation.content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content]]></phrase>
+  <phrase title="admin_navigation.content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contenuto]]></phrase>
   <phrase title="admin_navigation.contentTypes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content types]]></phrase>
-  <phrase title="admin_navigation.createNewUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Create new user]]></phrase>
+  <phrase title="admin_navigation.createNewUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Crea Nuovo Utente]]></phrase>
   <phrase title="admin_navigation.cronEntries" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron entries]]></phrase>
-  <phrase title="admin_navigation.customBbCodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Custom BB codes]]></phrase>
+  <phrase title="admin_navigation.customBbCodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB Code personalizzati]]></phrase>
   <phrase title="admin_navigation.dataMaintenance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data maintenance]]></phrase>
   <phrase title="admin_navigation.devNavigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation]]></phrase>
   <phrase title="admin_navigation.devPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permissions]]></phrase>
   <phrase title="admin_navigation.development" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Development]]></phrase>
-  <phrase title="admin_navigation.discouragedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discouraged IP addresses]]></phrase>
+  <phrase title="admin_navigation.discouragedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzi IP scoraggiati]]></phrase>
   <phrase title="admin_navigation.emailBounceLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email bounce log]]></phrase>
   <phrase title="admin_navigation.emailUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email users]]></phrase>
   <phrase title="admin_navigation.executionManipulation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execution manipulation]]></phrase>
-  <phrase title="admin_navigation.fileCheck" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[File health check]]></phrase>
+  <phrase title="admin_navigation.fileCheck" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Verifica integrità file]]></phrase>
   <phrase title="admin_navigation.forumNodePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node permissions]]></phrase>
   <phrase title="admin_navigation.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forums]]></phrase>
   <phrase title="admin_navigation.groupsAndPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Groups & permissions]]></phrase>
-  <phrase title="admin_navigation.help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help]]></phrase>
-  <phrase title="admin_navigation.helpPages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help pages]]></phrase>
+  <phrase title="admin_navigation.help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aiuto]]></phrase>
+  <phrase title="admin_navigation.helpPages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pagine di Aiuto]]></phrase>
   <phrase title="admin_navigation.imageProxyLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image proxy log]]></phrase>
   <phrase title="admin_navigation.importData" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Import data]]></phrase>
-  <phrase title="admin_navigation.languages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Languages]]></phrase>
-  <phrase title="admin_navigation.languagesAndPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Languages & phrases]]></phrase>
+  <phrase title="admin_navigation.languages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lingue]]></phrase>
+  <phrase title="admin_navigation.languagesAndPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lingue e Frasi]]></phrase>
   <phrase title="admin_navigation.linkProxyLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link proxy log]]></phrase>
   <phrase title="admin_navigation.listAddOns" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add-ons]]></phrase>
-  <phrase title="admin_navigation.listAllUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[List all users]]></phrase>
+  <phrase title="admin_navigation.listAllUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elenca tutti gli utenti]]></phrase>
   <phrase title="admin_navigation.logs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Logs]]></phrase>
-  <phrase title="admin_navigation.logsContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content]]></phrase>
-  <phrase title="admin_navigation.logsError" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Errors]]></phrase>
+  <phrase title="admin_navigation.logsContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contenuto]]></phrase>
+  <phrase title="admin_navigation.logsError" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Errori]]></phrase>
   <phrase title="admin_navigation.logsMisc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Miscellaneous]]></phrase>
   <phrase title="admin_navigation.logsSpam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam]]></phrase>
-  <phrase title="admin_navigation.logsUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Users]]></phrase>
-  <phrase title="admin_navigation.memberStats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member statistics]]></phrase>
+  <phrase title="admin_navigation.logsUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti]]></phrase>
+  <phrase title="admin_navigation.memberStats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Statistiche membri]]></phrase>
   <phrase title="admin_navigation.messageUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message users]]></phrase>
   <phrase title="admin_navigation.moderatorLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator log]]></phrase>
-  <phrase title="admin_navigation.moderators" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderators]]></phrase>
+  <phrase title="admin_navigation.moderators" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderatori]]></phrase>
   <phrase title="admin_navigation.navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Public navigation]]></phrase>
   <phrase title="admin_navigation.nodePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node permissions]]></phrase>
-  <phrase title="admin_navigation.nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nodes]]></phrase>
+  <phrase title="admin_navigation.nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nodi]]></phrase>
   <phrase title="admin_navigation.notices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Notices]]></phrase>
   <phrase title="admin_navigation.oEmbedLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed log]]></phrase>
-  <phrase title="admin_navigation.options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options]]></phrase>
-  <phrase title="admin_navigation.outdatedPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Outdated phrases]]></phrase>
-  <phrase title="admin_navigation.outdatedTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Outdated templates]]></phrase>
-  <phrase title="admin_navigation.paymentProfiles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Payment profiles]]></phrase>
+  <phrase title="admin_navigation.options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Opzioni]]></phrase>
+  <phrase title="admin_navigation.outdatedPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Frasi obsolete]]></phrase>
+  <phrase title="admin_navigation.outdatedTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template obsoleti]]></phrase>
+  <phrase title="admin_navigation.paymentProfiles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profili di pagamento]]></phrase>
   <phrase title="admin_navigation.paymentProviderLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Payment provider log]]></phrase>
   <phrase title="admin_navigation.permissionDefinitions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission definitions]]></phrase>
   <phrase title="admin_navigation.permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permissions]]></phrase>
-  <phrase title="admin_navigation.phrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Phrases]]></phrase>
+  <phrase title="admin_navigation.phrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Frasi]]></phrase>
   <phrase title="admin_navigation.qAndACaptcha" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Q&A CAPTCHA]]></phrase>
-  <phrase title="admin_navigation.rebuildCaches" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild caches]]></phrase>
+  <phrase title="admin_navigation.rebuildCaches" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ricostruisci caches]]></phrase>
   <phrase title="admin_navigation.rejectedUserLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rejected user log]]></phrase>
-  <phrase title="admin_navigation.routeFilters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Route filters]]></phrase>
+  <phrase title="admin_navigation.routeFilters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filtri Route]]></phrase>
   <phrase title="admin_navigation.routes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Routes]]></phrase>
-  <phrase title="admin_navigation.rssFeedImporter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[RSS feed importer]]></phrase>
-  <phrase title="admin_navigation.searchForUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search for users]]></phrase>
-  <phrase title="admin_navigation.searchPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search phrases]]></phrase>
-  <phrase title="admin_navigation.searchTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search templates]]></phrase>
-  <phrase title="admin_navigation.serverErrorLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Server error log]]></phrase>
+  <phrase title="admin_navigation.rssFeedImporter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[RSS feed importa]]></phrase>
+  <phrase title="admin_navigation.searchForUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cerca per utente]]></phrase>
+  <phrase title="admin_navigation.searchPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cerca frasi]]></phrase>
+  <phrase title="admin_navigation.searchTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cerca templates]]></phrase>
+  <phrase title="admin_navigation.serverErrorLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log Errori Server]]></phrase>
   <phrase title="admin_navigation.serviceProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Service providers]]></phrase>
   <phrase title="admin_navigation.setup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Setup]]></phrase>
   <phrase title="admin_navigation.setupNavigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation]]></phrase>
   <phrase title="admin_navigation.sitemapLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sitemap log]]></phrase>
   <phrase title="admin_navigation.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smilies]]></phrase>
-  <phrase title="admin_navigation.spamCleanerLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleaner log]]></phrase>
-  <phrase title="admin_navigation.spamTriggerLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam trigger log]]></phrase>
-  <phrase title="admin_navigation.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Statistics]]></phrase>
-  <phrase title="admin_navigation.styleProperties" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Style properties]]></phrase>
-  <phrase title="admin_navigation.styles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Styles]]></phrase>
-  <phrase title="admin_navigation.stylesAndTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Styles & templates]]></phrase>
+  <phrase title="admin_navigation.spamCleanerLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log pulizia Spam]]></phrase>
+  <phrase title="admin_navigation.spamTriggerLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log innesco Spam]]></phrase>
+  <phrase title="admin_navigation.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Statistiche]]></phrase>
+  <phrase title="admin_navigation.styleProperties" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Proprietà di Stile]]></phrase>
+  <phrase title="admin_navigation.styles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stili]]></phrase>
+  <phrase title="admin_navigation.stylesAndTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stili e Templates]]></phrase>
   <phrase title="admin_navigation.tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tags]]></phrase>
   <phrase title="admin_navigation.templateModifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template modifications]]></phrase>
   <phrase title="admin_navigation.templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Templates]]></phrase>
@@ -266,55 +266,55 @@
   <phrase title="admin_navigation.threadPrompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread prompts]]></phrase>
   <phrase title="admin_navigation.threadProperties" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread properties]]></phrase>
   <phrase title="admin_navigation.threadReplyBans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread reply bans]]></phrase>
-  <phrase title="admin_navigation.tools" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tools]]></phrase>
-  <phrase title="admin_navigation.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophies]]></phrase>
+  <phrase title="admin_navigation.tools" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Strumenti]]></phrase>
+  <phrase title="admin_navigation.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trofei]]></phrase>
   <phrase title="admin_navigation.userChangeLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User change log]]></phrase>
-  <phrase title="admin_navigation.userCustomization" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User customization]]></phrase>
-  <phrase title="admin_navigation.userDiscipline" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User discipline]]></phrase>
-  <phrase title="admin_navigation.userFields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Custom user fields]]></phrase>
+  <phrase title="admin_navigation.userCustomization" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Personalizzazione utente]]></phrase>
+  <phrase title="admin_navigation.userDiscipline" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Disciplina utente]]></phrase>
+  <phrase title="admin_navigation.userFields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Campi utente personalizzati]]></phrase>
   <phrase title="admin_navigation.userGroupPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User group permissions]]></phrase>
   <phrase title="admin_navigation.userGroupPromotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User group promotions]]></phrase>
-  <phrase title="admin_navigation.userGroups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User groups]]></phrase>
-  <phrase title="admin_navigation.userPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User permissions]]></phrase>
-  <phrase title="admin_navigation.userTitleLadder" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User title ladder]]></phrase>
+  <phrase title="admin_navigation.userGroups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gruppi utente]]></phrase>
+  <phrase title="admin_navigation.userPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi utente]]></phrase>
+  <phrase title="admin_navigation.userTitleLadder" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Scala titolo utente]]></phrase>
   <phrase title="admin_navigation.userUpgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User upgrades]]></phrase>
-  <phrase title="admin_navigation.userWarnings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Warnings]]></phrase>
-  <phrase title="admin_navigation.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Users]]></phrase>
+  <phrase title="admin_navigation.userWarnings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avvertimenti]]></phrase>
+  <phrase title="admin_navigation.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti]]></phrase>
   <phrase title="admin_navigation.usersStaff" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff]]></phrase>
   <phrase title="admin_navigation.widgetDefinitions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget definitions]]></phrase>
   <phrase title="admin_navigation.widgetPositions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget positions]]></phrase>
   <phrase title="admin_navigation.widgets" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widgets]]></phrase>
-  <phrase title="admin_navigation_icon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Font Awesome icon]]></phrase>
-  <phrase title="admin_navigation_icon_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optional Font Awesome icon name]]></phrase>
+  <phrase title="admin_navigation_icon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Icona Font Awesome]]></phrase>
+  <phrase title="admin_navigation_icon_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nome icona Font Awesome (opzionale)]]></phrase>
   <phrase title="admin_navigation_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin navigation ID]]></phrase>
   <phrase title="admin_navigation_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin navigation IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="admin_permission.addOn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage add-ons]]></phrase>
-  <phrase title="admin_permission.advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage advertising]]></phrase>
-  <phrase title="admin_permission.attachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage attached files]]></phrase>
-  <phrase title="admin_permission.ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage bans]]></phrase>
-  <phrase title="admin_permission.bbCodeSmilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage BB codes and smilies]]></phrase>
+  <phrase title="admin_permission.addOn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci add-ons]]></phrase>
+  <phrase title="admin_permission.advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci pubblicità]]></phrase>
+  <phrase title="admin_permission.attachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci file allegati]]></phrase>
+  <phrase title="admin_permission.ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci bans]]></phrase>
+  <phrase title="admin_permission.bbCodeSmilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestici BB codes e smilies]]></phrase>
   <phrase title="admin_permission.cron" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage cron entries]]></phrase>
-  <phrase title="admin_permission.help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage help]]></phrase>
-  <phrase title="admin_permission.import" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Import data]]></phrase>
-  <phrase title="admin_permission.language" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage languages and phrases]]></phrase>
+  <phrase title="admin_permission.help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci aiuto]]></phrase>
+  <phrase title="admin_permission.import" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Importa dati]]></phrase>
+  <phrase title="admin_permission.language" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci lingue e frasi]]></phrase>
   <phrase title="admin_permission.navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage navigation]]></phrase>
-  <phrase title="admin_permission.node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage nodes]]></phrase>
+  <phrase title="admin_permission.node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci nodi]]></phrase>
   <phrase title="admin_permission.notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage notices]]></phrase>
-  <phrase title="admin_permission.option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage options]]></phrase>
+  <phrase title="admin_permission.option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci opzioni]]></phrase>
   <phrase title="admin_permission.payment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage payment providers]]></phrase>
-  <phrase title="admin_permission.rebuildCache" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild caches]]></phrase>
-  <phrase title="admin_permission.style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage styles, style properties, and templates]]></phrase>
-  <phrase title="admin_permission.tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage tags]]></phrase>
-  <phrase title="admin_permission.thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage threads and posts]]></phrase>
-  <phrase title="admin_permission.trophy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage trophies]]></phrase>
-  <phrase title="admin_permission.user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage users and moderators]]></phrase>
-  <phrase title="admin_permission.userField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage custom user fields]]></phrase>
-  <phrase title="admin_permission.userGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage user groups]]></phrase>
+  <phrase title="admin_permission.rebuildCache" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ricostruisci caches]]></phrase>
+  <phrase title="admin_permission.style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci stili, proprietà stile e templates]]></phrase>
+  <phrase title="admin_permission.tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci tagsManage tags]]></phrase>
+  <phrase title="admin_permission.thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci discussioni e messaggi]]></phrase>
+  <phrase title="admin_permission.trophy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci trofei]]></phrase>
+  <phrase title="admin_permission.user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci utenti e moderatori]]></phrase>
+  <phrase title="admin_permission.userField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci campi utente personalizzati]]></phrase>
+  <phrase title="admin_permission.userGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci gruppi utente]]></phrase>
   <phrase title="admin_permission.userUpgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage user upgrades]]></phrase>
-  <phrase title="admin_permission.viewLogs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View logs]]></phrase>
-  <phrase title="admin_permission.viewStatistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View statistics]]></phrase>
-  <phrase title="admin_permission.warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage warnings]]></phrase>
-  <phrase title="admin_permission.widget" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage widgets]]></phrase>
+  <phrase title="admin_permission.viewLogs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare Log]]></phrase>
+  <phrase title="admin_permission.viewStatistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare Statistiche]]></phrase>
+  <phrase title="admin_permission.warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire avvertimenti]]></phrase>
+  <phrase title="admin_permission.widget" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire widgets]]></phrase>
   <phrase title="admin_permission_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin permission IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="admin_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin permissions]]></phrase>
   <phrase title="admin_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin templates]]></phrase>
