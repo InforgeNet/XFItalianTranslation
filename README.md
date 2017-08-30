@@ -1,6 +1,6 @@
 # Traduzione Italiana Xenforo 2.0
 Traduzione ufficiale XenForo 2.0 di Inforge.net.
-''Repo gestito da [XenForge](https://www.xenforge.com) per le traduzioni ufficiali di [Inforge.net](https://www.inforge.net) e [Tom's Hardware](https://www.tomshw.it/forum)
+>Repo gestito da [XenForge](https://www.xenforge.com) per le traduzioni ufficiali di [Inforge.net](https://www.inforge.net) e [Tom's Hardware](https://www.tomshw.it/forum)
 
 **La traduzione non è completa, pertanto se ne sconsiglia l'uso in produzione.**
 
