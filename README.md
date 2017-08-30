@@ -1,5 +1,5 @@
 # XFItalianTranslation
-Traduzione ufficiale XenForo 2.0 di Inforge.net
+Traduzione ufficiale XenForo 2.0 di Inforge.net. Repo gestito da [XenForge](https://www.xenforge.com) 
 
 **La traduzione non è completa, pertanto se ne sconsiglia l'uso in produzione.**
 
