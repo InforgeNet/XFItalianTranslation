@@ -132,23 +132,23 @@
   <phrase title="add_property" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add property]]></phrase>
   <phrase title="add_property_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add property group]]></phrase>
   <phrase title="add_question" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi domanda]]></phrase>
-  <phrase title="add_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add route]]></phrase>
-  <phrase title="add_route_filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add route filter]]></phrase>
-  <phrase title="add_secondary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add secondary user group]]></phrase>
+  <phrase title="add_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi route]]></phrase>
+  <phrase title="add_route_filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi filtro route]]></phrase>
+  <phrase title="add_secondary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi gruppo utente secondario]]></phrase>
   <phrase title="add_smilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi smilie]]></phrase>
   <phrase title="add_smilie_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi categoria smilie]]></phrase>
   <phrase title="add_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi stile]]></phrase>
   <phrase title="add_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi tag]]></phrase>
   <phrase title="add_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi template]]></phrase>
-  <phrase title="add_template_modification" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add template modification]]></phrase>
-  <phrase title="add_to_selected_groups" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Add to selected groups]]></phrase>
+  <phrase title="add_template_modification" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi modifica template]]></phrase>
+  <phrase title="add_to_selected_groups" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Aggiungi ai gruppi selezionati]]></phrase>
   <phrase title="add_trophy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi trofeo]]></phrase>
   <phrase title="add_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi utente]]></phrase>
-  <phrase title="add_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add user group]]></phrase>
-  <phrase title="add_user_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add user to user groups]]></phrase>
+  <phrase title="add_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi gruppo utente]]></phrase>
+  <phrase title="add_user_to_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi utente ai gruppi utente]]></phrase>
   <phrase title="add_user_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add user upgrade]]></phrase>
-  <phrase title="add_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add warning]]></phrase>
-  <phrase title="add_warning_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add warning action]]></phrase>
+  <phrase title="add_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi avvertimento]]></phrase>
+  <phrase title="add_warning_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi azione avvertimento]]></phrase>
   <phrase title="add_widget" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add widget]]></phrase>
   <phrase title="add_widget_definition" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add widget definition]]></phrase>
   <phrase title="add_widget_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add widget position]]></phrase>
@@ -1301,7 +1301,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="extension_class_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extension class name]]></phrase>
   <phrase title="extra" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Extra]]></phrase>
   <phrase title="extra_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra attributes]]></phrase>
-  <phrase title="extra_copyright" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="extra_copyright" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[<a href="https://github.com/InforgeNet/XFItalianTranslation" rel="nofollow">Traduzione italiana</a> di <a rel="nofollow" href="https://www.xenforge.com">XenForge.com</a>]]></phrase>
   <phrase title="extra_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra user groups]]></phrase>
   <phrase title="facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Facebook]]></phrase>
   <phrase title="failed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Failed]]></phrase>
@@ -1324,9 +1324,9 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="file_contents_unexpected" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[File does not contain expected contents.]]></phrase>
   <phrase title="file_health_check" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[File health check]]></phrase>
   <phrase title="file_health_check_description" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>This system will scan the files of your XenForo installation and its add-ons and identify any files that are missing, or whose contents do not match the expected contents of that file.</p>
-				
+
 <p>It can be useful for quickly checking that all files have been correctly uploaded.</p>
-			
+
 <p>Click the <b>{button}</b> button below to run the test.</p>]]></phrase>
   <phrase title="file_health_check_okay" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[All {numFiles} checked files are present and correct.]]></phrase>
   <phrase title="file_health_check_results" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[File health check results]]></phrase>
