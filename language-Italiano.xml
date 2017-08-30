@@ -318,14 +318,14 @@
   <phrase title="admin_permission_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin permission IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="admin_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin permissions]]></phrase>
   <phrase title="admin_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin templates]]></phrase>
-  <phrase title="admin_templates_may_only_be_created_in_master_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin templates may only be created in the master style.]]></phrase>
-  <phrase title="administrator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administrator]]></phrase>
-  <phrase title="administrator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrator type]]></phrase>
-  <phrase title="administrators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administrators]]></phrase>
-  <phrase title="administrators_and_moderators_will_not_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrators and moderators will not be deleted.]]></phrase>
-  <phrase title="advanced_mode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced mode]]></phrase>
-  <phrase title="advanced_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced options]]></phrase>
-  <phrase title="advanced_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced search]]></phrase>
+  <phrase title="admin_templates_may_only_be_created_in_master_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I template Admin possono essere creati solo nello stile Master.]]></phrase>
+  <phrase title="administrator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Amministratore]]></phrase>
+  <phrase title="administrator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tipo di Amministratore]]></phrase>
+  <phrase title="administrators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Amministratori]]></phrase>
+  <phrase title="administrators_and_moderators_will_not_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Amministratori e moderatori non possono essere eliminati.]]></phrase>
+  <phrase title="advanced_mode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modalità avanzati]]></phrase>
+  <phrase title="advanced_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Opzioni avanzate]]></phrase>
+  <phrase title="advanced_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ricerca avanzata]]></phrase>
   <phrase title="advertisement_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertisement is active]]></phrase>
   <phrase title="advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising]]></phrase>
   <phrase title="advertising_position_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising position is active]]></phrase>
@@ -336,7 +336,7 @@
   <phrase title="after_checking_x_files_we_found_y_missing_z_inconsistent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[After checking {checked} files we found {missing} files missing and {inconsistent} files which contained unexpected contents.]]></phrase>
   <phrase title="after_message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[After message]]></phrase>
   <phrase title="after_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[After time]]></phrase>
-  <phrase title="age" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Age]]></phrase>
+  <phrase title="age" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Età]]></phrase>
   <phrase title="akismet_matched" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Akismet matched]]></phrase>
   <phrase title="alert_body" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert body]]></phrase>
   <phrase title="alert_opt_out.post_insert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Replies to a watched thread]]></phrase>
@@ -353,55 +353,55 @@
   <phrase title="alert_opt_out.trophy_award" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Awards you a new trophy]]></phrase>
   <phrase title="alert_opt_out.user_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Starts following you]]></phrase>
   <phrase title="alert_preferences" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert preferences]]></phrase>
-  <phrase title="alert_profile_post_insert" addon_id="XF" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} wrote a message on <a {profilePageLinkAttributes}>your profile</a>.]]></phrase>
+  <phrase title="alert_profile_post_insert" addon_id="XF" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} ha scritto un messaggio sul <a {profilePageLinkAttributes}>tuo profilo</a>.]]></phrase>
   <phrase title="alert_staff_to_this_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert staff to this content]]></phrase>
-  <phrase title="alert_user_following" addon_id="XF" version_id="0" version_string=""><![CDATA[{username} is now following you.]]></phrase>
+  <phrase title="alert_user_following" addon_id="XF" version_id="0" version_string=""><![CDATA[{username} ha iniziato a seguirti.]]></phrase>
   <phrase title="alert_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert users]]></phrase>
   <phrase title="alert_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You can use this form to send an alert to the users which match the criteria specified below.]]></phrase>
   <phrase title="alerting" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Alerting]]></phrase>
   <phrase title="alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Alerts]]></phrase>
-  <phrase title="align_center" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Align center]]></phrase>
-  <phrase title="align_left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Align left]]></phrase>
-  <phrase title="align_right" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Align right]]></phrase>
-  <phrase title="alignment" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Alignment]]></phrase>
-  <phrase title="all" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[All]]></phrase>
-  <phrase title="all_automatically_mergeable_templates_have_been_processed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All automatically mergeable templates have been processed. Any remaining templates will need to be manually processed.]]></phrase>
-  <phrase title="all_content_tagged_with_x_will_now_be_tagged_with_this_tag" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[All content tagged with {tag} will now be tagged with this tag.]]></phrase>
+  <phrase title="align_center" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allinea al centro]]></phrase>
+  <phrase title="align_left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allinea a sinistra]]></phrase>
+  <phrase title="align_right" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allinea a destra]]></phrase>
+  <phrase title="alignment" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Allineamento]]></phrase>
+  <phrase title="all" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tutto]]></phrase>
+  <phrase title="all_automatically_mergeable_templates_have_been_processed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tutti i templates sono stati unificati. I template rimanenti dovranno essere modificati manualmente.]]></phrase>
+  <phrase title="all_content_tagged_with_x_will_now_be_tagged_with_this_tag" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tutti i contenuti taggati con {tag} sono ora taggati con questo tag.]]></phrase>
   <phrase title="all_content_types" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All content types]]></phrase>
-  <phrase title="all_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All forums]]></phrase>
-  <phrase title="all_forums_marked_as_read" addon_id="XF" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[All forums marked as read.]]></phrase>
-  <phrase title="all_posts_from_other_threads_will_be_merged_into_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[All posts from the other threads will be merged into this thread.]]></phrase>
+  <phrase title="all_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tutti i forum]]></phrase>
+  <phrase title="all_forums_marked_as_read" addon_id="XF" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[Tutti i forum sono stati contrassegnati come letti.]]></phrase>
+  <phrase title="all_posts_from_other_threads_will_be_merged_into_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Tutti i messaggi delle altre discussioni sono state inserite in questa discussione.]]></phrase>
   <phrase title="all_threads_in_destination_forum" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[All selected threads are already in the destination forum. Please select another forum.]]></phrase>
   <phrase title="all_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All time]]></phrase>
   <phrase title="all_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All user groups]]></phrase>
   <phrase title="all_valid_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All valid users]]></phrase>
   <phrase title="all_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All visitors]]></phrase>
   <phrase title="all_x_values_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All {key} values must be unique.]]></phrase>
-  <phrase title="allow_anyone_in_conversation_to_invite_others" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Allow anyone in the conversation to invite others]]></phrase>
+  <phrase title="allow_anyone_in_conversation_to_invite_others" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Consenti a chiunque nella conversazione di invitare altri utenti]]></phrase>
   <phrase title="allow_banner_stacking" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow banner stacking]]></phrase>
   <phrase title="allow_cron_entry_to_run_automatically_when_scheduled" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Allow cron entry to run automatically when scheduled]]></phrase>
-  <phrase title="allow_new_messages_to_be_posted_in_this_forum" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Allow new messages to be posted in this forum]]></phrase>
-  <phrase title="allow_polls_to_be_created_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Allow polls to be created in this forum]]></phrase>
-  <phrase title="allow_results_to_be_viewed_without_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow the results to be viewed without voting]]></phrase>
-  <phrase title="allow_this_bb_code_in_signatures" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Allow this BB code in signatures]]></phrase>
+  <phrase title="allow_new_messages_to_be_posted_in_this_forum" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Permetti la scrittura di nuovi messaggi in questo forum]]></phrase>
+  <phrase title="allow_polls_to_be_created_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Permetti la creazione di sondaggi in questo forum]]></phrase>
+  <phrase title="allow_results_to_be_viewed_without_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permetti di vedere i risultati delle votazioni senza votare]]></phrase>
+  <phrase title="allow_this_bb_code_in_signatures" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Permetti questo BB code nelle firme]]></phrase>
   <phrase title="allow_user_selection" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Allow user selection]]></phrase>
-  <phrase title="allow_users_to" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow users to]]></phrase>
-  <phrase title="allow_voters_to_change_their_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow voters to change their votes]]></phrase>
-  <phrase title="allow_x_to_invite_others_to_this_conversation" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Allow {user} to invite others to this conversation]]></phrase>
-  <phrase title="alternatively_use_ip_discouragement" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Alternatively, you may use IP-based discouragement.]]></phrase>
-  <phrase title="analyze" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Analyze]]></phrase>
-  <phrase title="analyze_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Analyze permissions]]></phrase>
+  <phrase title="allow_users_to" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permetti agli utenti di]]></phrase>
+  <phrase title="allow_voters_to_change_their_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consentire di cambiare il voto nei sondaggi]]></phrase>
+  <phrase title="allow_x_to_invite_others_to_this_conversation" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Permettere a {user} di invitare altri utenti nelle conversazioni]]></phrase>
+  <phrase title="alternatively_use_ip_discouragement" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[In alternativa, puoi utilizzare lo scoraggiamento per IP.]]></phrase>
+  <phrase title="analyze" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Analizza]]></phrase>
+  <phrase title="analyze_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Analizza permessi]]></phrase>
   <phrase title="analyze_permissions_description" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This tool allows you to analyze the individual components that make up a permission set for a user. It is particularly useful for determining why a permission is not being applied as you expect.]]></phrase>
   <phrase title="and_receive_email_notifications" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[and receive email notifications]]></phrase>
   <phrase title="anonymous" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anonymous]]></phrase>
-  <phrase title="answer" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Answer]]></phrase>
+  <phrase title="answer" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Risposta]]></phrase>
   <phrase title="any" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Any]]></phrase>
   <phrase title="any_resolution_rejection_alert_text_will_be_appended_to_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Any resolution/rejection alert text will be appended automatically to the current comment.]]></phrase>
   <phrase title="any_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Any time]]></phrase>
-  <phrase title="api_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[API key]]></phrase>
+  <phrase title="api_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chiave API]]></phrase>
   <phrase title="app_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[App ID]]></phrase>
   <phrase title="app_secret" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[App secret]]></phrase>
-  <phrase title="appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appearance]]></phrase>
+  <phrase title="appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aspetto]]></phrase>
   <phrase title="applicable_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Applicable forums]]></phrase>
   <phrase title="application_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Application date]]></phrase>
   <phrase title="applied_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Applied by]]></phrase>
@@ -419,14 +419,14 @@
   <phrase title="apply_warning_points" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply warning points]]></phrase>
   <phrase title="approval_queue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approval queue]]></phrase>
   <phrase title="approve" addon_id="XF" global_cache="1" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approve]]></phrase>
-  <phrase title="approve_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve posts]]></phrase>
-  <phrase title="approve_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve thread]]></phrase>
-  <phrase title="approve_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve threads]]></phrase>
-  <phrase title="approved_sites" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approved sites]]></phrase>
-  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to stop email notifications for all forums?]]></phrase>
-  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to stop email notifications for all threads?]]></phrase>
+  <phrase title="approve_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approva messaggi]]></phrase>
+  <phrase title="approve_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approva discussione]]></phrase>
+  <phrase title="approve_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approva discussioni]]></phrase>
+  <phrase title="approved_sites" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Siti approvati]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sei sicuro di voler disabilitare le notifiche email da tutti i forum?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sei sicuro di voler disabilitare le notifiche email da tutte le discussioni?]]></phrase>
   <phrase title="are_you_sure_you_want_to_stop_emails_for_all_watched_items" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to stop email notifications for all watched items?]]></phrase>
-  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to stop email notifications for one forum?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sei sicuro di voler disabilitare le notifiche email da questo forum?]]></phrase>
   <phrase title="are_you_sure_you_want_to_stop_emails_for_one_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to stop email notifications for one thread?]]></phrase>
   <phrase title="arguments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arguments]]></phrase>
   <phrase title="array" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Array]]></phrase>
@@ -443,13 +443,13 @@
   <phrase title="attach_this_nodes_children_to_its_parent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attach this node's children to its parent]]></phrase>
   <phrase title="attachment_browser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachment browser]]></phrase>
   <phrase title="attachment_cannot_be_shown_at_this_time" addon_id="XF" version_id="0" version_string=""><![CDATA[This attachment cannot be shown at this time. Please try back later.]]></phrase>
-  <phrase title="attachment_disk_usage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachment disk usage (MB)]]></phrase>
+  <phrase title="attachment_disk_usage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utilizzo disco allegati (MB)]]></phrase>
   <phrase title="attachment_thumbnails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachment thumbnails]]></phrase>
-  <phrase title="attachment_upload" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachment upload]]></phrase>
-  <phrase title="attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachments]]></phrase>
-  <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Attempts to send emails to {email} have failed. Please update your email.]]></phrase>
-  <phrase title="authentication" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Authentication]]></phrase>
-  <phrase title="author" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Author]]></phrase>
+  <phrase title="attachment_upload" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caricamento allegati]]></phrase>
+  <phrase title="attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allegati]]></phrase>
+  <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Il tenativo di inviare una email a {email} è fallito. Ti invitiamo a modificare l'indirizzo email.]]></phrase>
+  <phrase title="authentication" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Autenticazione]]></phrase>
+  <phrase title="author" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Autore]]></phrase>
   <phrase title="auto_embed_media_and_add_link_in_this_bb_code" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Auto-embed media, and add a link to the content within this BB code]]></phrase>
   <phrase title="auto_embed_media_links" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Auto-embed media links]]></phrase>
   <phrase title="auto_reply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Auto-reply]]></phrase>

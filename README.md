@@ -1,5 +1,5 @@
 # XFItalianTranslation
-Traduzione ufficiale XenForo 2.0 di Inforge.net. Repo gestito da [XenForge](https://www.xenforge.com) 
+Traduzione ufficiale XenForo 2.0 di Inforge.net. Repo gestito da [XenForge](https://www.xenforge.com)
 
 **La traduzione non è completa, pertanto se ne sconsiglia l'uso in produzione.**
 
@@ -13,11 +13,17 @@ Essendo distribuito come tale, si chiede di supportare il progetto lasciando ina
 - Notices = Avvisi(?)
 - Themes = Temi
 - Nodes = Nodi
+- Attachments = Allegati
 
 *Rimangono nella loro forma*
 - Templates
 - Smilies
 - BB code
+- Thumbnails
+- Diciture esterne (es: App ID, App secret)
+
+*In nessun caso modificare i valori tra parentesi graffe, ad esempio*
+- {user}
 
 ## Come partecipare alla Traduzione
 **Si prega di non partecipare alla traduzione se _non si conoscono_ le caratteristiche di XenForo 2.0**
