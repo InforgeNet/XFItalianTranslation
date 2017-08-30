@@ -6,6 +6,16 @@ Traduzione ufficiale XenForo 2.0 di Inforge.net
 ## Caratteristiche della Traduzione
 La traduzione è rilasciata in maniera *opensource*, pertanto il suo download è disponibile gratuitamente.
 Essendo distribuito come tale, si chiede di supportare il progetto lasciando inalterato il breve link affianco al copyright.
+*Linee Guida*
+- Threads = Discussioni
+- Posts = Messaggi
+- Notices = Avvisi(?)
+- Themes = Temi
+- Nodes = Nodi
+*Rimangono nella loro forma*
+- Templates
+- Smilies
+- BB code
 
 ## Come partecipare alla Traduzione
 **Si prega di non partecipare alla traduzione se _non si conoscono_ le caratteristiche di XenForo 2.0**
