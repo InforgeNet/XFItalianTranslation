@@ -1,5 +1,6 @@
 # XFItalianTranslation
-Traduzione ufficiale XenForo 2.0 di Inforge.net 
+Traduzione ufficiale XenForo 2.0 di Inforge.net
+_La traduzione non è completa, pertanto si consiglia di scaricare solo per motivi di sviluppo._
 
 ## Caratteristiche della Traduzione
 La traduzione è rilasciata in maniera *opensource*, pertanto il suo download è disponibile gratuitamente.
