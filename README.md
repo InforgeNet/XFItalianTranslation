@@ -8,7 +8,7 @@ Traduzione ufficiale XenForo 2.0 di Inforge.net.
 La traduzione è rilasciata in maniera *opensource*, pertanto il suo download è disponibile gratuitamente.
 Essendo distribuito come tale, si chiede di supportare il progetto lasciando inalterato il breve link affianco al copyright.
 
-*Linee Guida*
+### Linee Guida
 - Threads = Discussioni
 - Posts = Messaggi
 - Notices = Avvisi(?)
@@ -16,14 +16,14 @@ Essendo distribuito come tale, si chiede di supportare il progetto lasciando ina
 - Nodes = Nodi
 - Attachments = Allegati
 
-*Rimangono nella loro forma*
+### Rimangono nella loro forma
 - Templates
 - Smilies
 - BB code
 - Thumbnails
 - Diciture esterne (es: App ID, App secret)
 
-*In nessun caso modificare i valori tra parentesi graffe, ad esempio*
+### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
 - {user}
 
 ## Come partecipare alla Traduzione
