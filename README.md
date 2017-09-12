@@ -4,7 +4,7 @@ Basata sulla versione Xenforo 2.0.0 Beta 1.
 
 **La traduzione non è completa, pertanto se ne sconsiglia l'uso in produzione.**
 
-Stato dei lavori: ![Progress](http://progressed.io/bar/13)
+Stato dei lavori: ![Progress](http://progressed.io/bar/55)
 
 ## Caratteristiche della Traduzione
 La traduzione è rilasciata in maniera *opensource*, pertanto il suo download è disponibile liberamente.
