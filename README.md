@@ -7,14 +7,14 @@ Basata sulla versione Xenforo 2.0.0 Beta 1.
 Stato dei lavori: ![Progress](http://progressed.io/bar/55)
 
 ## Caratteristiche della Traduzione
-La traduzione è rilasciata in maniera *opensource*, pertanto il suo download è disponibile liberamente.
+La traduzione è rilasciata *opensource*, pertanto il suo download è disponibile liberamente.
 Essendo distribuito come tale, si chiede di supportare il progetto lasciando inalterato il breve link affianco al copyright.
 
 ## Partecipare alla Traduzione
-Puoi partecipare alla traduzione in modo facile tramite questo sito (Gitlab), un portale pensato per coloro che vogliono collaborare ai progetti in modo facile e veloce!
+Puoi partecipare alla traduzione in modo facile tramite questo sito (GitHub), un portale pensato per coloro che vogliono collaborare a progetti in modo facile e veloce!
 
-Se non hai mai usato un portale Git ecco cosa devi fare:
-1. Crea un account su Gitlab
+Se non hai mai usato GitHub ecco cosa devi fare:
+1. Crea un account su GitHub
 2. Effettua un Fork (copia del progetto) cliccando sul tasto Fork che trovi in alto sulla pagina della repository (la traduzione)
 3. Modifica il Fork appena creato applicando le modifiche che vuoi al file .xml che contiene le frasi di traduzione (anche da Browser puoi farlo)
 4. (Opzionale) Per una maggiore organizzazione, commenta le modifiche che hai fatto dall'oggetto del Commit
