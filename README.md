@@ -1,10 +1,8 @@
 # Traduzione Italiana Xenforo 2.0
-Basata sulla versione Xenforo 2.0.0 Beta 1.
+Basata sulla versione Xenforo 2.0 Final Release.
 >Repo gestita da [XenForge](https://www.xenforge.com) per le traduzioni ufficiali di [Inforge.net](https://www.inforge.net) e [Tom's Hardware](https://www.tomshw.it/forum)
 
-**La traduzione non è completa, pertanto se ne sconsiglia l'uso in produzione.**
-
-Stato dei lavori: ![Progress](http://progressed.io/bar/55)
+Stato dei lavori: ![Progress](http://progressed.io/bar/90)
 
 ## Caratteristiche della Traduzione
 La traduzione è rilasciata *opensource*, pertanto il suo download è disponibile liberamente.
