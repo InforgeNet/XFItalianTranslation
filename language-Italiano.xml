@@ -1364,8 +1364,8 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="find_all_threads_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trova tutte le discussioni di {name}]]></phrase>
   <phrase title="find_and_replace_fields_must_have_same_number_of_wildcards" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The find and replace fields must have the same number of wildcards.]]></phrase>
   <phrase title="find_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trova contenuto]]></phrase>
-  <phrase title="find_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find reports]]></phrase>
-  <phrase title="find_reports_for_member" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Find reports for member]]></phrase>
+  <phrase title="find_reports" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Cerca segnalazioni]]></phrase>
+  <phrase title="find_reports_for_member" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Cerca le segnalazioni dell'utente]]></phrase>
   <phrase title="find_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find route]]></phrase>
   <phrase title="find_route_must_start_with_route_prefix" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The find route must start with a route prefix.]]></phrase>
   <phrase title="first" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Primo]]></phrase>
@@ -1413,6 +1413,8 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="forum_watch_notification_limit_desc" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[You can limit the amount of notifications that can be triggered by a user watching a forum here. For example, if you select "new threads", users will only be able to choose between no notifications or notifications when a new thread is posted. This can be used to limit the overhead of the forum watching system in busy forums.]]></phrase>
   <phrase title="forum_watched" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sezioni seguite]]></phrase>
   <phrase title="forum_x_marked_as_read" addon_id="XF" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[Forum '{forum}' marked as read.]]></phrase>
+  <phrase title="forummoderators_moderator" addon_id="Andy/ForumModerators" version_id="12" version_string="1.2"><![CDATA[Moderatore]]></phrase>
+  <phrase title="forummoderators_moderators" addon_id="Andy/ForumModerators" version_id="12" version_string="1.2"><![CDATA[Moderatori]]></phrase>
   <phrase title="forums" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Forum]]></phrase>
   <phrase title="found_contentcheck_tag_without_contentcheck_based_if_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Found a contentcheck tag without a contentcheck-based if tag.]]></phrase>
   <phrase title="freeform_css_code" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Codice CSS/LESS in forma libera]]></phrase>
@@ -1438,7 +1440,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="global_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Global permissions]]></phrase>
   <phrase title="global_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Global value]]></phrase>
   <phrase title="go" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Vai]]></phrase>
-  <phrase title="go_to_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Go to content]]></phrase>
+  <phrase title="go_to_content" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Vai al contenuto]]></phrase>
   <phrase title="go_to_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Go to page]]></phrase>
   <phrase title="good" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Good]]></phrase>
   <phrase title="google_plus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google+]]></phrase>
@@ -1835,13 +1837,13 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="likes.user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1} and {user2}]]></phrase>
   <phrase title="likes.user1_user2_and_user3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2} and {user3}]]></phrase>
   <phrase title="likes.user1_user2_user3_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} and 1 other person]]></phrase>
-  <phrase title="likes.user1_user2_user3_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} and {others} others]]></phrase>
+  <phrase title="likes.user1_user2_user3_and_x_others" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{user1}, {user2}, {user3} e altri {others}]]></phrase>
   <phrase title="likes.x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{likes} people]]></phrase>
   <phrase title="likes.you" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tu]]></phrase>
   <phrase title="likes.you_and_user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You and {user1}]]></phrase>
   <phrase title="likes.you_user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You, {user1} and {user2}]]></phrase>
   <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You, {user1}, {user2} and 1 other person]]></phrase>
-  <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You, {user1}, {user2} and {others} others]]></phrase>
+  <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[You, {user1}, {user2} e altri {others}]]></phrase>
   <phrase title="likes_counted_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Likes counted status]]></phrase>
   <phrase title="likes_received" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA["Mi piace" ricevuti]]></phrase>
   <phrase title="liking_own_content_cheating" addon_id="XF" version_id="0" version_string=""><![CDATA[Liking your own content is considered cheating.]]></phrase>
@@ -1871,7 +1873,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="lock_conversation" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lock conversation]]></phrase>
   <phrase title="lock_conversation_no_responses_will_be_allowed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Chiudi la conversazione (nessuna risposta sarà consentita)]]></phrase>
   <phrase title="lock_out" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lock out]]></phrase>
-  <phrase title="lock_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lock threads]]></phrase>
+  <phrase title="lock_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Chiudi discussioni]]></phrase>
   <phrase title="locked" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Locked]]></phrase>
   <phrase title="log_and_count_visits_to_this_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Log and count visits to this page]]></phrase>
   <phrase title="log_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log details]]></phrase>
@@ -1992,7 +1994,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="merge_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge posts]]></phrase>
   <phrase title="merge_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge tags]]></phrase>
   <phrase title="merge_template_changes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge template changes]]></phrase>
-  <phrase title="merge_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge threads]]></phrase>
+  <phrase title="merge_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Unisci discussioni]]></phrase>
   <phrase title="merge_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge users]]></phrase>
   <phrase title="merge_with_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge with user]]></phrase>
   <phrase title="merging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merging]]></phrase>
@@ -2135,8 +2137,8 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="move_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Move posts]]></phrase>
   <phrase title="move_spammers_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Move spammer's threads]]></phrase>
   <phrase title="move_this_categorys_children_to_its_parent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Move this category's children to its parent]]></phrase>
-  <phrase title="move_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Move thread]]></phrase>
-  <phrase title="move_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Move threads]]></phrase>
+  <phrase title="move_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sposta discussione]]></phrase>
+  <phrase title="move_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sposta discussioni]]></phrase>
   <phrase title="move_to_forum" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Move to forum]]></phrase>
   <phrase title="multi_line_text_box" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Multi-line text box]]></phrase>
   <phrase title="multiple_choice_drop_down_selection" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Multiple-choice drop down]]></phrase>
@@ -3116,7 +3118,7 @@ Callback arguments:
   <phrase title="please_enter_page_content" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Please enter the page content.]]></phrase>
   <phrase title="please_enter_poll_question" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci una domanda del sondaggio valida.]]></phrase>
   <phrase title="please_enter_positive_whole_number" addon_id="XF" version_id="0" version_string=""><![CDATA[Please enter a positive whole number.]]></phrase>
-  <phrase title="please_enter_reason_for_reporting_this_message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please enter a reason for reporting this message.]]></phrase>
+  <phrase title="please_enter_reason_for_reporting_this_message" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Inserisci motivo della segnalazione.]]></phrase>
   <phrase title="please_enter_search_text" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Please enter search text.]]></phrase>
   <phrase title="please_enter_single_tag" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Please enter a single tag.]]></phrase>
   <phrase title="please_enter_text_for_each_choice" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Please enter text for each choice.]]></phrase>
@@ -3251,7 +3253,7 @@ Callback arguments:
   <phrase title="post_feed_entries_as_following_user" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Post as the following user:]]></phrase>
   <phrase title="post_feed_entries_as_guest" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Post as guest, use name information from feed data.]]></phrase>
   <phrase title="post_immediately" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Post immediately]]></phrase>
-  <phrase title="post_in_thread_x" addon_id="XF" version_id="0" version_string=""><![CDATA[Post in thread '{title}']]></phrase>
+  <phrase title="post_in_thread_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Post nel topic '{title}']]></phrase>
   <phrase title="post_likes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post likes]]></phrase>
   <phrase title="post_messages_on_this_users_profile_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Post messages on this user's profile page]]></phrase>
   <phrase title="post_messages_on_your_profile_page" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[pubblicare messaggi sulla tua pagina profilo]]></phrase>
@@ -3391,7 +3393,7 @@ Callback arguments:
   <phrase title="received_unexpected_response_code_x_message_y" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Received unexpected response code {code} ({message})]]></phrase>
   <phrase title="receiving_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Receiving member]]></phrase>
   <phrase title="recent_content_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Contenuto recente di {name}]]></phrase>
-  <phrase title="recently_closed_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Recently closed reports]]></phrase>
+  <phrase title="recently_closed_reports" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Segnalazioni chiuse recentemente]]></phrase>
   <phrase title="recipient" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Recipient]]></phrase>
   <phrase title="recipients" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Partecipanti]]></phrase>
   <phrase title="recurring_payments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Recurring payments]]></phrase>
@@ -3463,11 +3465,12 @@ Callback arguments:
   <phrase title="report_resolution_alert_comment_append" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[I]The following alert was sent:[/I]
 [QUOTE][PLAIN]{alert}[/PLAIN][/QUOTE]]]></phrase>
   <phrase title="report_state.assigned" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Assegna]]></phrase>
+  <phrase title="report_state.open" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Aperta]]></phrase>
   <phrase title="report_state.rejected" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Respinta]]></phrase>
   <phrase title="report_state.resolved" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Risolta]]></phrase>
   <phrase title="report_that_you_made_recently_has_been_resolved" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Your recent report has been resolved: {title}]]></phrase>
   <phrase title="report_that_you_made_recently_has_been_resolved_comment_x" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Your recent report has been resolved: {title} - {comment}]]></phrase>
-  <phrase title="reported_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reported content]]></phrase>
+  <phrase title="reported_content" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Contenuto segnalato]]></phrase>
   <phrase title="reported_items" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Segnalazioni]]></phrase>
   <phrase title="reported_thread_message" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[[url='{link}']{title}[/url] by [url='{userLink}']{username}[/url] has been reported by [url='{reporterLink}']{reporter}[/url]. Reason given:
 [quote]{reportReason}[/quote]
@@ -3794,7 +3797,7 @@ Content being reported:
   <phrase title="status_update_by_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Status update by {username}]]></phrase>
   <phrase title="stay_logged_in" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Resta collegato al forum]]></phrase>
   <phrase title="stick_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Attacca discussione]]></phrase>
-  <phrase title="stick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stick threads]]></phrase>
+  <phrase title="stick_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Metti in rilievo]]></phrase>
   <phrase title="sticky" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[In evidenza]]></phrase>
   <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Le discussioni in rilievo appaiono nella parte alta della prima pagina della lista discussioni nella loro sezione]]></phrase>
   <phrase title="stop_all_emails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop all emails]]></phrase>
@@ -4349,7 +4352,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="tag_x_contains_unexpected_child_element" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag {name} contains an unexpected child element.]]></phrase>
   <phrase title="tag_x_must_be_empty" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag {name} must be empty.]]></phrase>
   <phrase title="tag_x_must_have_attribute_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag {name} must have an attribute {attribute}.]]></phrase>
-  <phrase title="tags" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tags]]></phrase>
+  <phrase title="tags" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tag]]></phrase>
   <phrase title="tags_must_be_unique" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tags must be unique. The specified tag already exists.]]></phrase>
   <phrase title="target_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Target tag]]></phrase>
   <phrase title="target_user" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Target user]]></phrase>
@@ -4668,14 +4671,14 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="unanswered_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni senza risposte]]></phrase>
   <phrase title="unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unapprove]]></phrase>
   <phrase title="unapprove_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unapprove posts]]></phrase>
-  <phrase title="unapprove_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unapprove threads]]></phrase>
+  <phrase title="unapprove_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Disapprova discussioni]]></phrase>
   <phrase title="unassign" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unassign]]></phrase>
   <phrase title="unassociated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unassociated]]></phrase>
   <phrase title="unban_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unban users]]></phrase>
   <phrase title="undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete]]></phrase>
   <phrase title="undelete_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete posts]]></phrase>
   <phrase title="undelete_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete thread]]></phrase>
-  <phrase title="undelete_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete threads]]></phrase>
+  <phrase title="undelete_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ripristina discussioni]]></phrase>
   <phrase title="underline" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sottolineato]]></phrase>
   <phrase title="undiscourage_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undiscourage users]]></phrase>
   <phrase title="undo" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Indietro]]></phrase>
@@ -4716,7 +4719,7 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="unlike_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unlike content]]></phrase>
   <phrase title="unlimited" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Illimitate]]></phrase>
   <phrase title="unlink" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Unlink]]></phrase>
-  <phrase title="unlock_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unlock threads]]></phrase>
+  <phrase title="unlock_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Riapri discussioni]]></phrase>
   <phrase title="unlocked" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unlocked]]></phrase>
   <phrase title="unmodified" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non modificato]]></phrase>
   <phrase title="unordered_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lista non ordinata]]></phrase>
@@ -4726,7 +4729,7 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="unstar" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non segnare]]></phrase>
   <phrase title="unstar_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unstar conversations]]></phrase>
   <phrase title="unstick_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Togli discussione dal rilievo]]></phrase>
-  <phrase title="unstick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unstick threads]]></phrase>
+  <phrase title="unstick_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Togli dal rilievo]]></phrase>
   <phrase title="unsubscribe_from_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unsubscribe from mailing list]]></phrase>
   <phrase title="unsubscribe_from_x_mailing_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Rimuovi la tua iscrizione dalla mailing list {title}]]></phrase>
   <phrase title="until" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Until]]></phrase>
