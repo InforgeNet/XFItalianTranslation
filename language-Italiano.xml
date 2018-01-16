@@ -855,7 +855,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="conversation_marked_as_read" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Conversazione contrassegnata come letta.]]></phrase>
   <phrase title="conversation_marked_as_unread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Conversazione contrassegnata come non letta.]]></phrase>
   <phrase title="conversation_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Messaggio di conversazione]]></phrase>
-  <phrase title="conversation_message_in_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Messaggio di conversazione in '{title}']]></phrase>
+  <phrase title="conversation_message_in_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Messaggio della conversazione in '{title}']]></phrase>
   <phrase title="conversation_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation messages]]></phrase>
   <phrase title="conversation_options" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Opzioni della conversazione]]></phrase>
   <phrase title="conversation_participants" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Partecipanti alla conversazione]]></phrase>
@@ -1977,7 +1977,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="member_stat_to_display" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member stat to display]]></phrase>
   <phrase title="member_stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member statistics]]></phrase>
   <phrase title="member_stats_description" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use this page to define and edit groups of users that can be displayed on the 'Notable members' public page]]></phrase>
-  <phrase title="member_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Member '{username}']]></phrase>
+  <phrase title="member_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Membro '{username}']]></phrase>
   <phrase title="members" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Utenti registrati]]></phrase>
   <phrase title="members_following_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members following {name}]]></phrase>
   <phrase title="members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti online]]></phrase>
