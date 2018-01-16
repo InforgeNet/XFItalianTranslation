@@ -1812,10 +1812,10 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="leave_conversation_and_accept_future_messages" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[abbandona la conversazione e accetta messaggi futuri]]></phrase>
   <phrase title="leave_conversation_and_ignore_future_messages" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[abbandona la conversazione e ignora messaggi futuri]]></phrase>
   <phrase title="leave_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abbandona conversazioni]]></phrase>
-  <phrase title="leave_permanent_redirect" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Leave a permanent redirect]]></phrase>
+  <phrase title="leave_permanent_redirect" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lascia un reindirizzamento permanente]]></phrase>
   <phrase title="leave_rating" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Dai un voto]]></phrase>
   <phrase title="leave_redirect_for_merged_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Leave redirect for merged threads]]></phrase>
-  <phrase title="leave_redirect_that_expires_after" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Leave a redirect that expires after]]></phrase>
+  <phrase title="leave_redirect_that_expires_after" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lascia un reindirizzamento che scade dopo:]]></phrase>
   <phrase title="leaving_conversation_will_remove_it_from_your_conversation_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abbandonare una conversazione la rimuoverà dalla lista delle tue conversazioni.]]></phrase>
   <phrase title="left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Left]]></phrase>
   <phrase title="left_to_right" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Left-to-right]]></phrase>
@@ -1895,7 +1895,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="making_tag_permanent_prevents_it_from_being_removed" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Making a tag permanent prevents it from being removed when it is no longer in use.]]></phrase>
   <phrase title="manage" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Gestisci]]></phrase>
   <phrase title="manage_promoted_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage promoted users]]></phrase>
-  <phrase title="manage_reply_bans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage reply bans]]></phrase>
+  <phrase title="manage_reply_bans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci ban discussione]]></phrase>
   <phrase title="manage_watched_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage watched threads]]></phrase>
   <phrase title="manage_your_account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage your account upgrades]]></phrase>
   <phrase title="managing_account_details" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[mentre gestiva i dettagli dell'account]]></phrase>
@@ -2086,19 +2086,19 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="moderated" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Moderated]]></phrase>
   <phrase title="moderation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Moderazione]]></phrase>
   <phrase title="moderator" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Moderatore]]></phrase>
-  <phrase title="moderator_actions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator actions]]></phrase>
+  <phrase title="moderator_actions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azioni Moderatore]]></phrase>
   <phrase title="moderator_editable" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Moderator editable]]></phrase>
   <phrase title="moderator_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator log]]></phrase>
   <phrase title="moderator_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator log entry]]></phrase>
   <phrase title="moderator_tools" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Strumenti di Moderazione]]></phrase>
-  <phrase title="moderator_user_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator user name]]></phrase>
-  <phrase title="moderators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Moderators]]></phrase>
-  <phrase title="moderators_count_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderators ({moderators})]]></phrase>
+  <phrase title="moderator_user_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Username Moderatore]]></phrase>
+  <phrase title="moderators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Moderatori]]></phrase>
+  <phrase title="moderators_count_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderatori ({moderators})]]></phrase>
   <phrase title="modification_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modification key]]></phrase>
   <phrase title="modified_in_parent_language" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modificato nel linguaggio parente]]></phrase>
   <phrase title="modified_in_parent_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Modified in a parent style]]></phrase>
   <phrase title="modified_in_this_language" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modificato in questa lingua]]></phrase>
-  <phrase title="modified_in_this_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Modified in this style]]></phrase>
+  <phrase title="modified_in_this_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Modificato in questo stile]]></phrase>
   <phrase title="month_1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gennaio]]></phrase>
   <phrase title="month_10" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ottobre]]></phrase>
   <phrase title="month_10_short" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ott]]></phrase>
@@ -2124,7 +2124,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="month_9" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Settembre]]></phrase>
   <phrase title="month_9_short" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Sep]]></phrase>
   <phrase title="monthly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Monthly]]></phrase>
-  <phrase title="monthly_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Monthly statistics]]></phrase>
+  <phrase title="monthly_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Statistiche mensili]]></phrase>
   <phrase title="months" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Months]]></phrase>
   <phrase title="more" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Altro]]></phrase>
   <phrase title="more_options" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Altre opzioni]]></phrase>
@@ -2345,11 +2345,11 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="notice_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Notice type]]></phrase>
   <phrase title="notice_visibility_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use these settings to control visibility based on display size. These settings are linked to the <a href="{styleUrl}">responsive break point style properties</a> and may vary depending on the selected style.]]></phrase>
   <phrase title="notices" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Notices]]></phrase>
-  <phrase title="notify_author_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Notify author of this action.]]></phrase>
-  <phrase title="notify_members_watching_destination_forum" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Notify members watching the destination forum]]></phrase>
-  <phrase title="notify_thread_starter_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Notify thread starter of this action.]]></phrase>
-  <phrase title="notify_user_if_action_was_taken" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Notify user if action was taken]]></phrase>
-  <phrase title="notify_user_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Notify user of this action.]]></phrase>
+  <phrase title="notify_author_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Avvisa l'autore di questa azione.]]></phrase>
+  <phrase title="notify_members_watching_destination_forum" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Avvisa i membri che stanno seguendo il forum di destinazione]]></phrase>
+  <phrase title="notify_thread_starter_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Avvisa l'autore del thread]]></phrase>
+  <phrase title="notify_user_if_action_was_taken" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Avvisa l'utente se questa azione è stata presa]]></phrase>
+  <phrase title="notify_user_of_this_action" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Notifica l'utente di questa azione.]]></phrase>
   <phrase title="number" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Number]]></phrase>
   <phrase title="number_of_users_matching_criteria" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Number of users matching criteria]]></phrase>
   <phrase title="numeric" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Numeric]]></phrase>
