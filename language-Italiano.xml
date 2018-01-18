@@ -5071,17 +5071,17 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="watched_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Contenuto seguito]]></phrase>
   <phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p class="minorText">Si prega di non rispondere a questo messaggio. Bisogna visitare il forum per rispondere.</p>
 
-<p class="minorText">Questo messaggio ti è stato inviato perchè segui la sezione "{node_title}" su {board} con le notifiche email abilitate. Non riceverai più notifiche riguardanti questa discussione finchè non leggerai i nuovi messaggi.</p>
+<p class="minorText">Questo messaggio ti è stato inviato perchè segui la sezione "{node_title}" su {board} con le notifiche email abilitate. Non riceverai più notifiche riguardanti questa sezione finchè non leggerai i nuovi messaggi.</p>
 
 <p class="minorText">Se desideri smettere di ricevere queste email, devi <a href="{disable_this_link}">disabilitare le email da questa sezione</a> o <a href="{disable_all_link}">disabilitare tutte le email</a>.</p>]]></phrase>
   <phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier} posted a new message to a forum you are watching at {board}.</p>]]></phrase>
   <phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier} posted a new thread to a forum you are watching at {board}.</p>]]></phrase>
   <phrase title="watched_forums" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sezioni seguite]]></phrase>
-  <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Please do not reply to this message. You must visit the forum to reply.</p>
+  <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p class="minorText">Si prega di non rispondere a questo messaggio. Bisogna visitare il forum per rispondere.</p>
 
-<p class="minorText">This message was sent to you because you opted to watch the thread {thread} at {board} with email notification of new replies. You will not receive any further emails about this thread until you have read the new messages.</p>
+<p class="minorText">Questo messaggio ti è stato inviato perchè segui la discussione "{thread}" su {board} con le notifiche email abilitate. Non riceverai più notifiche riguardanti questa discussione finchè non leggerai i nuovi messaggi.</p>
 
-<p class="minorText">If you no longer wish to receive these emails, you may <a href="{disable_this_link}">disable emails from this thread</a> or <a href="{disable_all_link}">disable all emails</a>.]]></phrase>
+<p class="minorText">Se desideri smettere di ricevere queste email, devi <a href="{disable_this_link}">disabilitare le email da questa discussione</a> o <a href="{disable_all_link}">disabilitare tutte le email</a>.</p>]]></phrase>
   <phrase title="watched_thread_reply_email_html" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p>{replier} ha risposto ad una discussione che stai seguendo su {board}.</p>]]></phrase>
   <phrase title="watched_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni seguite]]></phrase>
   <phrase title="we_found_some_errors_while_trying_to_install_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[We found some errors while trying to install the following add-on]]></phrase>
