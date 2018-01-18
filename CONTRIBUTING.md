@@ -10,6 +10,7 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Attachments = Allegati
 - Thumbnails = Anteprime
 - Warn = Avvertimento
+- Resource = Release
 
 ### Rimangono invece nella loro forma
 - Templates
