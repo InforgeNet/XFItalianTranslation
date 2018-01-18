@@ -2222,7 +2222,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="new_profile_posts_followed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Followed]]></phrase>
   <phrase title="new_profile_posts_latest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latest]]></phrase>
   <phrase title="new_registrations_currently_not_being_accepted" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuove registrazioni sono al momento disabilitate.]]></phrase>
-  <phrase title="new_reply_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New reply ban]]></phrase>
+  <phrase title="new_reply_ban" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Nuovo ban dalla discussione]]></phrase>
   <phrase title="new_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New thread]]></phrase>
   <phrase title="new_thread_in_watched_forum_x" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{title} - New thread in watched forum]]></phrase>
   <phrase title="new_thread_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New thread title]]></phrase>
@@ -3460,7 +3460,7 @@ Callback arguments:
   <phrase title="reply_quoting_this_message" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Reply, quoting this message]]></phrase>
   <phrase title="reply_to_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reply to conversation]]></phrase>
   <phrase title="reply_to_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Rispondi alla discussione]]></phrase>
-  <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - New reply to watched thread]]></phrase>
+  <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{title} - Nuova risposta alla discussione seguita]]></phrase>
   <phrase title="report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Segnala]]></phrase>
   <phrase title="report_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segnala contenuto]]></phrase>
   <phrase title="report_reason" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Motivo segnalazione]]></phrase>
@@ -5400,13 +5400,13 @@ Callback arguments:
   <phrase title="xfrm_resource_rating" addon_id="XFRM" version_id="2000170" version_string="2.0.1"><![CDATA[Recensione release]]></phrase>
   <phrase title="xfrm_resource_ratings" addon_id="XFRM" version_id="2000170" version_string="2.0.1"><![CDATA[Recensioni release]]></phrase>
   <phrase title="xfrm_resource_review_in_x" addon_id="XFRM" version_id="2000170" version_string="2.0.1"><![CDATA[Recensione release '{title}']]></phrase>
-  <phrase title="xfrm_resource_thread_create" addon_id="XFRM" version_id="2000170" version_string="2.0.1"><![CDATA[{username} ha rilasciato una nuova releasee:
+  <phrase title="xfrm_resource_thread_create" addon_id="XFRM" version_id="2000170" version_string="2.0.1"><![CDATA[{username} ha rilasciato una nuova release:
 
 [url={resource_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
 
 [quote]{snippet}[/quote]
 
-[url={resource_link}]Leggi di più riguardo questa release...[/url]]]></phrase>
+[url={resource_link}][size=5]Leggi di più riguardo questa release...[/size][/url]]]></phrase>
   <phrase title="xfrm_resource_thread_delete" addon_id="XFRM" version_id="2000170" version_string="2.0.1"><![CDATA[Questa release è stata rimossa e non è più possibile scaricarla.]]></phrase>
   <phrase title="xfrm_resource_thread_update" addon_id="XFRM" version_id="2000170" version_string="2.0.1"><![CDATA[{username} ha aggiornato [url={resource_link}][plain]{resource_title}[/plain][/url]:
 
