@@ -1200,29 +1200,29 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="email_address_you_entered_appears_have_typo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The email address you entered appears to have a typo. Please try another.]]></phrase>
   <phrase title="email_address_you_entered_has_been_banned_by_administrator" addon_id="XF" version_id="0" version_string=""><![CDATA[The email address you entered has been banned by the administrator. Please try another.]]></phrase>
   <phrase title="email_address_you_registered_with_is_required_to_reset_your_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[L'indirizzo email con il quale ti sei registrato è necessario per resettare la password.]]></phrase>
-  <phrase title="email_addresses_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Email addresses must be unique. The specified email address is already in use.]]></phrase>
+  <phrase title="email_addresses_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[L'indirizzo email deve essere unico. L'indirizzo specificato é già in uso.]]></phrase>
   <phrase title="email_body" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email body]]></phrase>
   <phrase title="email_bounce_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email bounce log]]></phrase>
   <phrase title="email_changed_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username},</p>
 
-<p>Your email at {board} was recently changed to {new}. If you made this change, you may ignore this message.</p>
+<p>Il tuo indirizzo email di {board} é stato recentemente cambiato in {new}. Se hai fatto te questo cambiamento, puoi ignorare questo messaggio.</p>
 
-<p>If you did not request this change, please log in and change your password and email address. If you are unable to do this, please contact an administrator.</p>
+<p>Se invece non hai richiesto questo cambiamento, sei pregato di accedere e cambiare immediatamente la tua password e il tuo indirizzo email. Se per qualche motivo non sei in grado di farlo, contatta un amministratore.</p>
 
-<p>Your email was changed by the IP {ip}.</p>]]></phrase>
-  <phrase title="email_changed_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board} - Email changed]]></phrase>
-  <phrase title="email_confirmation_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email confirmation code]]></phrase>
-  <phrase title="email_conversation_notifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email conversation notifications]]></phrase>
+<p>Il tuo indirizzo email é stato cambiato dall'IP {ip}.</p>]]></phrase>
+  <phrase title="email_changed_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board} - Email cambiata]]></phrase>
+  <phrase title="email_confirmation_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Codice di conferma email]]></phrase>
+  <phrase title="email_conversation_notifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Notifiche conversazione email]]></phrase>
   <phrase title="email_footer_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="email_footer_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="email_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email format]]></phrase>
+  <phrase title="email_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Formato email]]></phrase>
   <phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[An email has been sent to <b>{email}</b> with a single-use code. Please enter that code to continue.]]></phrase>
   <phrase title="email_invalid_bounced" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Email invalid (bounced)]]></phrase>
   <phrase title="email_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email list]]></phrase>
   <phrase title="email_search_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[You may enter one or more text snippets separated by commas, and users whose email addresses contain any of the snippets will match the criteria.]]></phrase>
   <phrase title="email_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email templates]]></phrase>
   <phrase title="email_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email title]]></phrase>
-  <phrase title="email_to_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email to ban]]></phrase>
+  <phrase title="email_to_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email da bannare]]></phrase>
   <phrase title="email_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email users]]></phrase>
   <phrase title="email_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You can use this form to send a mass email to the users which match the criteria specified below.]]></phrase>
   <phrase title="emailing" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Emailing]]></phrase>
@@ -1250,7 +1250,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="enable_disable_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable / disable '{title}']]></phrase>
   <phrase title="enable_email_confirmation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable email confirmation]]></phrase>
   <phrase title="enable_email_notification" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abilita notifiche email]]></phrase>
-  <phrase title="enable_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable extension]]></phrase>
+  <phrase title="enable_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita estensione]]></phrase>
   <phrase title="enable_manual_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable manual approval]]></phrase>
   <phrase title="enable_moderation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable moderation]]></phrase>
   <phrase title="enable_paypal_support" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable PayPal support]]></phrase>
@@ -1507,7 +1507,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="hide_this_navigation_when_there_no_viewable_children" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hide this navigation when there are no viewable children]]></phrase>
   <phrase title="hide_wide" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hide below wide width ({width})]]></phrase>
   <phrase title="high_resolution_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[High resolution avatar]]></phrase>
-  <phrase title="history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[History]]></phrase>
+  <phrase title="history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cronologia]]></phrase>
   <phrase title="hits" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Hits]]></phrase>
   <phrase title="home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Home]]></phrase>
   <phrase title="host" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Host]]></phrase>
@@ -5006,7 +5006,7 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="view_custom_changes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View custom changes]]></phrase>
   <phrase title="view_expired_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View expired upgrades]]></phrase>
   <phrase title="view_full_list" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[View full list]]></phrase>
-  <phrase title="view_history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View history]]></phrase>
+  <phrase title="view_history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedi cronologia]]></phrase>
   <phrase title="view_host_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View host content]]></phrase>
   <phrase title="view_more" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra di più]]></phrase>
   <phrase title="view_older_results" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View older results]]></phrase>
