@@ -1832,19 +1832,19 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="like_counts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Like counts]]></phrase>
   <phrase title="like_message_ratio_explanation" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[A user with 10 messages and 5 likes will have a ratio of 0.5.]]></phrase>
   <phrase title="likes" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mi Piace]]></phrase>
-  <phrase title="likes.1_person" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 person]]></phrase>
-  <phrase title="likes.deleted_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(deleted member)]]></phrase>
+  <phrase title="likes.1_person" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[1 utente]]></phrase>
+  <phrase title="likes.deleted_user" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[(utente rimosso)]]></phrase>
   <phrase title="likes.user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}]]></phrase>
-  <phrase title="likes.user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1} and {user2}]]></phrase>
-  <phrase title="likes.user1_user2_and_user3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2} and {user3}]]></phrase>
-  <phrase title="likes.user1_user2_user3_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} and 1 other person]]></phrase>
-  <phrase title="likes.user1_user2_user3_and_x_others" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{user1}, {user2}, {user3} e altri {others}]]></phrase>
-  <phrase title="likes.x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{likes} people]]></phrase>
+  <phrase title="likes.user1_and_user2" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{user1} e {user2}]]></phrase>
+  <phrase title="likes.user1_user2_and_user3" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{user1}, {user2} e {user3}]]></phrase>
+  <phrase title="likes.user1_user2_user3_and_1_other" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{user1}, {user2}, {user3} e 1 altro utente]]></phrase>
+  <phrase title="likes.user1_user2_user3_and_x_others" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{user1}, {user2}, {user3} e altri {others} utenti]]></phrase>
+  <phrase title="likes.x_people" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{likes} utenti]]></phrase>
   <phrase title="likes.you" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tu]]></phrase>
-  <phrase title="likes.you_and_user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You and {user1}]]></phrase>
-  <phrase title="likes.you_user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You, {user1} and {user2}]]></phrase>
-  <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You, {user1}, {user2} and 1 other person]]></phrase>
-  <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[You, {user1}, {user2} e altri {others}]]></phrase>
+  <phrase title="likes.you_and_user1" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tu e {user1}]]></phrase>
+  <phrase title="likes.you_user1_and_user2" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tu, {user1} e {user2}]]></phrase>
+  <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tu, {user1}, {user2} e 1 altro utente]]></phrase>
+  <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tu, {user1}, {user2} e altri {others} utenti]]></phrase>
   <phrase title="likes_counted_status" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Stato dei Mi piace]]></phrase>
   <phrase title="likes_received" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA["Mi piace" ricevuti]]></phrase>
   <phrase title="liking_own_content_cheating" addon_id="XF" version_id="0" version_string=""><![CDATA[Liking your own content is considered cheating.]]></phrase>
@@ -2397,7 +2397,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed HTML' field is ignore
   <phrase title="open" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Aperta]]></phrase>
   <phrase title="open_in_overlay" addon_id="XF" version_id="1000070" version_string="1.0.0"><![CDATA[Open this link in an overlay]]></phrase>
   <phrase title="open_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Open link]]></phrase>
-  <phrase title="open_thread" addon_id="XF" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Open]]></phrase>
+  <phrase title="open_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Apri discussione]]></phrase>
   <phrase title="optgroup_tags_cannot_be_nested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optgroup tags cannot be nested.]]></phrase>
   <phrase title="option.addBanUserGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add user group on ban]]></phrase>
   <phrase title="option.adminRequireTfa" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Require two-step verification to access the admin control panel]]></phrase>
@@ -3798,7 +3798,7 @@ Content being reported:
   <phrase title="status_changed" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Stato cambiato]]></phrase>
   <phrase title="status_update_by_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Status update by {username}]]></phrase>
   <phrase title="stay_logged_in" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Resta collegato al forum]]></phrase>
-  <phrase title="stick_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Attacca discussione]]></phrase>
+  <phrase title="stick_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Metti in rilievo la discussione]]></phrase>
   <phrase title="stick_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Metti in rilievo]]></phrase>
   <phrase title="sticky" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[In evidenza]]></phrase>
   <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Le discussioni in rilievo appaiono nella parte alta della prima pagina della lista discussioni nella loro sezione]]></phrase>
@@ -4731,7 +4731,7 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="unsigned_numeric" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unsigned numeric]]></phrase>
   <phrase title="unstar" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non segnare]]></phrase>
   <phrase title="unstar_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unstar conversations]]></phrase>
-  <phrase title="unstick_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Togli discussione dal rilievo]]></phrase>
+  <phrase title="unstick_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Togli dal rilievo la discussione]]></phrase>
   <phrase title="unstick_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Togli dal rilievo]]></phrase>
   <phrase title="unsubscribe_from_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unsubscribe from mailing list]]></phrase>
   <phrase title="unsubscribe_from_x_mailing_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Rimuovi la tua iscrizione dalla mailing list {title}]]></phrase>
