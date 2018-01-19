@@ -1877,16 +1877,16 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="locked" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Locked]]></phrase>
   <phrase title="log_and_count_visits_to_this_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Log and count visits to this page]]></phrase>
   <phrase title="log_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log details]]></phrase>
-  <phrase title="log_in" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Log in]]></phrase>
-  <phrase title="log_in_or_register_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log in or register now.]]></phrase>
+  <phrase title="log_in" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Entra]]></phrase>
+  <phrase title="log_in_or_register_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Entra o Registrati adesso]]></phrase>
   <phrase title="log_in_or_register_to_post" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Devi accedere o registrarti per pubblicare qui.]]></phrase>
   <phrase title="log_in_or_register_to_reply" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Devi accedere o registrarti per rispondere qui.]]></phrase>
   <phrase title="log_in_using" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log in using]]></phrase>
   <phrase title="log_out" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Esci]]></phrase>
   <phrase title="logged_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Logged activity]]></phrase>
-  <phrase title="logging_in_as" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Logging in as]]></phrase>
+  <phrase title="logging_in_as" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Sei loggato come]]></phrase>
   <phrase title="login_required" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Devi aver effettuato l'accesso per fare questo.]]></phrase>
-  <phrase title="lost_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Password persa]]></phrase>
+  <phrase title="lost_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Password persa?]]></phrase>
   <phrase title="macro_argument_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Macro argument names may only contain A-Z, 0-9 and underscores.]]></phrase>
   <phrase title="macro_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Macro names may only contain A-Z, 0-9 and underscores.]]></phrase>
   <phrase title="macro_names_must_be_literal_strings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Macro names must be literal strings.]]></phrase>
