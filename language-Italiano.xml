@@ -636,7 +636,7 @@ Per supportare un pagamento ricorrente e automaticamente bloccare la compera qua
   <phrase title="button.submit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invia]]></phrase>
   <phrase title="button.translate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Traduci]]></phrase>
   <phrase title="by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Da]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Registrandoti, accetti la nostra <a href="{privacy}" target="_blank">privacy policy</a>.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Registrandoti, accetterai la nostra <a href="{privacy}" target="_blank">privacy policy</a>.]]></phrase>
   <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Registrandoti, accetti i nostri <a href="{tos}" target="_blank">termini</a> e <a href="{privacy}" target="_blank">privacy policy</a>.]]></phrase>
   <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Registrandoti, accetti i nostri <a href="{tos}" target="_blank">termini e condizioni d'uso</a>.]]></phrase>
   <phrase title="by_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Da {name}]]></phrase>
@@ -1878,16 +1878,16 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="locked" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Chiuso]]></phrase>
   <phrase title="log_and_count_visits_to_this_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Log and count visits to this page]]></phrase>
   <phrase title="log_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log details]]></phrase>
-  <phrase title="log_in" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Entra]]></phrase>
-  <phrase title="log_in_or_register_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Entra o Registrati adesso]]></phrase>
+  <phrase title="log_in" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Entra]]></phrase>
+  <phrase title="log_in_or_register_now" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Accedi o registrati ora.]]></phrase>
   <phrase title="log_in_or_register_to_post" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Devi accedere o registrarti per pubblicare qui.]]></phrase>
   <phrase title="log_in_or_register_to_reply" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Devi accedere o registrarti per rispondere qui.]]></phrase>
-  <phrase title="log_in_using" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log in using]]></phrase>
+  <phrase title="log_in_using" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Accedi utilizzando]]></phrase>
   <phrase title="log_out" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Esci]]></phrase>
   <phrase title="logged_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Logged activity]]></phrase>
-  <phrase title="logging_in_as" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Sei loggato come]]></phrase>
+  <phrase title="logging_in_as" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Accedendo come]]></phrase>
   <phrase title="login_required" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Devi aver effettuato l'accesso per fare questo.]]></phrase>
-  <phrase title="lost_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Password persa?]]></phrase>
+  <phrase title="lost_password" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Password dimenticata]]></phrase>
   <phrase title="macro_argument_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Macro argument names may only contain A-Z, 0-9 and underscores.]]></phrase>
   <phrase title="macro_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Macro names may only contain A-Z, 0-9 and underscores.]]></phrase>
   <phrase title="macro_names_must_be_literal_strings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Macro names must be literal strings.]]></phrase>
@@ -2825,7 +2825,8 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="options_for_choice_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options for choice fields]]></phrase>
   <phrase title="options_for_text_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options for text fields]]></phrase>
   <phrase title="options_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options groups]]></phrase>
-  <phrase title="or_separator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[or]]></phrase>
+  <phrase title="or_click_here" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Oppure clicca qui]]></phrase>
+  <phrase title="or_separator" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[oppure]]></phrase>
   <phrase title="order_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ordina per]]></phrase>
   <phrase title="ordered_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ordinato da]]></phrase>
   <phrase title="ordered_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lista ordinata]]></phrase>
@@ -3220,7 +3221,7 @@ Callback arguments:
   <phrase title="please_upload_valid_smilies_xml_file" addon_id="XF" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[Please upload a valid smilies XML file.]]></phrase>
   <phrase title="please_upload_valid_style_xml_file" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Please upload a valid style XML file.]]></phrase>
   <phrase title="please_vote_for_at_least_one_option" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Vota almeno un'opzione.]]></phrase>
-  <phrase title="please_wait_x_seconds" addon_id="XF" version_id="1010470" version_string="1.1.4"><![CDATA[Please wait {seconds} seconds.]]></phrase>
+  <phrase title="please_wait_x_seconds" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Si prega di attendere {seconds} secondi]]></phrase>
   <phrase title="points" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Punteggio]]></phrase>
   <phrase title="points_and_expiry_time_editable_when_giving_warning" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Points and expiry time are editable when giving warning]]></phrase>
   <phrase title="points_can_be_used_track_progression_and_change_title" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[These points can be used to track progression and change a user's title.]]></phrase>
@@ -3413,8 +3414,8 @@ Callback arguments:
   <phrase title="regenerate_secret_for_new_device" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Regenerate secret for a new device]]></phrase>
   <phrase title="register" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Registrati]]></phrase>
   <phrase title="register_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register date]]></phrase>
-  <phrase title="register_faster_using" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register faster using]]></phrase>
-  <phrase title="register_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register now]]></phrase>
+  <phrase title="register_faster_using" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Registrati velocemente utilizzando]]></phrase>
+  <phrase title="register_now" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Registrati ora]]></phrase>
   <phrase title="register_using_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register using {provider}]]></phrase>
   <phrase title="registered_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Registered between]]></phrase>
   <phrase title="registered_feeds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Registered feeds]]></phrase>
@@ -4504,7 +4505,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_is_how_you_will_refer_to_property_in_template" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This is how you will refer to the property in a template.]]></phrase>
   <phrase title="this_is_last_position_for_this_widget_permanently_delete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the last position for this widget. Permanently delete the widget.]]></phrase>
   <phrase title="this_is_maximum_number_of_responses_voter_may_select_when_voting" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questo è il numero massimo di risposte che l'utente può votare.]]></phrase>
-  <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is the name that will be shown with your messages. You may use any name you wish. Once set, this cannot be changed.]]></phrase>
+  <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo è il nome che verrà mostrato assieme ai tuoi messaggi. Puoi usare il nome che preferisci.]]></phrase>
   <phrase title="this_is_unique_identifier_for_field_cannot_be_changed" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[This is the unique identifier for this field. It cannot be changed once set.]]></phrase>
   <phrase title="this_is_unique_identifier_for_this_group" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This is the unique identifier for this group.]]></phrase>
   <phrase title="this_is_used_as_separator_in_lists_of_values" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is used as a separator in lists of values. Include a trailing space if needed.]]></phrase>
@@ -4844,10 +4845,10 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="user_is_not_member_of_any_of_selected_user_groups" addon_id="XF" version_id="1010070" version_string="1.1.0"><![CDATA[User is NOT a member of any of the selected user groups]]></phrase>
   <phrase title="user_like_message_ratio_is_at_least" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[User likes to messages ratio is at least]]></phrase>
   <phrase title="user_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User limit]]></phrase>
-  <phrase title="user_lost_password_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, in order to reset your password at {board}, you need to click the button below. This will allow you to choose a new password.</p>]]></phrase>
-  <phrase title="user_lost_password_reset_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, your password at {board} has been reset. You may now log in using your new password.</p>]]></phrase>
-  <phrase title="user_lost_password_reset_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Password reset]]></phrase>
-  <phrase title="user_lost_password_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Password reset request]]></phrase>
+  <phrase title="user_lost_password_body_html" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p>{username}, per cambiare la password su {board}, è necessario cliccare il link qui sotto. Quest'ultimo ti permetterà di scegliere una nuova password.</p>]]></phrase>
+  <phrase title="user_lost_password_reset_body_html" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p>{username}, la tua password su {board} è stata reimpostata. Dovrai accedere con la nuova password.</p>]]></phrase>
+  <phrase title="user_lost_password_reset_subject" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{boardTitle} - Reimpostazione password]]></phrase>
+  <phrase title="user_lost_password_subject" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{boardTitle} - Richiesta reimpostazione password]]></phrase>
   <phrase title="user_name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nome utente]]></phrase>
   <phrase title="user_name_and_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User name and password]]></phrase>
   <phrase title="user_name_css" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User name CSS]]></phrase>
@@ -5667,7 +5668,7 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_existing_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Password attuale]]></phrase>
   <phrase title="your_existing_password_is_not_correct" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La tua password attuale non è corretta.]]></phrase>
   <phrase title="your_full_account_details_not_currently_editable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your full account details are not currently editable.]]></phrase>
-  <phrase title="your_ip_address_has_been_banned" addon_id="XF" version_id="0" version_string=""><![CDATA[Il tuo indirizzo IP è stato bannato.]]></phrase>
+  <phrase title="your_ip_address_has_been_banned" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo indirizzo IP è stato bannato.]]></phrase>
   <phrase title="your_message_has_been_posted" addon_id="XF" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Your message has been posted.]]></phrase>
   <phrase title="your_message_has_been_sent" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Your message has been sent.]]></phrase>
   <phrase title="your_name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo nome utente]]></phrase>
