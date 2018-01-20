@@ -1026,7 +1026,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="depends_on_permission_id" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Dipende dall'ID permessi]]></phrase>
   <phrase title="descending" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discendente]]></phrase>
   <phrase title="description" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Descrizione]]></phrase>
-  <phrase title="deselect_all" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Deseleziona tutti]]></phrase>
+  <phrase title="deselect_all" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Deseleziona tutto]]></phrase>
   <phrase title="designer_mode_enabled" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modalità designer abilitata]]></phrase>
   <phrase title="destination_forum" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Forum di destinazione]]></phrase>
   <phrase title="destination_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussione di destinazione]]></phrase>
@@ -1371,7 +1371,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="first" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Primo]]></phrase>
   <phrase title="first_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Primo messaggio]]></phrase>
   <phrase title="first_message_likes" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA["Mi piace"]]></phrase>
-  <phrase title="first_post_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[First post content]]></phrase>
+  <phrase title="first_post_content" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Contenuto primo messaggio]]></phrase>
   <phrase title="first_post_likes_between" addon_id="XF" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[First post likes between]]></phrase>
   <phrase title="first_requested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[First requested]]></phrase>
   <phrase title="first_seen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[First seen]]></phrase>
@@ -1993,7 +1993,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="menu" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu]]></phrase>
   <phrase title="merge" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Merge]]></phrase>
   <phrase title="merge_into_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge into post]]></phrase>
-  <phrase title="merge_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge posts]]></phrase>
+  <phrase title="merge_posts" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Unisci messaggi]]></phrase>
   <phrase title="merge_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge tags]]></phrase>
   <phrase title="merge_template_changes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge template changes]]></phrase>
   <phrase title="merge_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Unisci discussioni]]></phrase>
@@ -2088,7 +2088,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="moderated" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Moderated]]></phrase>
   <phrase title="moderation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Moderazione]]></phrase>
   <phrase title="moderator" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Moderatore]]></phrase>
-  <phrase title="moderator_actions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azioni Moderatore]]></phrase>
+  <phrase title="moderator_actions" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Azioni moderatori]]></phrase>
   <phrase title="moderator_editable" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Moderator editable]]></phrase>
   <phrase title="moderator_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator log]]></phrase>
   <phrase title="moderator_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator log entry]]></phrase>
@@ -2136,7 +2136,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="most_replies" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Risposte maggiori]]></phrase>
   <phrase title="mostlikes_most_likes_past_x_days" addon_id="Andy/MostLikes" version_id="17" version_string="1.7"><![CDATA[Utenti con più "Mi Piace" (7 giorni)]]></phrase>
   <phrase title="move_delete_spammers_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Move / delete spammer's threads]]></phrase>
-  <phrase title="move_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Move posts]]></phrase>
+  <phrase title="move_posts" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sposta messaggi]]></phrase>
   <phrase title="move_spammers_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Move spammer's threads]]></phrase>
   <phrase title="move_this_categorys_children_to_its_parent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Move this category's children to its parent]]></phrase>
   <phrase title="move_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sposta discussione]]></phrase>
@@ -2161,7 +2161,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="nav.contributedThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussioni in cui hai partecipato]]></phrase>
   <phrase title="nav.currentVisitors" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Visitatori attuali]]></phrase>
   <phrase title="nav.defaultLatestActivity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultima attività]]></phrase>
-  <phrase title="nav.defaultLogOut" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Log out]]></phrase>
+  <phrase title="nav.defaultLogOut" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Esci]]></phrase>
   <phrase title="nav.defaultNewsFeed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo feed notizie]]></phrase>
   <phrase title="nav.defaultRegister" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Registrati]]></phrase>
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo account]]></phrase>
@@ -3075,7 +3075,7 @@ Callback arguments:
   <phrase title="please_confirm_that_you_want_to_run_following_cron_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you want to run the following cron entry]]></phrase>
   <phrase title="please_confirm_that_you_want_to_stop_following_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Please confirm that you want to stop following {name}.]]></phrase>
   <phrase title="please_confirm_that_you_want_to_stop_ignoring_x" addon_id="XF" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Please confirm that you want to stop ignoring {name}.]]></phrase>
-  <phrase title="please_confirm_that_you_want_to_undelete_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you want to undelete the following]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_undelete_following" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Si prega di confermare di voler ripristinare le seguenti]]></phrase>
   <phrase title="please_confirm_that_you_want_to_uninstall_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you want to uninstall the following add-on]]></phrase>
   <phrase title="please_confirm_that_you_want_to_upgrade_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you want to upgrade the following add-on]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_mark_following_conversation_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you wish to mark the following conversation read]]></phrase>
@@ -3252,12 +3252,12 @@ Callback arguments:
   <phrase title="possible_choices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Possible choices]]></phrase>
   <phrase title="possible_responses" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Risposte possibili]]></phrase>
   <phrase title="post_comment" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica commento]]></phrase>
-  <phrase title="post_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post date]]></phrase>
-  <phrase title="post_feed_entries_as_following_user" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Post as the following user:]]></phrase>
+  <phrase title="post_date" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Data messaggio]]></phrase>
+  <phrase title="post_feed_entries_as_following_user" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Invia messaggio come l'utente:]]></phrase>
   <phrase title="post_feed_entries_as_guest" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Post as guest, use name information from feed data.]]></phrase>
   <phrase title="post_immediately" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Post immediately]]></phrase>
   <phrase title="post_in_thread_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Messaggio nella discussione '{title}']]></phrase>
-  <phrase title="post_likes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post likes]]></phrase>
+  <phrase title="post_likes" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA["Mi piace" del messaggio]]></phrase>
   <phrase title="post_messages_on_this_users_profile_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Post messages on this user's profile page]]></phrase>
   <phrase title="post_messages_on_your_profile_page" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[pubblicare messaggi sulla tua pagina profilo]]></phrase>
   <phrase title="post_new_thread_in_this_forum" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica una nuova discussione in questa sezione]]></phrase>
@@ -3274,7 +3274,7 @@ Callback arguments:
   <phrase title="posted_on_the_profile_of_member" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblicato sul profilo dell'utente]]></phrase>
   <phrase title="posting_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posting user]]></phrase>
   <phrase title="postings" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Contenuto]]></phrase>
-  <phrase title="posts" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Posts]]></phrase>
+  <phrase title="posts" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Messaggi]]></phrase>
   <phrase title="preferences" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Preferenze]]></phrase>
   <phrase title="prefix" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Prefisso]]></phrase>
   <phrase title="prefix_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Prefix group]]></phrase>
@@ -3664,7 +3664,7 @@ Content being reported:
   <phrase title="shortcut.style_chooser" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[alt+z]]></phrase>
   <phrase title="shortcut.visitor_menu" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[m]]></phrase>
   <phrase title="should_conversation_receive_responses_restored_to_inbox" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questa conversazione riceverà altre risposte in futuro e questa verrà ripristinata nella tua casella.]]></phrase>
-  <phrase title="show" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Show]]></phrase>
+  <phrase title="show" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Mostra]]></phrase>
   <phrase title="show_all" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra tutto]]></phrase>
   <phrase title="show_all_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra tutte le conversazioni]]></phrase>
   <phrase title="show_all_matches" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Show all matches]]></phrase>
@@ -3697,7 +3697,7 @@ Content being reported:
   <phrase title="signature" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Firma]]></phrase>
   <phrase title="similarthreads_date" addon_id="Andy/SimilarThreads" version_id="33" version_string="3.3"><![CDATA[Data]]></phrase>
   <phrase title="similarthreads_replies" addon_id="Andy/SimilarThreads" version_id="33" version_string="3.3"><![CDATA[Risposte]]></phrase>
-  <phrase title="similarthreads_similar_threads" addon_id="Andy/SimilarThreads" version_id="33" version_string="3.3"><![CDATA[Topic simile]]></phrase>
+  <phrase title="similarthreads_similar_threads" addon_id="Andy/SimilarThreads" version_id="34" version_string="3.4"><![CDATA[Discussione simile]]></phrase>
   <phrase title="similarthreads_thread_starter" addon_id="Andy/SimilarThreads" version_id="33" version_string="3.3"><![CDATA[Iniziato da]]></phrase>
   <phrase title="simple" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple]]></phrase>
   <phrase title="simple_border_color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple border color]]></phrase>
@@ -4561,7 +4561,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_will_test_x_connected_account_provider_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will test the {title} connected account provider. You must have a {title} account to perform this test.]]></phrase>
   <phrase title="this_would_ban_all_email_addresses" addon_id="XF" version_id="0" version_string=""><![CDATA[This would ban all email addresses.]]></phrase>
   <phrase title="thousands_separator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thousands separator]]></phrase>
-  <phrase title="thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread]]></phrase>
+  <phrase title="thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Discussione]]></phrase>
   <phrase title="thread_list_date_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread list date limit]]></phrase>
   <phrase title="thread_list_date_limit_used_on_busy_forums_to_improve_performance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This can be used on busy forums to improve performance by only listing recently updated threads by default.]]></phrase>
   <phrase title="thread_lists" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread lists]]></phrase>
@@ -4673,15 +4673,15 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="type_of_moderator" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tipo di moderatore]]></phrase>
   <phrase title="unable_edit_master_embed_html_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You are unable to modify the "Master" version of this template. To make changes, you should edit the relevant template in each style.]]></phrase>
   <phrase title="unanswered_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni senza risposte]]></phrase>
-  <phrase title="unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unapprove]]></phrase>
-  <phrase title="unapprove_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unapprove posts]]></phrase>
+  <phrase title="unapprove" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Disapprova]]></phrase>
+  <phrase title="unapprove_posts" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Disapprova messaggi]]></phrase>
   <phrase title="unapprove_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Disapprova discussioni]]></phrase>
   <phrase title="unassign" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unassign]]></phrase>
   <phrase title="unassociated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unassociated]]></phrase>
   <phrase title="unban_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unban users]]></phrase>
-  <phrase title="undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete]]></phrase>
-  <phrase title="undelete_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete posts]]></phrase>
-  <phrase title="undelete_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete thread]]></phrase>
+  <phrase title="undelete" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ripristina]]></phrase>
+  <phrase title="undelete_posts" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ripristina messaggi]]></phrase>
+  <phrase title="undelete_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ripristina discussione]]></phrase>
   <phrase title="undelete_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ripristina discussioni]]></phrase>
   <phrase title="underline" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sottolineato]]></phrase>
   <phrase title="undiscourage_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undiscourage users]]></phrase>
@@ -5095,11 +5095,11 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="week_start_day" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Week start day]]></phrase>
   <phrase title="weekly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Weekly]]></phrase>
   <phrase title="weekly_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Weekly statistics]]></phrase>
-  <phrase title="weeklydigest_description" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[La newsletter settimanale ti invierà un email ogni settimana con i topic più attivi della settimana trascorsa.]]></phrase>
+  <phrase title="weeklydigest_description" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[La newsletter settimanale ti invierà un email ogni settimana con le discussioni più attive della settimana trascorsa.]]></phrase>
   <phrase title="weeklydigest_from" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[da]]></phrase>
   <phrase title="weeklydigest_save" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[Salva]]></phrase>
   <phrase title="weeklydigest_select" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[Seleziona]]></phrase>
-  <phrase title="weeklydigest_subject" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[I topic più popolari della settimana]]></phrase>
+  <phrase title="weeklydigest_subject" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[Le discussioni più popolari della settimana]]></phrase>
   <phrase title="weeklydigest_subscribe" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[Iscriviti]]></phrase>
   <phrase title="weeklydigest_unsubscribe" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[Disiscriviti]]></phrase>
   <phrase title="weeklydigest_unsubscribe_link" addon_id="Andy/WeeklyDigest" version_id="18" version_string="1.8"><![CDATA[Clicca qui per disiscriverti]]></phrase>
