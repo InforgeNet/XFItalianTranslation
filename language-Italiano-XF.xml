@@ -337,7 +337,7 @@
   <phrase title="after_message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dopo il messaggio]]></phrase>
   <phrase title="after_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dopo la data]]></phrase>
   <phrase title="age" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Età]]></phrase>
-  <phrase title="akismet_matched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Akismet corrisposto]]></phrase>
+  <phrase title="akismet_matched" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Akismet]]></phrase>
   <phrase title="alert_body" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert body]]></phrase>
   <phrase title="alert_opt_out.conversation_message_like" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[mette "Mi piace" ad un tuo messaggio privato]]></phrase>
   <phrase title="alert_opt_out.post_insert" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[risponde ad una discussione che seguo]]></phrase>
@@ -898,7 +898,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="could_not_create_new_stripe_plan" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non è stato possibile creare un nuovo piano Stripe.]]></phrase>
   <phrase title="count_messages_in_forum_toward_user_total" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Conta i messaggi postati in questo forum da tutti gli utenti]]></phrase>
   <phrase title="create_new_account" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Creare nuovo account]]></phrase>
-  <phrase title="create_poll" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Creare sondaggio]]></phrase>
+  <phrase title="create_poll" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Crea sondaggio]]></phrase>
   <phrase title="created" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Creato]]></phrase>
   <phrase title="created_between" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Creato tra]]></phrase>
   <phrase title="created_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Creato da]]></phrase>
@@ -1537,7 +1537,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="first" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Primo]]></phrase>
   <phrase title="first_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Primo messaggio]]></phrase>
   <phrase title="first_message_likes" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA["Mi piace"]]></phrase>
-  <phrase title="first_post_content" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Contenuto primo messaggio]]></phrase>
+  <phrase title="first_post_content" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Contenuto del primo messaggio]]></phrase>
   <phrase title="first_post_likes_between" addon_id="XF" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[First post likes between]]></phrase>
   <phrase title="first_requested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[First requested]]></phrase>
   <phrase title="first_seen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[First seen]]></phrase>
@@ -1879,7 +1879,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="items_to_process_per_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Items to process per page]]></phrase>
   <phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.]]></phrase>
   <phrase title="join_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Join date]]></phrase>
-  <phrase title="joined" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Iscritto da:]]></phrase>
+  <phrase title="joined" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Iscritto dal:]]></phrase>
   <phrase title="jump_to_new" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Vai a nuovo messaggio]]></phrase>
   <phrase title="keywords" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Parole chiavi]]></phrase>
   <phrase title="label_separator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Label separator]]></phrase>
@@ -2166,7 +2166,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="media_site_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Media site ID]]></phrase>
   <phrase title="media_site_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Media site IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="member" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Utente]]></phrase>
-  <phrase title="member_limits_viewing_profile" addon_id="XF" version_id="0" version_string=""><![CDATA[This member limits who may view their full profile.]]></phrase>
+  <phrase title="member_limits_viewing_profile" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo utente ha limitato la visione del suo profilo pubblico.]]></phrase>
   <phrase title="member_notification" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Notifica utente]]></phrase>
   <phrase title="member_of_any_of_these_secondary_groups" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Member of any of these secondary groups]]></phrase>
   <phrase title="member_of_no_secondary_groups" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Member of no secondary groups]]></phrase>
@@ -3489,7 +3489,7 @@ Callback arguments:
   <phrase title="possible_choices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Possible choices]]></phrase>
   <phrase title="possible_responses" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Risposte possibili]]></phrase>
   <phrase title="post_comment" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica commento]]></phrase>
-  <phrase title="post_date" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Data messaggio]]></phrase>
+  <phrase title="post_date" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Data del messaggio]]></phrase>
   <phrase title="post_edit_history" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Post edit history]]></phrase>
   <phrase title="post_feed_entries_as_following_user" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Invia messaggio come l'utente:]]></phrase>
   <phrase title="post_feed_entries_as_guest" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Post as guest, use name information from feed data.]]></phrase>
@@ -3508,7 +3508,7 @@ Callback arguments:
   <phrase title="post_verb" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Post]]></phrase>
   <phrase title="post_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post #{position}]]></phrase>
   <phrase title="posted_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblicato da]]></phrase>
-  <phrase title="posted_in_thread_x_in_forum_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posted in thread <a href="{postLink}">{threadTitle}</a> in forum <a href="{forumLink}">{forumTitle}</a>]]></phrase>
+  <phrase title="posted_in_thread_x_in_forum_y" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Risposta nella discussione <a href="{postLink}">{threadTitle}</a> della sezione <a href="{forumLink}">{forumTitle}</a>]]></phrase>
   <phrase title="posted_on_profile_post_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posted on profile post by <a href="{commentLink}">{user}</a>]]></phrase>
   <phrase title="posted_on_profile_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posted on profile <a href="{profilePostLink}">{user}</a>]]></phrase>
   <phrase title="posted_on_the_profile_of_member" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblicato sul profilo dell'utente]]></phrase>
@@ -4716,7 +4716,7 @@ When the payment has been approved, your account will be upgraded.]]></phrase>
   <phrase title="there_currently_no_moderators_use_link_create" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Al momento non ci sono moderatori. Usa il link di sopra per crearne uno.]]></phrase>
   <phrase title="there_currently_no_purchasable_user_upgrades" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[There are currently no purchasable user upgrades.]]></phrase>
   <phrase title="there_currently_no_usable_external_account_providers" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Al momento non ci sono account esterni utilizzabili.]]></phrase>
-  <phrase title="there_is_no_content_currently_awaiting_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[There is no content currently awaiting approval.]]></phrase>
+  <phrase title="there_is_no_content_currently_awaiting_approval" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Non ci sta nessun contenuto in attesa di approvazione.]]></phrase>
   <phrase title="there_is_no_valid_connected_account_request_available" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[There is no valid connected account request available. Please try again.]]></phrase>
   <phrase title="there_is_no_valid_connected_account_request_available_at_this_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[There is no valid connected account request available at this time.]]></phrase>
   <phrase title="there_is_nothing_to_display" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[There is nothing to display.]]></phrase>
@@ -4847,7 +4847,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thread_status_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread status block]]></phrase>
   <phrase title="thread_url" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Thread URL]]></phrase>
   <phrase title="thread_watched" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Discussione seguita]]></phrase>
-  <phrase title="thread_x_posted_in_forum_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread <a href="{threadLink}">{threadTitle}</a> posted in forum <a href="{forumLink}">{forumTitle}</a>]]></phrase>
+  <phrase title="thread_x_posted_in_forum_y" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Discussione <a href="{threadLink}">{threadTitle}</a> pubblicata nella sezione <a href="{forumLink}">{forumTitle}</a>]]></phrase>
   <phrase title="threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussioni]]></phrase>
   <phrase title="threads_below_not_updated_since_your_last_visit" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Threads below have not been updated since your last visit.]]></phrase>
   <phrase title="threads_in_which_youve_participated" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni alle quali hai partecipato]]></phrase>
@@ -4897,7 +4897,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="total_urls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Total URLs]]></phrase>
   <phrase title="total_visitors" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Visitatori totali]]></phrase>
   <phrase title="total_voters" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Votatori totali]]></phrase>
-  <phrase title="total_warnings" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Total warnings]]></phrase>
+  <phrase title="total_warnings" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Avvertimenti totali]]></phrase>
   <phrase title="totals_may_include_hidden_visitors" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il totale potrebbe includere visitatori nascosti.]]></phrase>
   <phrase title="totp_enter_secret_into_app_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Alternatively, you may enter the secret into the app directly: {secret}]]></phrase>
   <phrase title="totp_recieve_codes_via_app_desc" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[To receive verification codes via a phone app, you must first install a code-generating app such as <a href="https://www.authy.com/users" target="_blank">Authy</a> or <a href="https://support.google.com/accounts/answer/1066447?hl=en" target="_blank">Google Authenticator</a> on your phone.<br />
@@ -5706,7 +5706,7 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_comment_on_xs_profile_post_was_deleted" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your comment on <a href="{link}">{user}'s profile post</a> was deleted.]]></phrase>
   <phrase title="your_comment_on_xs_profile_post_was_edited" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your comment on <a href="{link}">{user}'s profile post</a> was edited.]]></phrase>
   <phrase title="your_comment_will_only_be_visible_to_moderators" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo commento sarà visibile soltanto ai moderatori]]></phrase>
-  <phrase title="your_comment_will_re_open_this_report" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Your comment will re-open this report.]]></phrase>
+  <phrase title="your_comment_will_re_open_this_report" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo commento riaprirà questa segnalazione.]]></phrase>
   <phrase title="your_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I tuoi contenuti]]></phrase>
   <phrase title="your_content_cannot_be_submitted_try_later" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Your content can not be submitted. This is likely because your content is spam-like or contains inappropriate elements. Please change your content or try again later. If you still have problems, please contact an administrator.]]></phrase>
   <phrase title="your_conversation_was_started_with_x_users" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your conversation was started with {sent} users.]]></phrase>
