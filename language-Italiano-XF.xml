@@ -1418,7 +1418,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="enable_sprite_mode_with_following_parameters" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enable CSS sprite mode with the following parameters:]]></phrase>
   <phrase title="enable_staff_online_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable 'Staff online' block]]></phrase>
   <phrase title="enable_sub_category_notifications" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abilita notifiche della sotto-categoria]]></phrase>
-  <phrase title="enabled" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Enabled]]></phrase>
+  <phrase title="enabled" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Attivato]]></phrase>
   <phrase title="enabled_providers_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enabled ({providers})]]></phrase>
   <phrase title="encryption" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Encryption]]></phrase>
   <phrase title="end_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[End date]]></phrase>
@@ -1706,9 +1706,9 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="if_provided_bb_code_replace_text_desc" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[If provided, this replacement will be used when rendering this tag to text. If this is left empty, the tag will effectively be ignored, leaving only the text inside it.]]></phrase>
   <phrase title="if_provided_tag_only_be_valid_if_option_matches_regex" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[If provided, the tag will only be valid if the option matches this regular expression. This will be ignored if no option is provided. Please include the delimiters and pattern modifiers.]]></phrase>
   <phrase title="if_selected_admin_manually_approve_users" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[If selected, an administrator will need to manually approve users before their registration is completed.]]></phrase>
-  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, any existing "last edited" note will be removed.]]></phrase>
+  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Se selezionato, tutte le "ultime modifiche" verranno rimosse dal messaggio.]]></phrase>
   <phrase title="if_selected_customizations_in_parent_styles_will_be_included" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[If selected, any customizations in parent styles will be included as if they were made in this style.]]></phrase>
-  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, no "last edited" note will be added for this edit.]]></phrase>
+  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Se selezionato, nessuna "ultima modifica" verrà inserita verrà notificata sotto il messaggio.]]></phrase>
   <phrase title="if_selected_replacement_html_displayed_no_text_inside_bb_code" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If selected, the replacement HTML will be displayed even if there is no text inside this BB code. Normally, empty BB code tags are silently ignored.]]></phrase>
   <phrase title="if_selected_same_id_used_in_xenforo_as_source_db" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[If selected, when possible, the same ID will be used in XenForo as was used in the source database. This can make it easier redirect old links into XenForo.]]></phrase>
   <phrase title="if_selected_this_filter_will_only_be_used_to_change_incoming_urls" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, this filter will only be used to change incoming URLs, not outgoing route URLs.]]></phrase>
@@ -1853,9 +1853,9 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="invited_members_see_entire_conversation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Gli utenti invitati potranno vedere l'intera conversazione dall'inizio.]]></phrase>
   <phrase title="ip" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[IP]]></phrase>
   <phrase title="ip_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP address]]></phrase>
-  <phrase title="ip_address_information_for_content_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP address information for content by {name}]]></phrase>
+  <phrase title="ip_address_information_for_content_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Informazioni sull'Indirizzo IP del contenuto di {name}]]></phrase>
   <phrase title="ip_addresses" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Indirizzi IP]]></phrase>
-  <phrase title="ip_addresses_logged_for_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP addresses logged for {name}]]></phrase>
+  <phrase title="ip_addresses_logged_for_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzi IP utilizzati da {name}]]></phrase>
   <phrase title="ip_information_for_online_guest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP information for online guest]]></phrase>
   <phrase title="ip_information_for_online_user" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[IP address information for {user}]]></phrase>
   <phrase title="ip_search_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Enter an IP address to see a list of all users logged as having posted content using that IP. You may enter a partial IP address such as 192.168.*, 192.168.0.0/16, or 2001:db8::/32.]]></phrase>
