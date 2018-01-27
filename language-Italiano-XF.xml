@@ -18,7 +18,7 @@
   <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Un attimo fa]]></phrase>
   <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[È consentito l'uso solo di A-Z, 0-9 e _]]></phrase>
   <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[È consentito l'uso solo di A-Z, a-z, 0-9 e _]]></phrase>
-  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Di più...]]></phrase>
+  <phrase title="about" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Su di me]]></phrase>
   <phrase title="about_you" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Su di me]]></phrase>
   <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accento]]></phrase>
   <phrase title="accept_future_messages" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[accetta messaggi futuri]]></phrase>
@@ -881,7 +881,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="conversation_options" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Opzioni della conversazione]]></phrase>
   <phrase title="conversation_participants" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Partecipanti alla conversazione]]></phrase>
   <phrase title="conversation_reply_email_html" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[<p>{sender} ha risposto alla tua conversazione su {board}.</p>]]></phrase>
-  <phrase title="conversation_reply_email_subject" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[{title} - Nuova risposta alla tua conversazione]]></phrase>
+  <phrase title="conversation_reply_email_subject" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{title} - Nuova risposta nella tua conversazione]]></phrase>
   <phrase title="conversation_settings" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Impostazioni conversazione]]></phrase>
   <phrase title="conversation_starred" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Conversazione segnata.]]></phrase>
   <phrase title="conversation_starter" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Autore della conversazione]]></phrase>
@@ -1418,7 +1418,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="enable_sprite_mode_with_following_parameters" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enable CSS sprite mode with the following parameters:]]></phrase>
   <phrase title="enable_staff_online_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable 'Staff online' block]]></phrase>
   <phrase title="enable_sub_category_notifications" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abilita notifiche della sotto-categoria]]></phrase>
-  <phrase title="enabled" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Attivato]]></phrase>
+  <phrase title="enabled" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Attivato]]></phrase>
   <phrase title="enabled_providers_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enabled ({providers})]]></phrase>
   <phrase title="encryption" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Encryption]]></phrase>
   <phrase title="end_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[End date]]></phrase>
@@ -1706,9 +1706,9 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="if_provided_bb_code_replace_text_desc" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[If provided, this replacement will be used when rendering this tag to text. If this is left empty, the tag will effectively be ignored, leaving only the text inside it.]]></phrase>
   <phrase title="if_provided_tag_only_be_valid_if_option_matches_regex" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[If provided, the tag will only be valid if the option matches this regular expression. This will be ignored if no option is provided. Please include the delimiters and pattern modifiers.]]></phrase>
   <phrase title="if_selected_admin_manually_approve_users" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[If selected, an administrator will need to manually approve users before their registration is completed.]]></phrase>
-  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Se selezionato, tutte le "ultime modifiche" verranno rimosse dal messaggio.]]></phrase>
+  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Se selezionato, tutte le "ultime modifiche" verranno rimosse dal messaggio.]]></phrase>
   <phrase title="if_selected_customizations_in_parent_styles_will_be_included" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[If selected, any customizations in parent styles will be included as if they were made in this style.]]></phrase>
-  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Se selezionato, nessuna "ultima modifica" verrà inserita verrà notificata sotto il messaggio.]]></phrase>
+  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Se selezionato, nessuna "ultima modifica" verrà notificata sotto il messaggio.]]></phrase>
   <phrase title="if_selected_replacement_html_displayed_no_text_inside_bb_code" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If selected, the replacement HTML will be displayed even if there is no text inside this BB code. Normally, empty BB code tags are silently ignored.]]></phrase>
   <phrase title="if_selected_same_id_used_in_xenforo_as_source_db" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[If selected, when possible, the same ID will be used in XenForo as was used in the source database. This can make it easier redirect old links into XenForo.]]></phrase>
   <phrase title="if_selected_this_filter_will_only_be_used_to_change_incoming_urls" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, this filter will only be used to change incoming URLs, not outgoing route URLs.]]></phrase>
@@ -1853,9 +1853,9 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="invited_members_see_entire_conversation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Gli utenti invitati potranno vedere l'intera conversazione dall'inizio.]]></phrase>
   <phrase title="ip" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[IP]]></phrase>
   <phrase title="ip_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP address]]></phrase>
-  <phrase title="ip_address_information_for_content_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Informazioni sull'Indirizzo IP del contenuto di {name}]]></phrase>
+  <phrase title="ip_address_information_for_content_by_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Informazioni sull'indirizzo IP del contenuto di {name}]]></phrase>
   <phrase title="ip_addresses" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Indirizzi IP]]></phrase>
-  <phrase title="ip_addresses_logged_for_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzi IP utilizzati da {name}]]></phrase>
+  <phrase title="ip_addresses_logged_for_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Indirizzi IP utilizzati da {name}]]></phrase>
   <phrase title="ip_information_for_online_guest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP information for online guest]]></phrase>
   <phrase title="ip_information_for_online_user" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[IP address information for {user}]]></phrase>
   <phrase title="ip_search_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Enter an IP address to see a list of all users logged as having posted content using that IP. You may enter a partial IP address such as 192.168.*, 192.168.0.0/16, or 2001:db8::/32.]]></phrase>
@@ -2012,7 +2012,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="last_post_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Last post between]]></phrase>
   <phrase title="last_reply_date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data ultima risposta]]></phrase>
   <phrase title="last_reply_from" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultima risposta di]]></phrase>
-  <phrase title="last_report_update" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last report update]]></phrase>
+  <phrase title="last_report_update" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ultima segnalazione]]></phrase>
   <phrase title="last_requested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last requested]]></phrase>
   <phrase title="last_seen" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultima volta visto]]></phrase>
   <phrase title="last_triggered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last triggered]]></phrase>
@@ -2118,8 +2118,8 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="manage" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Gestisci]]></phrase>
   <phrase title="manage_promoted_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage promoted users]]></phrase>
   <phrase title="manage_reply_bans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci ban discussione]]></phrase>
-  <phrase title="manage_watched_forums" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Manage watched forums]]></phrase>
-  <phrase title="manage_watched_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage watched threads]]></phrase>
+  <phrase title="manage_watched_forums" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Gestisci sezioni seguite]]></phrase>
+  <phrase title="manage_watched_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Gestisci discussioni seguite]]></phrase>
   <phrase title="manage_your_account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage your account upgrades]]></phrase>
   <phrase title="managing_account_details" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[mentre gestiva i dettagli dell'account]]></phrase>
   <phrase title="manually_applied" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manually applied]]></phrase>
@@ -2428,7 +2428,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="never_hide" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Never hide]]></phrase>
   <phrase title="new" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuovo]]></phrase>
   <phrase title="new_avatar_could_not_be_processed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The new avatar could not be processed. Please try another image.]]></phrase>
-  <phrase title="new_message_in_watched_forum_x" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{title} - New message in watched forum]]></phrase>
+  <phrase title="new_message_in_watched_forum_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{title} - Nuovo messaggio nella sezione seguita]]></phrase>
   <phrase title="new_messages" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuovi messaggi]]></phrase>
   <phrase title="new_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuova password]]></phrase>
   <phrase title="new_posts" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuove discussioni]]></phrase>
@@ -2448,7 +2448,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="new_registrations_currently_not_being_accepted" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuove registrazioni sono al momento disabilitate.]]></phrase>
   <phrase title="new_reply_ban" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Nuovo ban dalla discussione]]></phrase>
   <phrase title="new_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New thread]]></phrase>
-  <phrase title="new_thread_in_watched_forum_x" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{title} - New thread in watched forum]]></phrase>
+  <phrase title="new_thread_in_watched_forum_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{title} - Nuova discussione nella sezione seguita]]></phrase>
   <phrase title="new_thread_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New thread title]]></phrase>
   <phrase title="new_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuove discussioni]]></phrase>
   <phrase title="new_threads_display_style_expanded_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[An expanded view, displaying as a list of rendered first post content.]]></phrase>
@@ -3335,7 +3335,7 @@ Callback arguments:
   <phrase title="please_enter_at_least_one_choice" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Please enter at least one choice.]]></phrase>
   <phrase title="please_enter_at_least_one_valid_recipient" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci almeno un partecipante.]]></phrase>
   <phrase title="please_enter_at_least_two_poll_responses" addon_id="XF" version_id="0" version_string=""><![CDATA[Please enter at least two poll responses.]]></phrase>
-  <phrase title="please_enter_code_generated_by_app_on_phone" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Per proseguire devi inserire il codice di verifica generato dall'app del tuo smartphone.]]></phrase>
+  <phrase title="please_enter_code_generated_by_app_on_phone" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Per proseguire devi inserire il codice di verifica generato dall'app del tuo smartphone.]]></phrase>
   <phrase title="please_enter_custom_title_that_does_not_contain_any_censored_words" addon_id="XF" version_id="0" version_string=""><![CDATA[Please enter a custom title that does not contain any censored words.]]></phrase>
   <phrase title="please_enter_database_name" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Please enter a database name.]]></phrase>
   <phrase title="please_enter_embed_html" addon_id="XF" version_id="0" version_string=""><![CDATA[Please enter some embedding HTML.]]></phrase>
@@ -3505,7 +3505,7 @@ Callback arguments:
   <phrase title="post_reply" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica risposta]]></phrase>
   <phrase title="post_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Crea discussione]]></phrase>
   <phrase title="post_thread_in" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica discussione in...]]></phrase>
-  <phrase title="post_verb" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Post]]></phrase>
+  <phrase title="post_verb" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Invia]]></phrase>
   <phrase title="post_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post #{position}]]></phrase>
   <phrase title="posted_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblicato da]]></phrase>
   <phrase title="posted_in_thread_x_in_forum_y" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Risposta nella discussione <a href="{postLink}">{threadTitle}</a> della sezione <a href="{forumLink}">{forumTitle}</a>]]></phrase>
@@ -3703,7 +3703,7 @@ Callback arguments:
   <phrase title="reply_quoting_this_message" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Reply, quoting this message]]></phrase>
   <phrase title="reply_to_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reply to conversation]]></phrase>
   <phrase title="reply_to_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Rispondi alla discussione]]></phrase>
-  <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{title} - Nuova risposta alla discussione seguita]]></phrase>
+  <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{title} - Nuova risposta nella discussione seguita]]></phrase>
   <phrase title="report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Segnala]]></phrase>
   <phrase title="report_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segnala contenuto]]></phrase>
   <phrase title="report_reason" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Motivo segnalazione]]></phrase>
@@ -4075,8 +4075,8 @@ Content being reported:
   <phrase title="stop_trusting_this_device" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Rimuovi questo dispositivo]]></phrase>
   <phrase title="stop_watched_content_emails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop watched content emails]]></phrase>
   <phrase title="stop_watching" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Smetti di seguire]]></phrase>
-  <phrase title="stop_watching_forums" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Stop watching forums]]></phrase>
-  <phrase title="stop_watching_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop watching threads]]></phrase>
+  <phrase title="stop_watching_forums" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Smettila di seguire le sezioni]]></phrase>
+  <phrase title="stop_watching_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Smettila di seguire le discussioni]]></phrase>
   <phrase title="stopforumspam_enable_registration_check" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Check new registrations against the StopForumSpam database.]]></phrase>
   <phrase title="stopforumspam_enable_registration_check_explain" addon_id="XF" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[StopForumSpam will test the data collected from registering users and attempt to determine if they are a known spammer. Each warning flag that the user generates will be counted. Flags include user name, email and IP address.]]></phrase>
   <phrase title="stopforumspam_frequencycutoff_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[You may choose to only count hits against the spam database that have previously been reported a certain number of times.]]></phrase>
@@ -4843,7 +4843,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Titolo discussione]]></phrase>
   <phrase title="thread_prompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread prompts]]></phrase>
   <phrase title="thread_reply_bans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread reply bans]]></phrase>
-  <phrase title="thread_starter" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Thread starter]]></phrase>
+  <phrase title="thread_starter" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Autore discussione]]></phrase>
   <phrase title="thread_status_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread status block]]></phrase>
   <phrase title="thread_url" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Thread URL]]></phrase>
   <phrase title="thread_watched" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Discussione seguita]]></phrase>
@@ -4916,8 +4916,8 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="trophy_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophy options]]></phrase>
   <phrase title="trophy_points" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Punteggio]]></phrase>
   <phrase title="trophy_points_between" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Punteggio tra]]></phrase>
-  <phrase title="trust_device_desc" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Se selezionato, non avrai bisogno di ri-verificare questo dispositivo per i prossimi 30 giorni.]]></phrase>
-  <phrase title="trust_this_device_for_30_days" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Fidati di questo dispositivo per 30 giorni]]></phrase>
+  <phrase title="trust_device_desc" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Se selezionato, non avrai bisogno di ri-verificare questo dispositivo per i prossimi 30 giorni.]]></phrase>
+  <phrase title="trust_this_device_for_30_days" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Fidati di questo dispositivo per 30 giorni]]></phrase>
   <phrase title="trusted_devices" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Dispositivi affidabili]]></phrase>
   <phrase title="tumblr" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tumblr]]></phrase>
   <phrase title="twitter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Twitter]]></phrase>
@@ -4956,7 +4956,7 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="unapprove" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Disapprova]]></phrase>
   <phrase title="unapprove_posts" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Disapprova messaggi]]></phrase>
   <phrase title="unapprove_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Disapprova discussioni]]></phrase>
-  <phrase title="unassign" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unassign]]></phrase>
+  <phrase title="unassign" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Lascia assegnazione]]></phrase>
   <phrase title="unassociated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unassociated]]></phrase>
   <phrase title="unban_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unban users]]></phrase>
   <phrase title="undelete" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ripristina]]></phrase>
@@ -5282,8 +5282,8 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="values_represent_daily_averages_within_each_time_period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Values represent daily averages within each time period.]]></phrase>
   <phrase title="verification" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Verifica]]></phrase>
   <phrase title="verification_backup_codes_automatically_generated" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Verification backup codes have automatically been generated. Each of these codes can be used once in case you don't have access to other means of verification. These codes should be saved in a secure location.]]></phrase>
-  <phrase title="verification_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Codice di verifica]]></phrase>
-  <phrase title="verification_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chiave di verifica]]></phrase>
+  <phrase title="verification_code" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Codice di verifica]]></phrase>
+  <phrase title="verification_key" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Chiave di verifica]]></phrase>
   <phrase title="version_comparison" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Version comparison]]></phrase>
   <phrase title="version_mismatch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Version mismatch]]></phrase>
   <phrase title="via_twitter_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Via account: @...]]></phrase>
@@ -5365,8 +5365,8 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
 <p class="minorText">Questo messaggio ti è stato inviato perchè segui la sezione "{node_title}" su {board} con le notifiche email abilitate. Non riceverai più notifiche riguardanti questa sezione finchè non leggerai i nuovi messaggi.</p>
 
 <p class="minorText">Se desideri smettere di ricevere queste email, devi <a href="{disable_this_link}">disabilitare le email da questa sezione</a> o <a href="{disable_all_link}">disabilitare tutte le email</a>.</p>]]></phrase>
-  <phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier} posted a new message to a forum you are watching at {board}.</p>]]></phrase>
-  <phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier} posted a new thread to a forum you are watching at {board}.</p>]]></phrase>
+  <phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p>{replier} ha inviato un nuovo messaggio nella sezione che segui su {board}.</p>]]></phrase>
+  <phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p>{replier} ha creato una nuova discussione in una sezione che segui su {board}.</p>]]></phrase>
   <phrase title="watched_forums" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sezioni seguite]]></phrase>
   <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p class="minorText">Si prega di non rispondere a questo messaggio. Bisogna visitare il forum per rispondere.</p>
 
@@ -5493,7 +5493,7 @@ Callback arguments:
   <phrase title="width" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Width]]></phrase>
   <phrase title="will_slow_process_down_only_needed_if_posts_in_incorrect_order" addon_id="XF" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[This will slow the process down and is only needed if posts are shown in an incorrect order or to show users when they have posted in a thread.]]></phrase>
   <phrase title="with_people" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Con]]></phrase>
-  <phrase title="with_selected" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Con selezionati]]></phrase>
+  <phrase title="with_selected" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Con i selezionati]]></phrase>
   <phrase title="within_this_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Within this BB code]]></phrase>
   <phrase title="without_receiving_email_notifications" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[senza ricevere notifiche email]]></phrase>
   <phrase title="word_or_phrase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Word or phrase]]></phrase>
@@ -5676,8 +5676,8 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="you_sure_you_want_to_re_enable_previously_disabled_add_ons" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Are you sure you want to re-enable the previously disabled add-ons?]]></phrase>
   <phrase title="you_sure_you_want_to_stop_all_emails_from_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sei sicuro di voler disattivare tutte le email da {board_title}?]]></phrase>
   <phrase title="you_sure_you_want_to_stop_email_notifications_for_conversations" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sei sicuro di voler disattivare le notifiche email delle conversazioni?]]></phrase>
-  <phrase title="you_sure_you_want_to_stop_watching_all_forums" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Are you sure you want to stop watching <b>all</b> forums?]]></phrase>
-  <phrase title="you_sure_you_want_to_stop_watching_all_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to stop watching all threads?]]></phrase>
+  <phrase title="you_sure_you_want_to_stop_watching_all_forums" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sei sicuro di voler smettere di seguire <b>tutte</b> le sezioni?]]></phrase>
+  <phrase title="you_sure_you_want_to_stop_watching_all_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sei sicuro di voler smettere di seguire <b>tutte</b> le discussioni?]]></phrase>
   <phrase title="you_sure_you_want_to_unlike_this_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to unlike this content?]]></phrase>
   <phrase title="you_sure_you_want_to_unsubscribe_from_x_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Are you sure you want to unsubscribe from the {board_title} mailing list?]]></phrase>
   <phrase title="you_sure_you_want_to_unwatch_this_category" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sei sicuro di voler smettere di seguire questa categoria?]]></phrase>
