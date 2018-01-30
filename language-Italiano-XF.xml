@@ -1874,7 +1874,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="it_is_recommended_that_you_use_image_that_is_at_least_x_pixels" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[È consigliato usare un'immagine di almeno {width}x{height} pixel.]]></phrase>
   <phrase title="italic" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Corsivo]]></phrase>
   <phrase title="item_cannot_be_deleted_associated_with_addon_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questa voce non può essere eliminata in quanto associata a un add-on o allo stesso XenForo. Se non si desidera utilizzare questa opzione, disabilitarla.]]></phrase>
-  <phrase title="item_will_remain_viewable_by_moderators_and_may_be_restored_at_later" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[The item will remain viewable by moderators and may be restored at a later date.]]></phrase>
+  <phrase title="item_will_remain_viewable_by_moderators_and_may_be_restored_at_later" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il contenuto rimarrà visibile ai moderatori e sarà possibile ripristinarlo successivamente.]]></phrase>
   <phrase title="items_of_this_type_cannot_be_purchased_at_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Items of this type cannot be purchased at the moment.]]></phrase>
   <phrase title="items_to_process_per_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Items to process per page]]></phrase>
   <phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.]]></phrase>
@@ -3501,7 +3501,7 @@ Callback arguments:
   <phrase title="post_new_thread_in_this_forum" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica una nuova discussione in questa sezione]]></phrase>
   <phrase title="post_noun" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Post]]></phrase>
   <phrase title="post_poll" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci un sondaggio]]></phrase>
-  <phrase title="post_public_warning" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Post a public warning]]></phrase>
+  <phrase title="post_public_warning" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Inserisci un avvertimento pubblico]]></phrase>
   <phrase title="post_reply" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica risposta]]></phrase>
   <phrase title="post_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Crea discussione]]></phrase>
   <phrase title="post_thread_in" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pubblica discussione in...]]></phrase>
@@ -3574,7 +3574,7 @@ Callback arguments:
   <phrase title="public" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Public]]></phrase>
   <phrase title="public_navigation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Navigazione pubblica]]></phrase>
   <phrase title="public_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Public templates]]></phrase>
-  <phrase title="public_warning_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Public warning text]]></phrase>
+  <phrase title="public_warning_text" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Testo dell'avvertimento pubblico]]></phrase>
   <phrase title="published" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Published]]></phrase>
   <phrase title="purchasable_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchasable details]]></phrase>
   <phrase title="purchasable_item" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchasable item]]></phrase>
@@ -4824,7 +4824,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_will_be_shown_to_user_if_provided" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This will be shown to the user if provided.]]></phrase>
   <phrase title="this_will_be_shown_to_user_if_you_choose_to_notify_them" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[This will be shown to the user if you choose to notify them.]]></phrase>
   <phrase title="this_will_be_used_to_identify_media_site_to_load_in_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will be used to identify the media site to load in the BB code. It cannot be changed once set.]]></phrase>
-  <phrase title="this_will_be_visible_to_anyone_who_can_see_content_for_warning" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[This will be visible to anyone who can see the content for which this member is being warned.]]></phrase>
+  <phrase title="this_will_be_visible_to_anyone_who_can_see_content_for_warning" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo sarà visibile a chiunque può vedere il contenuto per cui l'utente è stato avvertito.]]></phrase>
   <phrase title="this_will_clean_up_permission_combinations_no_longer_in_use" addon_id="XF" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[This will clean up any permission combinations which are no longer in use. This can speed up permission update and rebuild operations and remove unused data from the database.]]></phrase>
   <phrase title="this_will_delete_all_conversations_started_by_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will delete all conversations started by this user. This action cannot be undone.]]></phrase>
   <phrase title="this_will_generate_new_backup_codes" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[This will generate new backup codes. All previous backup codes will no longer work.]]></phrase>
