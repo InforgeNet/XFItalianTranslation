@@ -1516,10 +1516,10 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="files_being_uploaded_are_you_sure" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Files are still being uploaded. Are you sure you want to submit this form?]]></phrase>
   <phrase title="filter" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Usa filtri]]></phrase>
   <phrase title="filter_by_user" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Filter by user]]></phrase>
-  <phrase title="filter_followed_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Followed members]]></phrase>
-  <phrase title="filter_participated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Participated]]></phrase>
-  <phrase title="filter_started" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Started]]></phrase>
-  <phrase title="filter_unanswered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unanswered]]></phrase>
+  <phrase title="filter_followed_members" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Utenti seguiti]]></phrase>
+  <phrase title="filter_participated" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Partecipati]]></phrase>
+  <phrase title="filter_started" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Iniziate]]></phrase>
+  <phrase title="filter_unanswered" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Senza risposta]]></phrase>
   <phrase title="filter_unread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non letti]]></phrase>
   <phrase title="filter_watched" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Seguiti]]></phrase>
   <phrase title="filters" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Filtri]]></phrase>
@@ -2090,7 +2090,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="locale" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Locale]]></phrase>
   <phrase title="locally_hosted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Locally hosted]]></phrase>
   <phrase title="location" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Località]]></phrase>
-  <phrase title="lock_conversation" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lock conversation]]></phrase>
+  <phrase title="lock_conversation" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Chiudo conversazione]]></phrase>
   <phrase title="lock_conversation_no_responses_will_be_allowed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Chiudi la conversazione (nessuna risposta sarà consentita)]]></phrase>
   <phrase title="lock_out" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lock out]]></phrase>
   <phrase title="lock_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Chiudi discussioni]]></phrase>
@@ -2130,7 +2130,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="mark_conversations_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mark conversations unread]]></phrase>
   <phrase title="mark_forum_read" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Contrassegna forum come letto]]></phrase>
   <phrase title="mark_forums_read" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Segna come letto]]></phrase>
-  <phrase title="mark_read" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segna come letto]]></phrase>
+  <phrase title="mark_read" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Segna come letta]]></phrase>
   <phrase title="mark_unread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segna come non letta]]></phrase>
   <phrase title="master_language" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Master language]]></phrase>
   <phrase title="master_style" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Master style]]></phrase>
@@ -2512,7 +2512,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="no_records_matched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No records matched.]]></phrase>
   <phrase title="no_reports_have_been_closed_during_this_period" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[No reports have been closed during this period.]]></phrase>
   <phrase title="no_reports_were_found_for_this_users_content" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[No reports were found for this user's content.]]></phrase>
-  <phrase title="no_responses_will_be_allowed" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No responses will be allowed]]></phrase>
+  <phrase title="no_responses_will_be_allowed" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Non sarà permessa nessuna risposta]]></phrase>
   <phrase title="no_results_found" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nessun risultato trovato.]]></phrase>
   <phrase title="no_selection" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Non selezionato]]></phrase>
   <phrase title="no_smilies_have_been_added_to_this_category_yet" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[No smilies have been added to this category yet.]]></phrase>
@@ -4849,7 +4849,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thread_watched" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Discussione seguita]]></phrase>
   <phrase title="thread_x_posted_in_forum_y" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Discussione <a href="{threadLink}">{threadTitle}</a> pubblicata nella sezione <a href="{forumLink}">{forumTitle}</a>]]></phrase>
   <phrase title="threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussioni]]></phrase>
-  <phrase title="threads_below_not_updated_since_your_last_visit" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Threads below have not been updated since your last visit.]]></phrase>
+  <phrase title="threads_below_not_updated_since_your_last_visit" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Le discussioni qui sotto possono non essere aggiornate sin dalla tua ultima visita]]></phrase>
   <phrase title="threads_in_which_youve_participated" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni alle quali hai partecipato]]></phrase>
   <phrase title="threads_started_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni create da {username}]]></phrase>
   <phrase title="threads_with_no_replies" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni senza risposte]]></phrase>
@@ -5359,7 +5359,7 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="watch_this_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segui questa discussione]]></phrase>
   <phrase title="watch_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segui discussione]]></phrase>
   <phrase title="watched_categories" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Categorie seguite]]></phrase>
-  <phrase title="watched_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Contenuto seguito]]></phrase>
+  <phrase title="watched_content" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Contenuti seguiti]]></phrase>
   <phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[<p class="minorText">Si prega di non rispondere a questo messaggio. Bisogna visitare il forum per rispondere.</p>
 
 <p class="minorText">Questo messaggio ti è stato inviato perchè segui la sezione "{node_title}" su {board} con le notifiche email abilitate. Non riceverai più notifiche riguardanti questa sezione finchè non leggerai i nuovi messaggi.</p>
@@ -5594,7 +5594,7 @@ Callback arguments:
   <phrase title="you_have_exceeded_allowed_number_of_recipients_x_for" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You have exceeded the allowed number of recipients ({limit}) for this message.]]></phrase>
   <phrase title="you_have_no_new_alerts" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ci sono nuove notifiche.]]></phrase>
   <phrase title="you_have_no_recent_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Al momento non hai conversazioni private.]]></phrase>
-  <phrase title="you_have_posted_x_messages_in_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[You have posted {count} message(s) in this thread]]></phrase>
+  <phrase title="you_have_posted_x_messages_in_this_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Hai inviato {count} messaggi(o) in questa discussione]]></phrase>
   <phrase title="you_have_saved_draft_click_to_load" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[You have a saved draft. Click here to load it.]]></phrase>
   <phrase title="you_may_also_use_phrase_title_which_will_be_replaced" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You may also use {phrase:phrase_title} which will be replaced with the phrase text in the recipient's language.]]></phrase>
   <phrase title="you_may_click_on_update_to_edit_it" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[You may click on an update to edit it.]]></phrase>
@@ -5603,7 +5603,7 @@ Callback arguments:
   <phrase title="you_may_enter_partial_ip_v4_v6" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[You may enter a partial IP address (v4 or v6 format). Partial IPv4 addresses can be entered in the form of 192.168.* or 192.168.1.1/16. Partial IPv6 addresses may be entered in the form of 2001:db8::/32.]]></phrase>
   <phrase title="you_may_import_via_command_line_recommended_large_imports" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[You may also import via the command line. This is recommended for large imports. Run this command from within the root XenForo directory and follow the on-screen instructions]]></phrase>
   <phrase title="you_may_insert_media_from_these_sources" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You may insert media from these sources]]></phrase>
-  <phrase title="you_may_invite_up_to_x_members" addon_id="XF" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[You may invite up to {number} member(s).]]></phrase>
+  <phrase title="you_may_invite_up_to_x_members" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Puoi invitare fino a {number} utenti.]]></phrase>
   <phrase title="you_may_leave_this_blank" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[You may leave this blank.]]></phrase>
   <phrase title="you_may_not_change_field_to_different_type_after_it_has_been_created" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[You may not change a field to a different type after it has been created.]]></phrase>
   <phrase title="you_may_not_create_new_tags_please_change_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You may not create new tags. Please change the following tags: {tags}]]></phrase>
