@@ -1426,8 +1426,8 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="enter_display_order_relative_to_other_ads_in_same_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter a display order relative to other ads in the same position.]]></phrase>
   <phrase title="enter_email_address_of_gravatar_you_want_to_use" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter the email address of the Gravatar you want to use.]]></phrase>
   <phrase title="enter_id_where_you_want_user_entered_media_id_to_be_used" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enter {$id} where you want the user-entered media ID to be used.]]></phrase>
-  <phrase title="enter_media_url" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Enter media URL]]></phrase>
-  <phrase title="enter_multiple_values_to_replace_on_separate_lines" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[You may enter multiple text values to replace by putting them on separate lines.]]></phrase>
+  <phrase title="enter_media_url" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Inserisci il Link del media]]></phrase>
+  <phrase title="enter_multiple_values_to_replace_on_separate_lines" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Puoi inserire media da queste fonti:]]></phrase>
   <phrase title="enter_name_of_existing_user_conversation_should_be_started_by" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Enter the name of an existing user the conversation should be started by.]]></phrase>
   <phrase title="enter_page_title_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter page title format]]></phrase>
   <phrase title="enter_payment_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter payment details]]></phrase>
@@ -3283,7 +3283,7 @@ Callback arguments:
   <phrase title="please_answer_the_question_above" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Please answer the question above...]]></phrase>
   <phrase title="please_choose_valid_moderator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please choose a valid moderator type]]></phrase>
   <phrase title="please_choose_valid_payment_profile_to_continue_with_your_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please choose a valid payment profile to continue with your purchase.]]></phrase>
-  <phrase title="please_complete_required_fields" addon_id="XF" version_id="0" version_string=""><![CDATA[Please complete all required fields.]]></phrase>
+  <phrase title="please_complete_required_fields" addon_id="XF" version_id="0" version_string=""><![CDATA[Ti preghiamo di compilare tutti i campi richiesti.]]></phrase>
   <phrase title="please_confirm_reversion_of_customized_components_from_style" addon_id="XF" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Please confirm that you want to revert {numTemplates} templates and {numProperties} style properties from the style <em>{style}</em> to their default values.]]></phrase>
   <phrase title="please_confirm_that_you_want_to_approve_the_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you want to approve the following]]></phrase>
   <phrase title="please_confirm_that_you_want_to_ban_following_ip" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Please confirm that you want to ban the following IP address]]></phrase>
@@ -3318,7 +3318,7 @@ Callback arguments:
   <phrase title="please_confirm_that_you_wish_to_stop_following_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you wish to stop following this user]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you wish to stop ignoring this user]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_unstar_following_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please confirm that you wish to unstar the following conversation]]></phrase>
-  <phrase title="please_confirm_that_you_would_like_to_change_to_following_style" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Please confirm that you would like to change to the following style]]></phrase>
+  <phrase title="please_confirm_that_you_would_like_to_change_to_following_style" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Sei sicuro di voler cambiare lo stile con il seguente]]></phrase>
   <phrase title="please_confirm_want_enable_promotion_for_user" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Si prega di confermare che si desidera attivare questa promozione per l'utente selezionato]]></phrase>
   <phrase title="please_confirm_want_remove_user_from_promotion" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Please confirm that you want remove this user from the selected promotion]]></phrase>
   <phrase title="please_confirm_want_to_delete_forum_and_discussions" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Please confirm that you want to delete the following forum and all discussions within it]]></phrase>
@@ -3628,7 +3628,7 @@ Callback arguments:
 <strong>Nota: </strong> È inoltre necessario utilizzare le chiavi API e abilitare esplicitamente la modalità invisibile se si desidera utilizzare gli "Invisible reCAPTCHA".]]></phrase>
   <phrase title="receipt_for_your_account_upgrade_at_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Receipt for your account upgrade at {board_title}]]></phrase>
   <phrase title="receive_alert_when_someone" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ricevi una notifica quando qualcuno]]></phrase>
-  <phrase title="receive_email_when_new_conversation_message_is_received" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ricevi email quando una ricevi un messaggio da una conversazione]]></phrase>
+  <phrase title="receive_email_when_new_conversation_message_is_received" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ricevi email quando ricevi un messaggio da una conversazione]]></phrase>
   <phrase title="receive_site_mailings" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ricevi email sito]]></phrase>
   <phrase title="receive_this_users_news_feed" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Receive this user's news feed]]></phrase>
   <phrase title="receive_your_news_feed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[ricevere il tuo flusso di attività]]></phrase>
@@ -3738,7 +3738,7 @@ Content being reported:
   <phrase title="requested_message_not_found" addon_id="XF" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[The requested message could not be found.]]></phrase>
   <phrase title="requested_node_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested node could not be found.]]></phrase>
   <phrase title="requested_page_cannot_be_represented_in_this_format" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[The requested page cannot be represented in this format.]]></phrase>
-  <phrase title="requested_page_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested page could not be found.]]></phrase>
+  <phrase title="requested_page_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[La pagina richiesta non può essere trovata.]]></phrase>
   <phrase title="requested_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested post could not be found.]]></phrase>
   <phrase title="requested_profile_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested profile post could not be found.]]></phrase>
   <phrase title="requested_report_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested report could not be found.]]></phrase>
@@ -4640,7 +4640,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="template_modification_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template modification type]]></phrase>
   <phrase title="template_modifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template modifications]]></phrase>
   <phrase title="template_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template name]]></phrase>
-  <phrase title="template_search_results" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template search results]]></phrase>
+  <phrase title="template_search_results" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Risultati di ricerca per il template]]></phrase>
   <phrase title="template_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template status]]></phrase>
   <phrase title="template_style_properties_must_define_template_and_type_via_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template style properties must define a template and type via the value parameters.]]></phrase>
   <phrase title="template_tag_attribute_x_must_be_literal_string" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Template tag attribute "{name}" must be a literal string.]]></phrase>
@@ -5306,12 +5306,12 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="view_previous_comments" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[View previous comments]]></phrase>
   <phrase title="view_public_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View public profile]]></phrase>
   <phrase title="view_results" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Guarda i risultati]]></phrase>
-  <phrase title="view_them" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View them?]]></phrase>
+  <phrase title="view_them" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Vuoi vederli?]]></phrase>
   <phrase title="view_this_conversation" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Mostra conversazione]]></phrase>
   <phrase title="view_this_thread" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Vedi la discussione]]></phrase>
   <phrase title="view_this_users_identities" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[View this user's identities]]></phrase>
   <phrase title="view_this_users_profile_page_details" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[View this user's profile page details]]></phrase>
-  <phrase title="view_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View users]]></phrase>
+  <phrase title="view_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedi utenti]]></phrase>
   <phrase title="view_warning" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Lista Warn]]></phrase>
   <phrase title="view_warnings_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View warnings ({count})]]></phrase>
   <phrase title="view_your_backup_codes" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[View your backup codes.]]></phrase>
@@ -5711,14 +5711,14 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_content_cannot_be_submitted_try_later" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Your content can not be submitted. This is likely because your content is spam-like or contains inappropriate elements. Please change your content or try again later. If you still have problems, please contact an administrator.]]></phrase>
   <phrase title="your_conversation_was_started_with_x_users" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your conversation was started with {sent} users.]]></phrase>
   <phrase title="your_email_address" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo indirizzo email]]></phrase>
-  <phrase title="your_email_cannot_be_changed_while_your_account_does_not_have_password" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Your email cannot be changed while your account does not have a password.]]></phrase>
+  <phrase title="your_email_cannot_be_changed_while_your_account_does_not_have_password" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email non può essere cambiata dal momento che il tuo account non ha una password.]]></phrase>
   <phrase title="your_email_could_not_be_confirmed_use_resend" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo indirizzo e-mail non può essere confermato. Ti preghiamo di richiedere una nuova conferma email e segui le istruzioni.]]></phrase>
   <phrase title="your_email_has_been_confirmed_and_your_account_is_now_fully_active_again" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Your email has been confirmed and your account is now fully active again.]]></phrase>
   <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Your email has been confirmed and your registration is now complete.]]></phrase>
   <phrase title="your_email_has_been_confirmed_registration_must_be_approved" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Your email has been confirmed. Your registration must now be approved by an administrator. You will receive an email when a decision has been taken.]]></phrase>
   <phrase title="your_email_may_not_be_changed_at_this_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your email address may not be changed at this time.]]></phrase>
-  <phrase title="your_email_notification_selections_have_been_updated" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Your email notification selections have been updated.]]></phrase>
-  <phrase title="your_email_was_sent_to_x_users" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Your email was sent to {sent} users.]]></phrase>
+  <phrase title="your_email_notification_selections_have_been_updated" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Le tue notifiche email sono state aggiornate.]]></phrase>
+  <phrase title="your_email_was_sent_to_x_users" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[L'email è stata inviata a {sent} utenti.]]></phrase>
   <phrase title="your_existing_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Password attuale]]></phrase>
   <phrase title="your_existing_password_is_not_correct" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La tua password attuale non è corretta.]]></phrase>
   <phrase title="your_full_account_details_not_currently_editable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your full account details are not currently editable.]]></phrase>
