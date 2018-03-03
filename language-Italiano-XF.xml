@@ -310,11 +310,11 @@
   <phrase title="admin_permission.user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci utenti e moderatori]]></phrase>
   <phrase title="admin_permission.userField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci campi utente personalizzati]]></phrase>
   <phrase title="admin_permission.userGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci gruppi utente]]></phrase>
-  <phrase title="admin_permission.userUpgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci upgrades utente]]></phrase>
+  <phrase title="admin_permission.userUpgrade" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Gestisci upgrade utente]]></phrase>
   <phrase title="admin_permission.viewLogs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare Log]]></phrase>
   <phrase title="admin_permission.viewStatistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare Statistiche]]></phrase>
   <phrase title="admin_permission.warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci avvertimenti]]></phrase>
-  <phrase title="admin_permission.widget" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestisci widgets]]></phrase>
+  <phrase title="admin_permission.widget" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Gestisci widget]]></phrase>
   <phrase title="admin_permission_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'ID dei permessi Admin devono essere univoci. Gli ID specificati sono già in uso.]]></phrase>
   <phrase title="admin_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi Admin]]></phrase>
   <phrase title="admin_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Templates Admin]]></phrase>
@@ -474,13 +474,13 @@
   <phrase title="available_prefixes_forum_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Seleziona tutti i prefissi che dovrebbero essere disponibili in questo forum]]></phrase>
   <phrase title="available_prompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Prompts disponibili]]></phrase>
   <phrase title="available_thread_prompts_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Gli utenti saranno invitati a pubblicare una nuova discussione in questo forum utilizzando uno dei suggerimenti qui selezionati. Il suggerimento appare nella casella di immissione del titolo della discussione, prima dell'inserimento di un titolo. Se non sono selezionati suggerimenti, viene utilizzata la frase di suggerimento predefinita (<a href="{link}"><code>thread_prompt. default</code></a>).]]></phrase>
-  <phrase title="available_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upgrades disponibili]]></phrase>
+  <phrase title="available_upgrades" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Upgrade disponibili]]></phrase>
   <phrase title="avatar" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatar]]></phrase>
   <phrase title="avatar_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data avatar]]></phrase>
   <phrase title="avatars" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Avatar]]></phrase>
   <phrase title="average" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Media]]></phrase>
   <phrase title="awaiting_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In attesa di approvazione]]></phrase>
-  <phrase title="awaiting_approval_before_being_displayed_publicly" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Awaiting approval before being displayed publicly.]]></phrase>
+  <phrase title="awaiting_approval_before_being_displayed_publicly" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[In attesa dell'approvazione prima di diventare pubblica.]]></phrase>
   <phrase title="awaiting_email_confirmation" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[In attesa di conferma email]]></phrase>
   <phrase title="awaiting_email_confirmation_from_edit" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[In attesa di conferma email (dopo la modifica)]]></phrase>
   <phrase title="awaiting_moderation" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[In attesa di moderazione]]></phrase>
@@ -512,7 +512,7 @@
   <phrase title="base_class_name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nome della classe di base]]></phrase>
   <phrase title="basic" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Fondamentale]]></phrase>
   <phrase title="batch_update" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Aggiornamento di massa]]></phrase>
-  <phrase title="batch_update_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Aggiorna discussioni in massa]]></phrase>
+  <phrase title="batch_update_threads" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Aggiorna in massa le discussioni]]></phrase>
   <phrase title="batch_update_users" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Aggiorna utenti in massa]]></phrase>
   <phrase title="batch_update_was_completed_successfully" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[L'aggiornamento di massa è stato compiuto con successo.]]></phrase>
   <phrase title="bb_code_help_align_desc" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cambia l'allineamento del wrapped text.]]></phrase>
@@ -690,7 +690,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="change_log" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Changelog]]></phrase>
   <phrase title="change_vote" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Cambia voto]]></phrase>
   <phrase title="changes_saved" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cambiamenti salvati]]></phrase>
-  <phrase title="characters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caratteris]]></phrase>
+  <phrase title="characters" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Caratteri]]></phrase>
   <phrase title="check_boxes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Check boxes]]></phrase>
   <phrase title="check_completed_on_x_files" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Check completato su {total_checked} files. Abbiamo trovato dei problemi alle seguenti linee. Risolvi appena è possibile.]]></phrase>
   <phrase title="check_date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data check]]></phrase>
@@ -730,8 +730,8 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="code" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Codice]]></phrase>
   <phrase title="code_event_execution_order_desc" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Gli ordini di esecuzione inferiori vengono eseguiti per primi. Si noti che i listeners che specificano un suggerimento di evento verranno sempre eseguiti dopo i listeners che non lo fanno.]]></phrase>
   <phrase title="code_event_ids_must_be_unique" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Gli ID evento codice devono essere univoci. L'ID specificato è già in uso.]]></phrase>
-  <phrase title="code_event_listener_definitions_must_be_unique" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Code event listener definitions must be unique.]]></phrase>
-  <phrase title="code_event_listeners" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Listeners eventi codice]]></phrase>
+  <phrase title="code_event_listener_definitions_must_be_unique" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Le definizioni di un code event listener devono essere uniche.]]></phrase>
+  <phrase title="code_event_listeners" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Code event listeners]]></phrase>
   <phrase title="code_events" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Eventi Codice]]></phrase>
   <phrase title="code_language.apacheconf" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Configurazione Apache]]></phrase>
   <phrase title="code_language.applescript" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[AppleScript]]></phrase>
@@ -771,7 +771,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="code_language.wiki" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Wiki]]></phrase>
   <phrase title="code_language.xml" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XML]]></phrase>
   <phrase title="code_language.yaml" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[YAML]]></phrase>
-  <phrase title="code_listeners_extensions_disabled_warning" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I listeners di eventi codice e le estensioni sono stati disabilitati tramite config.php. Questo è progettato come misura di emergenza per consentire di riprendere l'accesso al pannello di controllo se un add-on blocca l'accesso e lo disattiva. Questo non dovrebbe essere usato come strumento di debug.]]></phrase>
+  <phrase title="code_listeners_extensions_disabled_warning" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[I code event listener e le estensioni sono stati disabilitati tramite config.php. Questo è progettato come misura di emergenza per consentire di riprendere l'accesso al pannello di controllo se un add-on blocca l'accesso e lo disattiva. Questo non dovrebbe essere usato come strumento di debug.]]></phrase>
   <phrase title="collecting_server_stats" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Collecting server stats.]]></phrase>
   <phrase title="color" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Colore]]></phrase>
   <phrase title="comma_separator" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Separatore di virgola]]></phrase>
@@ -824,10 +824,10 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="confirm_deletion_of_x_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Confermare eliminazione di {total} discussioni]]></phrase>
   <phrase title="confirm_deletion_of_x_users" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Confermare eliminazione di {total} utenti]]></phrase>
   <phrase title="confirm_disassociation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Confermare la dissociazione]]></phrase>
-  <phrase title="confirm_dismiss_notice" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Are you sure you want to dismiss this notice?]]></phrase>
+  <phrase title="confirm_dismiss_notice" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler rimuovere quest'avviso?]]></phrase>
   <phrase title="confirm_lifting_of_ban" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Confermare la revoca del ban]]></phrase>
   <phrase title="confirm_new_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Confermare la nuova password]]></phrase>
-  <phrase title="confirm_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Confermare la passowrd]]></phrase>
+  <phrase title="confirm_password" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Confermare la password]]></phrase>
   <phrase title="confirm_regeneration" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Confermare la rigenerazione]]></phrase>
   <phrase title="confirm_sending_alert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Confirm sending alert]]></phrase>
   <phrase title="confirm_sending_email" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Conferma invio e-mail]]></phrase>
@@ -1374,14 +1374,14 @@ If an event is triggered with a hint, the potential hint values will be listed i
 
 <p>Il tuo indirizzo email é stato cambiato dall'IP {ip}.</p>]]></phrase>
   <phrase title="email_changed_subject" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{board} - Email cambiata]]></phrase>
-  <phrase title="email_changed_to_x" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Email changed to {email}]]></phrase>
+  <phrase title="email_changed_to_x" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Email cambiata in {email}]]></phrase>
   <phrase title="email_confirmation_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email confirmation code]]></phrase>
-  <phrase title="email_conflicts" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Email conflicts]]></phrase>
+  <phrase title="email_conflicts" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Conflitti email]]></phrase>
   <phrase title="email_conversation_notifications" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Notifiche conversazione email]]></phrase>
   <phrase title="email_footer_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="email_footer_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="email_format" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Formato email]]></phrase>
-  <phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[An email has been sent to <b>{email}</b> with a single-use code. Please enter that code to continue.]]></phrase>
+  <phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[É stata inviata un email a <b>{email}</b> con un codice ad uso singolo. Si prega di inserire tale codice per proseguire.]]></phrase>
   <phrase title="email_invalid_bounced" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Email invalid (bounced)]]></phrase>
   <phrase title="email_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email list]]></phrase>
   <phrase title="email_search_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[You may enter one or more text snippets separated by commas, and users whose email addresses contain any of the snippets will match the criteria.]]></phrase>
@@ -1391,7 +1391,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="email_transport_class" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Email transport class]]></phrase>
   <phrase title="email_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email users]]></phrase>
   <phrase title="email_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You can use this form to send a mass email to the users which match the criteria specified below.]]></phrase>
-  <phrase title="email_was_sent_successfully_with_no_errors" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[The email was sent successfully with no errors.]]></phrase>
+  <phrase title="email_was_sent_successfully_with_no_errors" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[L'email è stata spedita senza errori.]]></phrase>
   <phrase title="emailing" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Emailing]]></phrase>
   <phrase title="emails" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Email]]></phrase>
   <phrase title="emails_bounced" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Emails bounced]]></phrase>
