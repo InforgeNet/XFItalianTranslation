@@ -2351,22 +2351,22 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="multi_line_text_box" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Multi-line text box]]></phrase>
   <phrase title="multiple_choice_drop_down_selection" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Multiple-choice drop down]]></phrase>
   <phrase title="multiple_tags_may_be_separated_by_commas" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[I tag multipli vanno separati con una virgola (es: gioco,metin2,pc...)]]></phrase>
-  <phrase title="multiple_votes_allowed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sono permessi voti multipli.]]></phrase>
+  <phrase title="multiple_votes_allowed" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sono permessi voti multipli.]]></phrase>
   <phrase title="multiquote_add_message" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Messaggio aggiunto alle citazioni multiple.]]></phrase>
-  <phrase title="multiquote_remove_message" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Messaggio rimosso dalle citazioni multiple.]]></phrase>
+  <phrase title="multiquote_remove_message" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Messaggio rimosso dalle citazioni multiple.]]></phrase>
   <phrase title="must_be_in_same_permission_group" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Must be in the same permission group.]]></phrase>
-  <phrase title="must_be_unique" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Deve essere unico]]></phrase>
+  <phrase title="must_be_unique" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Deve essere unico]]></phrase>
   <phrase title="must_have_imagick_pecl_extension" addon_id="XF" version_id="1000270" version_string="1.0.2"><![CDATA[You must have the <a href="{link}" target="_blank">imagick PECL extension</a> installed.]]></phrase>
   <phrase title="must_wait_x_seconds_before_performing_this_action" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Devi aspettare almeno {count} secondi per poter compiere questa azione.]]></phrase>
   <phrase title="mustache_variable_names_must_be_literal_strings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mustache variable names must be literal strings.]]></phrase>
-  <phrase title="mysql_database_name" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Nome del database MySQL]]></phrase>
-  <phrase title="mysql_force_charset" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Forza set di caratteri]]></phrase>
+  <phrase title="mysql_database_name" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Nome del database MySQL]]></phrase>
+  <phrase title="mysql_force_charset" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Forza set di caratteri]]></phrase>
   <phrase title="mysql_force_charset_explain" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[If you specify a character set in the config for the system you are importing, you should specify the same character set here.]]></phrase>
-  <phrase title="mysql_password" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Password MySQL]]></phrase>
-  <phrase title="mysql_port" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Porta MySQL]]></phrase>
-  <phrase title="mysql_server" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Server MySQL]]></phrase>
-  <phrase title="mysql_table_prefix" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Prefisso tabella MySQL]]></phrase>
-  <phrase title="mysql_user_name" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Nome utente MySQL]]></phrase>
+  <phrase title="mysql_password" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Password MySQL]]></phrase>
+  <phrase title="mysql_port" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Porta MySQL]]></phrase>
+  <phrase title="mysql_server" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Server MySQL]]></phrase>
+  <phrase title="mysql_table_prefix" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Prefisso tabella MySQL]]></phrase>
+  <phrase title="mysql_user_name" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Nome utente MySQL]]></phrase>
   <phrase title="n_a" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[N/A]]></phrase>
   <phrase title="name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nome]]></phrase>
   <phrase title="name_db_table_which_hold_information_about_import" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[This is the name of the database table which will hold information about this import. It may be used to aid with URL redirections. This table must be empty, or must not exist. Only use a-z, 0-9 and underscore characters.]]></phrase>
@@ -3736,9 +3736,9 @@ Content being reported:
   <phrase title="requested_report_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested report could not be found.]]></phrase>
   <phrase title="requested_style_property_group_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested style property group could not be found.]]></phrase>
   <phrase title="requested_tag_not_found" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[The requested tag could not be found.]]></phrase>
-  <phrase title="requested_template_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested template could not be found.]]></phrase>
-  <phrase title="requested_thread_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested thread could not be found.]]></phrase>
-  <phrase title="requested_user_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested user could not be found.]]></phrase>
+  <phrase title="requested_template_not_found" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il template richiesto non è stato trovato.]]></phrase>
+  <phrase title="requested_thread_not_found" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La discussione richiesta non è stata trovata.]]></phrase>
+  <phrase title="requested_user_not_found" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[L'utente richiesto non è stato trovato.]]></phrase>
   <phrase title="requested_user_x_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested user '{name}' could not be found.]]></phrase>
   <phrase title="requested_warning_not_found" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[The requested warning could not be found.]]></phrase>
   <phrase title="require_address" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Require address]]></phrase>
@@ -4910,7 +4910,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="transmogrification_reset_successful" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Transmogrification reset successful]]></phrase>
   <phrase title="trim_line_breaks_after" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trim line breaks after]]></phrase>
   <phrase title="trophies" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trofei]]></phrase>
-  <phrase title="trophies_awarded_to_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trofeo guadagnato da {name}]]></phrase>
+  <phrase title="trophies_awarded_to_x" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Trofei guadagnati da {name}]]></phrase>
   <phrase title="trophy_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophy options]]></phrase>
   <phrase title="trophy_points" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Punteggio]]></phrase>
   <phrase title="trophy_points_between" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Punteggio tra]]></phrase>
@@ -5679,26 +5679,26 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="you_sure_you_want_to_stop_watching_all_forums" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sei sicuro di voler smettere di seguire <b>tutte</b> le sezioni?]]></phrase>
   <phrase title="you_sure_you_want_to_stop_watching_all_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Sei sicuro di voler smettere di seguire <b>tutte</b> le discussioni?]]></phrase>
   <phrase title="you_sure_you_want_to_unlike_this_content" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sei sicuro di voler togliere il "Mi piace" da questo contenuto?]]></phrase>
-  <phrase title="you_sure_you_want_to_unsubscribe_from_x_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sei sicuro di volerti disiscrivere dalla mailing list di {board_title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_unsubscribe_from_x_mailing_list" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sei sicuro di volerti disiscrivere dalla mailing list di {board_title}?]]></phrase>
   <phrase title="you_sure_you_want_to_unwatch_this_category" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sei sicuro di voler smettere di seguire questa categoria?]]></phrase>
-  <phrase title="you_sure_you_want_to_unwatch_this_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sei sicuro di voler smettere di seguire questa sezione?]]></phrase>
+  <phrase title="you_sure_you_want_to_unwatch_this_forum" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sei sicuro di voler smettere di seguire questa sezione?]]></phrase>
   <phrase title="you_sure_you_want_to_unwatch_this_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sei sicuro di voler smettere di seguire questa discussione?]]></phrase>
-  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_forums" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Sei sicuro di voler aggiornare le impostazioni di notifica email per <b>tutte</b> le sezioni?]]></phrase>
-  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sei sicuro di voler aggiornare le impostazioni di notifica email per tutte le discussioni?]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_forums" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sei sicuro di voler aggiornare le impostazioni di notifica email per <b>tutte</b> le sezioni?]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_threads" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sei sicuro di voler aggiornare le impostazioni di notifica email per tutte le discussioni?]]></phrase>
   <phrase title="you_unable_reply_to_thread_x_until_expiry_y" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[You will be unable to reply to the thread {title} until {expiry}.]]></phrase>
   <phrase title="you_will_receive_emails_sent_by_administrator_to_all_members" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Riceverai una email spedita dall'amministratore a tutti gli utenti del sito.]]></phrase>
   <phrase title="your_account" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo account]]></phrase>
-  <phrase title="your_account_already_has_password" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Il tuo account ha già una password.]]></phrase>
-  <phrase title="your_account_does_not_currently_have_password" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Il tuo account al momento non ha una password.]]></phrase>
-  <phrase title="your_account_does_not_currently_have_password_confirm_generate" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Il tuo account al momento non ha una password. Sei sicuro di voler generare una password? Verrà inviata via email a {email}.]]></phrase>
+  <phrase title="your_account_already_has_password" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account ha già una password.]]></phrase>
+  <phrase title="your_account_does_not_currently_have_password" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account al momento non ha una password.]]></phrase>
+  <phrase title="your_account_does_not_currently_have_password_confirm_generate" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account al momento non ha una password. Sei sicuro di voler generare una password? Verrà inviata via email a {email}.]]></phrase>
   <phrase title="your_account_does_not_have_admin_privileges" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo account non ha i privilegi di amministratore.]]></phrase>
-  <phrase title="your_account_does_not_require_confirmation" addon_id="XF" version_id="0" version_string=""><![CDATA[Il tuo account non richiede conferma.]]></phrase>
-  <phrase title="your_account_has_been_disabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il tuo account è stato disabilitato.]]></phrase>
+  <phrase title="your_account_does_not_require_confirmation" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account non richiede conferma.]]></phrase>
+  <phrase title="your_account_has_been_disabled" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account è stato disabilitato.]]></phrase>
   <phrase title="your_account_has_been_disabled_please_contact_us" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account è stato disabilitato. Se vuoi riattivarlo, si prega di <a href="{link}">Contattarci</a>.]]></phrase>
   <phrase title="your_account_has_been_rejected" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo account è stato respinto.]]></phrase>
   <phrase title="your_account_has_been_rejected_for_following_reason_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo account è stato respinto per questo motivo: {reason}.]]></phrase>
-  <phrase title="your_account_has_temporarily_been_locked_due_to_failed_login_attempts" addon_id="XF" version_id="0" version_string=""><![CDATA[Il tuo account è stato temporaneamente bloccato a causa di tentativi di accesso falliti.]]></phrase>
-  <phrase title="your_account_is_currently_awaiting_confirmation_confirmation_sent_to_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Il tuo account è in attesa di conferma. La conferma è stata spedita a {email}.]]></phrase>
+  <phrase title="your_account_has_temporarily_been_locked_due_to_failed_login_attempts" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account è stato temporaneamente bloccato a causa di tentativi di accesso falliti.]]></phrase>
+  <phrase title="your_account_is_currently_awaiting_confirmation_confirmation_sent_to_x" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account è in attesa di conferma. La conferma è stata spedita a {email}.]]></phrase>
   <phrase title="your_action_could_not_be_confirmed_request_new" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La tua azione non può essere confermata. Effettua una nuova conferma.]]></phrase>
   <phrase title="your_alert_was_sent_to_x_users" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your alert was sent to {sent} users.]]></phrase>
   <phrase title="your_ban_will_be_lifted_on_x" addon_id="XF" version_id="0" version_string=""><![CDATA[Your ban will be lifted on {date}.]]></phrase>
@@ -5713,47 +5713,47 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_email_address" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo indirizzo email]]></phrase>
   <phrase title="your_email_cannot_be_changed_while_your_account_does_not_have_password" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[La tua email non può essere cambiata dal momento che il tuo account non ha una password.]]></phrase>
   <phrase title="your_email_could_not_be_confirmed_use_resend" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo indirizzo e-mail non può essere confermato. Ti preghiamo di richiedere una nuova conferma email e segui le istruzioni.]]></phrase>
-  <phrase title="your_email_has_been_confirmed_and_your_account_is_now_fully_active_again" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email è stata confermata e il tuo account è di nuovo pienamente operativo.]]></phrase>
-  <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email è stata confermata e la registrazione è ora completata.]]></phrase>
-  <phrase title="your_email_has_been_confirmed_registration_must_be_approved" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[La tua email è stata confermata. La tua registrazione deve ora essere approvata da un amministratore. Riceverai una mail quando sarà presa una decisione.]]></phrase>
-  <phrase title="your_email_may_not_be_changed_at_this_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La tua email non può essere cambiata al momento.]]></phrase>
+  <phrase title="your_email_has_been_confirmed_and_your_account_is_now_fully_active_again" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua email è stata confermata e il tuo account è di nuovo pienamente operativo.]]></phrase>
+  <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua email è stata confermata e la registrazione è ora completata.]]></phrase>
+  <phrase title="your_email_has_been_confirmed_registration_must_be_approved" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua email è stata confermata. La tua registrazione deve ora essere approvata da un amministratore. Riceverai una mail quando sarà presa una decisione.]]></phrase>
+  <phrase title="your_email_may_not_be_changed_at_this_time" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua email non può essere cambiata al momento.]]></phrase>
   <phrase title="your_email_notification_selections_have_been_updated" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Le tue notifiche email sono state aggiornate.]]></phrase>
   <phrase title="your_email_was_sent_to_x_users" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[La tua email è stata inviata a {sent} utenti.]]></phrase>
   <phrase title="your_existing_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Password attuale]]></phrase>
   <phrase title="your_existing_password_is_not_correct" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La tua password attuale non è corretta.]]></phrase>
   <phrase title="your_full_account_details_not_currently_editable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your full account details are not currently editable.]]></phrase>
-  <phrase title="your_import_has_been_completed_successfully" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[L'importazione è avvenuta con successo.]]></phrase>
+  <phrase title="your_import_has_been_completed_successfully" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[L'importazione è avvenuta con successo.]]></phrase>
   <phrase title="your_import_is_now_complete_and_necessary_caches_have_been_rebuilt" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Your import is now complete and the necessary caches have been rebuilt.]]></phrase>
   <phrase title="your_ip_address_has_been_banned" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo indirizzo IP è stato bannato.]]></phrase>
-  <phrase title="your_message_has_been_posted" addon_id="XF" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Il tuo messaggio è stato postato.]]></phrase>
-  <phrase title="your_message_has_been_sent" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[IL tuo messaggio è stato inviato.]]></phrase>
+  <phrase title="your_message_has_been_posted" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo messaggio è stato postato.]]></phrase>
+  <phrase title="your_message_has_been_sent" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[IL tuo messaggio è stato inviato.]]></phrase>
   <phrase title="your_name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo nome utente]]></phrase>
   <phrase title="your_name_or_email_address" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo nome utente o la tua email]]></phrase>
   <phrase title="your_news_feed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo flusso delle novità]]></phrase>
   <phrase title="your_news_feed_is_currently_empty" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo flusso delle novità è attualmente vuoto.]]></phrase>
   <phrase title="your_old_config_file_at_library_config_is_still_available" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Your old config file at <code>library/config.php</code> is still available on the server. If you no longer need it, please delete or rename it. Your current and active config file is stored at <code>src/config.php</code>.]]></phrase>
-  <phrase title="your_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La tua password]]></phrase>
-  <phrase title="your_password_has_been_reset" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La tua password è stata ripristinata.]]></phrase>
-  <phrase title="your_post_in_thread_x_was_copied_to_y" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Il tuo messaggio nella discussione {title} è stato copiato in {target}.]]></phrase>
-  <phrase title="your_post_in_thread_x_was_deleted" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Il tuo messaggio nella discussione {title} è stato cancellato.]]></phrase>
-  <phrase title="your_post_in_thread_x_was_edited" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Il tuo messaggio nella discussione {title} è stato modificato.]]></phrase>
-  <phrase title="your_post_in_thread_x_was_moved_to_y" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Il tuo messaggio nella discussione {title} è stato spostato in {target}.]]></phrase>
+  <phrase title="your_password" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua password]]></phrase>
+  <phrase title="your_password_has_been_reset" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua password è stata ripristinata.]]></phrase>
+  <phrase title="your_post_in_thread_x_was_copied_to_y" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo messaggio nella discussione {title} è stato copiato in {target}.]]></phrase>
+  <phrase title="your_post_in_thread_x_was_deleted" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo messaggio nella discussione {title} è stato cancellato.]]></phrase>
+  <phrase title="your_post_in_thread_x_was_edited" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo messaggio nella discussione {title} è stato modificato.]]></phrase>
+  <phrase title="your_post_in_thread_x_was_moved_to_y" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo messaggio nella discussione {title} è stato spostato in {target}.]]></phrase>
   <phrase title="your_posts_in_thread_x_were_merged_together" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I tuoi messaggi nella discussione {source} verranno uniti assieme.]]></phrase>
   <phrase title="your_profile" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo profilo]]></phrase>
   <phrase title="your_profile_post_for_x_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your profile post for {user} was deleted.]]></phrase>
   <phrase title="your_profile_post_has_been_posted" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo messaggio profilo è stato pubblicato.]]></phrase>
   <phrase title="your_profile_post_on_xs_profile_was_edited" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your profile post on {user}'s profile was edited.]]></phrase>
-  <phrase title="your_signature_is_x_characters_too_long" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[La tua firma è troppo lunga di {count} carattere(i).]]></phrase>
-  <phrase title="your_signature_is_x_liness_too_long" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[La tua firma è troppo lunga di {count} linea(e).]]></phrase>
-  <phrase title="your_signature_may_not_contain_disabled_tags" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[LA tua firma non può contenere tag disabilitati.]]></phrase>
-  <phrase title="your_signature_may_only_have_x_images" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[La tua firma può contenere solo {count} image(s).]]></phrase>
-  <phrase title="your_signature_may_only_have_x_links" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[La tua firma può contenere solo {count} link(s).]]></phrase>
-  <phrase title="your_signature_may_only_have_x_smilies" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[La tua firma può contenere solo {count} smilie(s).]]></phrase>
+  <phrase title="your_signature_is_x_characters_too_long" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma è troppo lunga di {count} carattere(i).]]></phrase>
+  <phrase title="your_signature_is_x_liness_too_long" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma è troppo lunga di {count} linea(e).]]></phrase>
+  <phrase title="your_signature_may_not_contain_disabled_tags" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[LA tua firma non può contenere tag disabilitati.]]></phrase>
+  <phrase title="your_signature_may_only_have_x_images" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma può contenere solo {count} immagine(i).]]></phrase>
+  <phrase title="your_signature_may_only_have_x_links" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma può contenere solo {count} link.]]></phrase>
+  <phrase title="your_signature_may_only_have_x_smilies" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma può contenere solo {count} smilie.]]></phrase>
   <phrase title="your_status_update_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your status update was deleted.]]></phrase>
   <phrase title="your_status_update_was_edited" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your <a href="{link}">status update</a> was edited.]]></phrase>
-  <phrase title="your_thread_x_was_deleted" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[La tua discussione {title} è stata cancellata.]]></phrase>
-  <phrase title="your_thread_x_was_merged_into_y" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[La tua discussione {title} è stata unita a {target}.]]></phrase>
-  <phrase title="your_thread_x_was_moved_to_different_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[La tua discussione {title} è stata spostata ad un forum differente.]]></phrase>
+  <phrase title="your_thread_x_was_deleted" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua discussione {title} è stata cancellata.]]></phrase>
+  <phrase title="your_thread_x_was_merged_into_y" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua discussione {title} è stata unita a {target}.]]></phrase>
+  <phrase title="your_thread_x_was_moved_to_different_forum" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua discussione {title} è stata spostata ad un forum differente.]]></phrase>
   <phrase title="your_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tue discussioni]]></phrase>
   <phrase title="your_vote_will_be_publicly_visible" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo voto sarà reso pubblico.]]></phrase>
   <phrase title="youre_ready_start_import_will_run_browser_window_open" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[You're now ready to start the import. Once started, the import will continue to run while this browser window is open. Once all data has been imported, further instructions will be displayed.]]></phrase>
