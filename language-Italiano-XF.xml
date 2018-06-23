@@ -3459,7 +3459,6 @@ Callback arguments:
   <phrase title="please_enter_widget_position_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please enter a widget position key.]]></phrase>
   <phrase title="please_enter_your_google_analytics_web_property_id_in_format" addon_id="XF" version_id="1020170" version_string="1.2.1"><![CDATA[Please enter your Google Analytics web property ID / UA number in the format UA-XXXXXX-Y. See <a href="https://support.google.com/analytics/answer/1032385" target="_blank">https://support.google.com/analytics/answer/1032385</a>.]]></phrase>
   <phrase title="please_leave_this_field_blank" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Please leave this field blank.]]></phrase>
-  <phrase title="please_provide_an_image_whose_longer_side_is_no_more_than_twice_length" addon_id="XF" version_id="0" version_string=""><![CDATA[Please provide an image whose longer side is no more than twice the length of its shorter side.]]></phrase>
   <phrase title="please_provide_at_least_one_answer" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Please provide at least one answer.]]></phrase>
   <phrase title="please_provide_url_of_non_redirect_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide the URL of a non-redirect thread.]]></phrase>
   <phrase title="please_provide_valid_x_xml_file" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide a valid {rootName} XML file.]]></phrase>
@@ -5793,7 +5792,6 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="you_sure_you_want_to_update_notification_settings_for_all_forums" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sei sicuro di voler aggiornare le impostazioni di notifica email per <b>tutte</b> le sezioni?]]></phrase>
   <phrase title="you_sure_you_want_to_update_notification_settings_for_all_threads" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sei sicuro di voler aggiornare le impostazioni di notifica email per tutte le discussioni?]]></phrase>
   <phrase title="you_unable_reply_to_thread_x_until_expiry_y" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[You will be unable to reply to the thread {title} until {expiry}.]]></phrase>
-  <phrase title="you_will_receive_emails_sent_by_administrator_to_all_members" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[You will receive a copy of emails sent by the administrator to all members of the site.]]></phrase>
   <phrase title="your_account" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo account]]></phrase>
   <phrase title="your_account_already_has_password" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account ha già una password.]]></phrase>
   <phrase title="your_account_does_not_currently_have_password" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il tuo account al momento non ha una password.]]></phrase>
