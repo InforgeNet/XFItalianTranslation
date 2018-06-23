@@ -3815,8 +3815,8 @@ Content being reported:
   <phrase title="request_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Request password]]></phrase>
   <phrase title="request_password_be_emailed_to_you" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Request a password be emailed to you]]></phrase>
   <phrase title="request_state" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Request state]]></phrase>
-  <phrase title="requested_category_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested category could not be found.]]></phrase>
-  <phrase title="requested_comment_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested comment could not be found.]]></phrase>
+  <phrase title="requested_category_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[La categoria richiesta non è stata trovata.]]></phrase>
+  <phrase title="requested_comment_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[Il commento richiesto non è stato trovato]]></phrase>
   <phrase title="requested_conversation_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested conversation could not be found.]]></phrase>
   <phrase title="requested_forum_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested forum could not be found.]]></phrase>
   <phrase title="requested_history_not_found" addon_id="XF" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[The requested history could not be found.]]></phrase>
@@ -3826,11 +3826,11 @@ Content being reported:
   <phrase title="requested_node_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested node could not be found.]]></phrase>
   <phrase title="requested_page_cannot_be_represented_in_this_format" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[The requested page cannot be represented in this format.]]></phrase>
   <phrase title="requested_page_not_found" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[La pagina richiesta non può essere trovata.]]></phrase>
-  <phrase title="requested_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested post could not be found.]]></phrase>
+  <phrase title="requested_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[Il messaggio richiesto non è stato trovato.]]></phrase>
   <phrase title="requested_profile_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested profile post could not be found.]]></phrase>
   <phrase title="requested_report_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested report could not be found.]]></phrase>
   <phrase title="requested_style_property_group_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested style property group could not be found.]]></phrase>
-  <phrase title="requested_tag_not_found" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[The requested tag could not be found.]]></phrase>
+  <phrase title="requested_tag_not_found" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Il tag richiesto non è stato trovato.]]></phrase>
   <phrase title="requested_template_not_found" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il template richiesto non è stato trovato.]]></phrase>
   <phrase title="requested_thread_not_found" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[La Discussione richiesta non è stata trovata.]]></phrase>
   <phrase title="requested_user_not_found" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[L'utente richiesto non è stato trovato.]]></phrase>
@@ -3850,7 +3850,7 @@ Content being reported:
   <phrase title="required_php_extension_x_not_found" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The required PHP extension {extension} could not be found. Please ask your host to install this extension.]]></phrase>
   <phrase title="requires_user_names_new_registrations_match_regex" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This requires the user names of new registrations to match the given regular expression.]]></phrase>
   <phrase title="resend_account_confirmation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resend account confirmation]]></phrase>
-  <phrase title="resend_confirmation_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resend confirmation email]]></phrase>
+  <phrase title="resend_confirmation_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reinvia l'email di conferma]]></phrase>
   <phrase title="resend_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resend email]]></phrase>
   <phrase title="reset" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ripristina]]></phrase>
   <phrase title="reset_all_votes" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Cancella tutti i voti]]></phrase>
