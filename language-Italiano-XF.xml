@@ -3827,7 +3827,7 @@ Content being reported:
   <phrase title="requested_node_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested node could not be found.]]></phrase>
   <phrase title="requested_page_cannot_be_represented_in_this_format" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[The requested page cannot be represented in this format.]]></phrase>
   <phrase title="requested_page_not_found" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[La pagina richiesta non può essere trovata.]]></phrase>
-  <phrase title="requested_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[Il post richiesto non è stato trovato.]]></phrase>
+  <phrase title="requested_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[Il messaggio richiesto non è stato trovato.]]></phrase>
   <phrase title="requested_profile_post_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested profile post could not be found.]]></phrase>
   <phrase title="requested_report_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested report could not be found.]]></phrase>
   <phrase title="requested_style_property_group_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[The requested style property group could not be found.]]></phrase>
