@@ -3739,7 +3739,7 @@ Callback arguments:
   <phrase title="refine_search" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ricerca avanzata]]></phrase>
   <phrase title="regenerate_secret_for_new_device" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Regenerate secret for a new device]]></phrase>
   <phrase title="register" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Registrati]]></phrase>
-  <phrase title="register_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register date]]></phrase>
+  <phrase title="register_date" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Data di registrazione]]></phrase>
   <phrase title="register_faster_using" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Registrati velocemente utilizzando]]></phrase>
   <phrase title="register_now" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Registrati ora]]></phrase>
   <phrase title="register_using_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register using {provider}]]></phrase>
@@ -3753,13 +3753,13 @@ Callback arguments:
   <phrase title="regular_expression" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Regular expression]]></phrase>
   <phrase title="regular_expression_matching" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Regular expression matching]]></phrase>
   <phrase title="reject" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reject]]></phrase>
-  <phrase title="reject_with_rejection_reason" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reject with rejection reason]]></phrase>
+  <phrase title="reject_with_rejection_reason" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Rifiuta con il seguente motivo]]></phrase>
   <phrase title="rejected" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Respinta]]></phrase>
   <phrase title="rejected_by" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Respinto da]]></phrase>
   <phrase title="rejected_user" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Utente respinto]]></phrase>
   <phrase title="rejected_user_log" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Log utenti respinti]]></phrase>
   <phrase title="rejected_user_log_entry" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Voce log utenti respinti]]></phrase>
-  <phrase title="rejected_users_will_not_be_deleted_user_state_will_be_set_to_rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rejected users will not be deleted but their user state will be set to 'rejected'. If a reason is provided above, it will be displayed when they next log in.]]></phrase>
+  <phrase title="rejected_users_will_not_be_deleted_user_state_will_be_set_to_rejected" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Gli utenti rifiutati non saranno cancellati ma il loro stato sarà impostato su 'rifiutato'. Se si fornisce una motivazione, quest'ultima verrà mostrata al prossimo login.]]></phrase>
   <phrase title="related_twitter_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Related account: @...]]></phrase>
   <phrase title="relevance" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Rilevanza]]></phrase>
   <phrase title="remain_in_inbox_and_notified_of_replies" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[The conversation will remain in your inbox and you will be notified of responses.]]></phrase>
@@ -4044,7 +4044,7 @@ Content being reported:
   <phrase title="simple_replacement" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sostituzione semplice]]></phrase>
   <phrase title="single_choice" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Singola scelta]]></phrase>
   <phrase title="single_line_text_box" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Single-line text box]]></phrase>
-  <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[The site is currently being upgraded. Please check back later.]]></phrase>
+  <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Il sito è in aggiornamento. Si prega di riprovare più tardi.]]></phrase>
   <phrase title="site_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Site key]]></phrase>
   <phrase title="site_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Site title]]></phrase>
   <phrase title="site_url" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site URL]]></phrase>
