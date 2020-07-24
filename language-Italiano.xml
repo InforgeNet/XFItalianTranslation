@@ -46,7 +46,7 @@
   <phrase title="activity_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Riepilogo attività]]></phrase>
   <phrase title="activity_summary_def.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ultimi messaggi]]></phrase>
   <phrase title="activity_summary_def.latest_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ultime discussioni]]></phrase>
-  <phrase title="activity_summary_def_desc.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest posts in the activity summary email.]]></phrase>
+  <phrase title="activity_summary_def_desc.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Visualizza una sezione che mostra gli ultimi messaggi nella mail di riepilogo dell'attività.]]></phrase>
   <phrase title="activity_summary_def_desc.latest_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest threads in the activity summary email. Threads can be filtered on various criteria.]]></phrase>
   <phrase title="activity_summary_definition" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary definition]]></phrase>
   <phrase title="activity_summary_definitions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary definitions]]></phrase>
