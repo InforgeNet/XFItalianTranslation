@@ -11,6 +11,7 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Thumbnails = Anteprime
 - Warn = Avvertimento
 - Resource = Release
+- API Key = Chiave API
 
 ### Rimangono invece nella loro forma
 - Templates
@@ -23,7 +24,7 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 
 
 ## Come partecipare alla Traduzione
-La traduzione può contenere diverse parti divise da Backend e Frontend, si prega di non partecipare alla traduzione se non si conoscono le caratteristiche di XenForo 2.0 (si consiglia di avere una demo preinstallata su cui effettuare i propri test). Le frasi del frontend hanno la priorità!
+La traduzione può contenere diverse parti divise da Backend e Frontend, si prega di non partecipare alla traduzione se non si conoscono le caratteristiche di XenForo 2.2 (si consiglia di avere una demo preinstallata su cui effettuare i propri test). Le frasi del frontend hanno la priorità!
 
 In definitiva per partecipare a questo progetto bisogna:
 1. Creare un fork
