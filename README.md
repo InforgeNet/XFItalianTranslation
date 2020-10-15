@@ -1,5 +1,5 @@
 # Traduzione Italiana Xenforo 2.x
-Versione attuale: 2.2.0 Beta 1
+Versione attuale: 2.2.1
 >Repo per le traduzioni ufficiali di [Inforge.net](https://www.inforge.net) e [Tom's Hardware](https://www.tomshw.it/forum)
 
 ## Caratteristiche della Traduzione
