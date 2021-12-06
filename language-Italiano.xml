@@ -507,7 +507,7 @@
   <phrase title="api_key_details" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Dettagli chiave API]]></phrase>
   <phrase title="api_key_is_active" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[La chiave API è attiva]]></phrase>
   <phrase title="api_key_x_created_or_updated_key_use_follows" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[La chiave API "{title}" è stata creata od aggiornata. La chiave API da usare è la seguente:]]></phrase>
-  <phrase title="api_keys" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Chiavi API]]></phrase>
+  <phrase title="api_keys" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Chiavi API]]></phrase> <!-- TODO: Da decidere se tradurre API -->
   <phrase title="api_scope.alert_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Covers viewing the active user's alerts. Also includes read/unread marking of these alerts.]]></phrase>
   <phrase title="api_scope.alert_write" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Covers creating custom user alerts. Applies to super-user keys only.]]></phrase>
   <phrase title="api_scope.attachment_delete" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers deleting attachments.]]></phrase>
@@ -579,10 +579,10 @@
   <phrase title="ascending" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ascendente]]></phrase>
   <phrase title="ask_me_another_time" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Ricordamelo più tardi]]></phrase>
   <phrase title="asset_key" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Asset key]]></phrase>
-  <phrase title="asset_locations" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Asset locations]]></phrase>
+  <phrase title="asset_locations" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Posizione degli assets]]></phrase>
   <phrase title="asset_locations_explain" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[La posizione degli asset indica dove si trovano i file allegati a questo stile rispetto alla cartella di installazione di Xenforo. La posizione degli asset può essere visualizzata dalle proprietà di stile via <code>%ASSET:key%</code> o dai templates utilizzando la funzione <code>asset()</code>.]]></phrase>
-  <phrase title="asset_path" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Asset path]]></phrase>
-  <phrase title="asset_type_names_may_only_contain_alphanumeric_dash_underscore" addon_id="XF" version_id="2020052" version_string="2.2.0 Release Candidate 2"><![CDATA[Asset type names may only contain A-Z, 0-9, - and _ characters.]]></phrase>
+  <phrase title="asset_path" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cartella Asset]]></phrase>
+  <phrase title="asset_type_names_may_only_contain_alphanumeric_dash_underscore" addon_id="XF" version_id="2020052" version_string="2.2.0 Release Candidate 2"><![CDATA[I nomi dei tipi di assets possono contenere solo caratteri A-Z, 0-9, - e _.]]></phrase>
   <phrase title="asset_uploaded_successfully" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Asset caricati correttamente.]]></phrase>
   <phrase title="associate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Associa]]></phrase>
   <phrase title="associate_existing_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Associa account esistente]]></phrase>
@@ -603,12 +603,12 @@
   <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Il tenativo di inviare una email a {email} è fallito. Ti invitiamo a modificare l'indirizzo email.]]></phrase>
   <phrase title="authentication" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Autenticazione]]></phrase>
   <phrase title="author" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Autore]]></phrase>
-  <phrase title="authy_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Authy API key]]></phrase>
-  <phrase title="authy_api_key_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[To use Authy you must create an Authy API key in the <a href="https://www.twilio.com/console" target="_blank">Twilio console dashboard</a>.]]></phrase>
-  <phrase title="authy_denied" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The approval request was denied so we cannot log you in at this time.]]></phrase>
-  <phrase title="authy_no_approval_request" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[No approval request found with that UUID. Please try again later.]]></phrase>
-  <phrase title="authy_no_uuid" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[No approval request UUID. Please try again later.]]></phrase>
-  <phrase title="authy_success" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The approval request was successful and you have logged in successfully.]]></phrase>
+  <phrase title="authy_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Authy Chiave API]]></phrase>
+  <phrase title="authy_api_key_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Per utilizzare Authy devi creare un'API key sulla <a href="https://www.twilio.com/console" target="_blank">Twilio console dashboard</a>.]]></phrase>
+  <phrase title="authy_denied" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[La richiesta d'approvazione è stata negata, quindi non possiamo farti accedere in questo momento.]]></phrase>
+  <phrase title="authy_no_approval_request" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Nessuna richiesta d'approvazione trovata con questo UUID. Ti preghiamo di riprovare più tardi.]]></phrase>
+  <phrase title="authy_no_uuid" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Nessuna richiesta d'approvazione UUID. Ti preghiamo di riprovare più tardi.]]></phrase>
+  <phrase title="authy_success" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[La richiesta d'approvazione ha avuto successo e l'accesso è avvenuto correttamente.]]></phrase>
   <phrase title="auto_embed_media_and_add_link_in_this_bb_code" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Auto-embed media, e aggiungi un link al contenuto all'interno di questo codice BB]]></phrase>
   <phrase title="auto_embed_media_links" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Auto-embed media links]]></phrase>
   <phrase title="auto_reply" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Risposta automatica]]></phrase>
@@ -616,30 +616,30 @@
   <phrase title="automatically_apply_template_modification" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Applica automaticamente le modifiche del template]]></phrase>
   <phrase title="automatically_dismiss_notice" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nascondi automaticamente l'avviso quando sparisce]]></phrase>
   <phrase title="automatically_dismiss_notice_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questa opzione è valida solo per gli avvisi galleggianti e se una durata di visualizzazione è specificata sopra.]]></phrase>
-  <phrase title="automatically_include_unsubscribe_link" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Automatically include an unsubscribe link]]></phrase>
-  <phrase title="automatically_include_unsubscribe_link_desc" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[If selected, this email will automatically have an unsubscribe line added at the bottom. If you use the 'unsub' token in the body, this option will be ignored.]]></phrase>
+  <phrase title="automatically_include_unsubscribe_link" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Inserisci automaticamente un link di disiscrizione.]]></phrase>
+  <phrase title="automatically_include_unsubscribe_link_desc" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Se selezionato, questa email avrà automaticamente un link di disiscrizione in fondo al messaggio. Se usi il token 'unsub' nel corpo del messaggio, quest'opzione sarà ignorata.]]></phrase>
   <phrase title="automatically_merge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unisci automaticamente]]></phrase>
-  <phrase title="automatically_merge_users_with_same_email" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Automatically merge users with the same email]]></phrase>
-  <phrase title="automatically_merge_users_with_same_user_name" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Automatically merge users with the same user name]]></phrase>
+  <phrase title="automatically_merge_users_with_same_email" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Unisci automaticamente gli utenti con lo stesso indirizzo email.]]></phrase>
+  <phrase title="automatically_merge_users_with_same_user_name" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Unisci automaticamente gli utenti con lo stesso user name.]]></phrase>
   <phrase title="automatically_promoted" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Promozione automatica]]></phrase>
   <phrase title="automatically_watch_content_you_create" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segui automaticamente il contenuto che crei]]></phrase>
   <phrase title="automatically_watch_content_you_interact_with" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segui automaticamente il contenuto con il quale interagisci]]></phrase>
-  <phrase title="available_add_on_upgrades" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Available add-on upgrades]]></phrase>
-  <phrase title="available_buttons" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Available buttons]]></phrase>
+  <phrase title="available_add_on_upgrades" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Sono disponibili aggiornamenti per gli add-ons]]></phrase>
+  <phrase title="available_buttons" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bottoni disponibili]]></phrase>
   <phrase title="available_buttons_and_dropdown_menus" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Available buttons and dropdown menus]]></phrase>
-  <phrase title="available_buttons_and_dropdown_menus_desc" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[This is a list of all editor buttons that can be added to the editor. The bottom row contains the available custom dropdown menus. Move buttons from here to the toolbar below.]]></phrase>
+  <phrase title="available_buttons_and_dropdown_menus_desc" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Questa è una lista di tutti i pulsanti che possono essere aggiunti all'editor. La riga in basso contiene i menù a cascata disponibili. Sposta i pulsanti da qui alla toolbar in basso.]]></phrase>
   <phrase title="available_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Campi disponibili]]></phrase>
   <phrase title="available_prefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Prefissi disponibili]]></phrase>
   <phrase title="available_prefixes_forum_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Seleziona tutti i prefissi che dovrebbero essere disponibili in questo forum]]></phrase>
   <phrase title="available_prompts" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Prompt disponibili]]></phrase>
   <phrase title="available_thread_prompts_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Gli utenti saranno invitati a pubblicare una nuova discussione in questo forum utilizzando uno dei suggerimenti qui selezionati. Il suggerimento appare nella casella di immissione del titolo della discussione, prima dell'inserimento di un titolo. Se non sono selezionati suggerimenti, viene utilizzata la frase di suggerimento predefinita (<a href="{link}"><code>thread_prompt. default</code></a>).]]></phrase>
   <phrase title="available_upgrades" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Miglioramenti disponibili]]></phrase>
-  <phrase title="available_versions_changed_since_last_upgrade_check_back_refresh" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The available versions have changed since the last upgrade check. Please go back and refresh the page.]]></phrase>
+  <phrase title="available_versions_changed_since_last_upgrade_check_back_refresh" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Le versioni disponibili sono cambiate dall'ultimo controllo. Per favore, torna indietro e ricarica la pagina.]]></phrase>
   <phrase title="avatar" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatar]]></phrase>
   <phrase title="avatar_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data avatar]]></phrase>
   <phrase title="avatars" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Avatar]]></phrase>
   <phrase title="average" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Media]]></phrase>
-  <phrase title="avoid_repeated_words_and_characters" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Avoid repeated words and characters.]]></phrase>
+  <phrase title="avoid_repeated_words_and_characters" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Evita parole e caratteri ripetuti.]]></phrase>
   <phrase title="awaiting_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In attesa di approvazione]]></phrase>
   <phrase title="awaiting_approval_before_being_displayed_publicly" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[In attesa dell'approvazione prima di diventare pubblica.]]></phrase>
   <phrase title="awaiting_email_confirmation" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[In attesa di conferma email]]></phrase>
@@ -658,19 +658,19 @@
   <phrase title="ban_ends" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fine del ban]]></phrase>
   <phrase title="ban_length" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Durata ban]]></phrase>
   <phrase title="ban_member" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Banna utente]]></phrase>
-  <phrase title="ban_spammer" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ban spammer]]></phrase>
+  <phrase title="ban_spammer" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Banna spammer]]></phrase>
   <phrase title="ban_started" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ban iniziato]]></phrase>
-  <phrase title="ban_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ban user]]></phrase>
+  <phrase title="ban_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banna utente]]></phrase>
   <phrase title="ban_users_permanently" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banna utente (permanentemente)]]></phrase>
   <phrase title="banned" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bannato]]></phrase>
   <phrase title="banned_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bannato da]]></phrase>
   <phrase title="banned_emails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email bannate]]></phrase>
-  <phrase title="banned_emails_must_be_unique" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Banned emails must be unique. The specified banned email is already in use.]]></phrase>
+  <phrase title="banned_emails_must_be_unique" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Gli indirizzi email bannati devono essere unici. L'indirizzo email specificato è stato già bannato.]]></phrase>
   <phrase title="banned_ip_addresses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzi IP bannati]]></phrase>
   <phrase title="banned_state" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Stato di ban]]></phrase>
   <phrase title="banned_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti bannati]]></phrase>
   <phrase title="banner" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Banner]]></phrase>
-  <phrase title="banner_date" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Banner date]]></phrase>
+  <phrase title="banner_date" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Data del banner]]></phrase>
   <phrase title="banner_displayed_under_name_of_members_of_this_group" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Questo sarà mostrato sotto il nome dei membri di questo gruppo in circostanze particolari, come in una discussione.]]></phrase>
   <phrase title="base_class_name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nome della classe di base]]></phrase>
   <phrase title="basic" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Fondamentale]]></phrase>
@@ -679,7 +679,7 @@
   <phrase title="batch_update_users" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Aggiorna utenti in massa]]></phrase>
   <phrase title="batch_update_was_completed_successfully" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[L'aggiornamento di massa è stato compiuto con successo.]]></phrase>
   <phrase title="bb_code_button_manager" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB code button manager]]></phrase>
-  <phrase title="bb_code_help_align_desc" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cambia l'allineamento del wrapped text.]]></phrase>
+  <phrase title="bb_code_help_align_desc" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cambia l'allineamento del testo selezionato.]]></phrase>
   <phrase title="bb_code_help_align_example" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LEFT]Allineato a Sinistra[/LEFT]
 [CENTER]Allineato al Centro[/CENTER]
 [RIGHT]Allineato a Destra[/RIGHT]]]></phrase>
@@ -712,22 +712,22 @@ Codice JS:
 Questo testo usa un font [FONT=Courier New]Courier New[/FONT].
 Questi sono testi [SIZE=1]piccoli[/SIZE] e [SIZE=7]grandi[/SIZE].]]></phrase>
   <phrase title="bb_code_help_color_font_size_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[COLOR=<span class="block-textHeader-highlight">color</span>], [FONT=<span class="block-textHeader-highlight">name</span>], [SIZE=<span class="block-textHeader-highlight">size</span>] - Colore, Font e Dimensioni dei testi]]></phrase>
-  <phrase title="bb_code_help_heading_desc" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[Marks text as a structured heading to facilitate machine readability.]]></phrase>
-  <phrase title="bb_code_help_heading_example" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[[HEADING=1]Major heading[/HEADING]
-This text comes under a major heading, used to separate the primary sections of an article.
+  <phrase title="bb_code_help_heading_desc" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[Contrassegna il testo come un'intestazione per facilitare la lettura da software di aiuto per ipovedenti.]]></phrase>
+  <phrase title="bb_code_help_heading_example" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[[HEADING=1]Intestazione principale (h1)[/HEADING]
+Questo testo è un'intestazione principale, usata per separare la sezione principale di un articolo.
 
-[HEADING=2]Minor heading[/HEADING]
-When you need to subdivide the primary sections of an article, use a level 2 minor heading.
+[HEADING=2]Intestazione minore (h2)[/HEADING]
+Quando hai bisogno di dividere la sezione primaria in più porzioni, utilizza il livello di intestazione minore.
 
-[HEADING=3]Subheading[/HEADING]
-If you require additional subdivision, you may drop to level 3.]]></phrase>
-  <phrase title="bb_code_help_heading_title" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[[HEADING=<span class="block-textHeader-highlight">level</span>] - Headings levels 1 to 3]]></phrase>
+[HEADING=3]Sotto-intestazione (h3)[/HEADING]
+Se hai bisogno di ulteriori suddivisioni, usa la sotto-intestazione (livello 3).]]></phrase>
+  <phrase title="bb_code_help_heading_title" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[[HEADING=<span class="block-textHeader-highlight">level</span>] - Intestazioni da 1 a 3]]></phrase>
   <phrase title="bb_code_help_icode_desc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consente di mostrare codice inline tra testo normale. La sintassi non verrà evidenziata.]]></phrase>
   <phrase title="bb_code_help_icode_example" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I blocchi di codice in linea sono [ICODE]un modo conveniente[/ICODE] per mostrare codice in linea.]]></phrase>
   <phrase title="bb_code_help_icode_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[[ICODE] - Mostra codice in linea]]></phrase>
   <phrase title="bb_code_help_img_desc" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Mostra un'immagine, utilizzando il testo selezionato come URL.]]></phrase>
   <phrase title="bb_code_help_img_title" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[IMG] - Immagine]]></phrase>
-  <phrase title="bb_code_help_indent_desc" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Indenta il testo selezionato. Indents the wrapped text. È possibile sotto-indentare per testi più grandi .]]></phrase>
+  <phrase title="bb_code_help_indent_desc" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Indenta il testo selezionato. È possibile sotto-indentare per testi più grandi .]]></phrase>
   <phrase title="bb_code_help_indent_example" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Testo regolare
 [INDENT]Testo indentato
 [INDENT]Testo ancora più indentato[/INDENT]
