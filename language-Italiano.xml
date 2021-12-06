@@ -10451,14 +10451,14 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_profile_post_has_been_posted" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo messaggio profilo è stato pubblicato.]]></phrase>
   <phrase title="your_profile_post_on_xs_profile_was_edited" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your profile post on {user}'s profile was edited.]]></phrase>
   <phrase title="your_questions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Your questions]]></phrase>
-  <phrase title="your_reply_to_thread_x_was_submitted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Your reply to the thread {title} was submitted.]]></phrase>
+  <phrase title="your_reply_to_thread_x_was_submitted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[La tua risposta al thread {title} è stata pubblicata.]]></phrase>
   <phrase title="your_signature_is_x_characters_too_long" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma è troppo lunga di {count} carattere(i).]]></phrase>
   <phrase title="your_signature_is_x_liness_too_long" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma è troppo lunga di {count} linea(e).]]></phrase>
   <phrase title="your_signature_may_not_contain_disabled_tags" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma non può contenere tag disabilitati.]]></phrase>
   <phrase title="your_signature_may_only_have_x_images" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma può contenere solo {count} immagine(i).]]></phrase>
   <phrase title="your_signature_may_only_have_x_links" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma può contenere solo {count} link.]]></phrase>
   <phrase title="your_signature_may_only_have_x_smilies" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La tua firma può contenere solo {count} smilie.]]></phrase>
-  <phrase title="your_status_update_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your status update was deleted.]]></phrase>
+  <phrase title="your_status_update_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il tuo aggiornamento di stato è stato eliminato.]]></phrase>
   <phrase title="your_status_update_was_edited" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Your <a href="{link}">status update</a> was edited.]]></phrase>
   <phrase title="your_suggestions" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Your suggestions]]></phrase>
   <phrase title="your_thread_x_was_created" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[La tua discussione {title} è stata creata.]]></phrase>
