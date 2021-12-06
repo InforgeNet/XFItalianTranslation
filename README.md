@@ -1,6 +1,11 @@
 # Traduzione Italiana Xenforo 2.x
-Versione attuale: 2.2.1
->Repo per le traduzioni ufficiali di [Inforge.net](https://www.inforge.net) e [Tom's Hardware](https://www.tomshw.it/forum)
+Versione attuale: 2.2.8
+### Sponsor
+Siamo lieti di comunicarvi che la traduzione è attualmente utilizzata dai seguenti forum:
+
+* [Inforge.net](https://www.inforge.net)
+* [Tom's Hardware](https://forum.tomshw.it)
+* [Spaziogames](https://forum.spaziogames.it)
 
 ## Caratteristiche della Traduzione
 La traduzione è rilasciata *opensource*, pertanto il suo download è disponibile liberamente.
