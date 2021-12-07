@@ -1339,21 +1339,21 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="current_avatar" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Avatar attuale]]></phrase>
   <phrase title="current_forum_type" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Tipologia attuale del forum]]></phrase>
   <phrase title="current_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Password attuale]]></phrase>
-  <phrase title="current_profile_banner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Current profile banner]]></phrase>
+  <phrase title="current_profile_banner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Banner profilo attuale]]></phrase>
   <phrase title="current_thread_type" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Attuale tipologia di discussione]]></phrase>
-  <phrase title="current_username" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Current username]]></phrase>
+  <phrase title="current_username" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Username]]></phrase>
   <phrase title="current_version" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Versione attuale]]></phrase>
   <phrase title="current_visitors" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Visitatori attuali]]></phrase>
   <phrase title="custom_bb_code_callback_will_receive_parameters" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questo callback riceverà questi parametri: $tagChildren, $tagOption, $tag,  array $options, \XF\BbCode\Renderer\AbstractRenderer $renderer.]]></phrase>
   <phrase title="custom_bb_codes" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[BB code personalizzati]]></phrase>
   <phrase title="custom_changes" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifiche personalizzate]]></phrase>
   <phrase title="custom_class_extensions" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Estensioni di classe personalizzate]]></phrase>
-  <phrase title="custom_css_class_names" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Custom CSS class name(s)]]></phrase>
+  <phrase title="custom_css_class_names" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nomi di classe CSS personalizzati]]></phrase>
   <phrase title="custom_event_listeners" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Listener di eventi personalizzati]]></phrase>
   <phrase title="custom_fields" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Campi personalizzati]]></phrase>
   <phrase title="custom_modifications" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifiche personalizzate]]></phrase>
   <phrase title="custom_property" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Proprietà personalizzata]]></phrase>
-  <phrase title="custom_score" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Custom score]]></phrase>
+  <phrase title="custom_score" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Punteggio personalizzato]]></phrase>
   <phrase title="custom_template_out_of_date_edited_recently_no_merge" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il template personalizzato non è aggiornato, ma è stato modificato più di recente rispetto al genitore. La fusione può essere fatta solo manualmente.]]></phrase>
   <phrase title="custom_thread_fields" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Campi discussione personalizzati]]></phrase>
   <phrase title="custom_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Titolo personalizzato]]></phrase>
@@ -1370,21 +1370,21 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="dark" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Scuro]]></phrase>
   <phrase title="data_directory" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Data directory]]></phrase>
   <phrase title="data_passed_into_create_widget_config_should_either_be_array_or_entity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I valori passati per creare un WidgetConfig devono essere un array o un entità]]></phrase>
-  <phrase title="data_portability_export_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[This page will allow you to download a user's standard personal information in XML format for the purposes of transferring that data to another system.]]></phrase>
-  <phrase title="data_portability_import_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[The new user will be sent a password reset request to their email address before being able to use their account.]]></phrase>
-  <phrase title="data_to_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Data to import]]></phrase>
+  <phrase title="data_portability_export_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Da questa pagina potrai scaricare le informazioni standard di un utente in formato XML con lo scopo di trasferire tali dati verso un altro sistema.]]></phrase>
+  <phrase title="data_portability_import_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Il nuovo utente riceverà una richiesta di reset password al suo indirizzo e-mail prima di poter utilizzare il suo account.]]></phrase>
+  <phrase title="data_to_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Dati da importare]]></phrase>
   <phrase title="data_type" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tipo di dati]]></phrase>
-  <phrase title="database_does_not_contain_table_called_x" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[The database does not contain a table called '{name}'.]]></phrase>
+  <phrase title="database_does_not_contain_table_called_x" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Il database non contiene una tabella nominata '{name}'.]]></phrase>
   <phrase title="date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data]]></phrase>
   <phrase title="date_format" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Formato data]]></phrase>
-  <phrase title="date_limit" addon_id="XF" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[Date limit]]></phrase>
-  <phrase title="date_limit_explain" addon_id="XF" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[This can be used on busy forums to improve performance by only listing recently posted threads by default.]]></phrase>
+  <phrase title="date_limit" addon_id="XF" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[Limite data]]></phrase>
+  <phrase title="date_limit_explain" addon_id="XF" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[Può essere utile nei forum di grandi dimensioni per migliorare le performance, elencando solo le discussioni postate di recente per impostazionie predefinita.]]></phrase>
   <phrase title="date_of_birth" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data di nascita]]></phrase>
   <phrase title="date_presets" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Data preset]]></phrase>
   <phrase title="date_range" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Data intervallo]]></phrase>
   <phrase title="date_time" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data / ora]]></phrase>
   <phrase title="date_x_at_time_y" addon_id="XF" global_cache="1" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[{date} alle {time}]]></phrase>
-  <phrase title="dates_often_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Dates are often easy to guess.]]></phrase>
+  <phrase title="dates_often_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Le date sono spesso facili da indovinare.]]></phrase>
   <phrase title="day" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Giorno]]></phrase>
   <phrase title="day_friday" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Venerdì]]></phrase>
   <phrase title="day_friday_short" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ven]]></phrase>
@@ -1409,7 +1409,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="debug_mode_is_enabled_changes_will_be_overwritten" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La modalità debug è abilitata, quindi qualsiasi modifica alla versione master di questo add-on verrà sovrascritta.]]></phrase>
   <phrase title="decimal_point_character" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Carattere punto decimale]]></phrase>
   <phrase title="default" addon_id="XF" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Default]]></phrase>
-  <phrase title="default_copyright_notice_branding_has_been_removed" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The default copyright notice/branding has been removed and your license does not permit you to do that.]]></phrase>
+  <phrase title="default_copyright_notice_branding_has_been_removed" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Il copyright è stato rimosso ma la tua licenza non ti da diritto di farlo.]]></phrase>
   <phrase title="default_sort_order" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ordinamento predefinito]]></phrase>
   <phrase title="default_text" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Testo predefinito]]></phrase>
   <phrase title="default_thread_prefix" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Prefisso discussione predefinito]]></phrase>
@@ -1425,7 +1425,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="delay" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ritardo]]></phrase>
   <phrase title="delay_duration_milliseconds" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Durata ritardo (millisecondi)]]></phrase>
   <phrase title="delete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elimina]]></phrase>
-  <phrase title="delete_column" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Delete column]]></phrase>
+  <phrase title="delete_column" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Elimina colonna]]></phrase>
   <phrase title="delete_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Elimina conversazioni]]></phrase>
   <phrase title="delete_conversations_by_spammer" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Elimina conversazioni da spammer]]></phrase>
   <phrase title="delete_current_avatar" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Elimina avatar corrente]]></phrase>
@@ -1455,7 +1455,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="deleted_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Eliminato da {name}]]></phrase>
   <phrase title="deleted_member" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Utente cancellato]]></phrase>
   <phrase title="deleting" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Cancellazione]]></phrase>
-  <phrase title="deleting_files_for_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Deleting files for add-on... ({addOnId})]]></phrase>
+  <phrase title="deleting_files_for_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Sto eliminando i file dell'add-on... ({addOnId})]]></phrase>
   <phrase title="deleting_parent_also_deletes_children" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[L'eliminazione di questa voce cancellerà anche tutti gli elementi figli. Se si desidera che ciò non accada, assegnare a qualsiasi elemento figlio un nuovo elemento genitore prima di continuare con l'eliminazione.]]></phrase>
   <phrase title="deletion_type" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tipo di cancellazione]]></phrase>
   <phrase title="demote_user" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Utente dimostrativo]]></phrase>
@@ -1475,12 +1475,12 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="development_mode_is_enabled_and_dev_output_is_available" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La modalità Sviluppo è abilitata e l'output di sviluppo è disponibile. Se i dati dell'add-on non sono stati esportati di recente, potrebbero essere non aggiornati e questa azione causerebbe la perdita dati. Prendi in considerazione l'idea di esportare prima i dati o di utilizzare l'interfaccia da linea di comando.]]></phrase>
   <phrase title="device_trusted_until_x_disable_desc" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo dispositivo è ritenuto affidabile fino al {until}. Non sarà necessario completare la verifica a due fattori da questo dispositivo fino ad allora. È possibile scegliere di smettere di fidarsi del dispositivo in modo che venga richiesto di completare la verifica a due fattori al successivo accesso.]]></phrase>
   <phrase title="did_not_complete_the_captcha_verification_properly" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La verifica CAPTCHA non è stata completata correttamente. Si prega di riprovare.]]></phrase>
-  <phrase title="directory_specified_as_x_y_not_found_is_not_readable" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[The directory specified as <i>{type}</i>: <code><b>{dir}</b></code> could not be found or is not readable.]]></phrase>
-  <phrase title="directory_x_does_not_contain_expected_contents" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[The directory {dir} does not contain the expected contents.]]></phrase>
-  <phrase title="directory_x_must_be_writable" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[The directory {directory} must be writable. Please change the permissions on this directory to be world writable (chmod 0777). If the directory does not exist, please create it.]]></phrase>
-  <phrase title="directory_x_not_found_is_not_readable" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[The directory '{dir}' could not be found or is not readable.]]></phrase>
+  <phrase title="directory_specified_as_x_y_not_found_is_not_readable" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[La cartella specificata come <i>{type}</i>: <code><b>{dir}</b></code> non può essere trovata o non è leggibile.]]></phrase>
+  <phrase title="directory_x_does_not_contain_expected_contents" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[La cartella {dir} non contiene i contenuti attesi.]]></phrase>
+  <phrase title="directory_x_must_be_writable" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[La cartella {directory} deve essere scrivibile. Verifica che i suoi permessi siano di scrittura globale (chmod 0777). Se la cartella non esiste, creala.]]></phrase>
+  <phrase title="directory_x_not_found_is_not_readable" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[La cartella '{dir}' non può essere trovata o non è possibile leggerne i contenuti.]]></phrase>
   <phrase title="disable" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Disabilita]]></phrase>
-  <phrase title="disable_activity_summary_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Disable activity summary email]]></phrase>
+  <phrase title="disable_activity_summary_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Disabilità l'email di riepilogo attività]]></phrase>
   <phrase title="disable_alerts" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Disabilita avvisi]]></phrase>
   <phrase title="disable_all" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Disabilita tutto]]></phrase>
   <phrase title="disable_auto_linking" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Disabilita auto-linking]]></phrase>
@@ -1525,13 +1525,13 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="display_styling" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra stilizzazione]]></phrase>
   <phrase title="display_styling_priority" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra priorità di stilizzazione]]></phrase>
   <phrase title="display_this_group_in_debug_mode_only" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra questo gruppo in modalità solo debug]]></phrase>
-  <phrase title="display_this_navigation_in_debug_mode_only" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra questa navigazione in modalità solo debug]]></phrase>
-  <phrase title="display_this_navigation_in_development_mode_only" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Display this navigation in development mode only]]></phrase>
+  <phrase title="display_this_navigation_in_debug_mode_only" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra questa navigazione solo in modalità debug]]></phrase>
+  <phrase title="display_this_navigation_in_development_mode_only" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Mostra questa navigazione solo in modalità solo sviluppo (dev)]]></phrase>
   <phrase title="display_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra titolo]]></phrase>
-  <phrase title="display_total_count_in_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Display total count in summary]]></phrase>
+  <phrase title="display_total_count_in_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Visualizza il conteggio totale nel riepilogo]]></phrase>
   <phrase title="display_user_as_staff" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra utente come staff]]></phrase>
   <phrase title="display_votes_publicly" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra voto pubblicamente]]></phrase>
-  <phrase title="display_widget_title_above_list_of_threads" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Display the widget title above the list of threads.]]></phrase>
+  <phrase title="display_widget_title_above_list_of_threads" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Mostra il titolo del widget sopra l'elenco delle discussioni.]]></phrase>
   <phrase title="dnsbl_matched" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[DNSBL abbinato]]></phrase>
   <phrase title="do_not_auto_embed_media_links" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non auto-includere media links]]></phrase>
   <phrase title="do_not_bypass_image_proxy" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Do not bypass image proxy]]></phrase>
@@ -1554,8 +1554,8 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="download_and_install" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Scarica ed installa]]></phrase>
   <phrase title="download_and_upgrade" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Scarica ed aggiorna]]></phrase>
   <phrase title="download_sitemap" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Scarica sitemap]]></phrase>
-  <phrase title="downvote" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Downvote]]></phrase>
-  <phrase title="downvoted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Downvoted]]></phrase>
+  <phrase title="downvote" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Voto giù]]></phrase>
+  <phrase title="downvoted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Votato giù]]></phrase>
   <phrase title="draft_deleted_successfully" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Bozza eliminata con successo.]]></phrase>
   <phrase title="draft_saved_successfully" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Bozza salvata con successo.]]></phrase>
   <phrase title="drafts" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Bozze]]></phrase>
@@ -1592,7 +1592,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="edit_conversation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica conversazione]]></phrase>
   <phrase title="edit_cron_entry" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica cron entry]]></phrase>
   <phrase title="edit_date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica data]]></phrase>
-  <phrase title="edit_dropdown" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Edit dropdown]]></phrase>
+  <phrase title="edit_dropdown" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Modificà menù a cascata]]></phrase>
   <phrase title="edit_extension" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica estensione]]></phrase>
   <phrase title="edit_feed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica feed]]></phrase>
   <phrase title="edit_field" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica campo]]></phrase>
@@ -1601,7 +1601,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="edit_group" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica gruppo]]></phrase>
   <phrase title="edit_help_page" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica pagina Aiuto]]></phrase>
   <phrase title="edit_history" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica storia]]></phrase>
-  <phrase title="edit_interface_group" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica interface group]]></phrase>
+  <phrase title="edit_interface_group" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica gruppo interfaccia]]></phrase>
   <phrase title="edit_language" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica lingua]]></phrase>
   <phrase title="edit_link" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica link]]></phrase>
   <phrase title="edit_link_forum" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica link forum]]></phrase>
@@ -1621,7 +1621,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="edit_post" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Modifica post]]></phrase>
   <phrase title="edit_prefix" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica prefisso]]></phrase>
   <phrase title="edit_prefix_group" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica prefisso gruppo]]></phrase>
-  <phrase title="edit_profile_banner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Edit profile banner]]></phrase>
+  <phrase title="edit_profile_banner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Modifica profilo banner]]></phrase>
   <phrase title="edit_profile_post" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Modifica post profilo]]></phrase>
   <phrase title="edit_profile_post_comment" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Modifica commenti discussione profilo]]></phrase>
   <phrase title="edit_promotion" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica promozione]]></phrase>
@@ -1658,7 +1658,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="edit_x_again" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica {name} ancora.]]></phrase>
   <phrase title="edit_your_account_details" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica i dettagli del tuo account]]></phrase>
   <phrase title="editable_by_user_groups" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Editable by user groups]]></phrase>
-  <phrase title="editable_only_once" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Editable only once]]></phrase>
+  <phrase title="editable_only_once" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Modificabile solo una volta]]></phrase>
   <phrase title="edited_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modificato da {name}]]></phrase>
   <phrase title="editing_master_embed_html_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Attualmente stai modificando la versione "Master" di questo template. I cambiamenti potrebbero non essere rispecchiati negli stili figli modificati.]]></phrase>
   <phrase title="editor_dropdown.xfList" addon_id="" version_id="0" version_string=""><![CDATA[List]]></phrase>
@@ -1670,7 +1670,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="else_if_tag_found_after_else_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Else if tag found after else tag.]]></phrase>
   <phrase title="email" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Email]]></phrase>
   <phrase title="email_address" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Email address]]></phrase>
-  <phrase title="email_address_contains" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[User's email address contains]]></phrase>
+  <phrase title="email_address_contains" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[L'indirizzo email utente contiene]]></phrase>
   <phrase title="email_address_you_entered_appears_have_typo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'indirizzo email che hai inserito sembra avere un errore. Per favore, inseriscine un altro.]]></phrase>
   <phrase title="email_address_you_entered_has_been_banned_by_administrator" addon_id="XF" version_id="0" version_string=""><![CDATA[L'indirizzo email che hai inserito è stato bannato da un amministratore. Per favore, inseriscine un altro.]]></phrase>
   <phrase title="email_address_you_registered_with_is_required_to_reset_your_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[L'indirizzo email con il quale ti sei registrato è necessario per resettare la password.]]></phrase>
@@ -1694,32 +1694,32 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="email_format" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Formato email]]></phrase>
   <phrase title="email_handler_setup" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Email handler setup]]></phrase>
   <phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[É stata inviata un email a <b>{email}</b> con un codice ad uso singolo. Si prega di inserire tale codice per proseguire.]]></phrase>
-  <phrase title="email_invalid_bounced" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Email invalid (bounced)]]></phrase>
-  <phrase title="email_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email list]]></phrase>
+  <phrase title="email_invalid_bounced" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Email non valida (rimbalzata)]]></phrase>
+  <phrase title="email_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lista Email]]></phrase>
   <phrase title="email_options" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Opzioni email]]></phrase>
   <phrase title="email_options_row_explain" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Puoi trovare delle opzioni email aggiuntive su <a href="{preferencesLink}">Preferenze</a>.]]></phrase>
-  <phrase title="email_search_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[You may enter one or more text snippets separated by commas, and users whose email addresses contain any of the snippets will match the criteria.]]></phrase>
-  <phrase title="email_setup_explain" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You will need to navigate to Google's <a href="https://developers.google.com/console" target="_blank">Developer Console</a> and setup a new project with OAuth 2.0 credentials for a web application. If you are using G Suite, creating an app with an internal user type is recommended to avoid a lengthy review process. In all cases, you will need to ensure the credentials support redirecting to the following URL]]></phrase>
+  <phrase title="email_search_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Puoi inserire una o più porzioni di testo separate da una virgola, e gli utenti i cui indirizzi email contengono uno di questi testi corrisponderanno ai criteri..]]></phrase>
+  <phrase title="email_setup_explain" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Devi accedere alla <a href="https://developers.google.com/console" target="_blank">Google Developer Console</a> e creare un nuovo progetto con le credenziali OAuth 2.0 per un'applicazione web. Se stai usando G Suite, creare un'app con le 'internal user type' è raccomandato per evitare lunghi tempi di approvazione. In ogni caso, assicurati che le credenziali supportino il reidrect al seguente URL]]></phrase>
   <phrase title="email_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email templates]]></phrase>
-  <phrase title="email_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email title]]></phrase>
+  <phrase title="email_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titolo Email]]></phrase>
   <phrase title="email_to_ban" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Email da bannare]]></phrase>
   <phrase title="email_transport_class" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Classe di trasporto email]]></phrase>
   <phrase title="email_transport_setup" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Email transport setup]]></phrase>
-  <phrase title="email_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email users]]></phrase>
-  <phrase title="email_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You can use this form to send a mass email to the users which match the criteria specified below.]]></phrase>
+  <phrase title="email_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti email]]></phrase>
+  <phrase title="email_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Puoi utilizzare questo form per inviare una email di massa agli utenti che corrispondono ai criteri specificati in basso.]]></phrase>
   <phrase title="email_was_sent_successfully_with_no_errors" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[L'email è stata spedita senza errori.]]></phrase>
-  <phrase title="emailing" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Emailing]]></phrase>
+  <phrase title="emailing" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Sto inviando le email]]></phrase>
   <phrase title="emails" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Email]]></phrase>
-  <phrase title="emails_bounced" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Emails bounced]]></phrase>
+  <phrase title="emails_bounced" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email rimbalzate]]></phrase>
   <phrase title="embed_html_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed HTML callback]]></phrase>
-  <phrase title="embed_html_callback_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This optional callback may be used to completely override the standard embedHTML output method, allowing more advanced manipulation.<br />
+  <phrase title="embed_html_callback_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Un callback opzionale è utilizzare per sovrascrivere completamente lo standard embedHTML, consentendo una manipolazione dell'output avanzata.<br />
 <br />
-Your callback should return an HTML string, and have a signature as follows:<br />
+Il tuo callback dovrebbe restituire una stringa HTML e utilizzare una signature come la seguente:<br />
 <br />
 <code>public static function myCallback($mediaKey, array $site, $siteId)</code>]]></phrase>
   <phrase title="embed_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed template]]></phrase>
   <phrase title="embedded_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embedded media]]></phrase>
-  <phrase title="embedded_youtube_player_would_appear_here" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[An embedded YouTube player would appear here.]]></phrase>
+  <phrase title="embedded_youtube_player_would_appear_here" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Un player Youtube incorporato apparirà qui.]]></phrase>
   <phrase title="emoji.100" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hundred points]]></phrase>
   <phrase title="emoji.1234" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Input numbers]]></phrase>
   <phrase title="emoji.8ball" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Pool 8 ball]]></phrase>
