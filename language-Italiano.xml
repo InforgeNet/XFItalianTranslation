@@ -5292,38 +5292,38 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="encryption" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Codifica]]></phrase>
   <phrase title="end_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data di fine]]></phrase>
   <phrase title="engaged_in_conversation" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Occupato in una conversazione]]></phrase>
-  <phrase title="enter_display_order_relative_to_other_ads_in_same_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter a display order relative to other ads in the same position.]]></phrase>
+  <phrase title="enter_display_order_relative_to_other_ads_in_same_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci un ordine di visualizzazione relativo ad altri annunci nella stessa posizione.]]></phrase>
   <phrase title="enter_email_address_of_gravatar_you_want_to_use" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Inserisci l'indirizzo email del Gravatar che vuoi utilizzare.]]></phrase>
-  <phrase title="enter_id_where_you_want_user_entered_media_id_to_be_used" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enter {$id} where you want the user-entered media ID to be used.]]></phrase>
+  <phrase title="enter_id_where_you_want_user_entered_media_id_to_be_used" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Inserisci l'{$id} dove vuoi che l'ID del media inserito dall'utente venga utilizzato.]]></phrase>
   <phrase title="enter_media_url" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Inserisci il link del media]]></phrase>
   <phrase title="enter_multiple_values_to_replace_on_separate_lines" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Puoi inserire più valori se li posizioni in linee separate.]]></phrase>
-  <phrase title="enter_name_of_existing_user_conversation_should_be_started_by" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Enter the name of an existing user the conversation should be started by.]]></phrase>
-  <phrase title="enter_page_title_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter page title format]]></phrase>
-  <phrase title="enter_payment_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter payment details]]></phrase>
-  <phrase title="enter_spoiler_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter spoiler title]]></phrase>
+  <phrase title="enter_name_of_existing_user_conversation_should_be_started_by" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Inserisci il nome di un utente esistente da cui la conversazione dovrebbe essere iniziata..]]></phrase>
+  <phrase title="enter_page_title_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci il formato del titolo della pagina]]></phrase>
+  <phrase title="enter_payment_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci dettagli di pagamento]]></phrase>
+  <phrase title="enter_spoiler_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci titolo della spoiler]]></phrase>
   <phrase title="enter_spoiler_title_explain" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Se vuoi che il pulsante 'Spoiler' mostri un titolo, scrivilo qui, altrimenti lascia vuoto questo campo.]]></phrase>
-  <phrase title="enter_username_key_authenticate_as" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enter the username of the user this key should authenticate as.]]></phrase>
-  <phrase title="entering_password_is_required" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[E' necessario inserire una password]]></phrase>
-  <phrase title="error" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Error]]></phrase>
-  <phrase title="error_occurred_while_compiling_advertisement_html" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[An error occurred while compiling advertisement HTML]]></phrase>
-  <phrase title="error_occurred_while_connecting_with_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[An error occurred while connecting with {provider}. Please try again later.]]></phrase>
-  <phrase title="error_occurred_while_connecting_with_x_error_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[An error occurred while connecting with {provider}. Error: {error}]]></phrase>
-  <phrase title="error_occurred_while_creating_stripe_card_token" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[An error occurred while creating a Stripe card token.]]></phrase>
-  <phrase title="error_occurred_while_creating_stripe_customer" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Error occurred while creating Stripe customer. Please try again later.]]></phrase>
-  <phrase title="error_occurred_while_creating_stripe_plan" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Error occurred while creating Stripe plan. Please try again later.]]></phrase>
-  <phrase title="error_occurred_while_creating_stripe_product" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Error occurred while creating Stripe product. Please try again later.]]></phrase>
-  <phrase title="error_occurred_while_creating_stripe_subscription" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Error occurred while creating Stripe subscription. Please try again later.]]></phrase>
-  <phrase title="error_occurred_while_uploading_files" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[An error occurred while uploading the file(s).]]></phrase>
-  <phrase title="errors_were_encountered_while_trying_to_send_email" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Errors were encountered while trying to send the email.]]></phrase>
+  <phrase title="enter_username_key_authenticate_as" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inserisci il nome utente dell'utente con cui questa chiave si autenticherà.]]></phrase>
+  <phrase title="entering_password_is_required" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[È necessario inserire una password]]></phrase>
+  <phrase title="error" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Errore]]></phrase>
+  <phrase title="error_occurred_while_compiling_advertisement_html" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Si è verificato un errore durante la compilazione del codice HTML pubblicitario.]]></phrase>
+  <phrase title="error_occurred_while_connecting_with_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Si è verificato un errore tentando un collegamento a {provider}. Si prega di riprovare più tardi.]]></phrase>
+  <phrase title="error_occurred_while_connecting_with_x_error_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Si è verificato un errore tentando un collegamento a {provider}. Errore: {error}]]></phrase>
+  <phrase title="error_occurred_while_creating_stripe_card_token" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Si è verificato un errore durante la creazione di un token Stripe card.]]></phrase>
+  <phrase title="error_occurred_while_creating_stripe_customer" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Si è verificato un errore durante la creazione del cliente Stripe. Si prega di riprovare più tardi.]]></phrase>
+  <phrase title="error_occurred_while_creating_stripe_plan" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Si è verificato un errore durante la creazione di un piano Stripe. Si prega di riprovare più tardi.]]></phrase>
+  <phrase title="error_occurred_while_creating_stripe_product" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Si è verificato un errore durante la creazione di un prodotto Stripe. Si prega di riprovare più tardi.]]></phrase>
+  <phrase title="error_occurred_while_creating_stripe_subscription" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Si è verificato un errore durante la creazione di una sottoscrizione Stripe. Si prega di riprovare più tardi.]]></phrase>
+  <phrase title="error_occurred_while_uploading_files" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Si è verificato un errore durante il caricamento de(l/i) file.]]></phrase>
+  <phrase title="errors_were_encountered_while_trying_to_send_email" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Si sono verificati degli errori durante l'invio delle email.]]></phrase>
   <phrase title="event_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Event hint]]></phrase>
   <phrase title="event_id" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Event ID]]></phrase>
   <phrase title="everyone" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tutti]]></phrase>
   <phrase title="everywhere" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[In tutto il sito]]></phrase>
-  <phrase title="exact_match" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Exact match]]></phrase>
+  <phrase title="exact_match" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Corrispondenza esatta]]></phrase>
   <phrase title="example" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Esempio]]></phrase>
   <phrase title="example_output" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Output esempio]]></phrase>
   <phrase title="example_usage" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Esempio utilizzo]]></phrase>
-  <phrase title="excellent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Excellent]]></phrase>
+  <phrase title="excellent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eccellente]]></phrase>
   <phrase title="exclude_selected" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Exclude selected]]></phrase>
   <phrase title="execute_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execute callback]]></phrase>
   <phrase title="execution_has_been_allowed_to_continue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execution has been allowed to continue.]]></phrase>
