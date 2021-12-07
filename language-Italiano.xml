@@ -6777,7 +6777,7 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="oops_we_ran_into_some_problems_more_details_console" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abbiamo trovato un problema. Riprova più tardi. Potrebbero esserci più dettagli dell'errore nella console del browser.]]></phrase>
   <phrase title="open" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Aperta]]></phrase>
   <phrase title="open_in_overlay" addon_id="XF" version_id="1000070" version_string="1.0.0"><![CDATA[Open this link in an overlay]]></phrase>
-  <phrase title="open_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Open link]]></phrase>
+  <phrase title="open_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Apri link]]></phrase>
   <phrase title="open_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Apri discussione]]></phrase>
   <phrase title="openssl_php_extension_required_tls_or_ssl_encryption" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[The <a href="https://secure.php.net/manual/en/book.openssl.php" target="_blank"><code>openssl</code></a> PHP extension is required to use TLS or SSL encryption.]]></phrase>
   <phrase title="openssl_version" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[OpenSSL version]]></phrase>
