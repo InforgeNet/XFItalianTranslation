@@ -5252,45 +5252,45 @@ Il tuo callback dovrebbe restituire una stringa HTML e utilizzare una signature 
   <phrase title="emoji_category.travel" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Travel]]></phrase>
   <phrase title="emoji_source_path_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The value above should be a relative or absolute URL path to the directory where the relevant PNG files are stored.]]></phrase>
   <phrase title="emojione_by_emojione" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[Emoji <a href="https://www.joypixels.com/" target="_blank">by JoyPixels</a>]]></phrase>
-  <phrase title="empty_values_always_allowed" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Empty values are always allowed.]]></phrase>
+  <phrase title="empty_values_always_allowed" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[I campi vuoti sono sempre permessi.]]></phrase>
   <phrase title="enable" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Abilita]]></phrase>
-  <phrase title="enable_activity_summary_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Enable activity summary email]]></phrase>
-  <phrase title="enable_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable alerts]]></phrase>
-  <phrase title="enable_apple_pay_support" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Apple Pay support]]></phrase>
-  <phrase title="enable_apple_pay_support_braintree_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Requires an Apple Developer account and additional setup in your Braintree Dashboard.]]></phrase>
-  <phrase title="enable_automated_email_handler" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enable automated email handler]]></phrase>
-  <phrase title="enable_cache_and_cache_for_x_minutes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable cache and cache for X minutes]]></phrase>
-  <phrase title="enable_callback_execution" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable callback execution]]></phrase>
+  <phrase title="enable_activity_summary_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Abilita l'email di riepilogo dell'attività]]></phrase>
+  <phrase title="enable_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita gli avvisi]]></phrase>
+  <phrase title="enable_apple_pay_support" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita supporto Apple Pay]]></phrase>
+  <phrase title="enable_apple_pay_support_braintree_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Richiede un account sviluppatore Apple e una configurazione aggiuntiva nella tua Dashboard Braintree.]]></phrase>
+  <phrase title="enable_automated_email_handler" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Abilita il gestore automatico delle email]]></phrase>
+  <phrase title="enable_cache_and_cache_for_x_minutes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita cache per X minuti]]></phrase>
+  <phrase title="enable_callback_execution" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita esecuzione callback]]></phrase>
   <phrase title="enable_disable_route_filter" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Attiva / disattiva filtro route]]></phrase>
   <phrase title="enable_disable_x" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Attiva / disattiva '{title}']]></phrase>
-  <phrase title="enable_email_confirmation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable email confirmation]]></phrase>
+  <phrase title="enable_email_confirmation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita conferma email]]></phrase>
   <phrase title="enable_email_notification" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abilita notifiche email]]></phrase>
   <phrase title="enable_extension" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Abilita estensione]]></phrase>
-  <phrase title="enable_manual_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable manual approval]]></phrase>
+  <phrase title="enable_manual_approval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita approvazione manuale]]></phrase>
   <phrase title="enable_moderation" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Abilita moderazione]]></phrase>
   <phrase title="enable_notifications" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Abilita notifiche]]></phrase>
-  <phrase title="enable_payment_request_api_support" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Enable Payment Request API support]]></phrase>
-  <phrase title="enable_payment_request_api_support_stripe_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[The <a href="https://w3c.github.io/payment-request/" target="_blank">Payment Request API</a> is a browser standard which allows customers with a compatible browser to pay for goods and services without having to re-enter their payment details.<br />
+  <phrase title="enable_payment_request_api_support" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Abilita supporto Payment Request API]]></phrase>
+  <phrase title="enable_payment_request_api_support_stripe_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Il <a href="https://w3c.github.io/payment-request/" target="_blank">Payment Request API</a> è uno standard browser che permette agli utenti di pagare per beni e servizi senza dover reinserire i dettagli di pagamento.<br />
 <br />
-If enabled, users will be able to pay with Apple Pay, Android Pay, Google Pay and Microsoft Pay in addition to a valid credit/debit card. <a href="https://dashboard.stripe.com/account/apple_pay" target="_blank">Apple Pay requires additional set up in your Stripe Dashboard</a>.]]></phrase>
-  <phrase title="enable_paypal_support" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable PayPal support]]></phrase>
-  <phrase title="enable_paypal_support_braintree_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Requires a PayPal Business account and additional setup in your Braintree Dashboard.]]></phrase>
-  <phrase title="enable_people_you_follow_row" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable 'People you follow' row]]></phrase>
-  <phrase title="enable_promotion" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Enable promotion]]></phrase>
-  <phrase title="enable_promotion_for_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable promotion for user]]></phrase>
+Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, Google Pay e Microsoft Pay, assieme ad una carta di credito/debito valida. <a href="https://dashboard.stripe.com/account/apple_pay" target="_blank">Apple Pay richiede configurazioni aggiuntive da effettuare nella Stripe Dashboard</a>.]]></phrase>
+  <phrase title="enable_paypal_support" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita supporto PayPal]]></phrase>
+  <phrase title="enable_paypal_support_braintree_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[È richiesto un account PayPal Business e una configurazione aggiuntiva nella tua Dashboard Braintree.]]></phrase>
+  <phrase title="enable_people_you_follow_row" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita riga 'Utenti che segui']]></phrase>
+  <phrase title="enable_promotion" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Abilita promozione]]></phrase>
+  <phrase title="enable_promotion_for_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita promozione per utente]]></phrase>
   <phrase title="enable_push_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Le notifiche push richiedono un dispositivo supportato. Abilitare le notifiche push significa abilitarle solo su questo dispositivo. Se effettui il logout, dovrai riabilitare le notifiche push.]]></phrase>
-  <phrase title="enable_registration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable registration]]></phrase>
+  <phrase title="enable_registration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita registrazioni]]></phrase>
   <phrase title="enable_sprite_mode_with_following_parameters" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Abilita la modalità sprite CSS con i seguenti parametri:]]></phrase>
-  <phrase title="enable_staff_online_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable 'Staff online' block]]></phrase>
+  <phrase title="enable_staff_online_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita blocco 'Staff online']]></phrase>
   <phrase title="enable_sub_category_notifications" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abilita notifiche della sotto-categoria]]></phrase>
-  <phrase title="enable_writing_before_registering" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Enable writing before registering]]></phrase>
+  <phrase title="enable_writing_before_registering" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Consenti di scrivere prima della registrazione]]></phrase>
   <phrase title="enabled" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Attivato]]></phrase>
   <phrase title="enabled_providers_x" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Attivo ({providers})]]></phrase>
-  <phrase title="enabling_push_notifications_requires_php_7_1" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enabling push notifications requires PHP 7.1.0 or above. You are currently using PHP {phpversion}.]]></phrase>
-  <phrase title="enabling_push_notifications_requires_php_to_have_following_extensions" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Enabling push notifications requires PHP to have the following extensions available: {extensions}]]></phrase>
-  <phrase title="enabling_push_notifications_requires_site_to_be_accessible_over_https" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enabling push notifications requires the site to be accessible over HTTPS.]]></phrase>
-  <phrase title="encryption" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Encryption]]></phrase>
-  <phrase title="end_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[End date]]></phrase>
+  <phrase title="enabling_push_notifications_requires_php_7_1" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Le Notifiche Push richiedono PHP 7.1.0 o superiore. Al momento la tua versione PHP è {phpversion}.]]></phrase>
+  <phrase title="enabling_push_notifications_requires_php_to_have_following_extensions" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Le Notifiche Push richiedono le seguenti estensioni: {extensions}]]></phrase>
+  <phrase title="enabling_push_notifications_requires_site_to_be_accessible_over_https" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[È necessario che il tuo sito sia accessibile attraverso protocollo HTTPS per abilitare le Notifiche Push.]]></phrase>
+  <phrase title="encryption" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Codifica]]></phrase>
+  <phrase title="end_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data di fine]]></phrase>
   <phrase title="engaged_in_conversation" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Occupato in una conversazione]]></phrase>
   <phrase title="enter_display_order_relative_to_other_ads_in_same_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter a display order relative to other ads in the same position.]]></phrase>
   <phrase title="enter_email_address_of_gravatar_you_want_to_use" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Inserisci l'indirizzo email del Gravatar che vuoi utilizzare.]]></phrase>
