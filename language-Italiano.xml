@@ -5324,20 +5324,20 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="example_output" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Output esempio]]></phrase>
   <phrase title="example_usage" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Esempio utilizzo]]></phrase>
   <phrase title="excellent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eccellente]]></phrase>
-  <phrase title="exclude_selected" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Exclude selected]]></phrase>
-  <phrase title="execute_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execute callback]]></phrase>
-  <phrase title="execution_has_been_allowed_to_continue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execution has been allowed to continue.]]></phrase>
-  <phrase title="execution_order" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execution order]]></phrase>
-  <phrase title="exif_support" addon_id="XF" version_id="2001170" version_string="2.0.11"><![CDATA[EXIF support]]></phrase>
-  <phrase title="existing" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Existing]]></phrase>
-  <phrase title="existing_attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Existing attachments]]></phrase>
-  <phrase title="existing_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Existing thread]]></phrase>
-  <phrase title="expand_log_details" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Expand log details]]></phrase>
-  <phrase title="expanded" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Expanded]]></phrase>
-  <phrase title="expanded_articles_per_page" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Expanded articles per page]]></phrase>
-  <phrase title="expanded_articles_per_page_explain" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[This allows you to override the number of articles shown per page when viewing this forum. Use 0 to display the standard amount.]]></phrase>
-  <phrase title="expected_simple_variable_reference_but_did_not_receive_one" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Expected a simple variable reference but did not receive one.]]></phrase>
-  <phrase title="expected_valid_expression" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Expected valid expression.]]></phrase>
+  <phrase title="exclude_selected" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Escludi selezionati]]></phrase>
+  <phrase title="execute_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esegui callback]]></phrase>
+  <phrase title="execution_has_been_allowed_to_continue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'esecuzione è autorizzata a proseguire.]]></phrase>
+  <phrase title="execution_order" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ordine di esecuzione]]></phrase>
+  <phrase title="exif_support" addon_id="XF" version_id="2001170" version_string="2.0.11"><![CDATA[Supporto EXIF]]></phrase>
+  <phrase title="existing" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Esistente]]></phrase>
+  <phrase title="existing_attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allegati esistenti]]></phrase>
+  <phrase title="existing_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione esistente]]></phrase>
+  <phrase title="expand_log_details" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Espandi dettagli log]]></phrase>
+  <phrase title="expanded" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Espanso]]></phrase>
+  <phrase title="expanded_articles_per_page" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Articoli espansi per pagina]]></phrase>
+  <phrase title="expanded_articles_per_page_explain" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Ti permette di sovrascrivere il numero di articoli mostrati per pagina quando si visualizza questo forum. Usa 0 per visualizzare la quantità standard.]]></phrase>
+  <phrase title="expected_simple_variable_reference_but_did_not_receive_one" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Era attenso un semplice riferimento ad una variabile, ma non l'ha ricevuto.]]></phrase>
+  <phrase title="expected_valid_expression" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Espressione valida richiesta.]]></phrase>
   <phrase title="expire_in_time" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Scade in]]></phrase>
   <phrase title="expire_now" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Scade ora]]></phrase>
   <phrase title="expired" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Scaduto]]></phrase>
@@ -5346,73 +5346,73 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="expires_never" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Scadenza: Mai]]></phrase>
   <phrase title="expires_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Scade il {date}]]></phrase>
   <phrase title="expiry" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Scadenza]]></phrase>
-  <phrase title="explanation" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Explanation]]></phrase>
+  <phrase title="explanation" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Spiegazione]]></phrase>
   <phrase title="export" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Esporta]]></phrase>
-  <phrase title="export_as_archive" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Export as archive]]></phrase>
-  <phrase title="export_as_independent_style" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Export as independent style]]></phrase>
-  <phrase title="export_as_xml" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Export as XML]]></phrase>
+  <phrase title="export_as_archive" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Esporta come archivio]]></phrase>
+  <phrase title="export_as_independent_style" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Esporta come stile indipendente]]></phrase>
+  <phrase title="export_as_xml" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Esporta come XML]]></phrase>
   <phrase title="export_from_add_on" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Esporta dall'add-on]]></phrase>
   <phrase title="export_language" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Esporta lingua]]></phrase>
-  <phrase title="export_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Export style]]></phrase>
-  <phrase title="export_style_as_archive" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Export style as archive]]></phrase>
-  <phrase title="export_style_as_xml" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Export style as XML]]></phrase>
-  <phrase title="export_user" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Export a user]]></phrase>
+  <phrase title="export_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esporta stile]]></phrase>
+  <phrase title="export_style_as_archive" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Esporta stile come archivio]]></phrase>
+  <phrase title="export_style_as_xml" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Esporta stile come XML]]></phrase>
+  <phrase title="export_user" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Esporta un utente]]></phrase>
   <phrase title="extension_class_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extension class name]]></phrase>
   <phrase title="extension_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Extension names may only contain A-Z, 0-9 and underscores.]]></phrase>
   <phrase title="extension_names_must_be_literal_strings" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Extension names must be literal strings.]]></phrase>
   <phrase title="extension_x_already_defined" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The extension '{name}' has already been defined.]]></phrase>
   <phrase title="extra" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Extra]]></phrase>
-  <phrase title="extra_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra attributes]]></phrase>
-  <phrase title="extra_copyright" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[<a href="https://github.com/InforgeNet/XFItalianTranslation" rel="nofollow">Traduzione italiana</a> a cura di Stefano Novelli & Alessio DP]]></phrase>
+  <phrase title="extra_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attributi extra]]></phrase>
+  <phrase title="extra_copyright" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[<a href="https://github.com/InforgeNet/XFItalianTranslation" rel="nofollow">Traduzione italiana Xenforo</a>]]></phrase>
   <phrase title="extra_email_footer_html" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (HTML)]]></phrase>
-  <phrase title="extra_email_footer_plain_text" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (plain text)]]></phrase>
+  <phrase title="extra_email_footer_plain_text" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (testo semplice)]]></phrase>
   <phrase title="extra_footer_copyright" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra footer copyright]]></phrase>
   <phrase title="extra_small_toolbar" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Extra small toolbar]]></phrase>
   <phrase title="extra_small_toolbar_desc" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[For extra small devices (< 768px)]]></phrase>
-  <phrase title="extra_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra user groups]]></phrase>
+  <phrase title="extra_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gruppi utente extra]]></phrase>
   <phrase title="facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Facebook]]></phrase>
   <phrase title="failed" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Fallito]]></phrase>
   <phrase title="faq" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[FAQ]]></phrase>
-  <phrase title="feed_is_active" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Feed is active]]></phrase>
+  <phrase title="feed_is_active" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Il feed è attivo]]></phrase>
   <phrase title="feed_message_template_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Per includere il contenuto fornito dal feed lascia il campo vuoto oppure fornisci il tuo testo aggiuntivo. Puoi anche utilizzare uno dei token presenti da aggiungere al tuo feed:
 <br />{title} {content} {author} {link}]]></phrase>
   <phrase title="fetch_gravatars_for_users_with_no_avatar" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Cattura Gravatar degli utenti che non hanno avatar]]></phrase>
   <phrase title="fetch_gravatars_job_explain" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Qualsiasi utente che non ha un avatar riceverà il <a href="https://gravatar.com" target="_blank">Gravatar</a> corrispondente alla propria email.]]></phrase>
   <phrase title="fetch_new_entries_every" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fetch new entries every]]></phrase>
-  <phrase title="fetching" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fetching]]></phrase>
-  <phrase title="field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Field]]></phrase>
-  <phrase title="field_definition_require_future_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Date in the future]]></phrase>
-  <phrase title="field_definition_require_past_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Date in the past]]></phrase>
-  <phrase title="field_definition_require_whole_number" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Require whole number (no decimal point)]]></phrase>
-  <phrase title="field_display_html_description" addon_id="XF" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[If not empty, this allows you to format the value of this field using HTML, allowing you to do things like link or mark up the output. You may use these placeholders: <b>{$value}</b> - the field's display value; <b>{$valueUrl}</b> - the field's display value for use in a URL, <b>{$choice}</b> - the underlying value of the chosen option, and <b>{$fieldId}</b> - the ID of this field (<span id="FieldId">{fieldId}</span>).]]></phrase>
-  <phrase title="field_id" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field ID]]></phrase>
-  <phrase title="field_ids_must_be_unique" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="field_is_required" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field is required]]></phrase>
+  <phrase title="fetching" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Recuperando]]></phrase>
+  <phrase title="field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Campo]]></phrase>
+  <phrase title="field_definition_require_future_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data nel futuro]]></phrase>
+  <phrase title="field_definition_require_past_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data nel passato]]></phrase>
+  <phrase title="field_definition_require_whole_number" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Richiede un numero intero (senza punto decimale)]]></phrase>
+  <phrase title="field_display_html_description" addon_id="XF" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[Se non è vuoto, questo ti permette di formattare il valore di questo campo usando l'HTML, permettendoti di fare cose come creare collegamenti o formattare l'output. Puoi utilizzare queste variabili: <b>{$value}</b> - the field's display value; <b>{$valueUrl}</b> - the field's display value for use in a URL, <b>{$choice}</b> - the underlying value of the chosen option, and <b>{$fieldId}</b> - the ID of this field (<span id="FieldId">{fieldId}</span>).]]></phrase>
+  <phrase title="field_id" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[ID Campo]]></phrase>
+  <phrase title="field_ids_must_be_unique" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Il Campo ID deve essere univoco. L'ID specificato è già in uso.]]></phrase>
+  <phrase title="field_is_required" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Il campo è richiesto]]></phrase>
   <phrase title="field_name" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Nome campo]]></phrase>
-  <phrase title="field_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Field type]]></phrase>
+  <phrase title="field_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tipo campo]]></phrase>
   <phrase title="field_value_maintained_addon_upgrade_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il valore di questo campo non verrà modificato quando questo componente aggiuntivo viene aggiornato.]]></phrase>
-  <phrase title="field_x_is_not_editable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Field {title} is not editable.]]></phrase>
+  <phrase title="field_x_is_not_editable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il campo {title} non è modificabile.]]></phrase>
   <phrase title="file_check_results_file_not_found_please_rerun" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il file della verifica d'integrità non è stato trovato. Si prega di ri-eseguire la verifica.]]></phrase>
-  <phrase title="file_contents_unexpected" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[File does not contain expected contents.]]></phrase>
-  <phrase title="file_could_not_be_opened_as_valid_style_archive_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[File could not be opened as a valid style archive ({reason}).]]></phrase>
-  <phrase title="file_does_not_appear_to_be_valid_add_on_archive_as_expected" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[File does not appear to be a valid add-on archive as expected.]]></phrase>
+  <phrase title="file_contents_unexpected" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[Il file non contiene i contenuti attesi.]]></phrase>
+  <phrase title="file_could_not_be_opened_as_valid_style_archive_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Il file non può essere aperto come un archivio di stile valido ({reason}).]]></phrase>
+  <phrase title="file_does_not_appear_to_be_valid_add_on_archive_as_expected" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Il file non sembra essere un archivio add-on valido come previsto.]]></phrase>
   <phrase title="file_health_check" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Verifica integrità file]]></phrase>
   <phrase title="file_health_check_description" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[<p>Questo sistema effettuerà un controllo dei file di XenForo e le sue add-on per identificari possibili file mancanti o contenuti che non corrispondono a ciò che è richiesto.</p>
 
 <p>Può essere utile per controllare se i file sono stati caricati correttamente.</p>
 
 <p>Clicca il bottone <b>{button}</b> sottostante per eseguire il controllo.</p>]]></phrase>
-  <phrase title="file_health_check_okay" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[All {numFiles} checked files are present and correct.]]></phrase>
+  <phrase title="file_health_check_okay" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[Tutti i {numFiles} file sono presenti e corretti.]]></phrase>
   <phrase title="file_health_check_results" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Risultati verifica d'integrità]]></phrase>
   <phrase title="file_healthcheck_warnings_on_x" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Avvisi controllo integrità file su {board_title}]]></phrase>
-  <phrase title="file_is_not_valid_style_archive" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[File is not a valid style archive.]]></phrase>
-  <phrase title="file_is_too_large" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[File is too large.]]></phrase>
-  <phrase title="file_not_an_image" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[File is not an image.]]></phrase>
-  <phrase title="file_not_found" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[File not found.]]></phrase>
-  <phrase title="file_or_directory_not_found_at_path_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[File/directory not found at path: {path}]]></phrase>
-  <phrase title="file_too_large_to_upload" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[The file is too large to be uploaded.]]></phrase>
-  <phrase title="files_being_uploaded_are_you_sure" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Files are still being uploaded. Are you sure you want to submit this form?]]></phrase>
-  <phrase title="files_could_not_be_extracted_from_add_on_archive" addon_id="XF" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[Files could not be extracted from the add-on archive. Please ensure the archive is not password protected.]]></phrase>
+  <phrase title="file_is_not_valid_style_archive" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Il file non è un archivio di stile valido.]]></phrase>
+  <phrase title="file_is_too_large" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Il file è troppo grande.]]></phrase>
+  <phrase title="file_not_an_image" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Il file non è un'immagine.]]></phrase>
+  <phrase title="file_not_found" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[File non trovato.]]></phrase>
+  <phrase title="file_or_directory_not_found_at_path_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[File/cartella non trovati nel percorso: {path}]]></phrase>
+  <phrase title="file_too_large_to_upload" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Il file è troppo grande per essere caricato.]]></phrase>
+  <phrase title="files_being_uploaded_are_you_sure" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[I file devono ancora essere caricati. Sei sicuro di voler inviare il modulo?]]></phrase>
+  <phrase title="files_could_not_be_extracted_from_add_on_archive" addon_id="XF" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[I file non possono essere estratti dall'archivio add-on. Per favore assicurati che l'archivio non sia protetto da password.]]></phrase>
   <phrase title="files_for_this_add_on_cannot_be_deleted" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[The files for this add-on cannot be deleted.]]></phrase>
   <phrase title="filter" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Usa filtri]]></phrase>
   <phrase title="filter_by_label" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Filtra per etichetta]]></phrase>
@@ -5424,37 +5424,37 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="filter_unread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non letti]]></phrase>
   <phrase title="filter_watched" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Seguiti]]></phrase>
   <phrase title="filters" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Filtri]]></phrase>
-  <phrase title="finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Finalize import]]></phrase>
-  <phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Finalizing]]></phrase>
+  <phrase title="finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Concludi importazione]]></phrase>
+  <phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Completando...]]></phrase>
   <phrase title="find" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trova]]></phrase>
   <phrase title="find_all_content_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trova tutti i contenuti di {name}]]></phrase>
   <phrase title="find_all_threads_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trova tutte le discussioni di {name}]]></phrase>
-  <phrase title="find_and_replace_fields_must_have_same_number_of_wildcards" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The find and replace fields must have the same number of wildcards.]]></phrase>
+  <phrase title="find_and_replace_fields_must_have_same_number_of_wildcards" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Il "trova e sostituisci" deve avere lo stesso numero di wildcards.]]></phrase>
   <phrase title="find_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Trova contenuto]]></phrase>
   <phrase title="find_reports" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Cerca segnalazioni]]></phrase>
   <phrase title="find_reports_for_member" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Cerca le segnalazioni dell'utente]]></phrase>
-  <phrase title="find_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find route]]></phrase>
-  <phrase title="find_route_must_start_with_route_prefix" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The find route must start with a route prefix.]]></phrase>
+  <phrase title="find_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cerca route]]></phrase>
+  <phrase title="find_route_must_start_with_route_prefix" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[La route trovata deve iniziare con un prefisso route.]]></phrase>
   <phrase title="first" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Primo]]></phrase>
   <phrase title="first_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Primo messaggio]]></phrase>
   <phrase title="first_message_reaction_score" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Reazione al primo messaggio]]></phrase>
   <phrase title="first_post_content" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Contenuto del primo messaggio]]></phrase>
-  <phrase title="first_post_reaction_score_between" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[First post reaction score between]]></phrase>
+  <phrase title="first_post_reaction_score_between" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Primo punteggio di reazione post tra]]></phrase>
   <phrase title="first_requested" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Prima richiesta]]></phrase>
-  <phrase title="first_seen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[First seen]]></phrase>
-  <phrase title="fixed" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Fixed]]></phrase>
+  <phrase title="first_seen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visto per la prima volta]]></phrase>
+  <phrase title="fixed" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Fisso]]></phrase>
   <phrase title="flag" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Flag]]></phrase>
-  <phrase title="floating" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Floating]]></phrase>
+  <phrase title="floating" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Galleggiante]]></phrase>
   <phrase title="follow" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segui]]></phrase>
   <phrase title="follow_people_to_fill_it" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segui altri utenti.]]></phrase>
-  <phrase title="follow_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Follow {name}]]></phrase>
+  <phrase title="follow_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Segui {name}]]></phrase>
   <phrase title="followed_members_only" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Solo gli utenti che segui]]></phrase>
   <phrase title="followers" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Seguaci]]></phrase>
   <phrase title="following" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Utenti che segui]]></phrase>
   <phrase title="following_add_ons_missing_necessary_files_for_health_checking" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[La seguente add-on non ha dei file necessari per il controllo integrità.]]></phrase>
-  <phrase title="following_and_ignored_users" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Following and ignored users]]></phrase>
-  <phrase title="following_error_occurred_while_fetching_metadata_from_url_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The following error occurred while fetching metadata from URL {url}]]></phrase>
-  <phrase title="following_errors_must_be_resolved_before_continuing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The following errors must be resolved before continuing]]></phrase>
+  <phrase title="following_and_ignored_users" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Utenti seguiti e ignorati]]></phrase>
+  <phrase title="following_error_occurred_while_fetching_metadata_from_url_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Si è verificato il seguente errore durante il recupero dei metadati dall'url {url}]]></phrase>
+  <phrase title="following_errors_must_be_resolved_before_continuing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti errori devono essere risolti prima di poter continuare]]></phrase>
   <phrase title="following_errors_occurred_while_verifying_that_your_server_still_meets_requirements" addon_id="XF" version_id="2001170" version_string="2.0.11"><![CDATA[The following errors occurred while verifying that your server still meets the minimum requirements]]></phrase>
   <phrase title="following_errors_were_found_when_checking_add_on_x_meets_requirements" addon_id="XF" version_id="2020033" version_string="2.2.0 Beta 3"><![CDATA[The following errors were found when checking the add-on {title} meets the minimum requirements:]]></phrase>
   <phrase title="following_files_not_deletable_as_they_may_be_in_use_by_another_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[The following files are not deletable as they may be in use by another add-on. These files will <strong>not</strong> be deleted but you may proceed with deleting the rest of the files in this add-on if you wish.]]></phrase>
