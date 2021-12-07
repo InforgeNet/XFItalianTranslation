@@ -6010,44 +6010,44 @@ Various directories must be writable by the web server user to install from an a
   <phrase title="language_code.zh_Hant_TW" addon_id="XF" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Chinese, Traditional (Taiwan)]]></phrase>
   <phrase title="language_code.zh_TW" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chinese (Traditional, Taiwan)]]></phrase>
   <phrase title="language_code.zu_ZA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zulu]]></phrase>
-  <phrase title="language_settings" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Language settings]]></phrase>
+  <phrase title="language_settings" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Impostazioni lingua]]></phrase>
   <phrase title="languages" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Lingue]]></phrase>
-  <phrase title="large_toolbar" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Large toolbar]]></phrase>
-  <phrase title="large_toolbar_desc" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[For large devices (>= 1200px)]]></phrase>
+  <phrase title="large_toolbar" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Barra degli strumenti grande]]></phrase>
+  <phrase title="large_toolbar_desc" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Per grandi dispositivi (>= 1200px)]]></phrase>
   <phrase title="largest" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Più grandi]]></phrase>
   <phrase title="last" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultimo]]></phrase>
-  <phrase title="last_action" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Last action]]></phrase>
+  <phrase title="last_action" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Ultima azione]]></phrase>
   <phrase title="last_activity" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Ultima attività]]></phrase>
-  <phrase title="last_administrator_cannot_be_deleted" addon_id="XF" version_id="0" version_string=""><![CDATA[The last administrator cannot be deleted.]]></phrase>
-  <phrase title="last_day" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last day]]></phrase>
+  <phrase title="last_administrator_cannot_be_deleted" addon_id="XF" version_id="0" version_string=""><![CDATA[L'ultimo amministratore non può essere eliminato.]]></phrase>
+  <phrase title="last_day" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultimo giorno]]></phrase>
   <phrase title="last_edited" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ultima modifica]]></phrase>
   <phrase title="last_edited_by_moderator" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ultima modifica da un moderatore]]></phrase>
-  <phrase title="last_login" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last login]]></phrase>
+  <phrase title="last_login" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultimo accesso]]></phrase>
   <phrase title="last_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultimo messaggio]]></phrase>
-  <phrase title="last_modified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last modified]]></phrase>
-  <phrase title="last_month" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last month]]></phrase>
-  <phrase title="last_post_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Last post between]]></phrase>
-  <phrase title="last_post_in_last" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Last post in last]]></phrase>
+  <phrase title="last_modified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultima modifica]]></phrase>
+  <phrase title="last_month" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultimo mese]]></phrase>
+  <phrase title="last_post_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ultimo messaggio tra]]></phrase>
+  <phrase title="last_post_in_last" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ultimo messaggio nell'ultimo]]></phrase>
   <phrase title="last_reply_date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data ultima risposta]]></phrase>
   <phrase title="last_reply_from" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultima risposta di]]></phrase>
   <phrase title="last_report_update" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ultima segnalazione]]></phrase>
   <phrase title="last_requested" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ultima richiesta]]></phrase>
   <phrase title="last_seen" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultima volta visto]]></phrase>
-  <phrase title="last_triggered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last triggered]]></phrase>
+  <phrase title="last_triggered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultima attivazione]]></phrase>
   <phrase title="last_updated" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultimo aggiornamento]]></phrase>
   <phrase title="last_upgrade_check_failed_see_log" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[L'ultimo controllo di aggiornamento non è riuscito. Vedere il registro degli errori del server per maggiori dettagli.]]></phrase>
   <phrase title="last_upgrade_check_x" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Ultimo controllo di aggiornamento: {data}]]></phrase>
   <phrase title="last_used" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ultimo utilizzo]]></phrase>
-  <phrase title="last_username_change" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Last username change]]></phrase>
-  <phrase title="last_username_change_was_too_recent_try_again_in_x_days" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Your last username change was too recent. You may try again in {days} day(s).]]></phrase>
-  <phrase title="last_visited_between" addon_id="XF" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Last visited between]]></phrase>
-  <phrase title="last_week" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Last week]]></phrase>
-  <phrase title="later_today_at_x" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Later today at {time}]]></phrase>
+  <phrase title="last_username_change" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ultimo cambio nome utente]]></phrase>
+  <phrase title="last_username_change_was_too_recent_try_again_in_x_days" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Il tuo nome utente è stato cambiato di recente. Puoi riprovare tra {days} giorno(i).]]></phrase>
+  <phrase title="last_visited_between" addon_id="XF" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Ultima visita tra]]></phrase>
+  <phrase title="last_week" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultima settimana]]></phrase>
+  <phrase title="later_today_at_x" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Più tardi alle {time}]]></phrase>
   <phrase title="latest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultimo]]></phrase>
   <phrase title="latest_activity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultime attività]]></phrase>
   <phrase title="latest_member" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultimo utente registrato]]></phrase>
   <phrase title="latest_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultime discussioni]]></phrase>
-  <phrase title="latest_updates" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Latest updates]]></phrase>
+  <phrase title="latest_updates" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ultimi aggiornamenti]]></phrase>
   <phrase title="latest_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ultimo: {name}]]></phrase>
   <phrase title="learn_more" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Leggi altro.]]></phrase>
   <phrase title="leave" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abbandona]]></phrase>
@@ -6057,30 +6057,30 @@ Various directories must be writable by the web server user to install from an a
   <phrase title="leave_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abbandona conversazioni]]></phrase>
   <phrase title="leave_permanent_redirect" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lascia un reindirizzamento permanente]]></phrase>
   <phrase title="leave_rating" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Lascia una recensione]]></phrase>
-  <phrase title="leave_redirect_for_merged_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Leave redirect for merged threads]]></phrase>
+  <phrase title="leave_redirect_for_merged_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lascia un reindirizzamento per i messaggi uniti]]></phrase>
   <phrase title="leave_redirect_that_expires_after" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lascia un reindirizzamento che scade dopo:]]></phrase>
   <phrase title="leaving_conversation_will_remove_it_from_your_conversation_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abbandonare una conversazione la rimuoverà dalla lista delle tue conversazioni.]]></phrase>
-  <phrase title="left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Left]]></phrase>
+  <phrase title="left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinistra]]></phrase>
   <phrase title="left_to_right" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Da sinistra a destra]]></phrase>
   <phrase title="legacy_add_on" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Legacy add-on]]></phrase>
   <phrase title="legacy_add_ons" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Add-on legacy]]></phrase>
   <phrase title="legacy_add_ons_desc" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Gli add-on legacy sono compatibili con le versioni precedenti di XenForo. Sono in stato disabilitato e non saranno riattivati fino a quando non verranno aggiornati. La disinstallazione degli add-on legacy lascerà i dati orfani.]]></phrase>
-  <phrase title="length" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Length]]></phrase>
-  <phrase title="lift" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lift]]></phrase>
-  <phrase title="lift_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lift ban]]></phrase>
+  <phrase title="length" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Lunghezza]]></phrase>
+  <phrase title="lift" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Revocare]]></phrase>
+  <phrase title="lift_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Revocare ban]]></phrase>
   <phrase title="light" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Light]]></phrase>
-  <phrase title="lightbox_close" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Close]]></phrase>
+  <phrase title="lightbox_close" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Chiuso]]></phrase>
   <phrase title="lightbox_download" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Download]]></phrase>
-  <phrase title="lightbox_error" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The requested content cannot be loaded. Please try again later.]]></phrase>
-  <phrase title="lightbox_full_screen" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Full screen]]></phrase>
-  <phrase title="lightbox_new_window" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[New window]]></phrase>
-  <phrase title="lightbox_next" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Next]]></phrase>
-  <phrase title="lightbox_previous" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Previous]]></phrase>
-  <phrase title="lightbox_share" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Share]]></phrase>
-  <phrase title="lightbox_start_slideshow" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Start slideshow]]></phrase>
-  <phrase title="lightbox_stop_slideshow" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Stop slideshow]]></phrase>
-  <phrase title="lightbox_thumbnails" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thumbnails]]></phrase>
-  <phrase title="lightbox_toggle_sidebar" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Toggle sidebar]]></phrase>
+  <phrase title="lightbox_error" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Il contenuto richiesto non può essere caricato. Per favore riprova più tardi.]]></phrase>
+  <phrase title="lightbox_full_screen" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Schrmo intero]]></phrase>
+  <phrase title="lightbox_new_window" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nuova finestra]]></phrase>
+  <phrase title="lightbox_next" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Prossimo]]></phrase>
+  <phrase title="lightbox_previous" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Precedente]]></phrase>
+  <phrase title="lightbox_share" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Condividi]]></phrase>
+  <phrase title="lightbox_start_slideshow" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Inizia presentazione]]></phrase>
+  <phrase title="lightbox_stop_slideshow" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ferma presentazione]]></phrase>
+  <phrase title="lightbox_thumbnails" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Anteprime]]></phrase>
+  <phrase title="lightbox_toggle_sidebar" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Attiva barra laterale]]></phrase>
   <phrase title="lightbox_zoom" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Zoom]]></phrase>
   <phrase title="like" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mi piace]]></phrase>
   <phrase title="like_content" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Contenuto "Mi piace"]]></phrase>
@@ -6100,12 +6100,12 @@ Various directories must be writable by the web server user to install from an a
   <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tu, {user1}, {user2} e 1 altro utente]]></phrase>
   <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tu, {user1}, {user2} e altri {others} utenti]]></phrase>
   <phrase title="likes_counted_status" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Stato dei Mi piace]]></phrase>
-  <phrase title="liking_own_content_cheating" addon_id="XF" version_id="0" version_string=""><![CDATA[Liking your own content is considered cheating.]]></phrase>
+  <phrase title="liking_own_content_cheating" addon_id="XF" version_id="0" version_string=""><![CDATA[Mettere un "mi piace" al proprio contenuto è considerato barare..]]></phrase>
   <phrase title="limit_to_imported_users_logged_in_this_table" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Limita agli utenti importati in questa tabella]]></phrase>
   <phrase title="limit_to_users_who_have_posted" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Limita agli utenti che hanno inviato messaggi]]></phrase>
   <phrase title="line_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Line {line}]]></phrase>
   <phrase title="link" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Link]]></phrase>
-  <phrase title="link_bbcode_must_include_url_token" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[The link BB code must include {$url} token.]]></phrase>
+  <phrase title="link_bbcode_must_include_url_token" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Il link BB code deve includere un {$url} token.]]></phrase>
   <phrase title="link_building_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link building callback]]></phrase>
   <phrase title="link_building_callback_explanation_html" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[It is possible to modify the default link building process with a callback which can be used to add or modify the information used to build the link.<br />
 <br />
