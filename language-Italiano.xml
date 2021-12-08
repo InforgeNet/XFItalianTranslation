@@ -6779,135 +6779,135 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="open_in_overlay" addon_id="XF" version_id="1000070" version_string="1.0.0"><![CDATA[Open this link in an overlay]]></phrase>
   <phrase title="open_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Apri link]]></phrase>
   <phrase title="open_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Apri discussione]]></phrase>
-  <phrase title="openssl_php_extension_required_tls_or_ssl_encryption" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[The <a href="https://secure.php.net/manual/en/book.openssl.php" target="_blank"><code>openssl</code></a> PHP extension is required to use TLS or SSL encryption.]]></phrase>
-  <phrase title="openssl_version" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[OpenSSL version]]></phrase>
-  <phrase title="optgroup_tags_cannot_be_nested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optgroup tags cannot be nested.]]></phrase>
-  <phrase title="option.acpSearchExclude" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Quick search content types]]></phrase>
-  <phrase title="option.activitySummaryEmail" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Enable activity summary email]]></phrase>
-  <phrase title="option.activitySummaryEmailBatchLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary email batch limit]]></phrase>
-  <phrase title="option.addBanUserGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add user group on ban]]></phrase>
-  <phrase title="option.adminRequireTfa" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Require two-step verification to access the admin control panel]]></phrase>
-  <phrase title="option.adsDisallowedTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Prevent ads showing in these templates]]></phrase>
-  <phrase title="option.akismetKey" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Akismet API key]]></phrase>
-  <phrase title="option.alertExpiryDays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Days to retain viewed alerts]]></phrase>
-  <phrase title="option.alertsPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alerts per-page]]></phrase>
-  <phrase title="option.alertsPopupExpiryDays" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Days to retain viewed alerts in popup]]></phrase>
-  <phrase title="option.allowGuestRte" addon_id="XF" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[Allow guests to use the rich text editor]]></phrase>
-  <phrase title="option.allowVideoUploads" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Allow video uploads with maximum file size]]></phrase>
-  <phrase title="option.allowedCodeLanguages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allowed code BB code block languages]]></phrase>
-  <phrase title="option.approveSharedBannedRejectedIp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manually approve registration if user shares IP used by a banned or rejected user in last:]]></phrase>
-  <phrase title="option.attachmentExtensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allowed attachment file extensions]]></phrase>
-  <phrase title="option.attachmentMaxDimensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum attachment image dimensions]]></phrase>
-  <phrase title="option.attachmentMaxFileSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum attachment file size]]></phrase>
-  <phrase title="option.attachmentMaxPerMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum attachments per message]]></phrase>
-  <phrase title="option.attachmentThumbnailDimensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachment thumbnail dimensions]]></phrase>
-  <phrase title="option.autoEmbedMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Auto-embed media links]]></phrase>
-  <phrase title="option.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board is active]]></phrase>
-  <phrase title="option.boardDescription" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board meta description]]></phrase>
-  <phrase title="option.boardInactiveMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inactive board message]]></phrase>
-  <phrase title="option.boardShortTitle" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Board short title]]></phrase>
-  <phrase title="option.boardTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board title]]></phrase>
-  <phrase title="option.boardUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board URL]]></phrase>
-  <phrase title="option.boardUrlCanonical" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable board URL canonicalization]]></phrase>
-  <phrase title="option.bounceEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bounced email address]]></phrase>
-  <phrase title="option.captcha" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable CAPTCHA for guests]]></phrase>
+  <phrase title="openssl_php_extension_required_tls_or_ssl_encryption" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[L'estensione PHP <a href="https://secure.php.net/manual/en/book.openssl.php" target="_blank"><code>openssl</code></a> è richiesta per usare la crittografia TLS o SSL.]]></phrase>
+  <phrase title="openssl_version" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Versione OpenSSL]]></phrase>
+  <phrase title="optgroup_tags_cannot_be_nested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I tag optgroup non possono essere annidati.]]></phrase>
+  <phrase title="option.acpSearchExclude" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Tipi di contenuto di ricerca veloce]]></phrase>
+  <phrase title="option.activitySummaryEmail" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Abilita email di riepilogo attività]]></phrase>
+  <phrase title="option.activitySummaryEmailBatchLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Limite di massa email riepilogo attività]]></phrase>
+  <phrase title="option.addBanUserGroup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiungi gruppo utente bannato]]></phrase>
+  <phrase title="option.adminRequireTfa" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[È richiesta la verifica a due fattori per accedere al pannello di controllo d'amministrazione]]></phrase>
+  <phrase title="option.adsDisallowedTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Disabilita le pubblicità in questi template]]></phrase>
+  <phrase title="option.akismetKey" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chiave API Akismet]]></phrase>
+  <phrase title="option.alertExpiryDays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Giorni per conservare gli avvisi visualizzati]]></phrase>
+  <phrase title="option.alertsPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avvisi per-pagina]]></phrase>
+  <phrase title="option.alertsPopupExpiryDays" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Giorni per conservare gli avvisi visualizzati tramite pop-up]]></phrase>
+  <phrase title="option.allowGuestRte" addon_id="XF" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[Permetti agli ospiti di utilizzare l'editor avanzato]]></phrase>
+  <phrase title="option.allowVideoUploads" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Permetti di caricare video con dimensione massima del file]]></phrase>
+  <phrase title="option.allowedCodeLanguages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocchi di codice BB consentiti]]></phrase>
+  <phrase title="option.approveSharedBannedRejectedIp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approva manualmente la registrazione di un utente se l'IP usato è condiviso da un utente bannato o rifiutato nelle ultime:]]></phrase>
+  <phrase title="option.attachmentExtensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Estensioni di allegati consentite]]></phrase>
+  <phrase title="option.attachmentMaxDimensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensioni massime di un'immagine allegata]]></phrase>
+  <phrase title="option.attachmentMaxFileSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensioni massime di un file allegato]]></phrase>
+  <phrase title="option.attachmentMaxPerMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numero di allegati massimo per messaggio]]></phrase>
+  <phrase title="option.attachmentThumbnailDimensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensioni delle miniature degli allegati]]></phrase>
+  <phrase title="option.autoEmbedMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anteprima automatica dei media link]]></phrase>
+  <phrase title="option.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il Forum è attivo]]></phrase>
+  <phrase title="option.boardDescription" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Meta descrizione del Forum]]></phrase>
+  <phrase title="option.boardInactiveMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio di inattività del Forum]]></phrase>
+  <phrase title="option.boardShortTitle" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Titolo breve del Forum]]></phrase>
+  <phrase title="option.boardTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titolo del Forum]]></phrase>
+  <phrase title="option.boardUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[URL Forum]]></phrase>
+  <phrase title="option.boardUrlCanonical" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita URL canonici]]></phrase>
+  <phrase title="option.bounceEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzi email rimbalzati]]></phrase>
+  <phrase title="option.captcha" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita CAPTCHA per ospiti]]></phrase>
   <phrase title="option.categoryOwnPage" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Crea pagine per le categorie]]></phrase>
-  <phrase title="option.censorCharacter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censor character]]></phrase>
-  <phrase title="option.censorWords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Words to censor]]></phrase>
-  <phrase title="option.changeLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Change log length]]></phrase>
-  <phrase title="option.collectServerStats" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Send anonymous server statistics]]></phrase>
-  <phrase title="option.contactEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact email address]]></phrase>
-  <phrase title="option.contactEmailSenderHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sender info in from header on contact emails]]></phrase>
-  <phrase title="option.contactUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact URL]]></phrase>
-  <phrase title="option.conversationPopupExpiryHours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hours to retain read conversations in popup]]></phrase>
-  <phrase title="option.convertMarkdownToBbCode" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Convert Markdown-style content to BB code]]></phrase>
+  <phrase title="option.censorCharacter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censura carattere]]></phrase>
+  <phrase title="option.censorWords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parole da censurare]]></phrase>
+  <phrase title="option.changeLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza changelog]]></phrase>
+  <phrase title="option.collectServerStats" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Invia statistiche anonime del server]]></phrase>
+  <phrase title="option.contactEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzo email di contatto]]></phrase>
+  <phrase title="option.contactEmailSenderHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Informazioni sul mittente nell'intestazione delle email di contatto]]></phrase>
+  <phrase title="option.contactUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[URL contatto]]></phrase>
+  <phrase title="option.conversationPopupExpiryHours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ore per considerare lette le conversazioni in pop-up]]></phrase>
+  <phrase title="option.convertMarkdownToBbCode" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Converti il contenuto Markdown in codice BB]]></phrase>
   <phrase title="option.currentVersionId" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[ID della versione corrente]]></phrase>
-  <phrase title="option.defaultEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default email address]]></phrase>
-  <phrase title="option.defaultEmailStyleId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default email style]]></phrase>
-  <phrase title="option.defaultLanguageId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default language]]></phrase>
+  <phrase title="option.defaultEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indirizzo email standard]]></phrase>
+  <phrase title="option.defaultEmailStyleId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stile standard delle email]]></phrase>
+  <phrase title="option.defaultLanguageId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lingua standard]]></phrase>
   <phrase title="option.defaultStyleId" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tema di default]]></phrase>
-  <phrase title="option.disallowedCustomTitles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Disallowed custom titles]]></phrase>
-  <phrase title="option.discourageBlankChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blank page chance]]></phrase>
-  <phrase title="option.discourageDelay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Loading delay]]></phrase>
-  <phrase title="option.discourageFloodMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Flood time multiplier]]></phrase>
-  <phrase title="option.discourageRedirectChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Redirection chance]]></phrase>
-  <phrase title="option.discourageRedirectUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Redirection page URL]]></phrase>
-  <phrase title="option.discourageSearchChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search disabled chance]]></phrase>
-  <phrase title="option.discussionPreview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable discussion preview]]></phrase>
-  <phrase title="option.discussionRssContentLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussion content RSS snippet length]]></phrase>
-  <phrase title="option.discussionsPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussions per page]]></phrase>
-  <phrase title="option.displayVisitorCount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Display visitor count]]></phrase>
-  <phrase title="option.dynamicAvatarEnable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable dynamic default avatars]]></phrase>
-  <phrase title="option.editHistory" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable edit history tracking and prune after:]]></phrase>
-  <phrase title="option.editLogDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable edit log display after:]]></phrase>
-  <phrase title="option.editorDropdownConfig" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Editor dropdown config]]></phrase>
-  <phrase title="option.editorToolbarConfig" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Editor toolbar config]]></phrase>
-  <phrase title="option.emailBounceHandler" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Automated bounced email handler]]></phrase>
-  <phrase title="option.emailConversationIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Include full message text in conversation notification emails.]]></phrase>
+  <phrase title="option.disallowedCustomTitles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titoli personalizzati non ammessi]]></phrase>
+  <phrase title="option.discourageBlankChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Probabilità di pagina bianca]]></phrase>
+  <phrase title="option.discourageDelay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caricamento ritardato]]></phrase>
+  <phrase title="option.discourageFloodMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moltiplicatore del flood]]></phrase>
+  <phrase title="option.discourageRedirectChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Possibilità di redirect]]></phrase>
+  <phrase title="option.discourageRedirectUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[URL della pagina di redirect]]></phrase>
+  <phrase title="option.discourageSearchChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Possibilità del cerca non disponibile]]></phrase>
+  <phrase title="option.discussionPreview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Disabilita anteprima discussioni]]></phrase>
+  <phrase title="option.discussionRssContentLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza del contenuto RSS della discussione]]></phrase>
+  <phrase title="option.discussionsPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussioni per pagina]]></phrase>
+  <phrase title="option.displayVisitorCount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra conteggio visitatori]]></phrase>
+  <phrase title="option.dynamicAvatarEnable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita avatar dinamici di default]]></phrase>
+  <phrase title="option.editHistory" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita il monitoraggio della cronologia delle modifiche ed elimina dopo:]]></phrase>
+  <phrase title="option.editLogDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita la visualizzazione dei log di modifica dopo:]]></phrase>
+  <phrase title="option.editorDropdownConfig" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Configurazione editor a cascata]]></phrase>
+  <phrase title="option.editorToolbarConfig" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Configurazione barra degli strumenti dell'editor]]></phrase>
+  <phrase title="option.emailBounceHandler" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestione automatica delle email rimbalzate]]></phrase>
+  <phrase title="option.emailConversationIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Includi il testo completo del messaggio nelle notifiche via email della conversazione.]]></phrase>
   <phrase title="option.emailFileCheckWarning" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Invia gli avvertimenti della verifica integrità file alle email:]]></phrase>
-  <phrase title="option.emailSenderName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default email sender name]]></phrase>
-  <phrase title="option.emailShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable email share button]]></phrase>
-  <phrase title="option.emailSoftBounceThreshold" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soft bounce trigger threshold]]></phrase>
-  <phrase title="option.emailTransport" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email transport method]]></phrase>
-  <phrase title="option.emailUnsubscribeHandler" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Automated unsubscribe email handler]]></phrase>
-  <phrase title="option.emailWatchedThreadIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Include full message text in watched thread/forum notification emails.]]></phrase>
-  <phrase title="option.emojiSource" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Emoji source]]></phrase>
-  <phrase title="option.emojiStyle" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Emoji style]]></phrase>
-  <phrase title="option.enableMemberList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable 'Registered members' list]]></phrase>
-  <phrase title="option.enableNewsFeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable news feed]]></phrase>
-  <phrase title="option.enableNotices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable notices system]]></phrase>
-  <phrase title="option.enablePush" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enable push notifications]]></phrase>
-  <phrase title="option.enableSearch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable search engine]]></phrase>
-  <phrase title="option.enableTagging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Enable content tagging]]></phrase>
+  <phrase title="option.emailSenderName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nome del mittente standard delle email]]></phrase>
+  <phrase title="option.emailShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita bottone di condivisione via email]]></phrase>
+  <phrase title="option.emailSoftBounceThreshold" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soglia di attivazione soft bounce]]></phrase>
+  <phrase title="option.emailTransport" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Metodo di trasporto email]]></phrase>
+  <phrase title="option.emailUnsubscribeHandler" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Gestione automatica della disiscrizione delle email]]></phrase>
+  <phrase title="option.emailWatchedThreadIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Includi il testo completo del messaggio nelle email di notifica delle discussioni/forum osservati.]]></phrase>
+  <phrase title="option.emojiSource" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Fonte Emoji]]></phrase>
+  <phrase title="option.emojiStyle" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Stile Emoji]]></phrase>
+  <phrase title="option.enableMemberList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita lista 'utenti registrati']]></phrase>
+  <phrase title="option.enableNewsFeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita feed delle notizie]]></phrase>
+  <phrase title="option.enableNotices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita sistema di notifiche]]></phrase>
+  <phrase title="option.enablePush" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Abilita notifiche push]]></phrase>
+  <phrase title="option.enableSearch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita motori di ricerca]]></phrase>
+  <phrase title="option.enableTagging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Abilita tag nei contenuti]]></phrase>
   <phrase title="option.enableTrophies" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Abilita trofei]]></phrase>
-  <phrase title="option.enableVerp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable variable bounced email address values]]></phrase>
-  <phrase title="option.extraCaptchaKeys" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra CAPTCHA keys]]></phrase>
-  <phrase title="option.facebookLike" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable facebook share button]]></phrase>
-  <phrase title="option.floodCheckLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum time between messages]]></phrase>
-  <phrase title="option.floodCheckLengthDiscussion" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Minimum time between discussions]]></phrase>
+  <phrase title="option.enableVerp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita valori variabili negli indirizzi email rimbalzati]]></phrase>
+  <phrase title="option.extraCaptchaKeys" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chiavi CAPTCHA Extra]]></phrase>
+  <phrase title="option.facebookLike" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita pulsante di condivisione Facebook]]></phrase>
+  <phrase title="option.floodCheckLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tempo minimo tra i messaggi]]></phrase>
+  <phrase title="option.floodCheckLengthDiscussion" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Tempo minimo tra le discussioni]]></phrase>
   <phrase title="option.forumsDefaultPage" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Pagina principale forum]]></phrase>
   <phrase title="option.geoLocationUrl" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[URL delle informazioni sulla posizione]]></phrase>
-  <phrase title="option.giphy" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Enable GIPHY support]]></phrase>
-  <phrase title="option.googleAnalyticsAnonymize" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Anonymize IP addresses for Google Analytics]]></phrase>
-  <phrase title="option.googleAnalyticsWebPropertyId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google Analytics web property ID]]></phrase>
-  <phrase title="option.gravatarEnable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Gravatar support]]></phrase>
-  <phrase title="option.guestShowSignatures" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show signatures to guests]]></phrase>
+  <phrase title="option.giphy" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Abilita supporto GIPHY]]></phrase>
+  <phrase title="option.googleAnalyticsAnonymize" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Rendi anonimo indirizzo IP da Google Analytics]]></phrase>
+  <phrase title="option.googleAnalyticsWebPropertyId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ID proprietà Google Analytics]]></phrase>
+  <phrase title="option.gravatarEnable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita supporto Gravatar]]></phrase>
+  <phrase title="option.guestShowSignatures" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra firme agli ospiti]]></phrase>
   <phrase title="option.guestTimeZone" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Fuso orario ospite]]></phrase>
   <phrase title="option.homePageUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Home page URL]]></phrase>
-  <phrase title="option.imageCacheRefresh" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image cache refresh]]></phrase>
-  <phrase title="option.imageCacheTTL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image cache lifetime]]></phrase>
-  <phrase title="option.imageLibrary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default image processor]]></phrase>
-  <phrase title="option.imageLinkProxy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image and link proxy]]></phrase>
-  <phrase title="option.imageLinkProxyKey" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image and link proxy secret key]]></phrase>
-  <phrase title="option.imageLinkProxyLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image and link proxy log length]]></phrase>
-  <phrase title="option.imageLinkProxyReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log image and link proxy referrers for x days:]]></phrase>
+  <phrase title="option.imageCacheRefresh" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Refresh cache delle immagini]]></phrase>
+  <phrase title="option.imageCacheTTL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tempo della cache delle immagini]]></phrase>
+  <phrase title="option.imageLibrary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Processore default delle immagini]]></phrase>
+  <phrase title="option.imageLinkProxy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Proxy immagini e link]]></phrase>
+  <phrase title="option.imageLinkProxyKey" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Proxy immagini/link chiave privata]]></phrase>
+  <phrase title="option.imageLinkProxyLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza log Proxy immagini/link]]></phrase>
+  <phrase title="option.imageLinkProxyReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Registra i proxy referrer di immagini e link per X giorni:]]></phrase>
   <phrase title="option.imageProxyBypass" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Image proxy bypass]]></phrase>
-  <phrase title="option.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image cache max size]]></phrase>
-  <phrase title="option.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Include content title in URLs]]></phrase>
+  <phrase title="option.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image cache dimensioni massime]]></phrase>
+  <phrase title="option.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Includi il titolo del contenuto negli URL]]></phrase>
   <phrase title="option.indexRoute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Index page route]]></phrase>
   <phrase title="option.ipInfoUrl" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[URL Informazioni IP]]></phrase>
-  <phrase title="option.ipLogCleanUp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete IP usage data after:]]></phrase>
-  <phrase title="option.jQuerySource" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[sorgente jQuery]]></phrase>
+  <phrase title="option.ipLogCleanUp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elimina dati IP dopo:]]></phrase>
+  <phrase title="option.jQuerySource" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Fonte jQuery]]></phrase>
   <phrase title="option.jobRunTrigger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Job run trigger]]></phrase>
-  <phrase title="option.jsLastUpdate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript last update]]></phrase>
-  <phrase title="option.lastPageLinks" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum last page links]]></phrase>
-  <phrase title="option.lightBoxUniversal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lightbox displays all attached images on page]]></phrase>
-  <phrase title="option.linkShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable link share button]]></phrase>
-  <phrase title="option.loginLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Login limit method]]></phrase>
-  <phrase title="option.logoLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link logo to home page URL]]></phrase>
+  <phrase title="option.jsLastUpdate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript ultimo aggiornamento]]></phrase>
+  <phrase title="option.lastPageLinks" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link massimi ultima pagina]]></phrase>
+  <phrase title="option.lightBoxUniversal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lightbox visualizza tutte le immagini allegate nella pagina]]></phrase>
+  <phrase title="option.linkShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita bottone di condivisione del link]]></phrase>
+  <phrase title="option.loginLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Metodo limite login]]></phrase>
+  <phrase title="option.logoLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link del logo alla home page URL]]></phrase>
   <phrase title="option.lostPasswordCaptcha" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Utilizza il CAPTCHA per il form dimentica password]]></phrase>
   <phrase title="option.lostPasswordTimeLimit" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Tempo minimo tra le richieste di password dimenticata]]></phrase>
   <phrase title="option.maxContentSpamMessages" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Numero massimo di messaggi per verificare la presenza di spam]]></phrase>
-  <phrase title="option.maxContentTags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Max content tags]]></phrase>
-  <phrase title="option.maxContentTagsPerUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Max content tags per user]]></phrase>
+  <phrase title="option.maxContentTags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag massime per il contenuto]]></phrase>
+  <phrase title="option.maxContentTagsPerUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag massime per utente]]></phrase>
   <phrase title="option.maximumSearchResults" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Numero massimo di risultati di ricerca]]></phrase>
-  <phrase title="option.membersPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members to list per-page]]></phrase>
-  <phrase title="option.messageMaxImages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum images per message]]></phrase>
-  <phrase title="option.messageMaxLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum message length]]></phrase>
-  <phrase title="option.messageMaxMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum media embeds per message]]></phrase>
-  <phrase title="option.messagesPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messages per page]]></phrase>
-  <phrase title="option.moderatorLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderator log length]]></phrase>
-  <phrase title="option.multiQuote" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable multi quote]]></phrase>
+  <phrase title="option.membersPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti da mostrare per-pagina]]></phrase>
+  <phrase title="option.messageMaxImages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numero massimo di immagini per messaggio]]></phrase>
+  <phrase title="option.messageMaxLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza massima del messaggio]]></phrase>
+  <phrase title="option.messageMaxMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numero di media massimi per messaggio]]></phrase>
+  <phrase title="option.messagesPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggi per pagina]]></phrase>
+  <phrase title="option.moderatorLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza log moderatore]]></phrase>
+  <phrase title="option.multiQuote" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita quote multipli]]></phrase>
   <phrase title="option.newsFeedMaxItems" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[News feed items to fetch with each request]]></phrase>
   <phrase title="option.newsFeedMessageSnippetLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[News feed message snippet maximum length]]></phrase>
   <phrase title="option.oEmbedCacheRefresh" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed media cache refresh]]></phrase>
