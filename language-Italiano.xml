@@ -6908,72 +6908,72 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.messagesPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggi per pagina]]></phrase>
   <phrase title="option.moderatorLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza log moderatore]]></phrase>
   <phrase title="option.multiQuote" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita quote multipli]]></phrase>
-  <phrase title="option.newsFeedMaxItems" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[News feed items to fetch with each request]]></phrase>
-  <phrase title="option.newsFeedMessageSnippetLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[News feed message snippet maximum length]]></phrase>
-  <phrase title="option.oEmbedCacheRefresh" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed media cache refresh]]></phrase>
-  <phrase title="option.oEmbedCacheTTL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed media cache lifetime]]></phrase>
-  <phrase title="option.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed media log length]]></phrase>
-  <phrase title="option.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log oEmbed request referrers for x days:]]></phrase>
-  <phrase title="option.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Online status timeout]]></phrase>
-  <phrase title="option.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Pinterest share button]]></phrase>
-  <phrase title="option.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum number of poll choices]]></phrase>
-  <phrase title="option.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Writing before registering setup]]></phrase>
-  <phrase title="option.preventDiscouragedRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Prevent discouraged IP addresses from registering]]></phrase>
-  <phrase title="option.privacyPolicyForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Force privacy policy agreement route whitelist]]></phrase>
-  <phrase title="option.privacyPolicyLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy policy last update]]></phrase>
-  <phrase title="option.privacyPolicyUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privacy policy URL]]></phrase>
-  <phrase title="option.profilePostMaxLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum profile message length]]></phrase>
-  <phrase title="option.pushKeysVAPID" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Push VAPID keys]]></phrase>
-  <phrase title="option.readMarkingDataLifetime" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Read marking data lifetime]]></phrase>
-  <phrase title="option.redditShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Reddit share button]]></phrase>
+  <phrase title="option.newsFeedMaxItems" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elementi dal feed notizie da recuperare ad ogni richiesta]]></phrase>
+  <phrase title="option.newsFeedMessageSnippetLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza massima del messaggio di news feed]]></phrase>
+  <phrase title="option.oEmbedCacheRefresh" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aggiornamento cache media oEmbed]]></phrase>
+  <phrase title="option.oEmbedCacheTTL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Durata cache media oEmbed]]></phrase>
+  <phrase title="option.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza log media oEmbed]]></phrase>
+  <phrase title="option.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Logga i referrer delle richieste oEmbed per x giorni:]]></phrase>
+  <phrase title="option.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Timeout status online]]></phrase>
+  <phrase title="option.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita pulsante condivisione Pinterest]]></phrase>
+  <phrase title="option.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numero massimo di opzioni per sondaggio]]></phrase>
+  <phrase title="option.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Scrivere prima della registrazione]]></phrase>
+  <phrase title="option.preventDiscouragedRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Previeni agli IP scoraggiati di registrarsi]]></phrase>
+  <phrase title="option.privacyPolicyForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Forza l'accettazione della privacy per la whitelist route]]></phrase>
+  <phrase title="option.privacyPolicyLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Ultimo aggiornamento privacy policy]]></phrase>
+  <phrase title="option.privacyPolicyUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[URL Privacy policy]]></phrase>
+  <phrase title="option.profilePostMaxLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza massima del messaggio del profilo]]></phrase>
+  <phrase title="option.pushKeysVAPID" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Push chiavi VAPID]]></phrase>
+  <phrase title="option.readMarkingDataLifetime" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Leggi la durata dei marking data]]></phrase>
+  <phrase title="option.redditShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita pulsante condivisione Reddit]]></phrase>
   <phrase title="option.registrationCheckDnsBl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[DNS Blacklist &amp; Project Honey Pot]]></phrase>
-  <phrase title="option.registrationDefaults" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default registration values]]></phrase>
-  <phrase title="option.registrationSetup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Registration setup]]></phrase>
-  <phrase title="option.registrationTimer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Registration timer]]></phrase>
-  <phrase title="option.registrationWelcome" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New user welcome]]></phrase>
-  <phrase title="option.reportIntoForumId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Send reports into forum]]></phrase>
-  <phrase title="option.romanizeUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Romanize titles in URLs]]></phrase>
+  <phrase title="option.registrationDefaults" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valori di registrazione predefiniti]]></phrase>
+  <phrase title="option.registrationSetup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Setup registrazione]]></phrase>
+  <phrase title="option.registrationTimer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Timer registrazione]]></phrase>
+  <phrase title="option.registrationWelcome" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Benvenuto nuovo utente]]></phrase>
+  <phrase title="option.reportIntoForumId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invia reports nel forum]]></phrase>
+  <phrase title="option.romanizeUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Romanizza titoli negli URL]]></phrase>
   <phrase title="option.rootBreadcrumb" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Radice breadcrumb]]></phrase>
-  <phrase title="option.saveDrafts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Save drafts as messages are being composed]]></phrase>
-  <phrase title="option.searchMinWordLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search minimum word length]]></phrase>
+  <phrase title="option.saveDrafts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salva bozze durante la scrittura dei messaggi]]></phrase>
+  <phrase title="option.searchMinWordLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cerca lunghezza minima delle parole]]></phrase>
   <phrase title="option.searchResultsPerPage" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Risultati di ricerca per pagina]]></phrase>
-  <phrase title="option.selectQuotable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable select-to-quote]]></phrase>
-  <phrase title="option.sharedIpsCheckLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Shared IPs check limit]]></phrase>
-  <phrase title="option.shortcodeToEmoji" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Convert short code to emoji / smilies]]></phrase>
-  <phrase title="option.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Show emoji in smilie menu]]></phrase>
-  <phrase title="option.showFirstCookieNotice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show cookie notice on first visit]]></phrase>
-  <phrase title="option.showMessageOnlineStatus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show online status indicator]]></phrase>
-  <phrase title="option.sitemapAutoRebuild" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Automatically build sitemap]]></phrase>
-  <phrase title="option.sitemapAutoSubmit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Automatically submit sitemap to search engines]]></phrase>
-  <phrase title="option.sitemapExclude" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Included sitemap content]]></phrase>
-  <phrase title="option.sitemapExtraUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra sitemap URLs]]></phrase>
-  <phrase title="option.spamDefaultOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleaner default options]]></phrase>
-  <phrase title="option.spamMessageAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleaner message action]]></phrase>
+  <phrase title="option.selectQuotable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita seleziona-e-quota]]></phrase>
+  <phrase title="option.sharedIpsCheckLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limite di controllo degli IP condivisi]]></phrase>
+  <phrase title="option.shortcodeToEmoji" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Converti codice in emoji / smilies]]></phrase>
+  <phrase title="option.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Mostra emoji nel menu smilie]]></phrase>
+  <phrase title="option.showFirstCookieNotice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra notifica cookie alla prima visita]]></phrase>
+  <phrase title="option.showMessageOnlineStatus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra indicatore status online]]></phrase>
+  <phrase title="option.sitemapAutoRebuild" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genera automaticamente sitemap]]></phrase>
+  <phrase title="option.sitemapAutoSubmit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invia automaticamente la sitemap ai motori di ricerca]]></phrase>
+  <phrase title="option.sitemapExclude" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Includi contenuto sitemap]]></phrase>
+  <phrase title="option.sitemapExtraUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[URL sitemap extra]]></phrase>
+  <phrase title="option.spamDefaultOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Opzioni predefinite spam cleaner]]></phrase>
+  <phrase title="option.spamMessageAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio automatico dello spam cleaner]]></phrase>
   <phrase title="option.spamPhrases" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Frasi spam]]></phrase>
-  <phrase title="option.spamThreadAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleaner thread action]]></phrase>
-  <phrase title="option.spamUserCriteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleaner user criteria]]></phrase>
+  <phrase title="option.spamThreadAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azioni discussione spam cleaner]]></phrase>
+  <phrase title="option.spamUserCriteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Criteri utente spam cleaner]]></phrase>
   <phrase title="option.stopForumSpam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop Forum Spam]]></phrase>
-  <phrase title="option.tagCloud" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Enable tag cloud with up to X tags:]]></phrase>
-  <phrase title="option.tagCloudMinUses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum tag cloud uses]]></phrase>
-  <phrase title="option.tagLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag length limit]]></phrase>
-  <phrase title="option.tagValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag validation]]></phrase>
-  <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template history length]]></phrase>
-  <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Terms and rules last update]]></phrase>
-  <phrase title="option.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Force terms and rules agreement route whitelist]]></phrase>
+  <phrase title="option.tagCloud" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Abilita tag cloud con almeno X tag:]]></phrase>
+  <phrase title="option.tagCloudMinUses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usi minimi tag cloud]]></phrase>
+  <phrase title="option.tagLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limite lunghezza tag]]></phrase>
+  <phrase title="option.tagValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Validazione Tag]]></phrase>
+  <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lunghezza storico template]]></phrase>
+  <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Ultimo aggiornamento termini e condizioni]]></phrase>
+  <phrase title="option.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Forza termini e condizioni della whitelist route]]></phrase>
   <phrase title="option.tosUrl" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[URL termini d'uso]]></phrase>
-  <phrase title="option.tumblrShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Tumblr share button]]></phrase>
-  <phrase title="option.tweet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Twitter share button]]></phrase>
-  <phrase title="option.unsubscribeEmailAddress" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Unsubscribe email address]]></phrase>
+  <phrase title="option.tumblrShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita condivisione Tumblr]]></phrase>
+  <phrase title="option.tweet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita condivisione Twitter]]></phrase>
+  <phrase title="option.unsubscribeEmailAddress" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Disiscrivi indirizzo email]]></phrase>
   <phrase title="option.upgradeCheckStableOnly" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Controlla solo aggiornamenti stabili]]></phrase>
-  <phrase title="option.urlToPageTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Convert URLs to page titles]]></phrase>
-  <phrase title="option.urlToRichPreview" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[Unfurl URL to a rich preview automatically]]></phrase>
-  <phrase title="option.useFriendlyUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use full friendly URLs]]></phrase>
-  <phrase title="option.userBanners" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User banners]]></phrase>
-  <phrase title="option.userMentionKeepAt" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Keep @ character with user mentions]]></phrase>
-  <phrase title="option.userTitleLadderField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User title ladder field]]></phrase>
-  <phrase title="option.usernameChangeRecentLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Username change recent limit]]></phrase>
-  <phrase title="option.usernameChangeRequireReason" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Require reason for username changes]]></phrase>
-  <phrase title="option.usernameChangeTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Minimum time between username changes]]></phrase>
+  <phrase title="option.urlToPageTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Converti URL in titoli pagina]]></phrase>
+  <phrase title="option.urlToRichPreview" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[Anteprima automatica URL "ricca"]]></phrase>
+  <phrase title="option.useFriendlyUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utilizza full-friendly URL]]></phrase>
+  <phrase title="option.userBanners" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banner Utenti]]></phrase>
+  <phrase title="option.userMentionKeepAt" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manteni carattere @ durante la menzione utenti]]></phrase>
+  <phrase title="option.userTitleLadderField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Campo scala titolo utente]]></phrase>
+  <phrase title="option.usernameChangeRecentLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Limite cambio nome utente recente]]></phrase>
+  <phrase title="option.usernameChangeRequireReason" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Richiedi motivazione cambio utente]]></phrase>
+  <phrase title="option.usernameChangeTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tempo minimo tra i cambi utente]]></phrase>
   <phrase title="option.usernameLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User name length limit]]></phrase>
   <phrase title="option.usernameReuseTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Username reuse time limit]]></phrase>
   <phrase title="option.usernameValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User name validation]]></phrase>
