@@ -501,7 +501,7 @@
 
 <p>Se questa non è stata una richiesta legittima, la Chiave API dovrebbe essere eliminata immediatamente e verificare che tutti gli account degli amministratori siano al sicuro. Le Chiavi API possono essere gestite dal tuo <a href="{link}">pannello d'amministrazione</a>.</p>
 
-<p>All super administrators have been automatically notified of this change.</p>]]></phrase>
+<p>Tutti i super amministratori sono stati automaticamente informati di questa modifica.</p>]]></phrase>
   <phrase title="api_key_change_subject" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{board} - Chiave API cambiata]]></phrase>
   <phrase title="api_key_copied_to_clipboard" addon_id="XF" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Chiave API copiata negli appunti.]]></phrase>
   <phrase title="api_key_details" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Dettagli chiave API]]></phrase>
