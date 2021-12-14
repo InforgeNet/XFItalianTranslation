@@ -5456,47 +5456,47 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="following_error_occurred_while_fetching_metadata_from_url_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Si è verificato il seguente errore durante il recupero dei metadati dall'url {url}]]></phrase>
   <phrase title="following_errors_must_be_resolved_before_continuing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti errori devono essere risolti prima di poter continuare]]></phrase>
   <phrase title="following_errors_occurred_while_verifying_that_your_server_still_meets_requirements" addon_id="XF" version_id="2001170" version_string="2.0.11"><![CDATA[I seguenti errori si sono verificati mentre verificavamo i requisiti minimi del tuo server]]></phrase>
-  <phrase title="following_errors_were_found_when_checking_add_on_x_meets_requirements" addon_id="XF" version_id="2020033" version_string="2.2.0 Beta 3"><![CDATA[The following errors were found when checking the add-on {title} meets the minimum requirements:]]></phrase>
-  <phrase title="following_files_not_deletable_as_they_may_be_in_use_by_another_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[The following files are not deletable as they may be in use by another add-on. These files will <strong>not</strong> be deleted but you may proceed with deleting the rest of the files in this add-on if you wish.]]></phrase>
-  <phrase title="following_files_or_directories_not_deletable_due_to_file_permissions" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[The following files or directories are not deletable due to file permissions. We recommend that the add-on files are removed manually.]]></phrase>
-  <phrase title="following_html_is_what_was_fetched_within_default_time_and_size" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The following HTML is what was fetched within the default time and size constraints. If some or all of the metadata is missing then it likely means that the HTML we fetched does not contain the metadata.]]></phrase>
-  <phrase title="following_issue_found_one_click_upgrade_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The following issue was found when determining if a one-click upgrade is possible: {error}]]></phrase>
-  <phrase title="following_members_not_found_x" addon_id="XF" version_id="0" version_string=""><![CDATA[The following members could not be found: {members}.]]></phrase>
-  <phrase title="following_notices_may_contain_page_criteria_which_is_no_longer_matched" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[The following notice/s may contain page criteria which is no longer matched]]></phrase>
-  <phrase title="following_official_add_ons_now_available_to_install" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The following official add-ons are now available to install:]]></phrase>
-  <phrase title="following_payment_providers_do_not_support_recurring_payments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The following payment providers do not support recurring payments: {invalidRecurring}. Please ensure all payment profiles are valid.]]></phrase>
-  <phrase title="following_payment_providers_do_not_support_x_as_valid_currency" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The following payment providers do not support {currency} as a valid currency option: {invalidCurrency}. Please ensure all payment profiles are valid.]]></phrase>
-  <phrase title="following_payment_providers_support_recurring_payments_but_invalid_length" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The following payment providers support recurring payments, but the chosen length is too long or too short: {invalidLength}. Please ensure all payment profiles are valid.]]></phrase>
-  <phrase title="following_placeholders_will_be_replaced_in_message" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[The following placeholders will be replaced in the message: {name}, {id}, {link}.]]></phrase>
-  <phrase title="following_placeholders_will_be_replaced_in_message_for_conversation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[The following placeholders will be replaced in the message: {name}, {id}.]]></phrase>
-  <phrase title="following_placeholders_will_be_replaced_in_message_for_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The following placeholders will be replaced in the message: {name}, {email}, {id}, {unsub}.]]></phrase>
-  <phrase title="following_placeholders_will_be_replaced_in_message_for_welcome_email" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[The following placeholders will be replaced in the message: {name}, {email}, {id}.]]></phrase>
-  <phrase title="following_requirements_for_x_were_not_met_y" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[The following requirements for {title} were not met: {errors}]]></phrase>
-  <phrase title="following_sub_options_unknown_x" addon_id="XF" version_id="0" version_string=""><![CDATA[The following sub-option(s) are unknown: {subOptions}.]]></phrase>
-  <phrase title="following_tags_not_found_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[The following tags could not be found: {tags}]]></phrase>
-  <phrase title="following_updates_official_add_ons_now_available" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The following updates to official add-ons are now available:]]></phrase>
-  <phrase title="following_users_not_found_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The following users could not be found: {usernames}.]]></phrase>
+  <phrase title="following_errors_were_found_when_checking_add_on_x_meets_requirements" addon_id="XF" version_id="2020033" version_string="2.2.0 Beta 3"><![CDATA[Sono stati riscontrati i seguenti errori durante il controllo dei requisiti minimi per l'addon {title}:]]></phrase>
+  <phrase title="following_files_not_deletable_as_they_may_be_in_use_by_another_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[I seguenti file non sono eliminabili in quanto potrebbero essere utilizzati da un altro add-on aggiuntivo. Questi file <strong>non</strong> saranno eliminati, ma puoi procedere all'eliminazione del resto dei file di questo add-on se lo desideri.]]></phrase>
+  <phrase title="following_files_or_directories_not_deletable_due_to_file_permissions" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[I seguenti file o directory non sono eliminabili a causa dei permessi. Raccomandiamo di rimuovere manualmente i file aggiuntivi.]]></phrase>
+  <phrase title="following_html_is_what_was_fetched_within_default_time_and_size" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Il seguente HTML è quello che è stato recuperato entro i vincoli di tempo e dimensione predefiniti. Se alcuni o tutti i metadati mancano, allora probabilmente significa che l'HTML che abbiamo recuperato non contiene i metadati.]]></phrase>
+  <phrase title="following_issue_found_one_click_upgrade_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Il seguente problema è stato trovato quando si determina se è possibile un aggiornamento one-click: {error}]]></phrase>
+  <phrase title="following_members_not_found_x" addon_id="XF" version_id="0" version_string=""><![CDATA[Non è stato possibile trovare i seguenti membri: {members}.]]></phrase>
+  <phrase title="following_notices_may_contain_page_criteria_which_is_no_longer_matched" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[I seguenti avvisi possono contenere criteri di pagina che non hanno più riscontro]]></phrase>
+  <phrase title="following_official_add_ons_now_available_to_install" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[I seguenti add-on ufficiali sono ora disponibili per l'installazione:]]></phrase>
+  <phrase title="following_payment_providers_do_not_support_recurring_payments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti fornitori di pagamento non supportano i pagamenti ricorrenti: {invalidRecurring}. Assicurati che tutti i profili di pagamento siano validi.]]></phrase>
+  <phrase title="following_payment_providers_do_not_support_x_as_valid_currency" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti fornitori di pagamento non supportano {currency} come opzione di valuta valida: {invalidCurrency}. Assicurati che tutti i profili di pagamento siano validi.]]></phrase>
+  <phrase title="following_payment_providers_support_recurring_payments_but_invalid_length" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti fornitori di pagamento supportano i pagamenti ricorrenti, ma la lunghezza scelta è troppo lunga o troppo corta: {invalidLength}. Assicurati che tutti i profili di pagamento siano validi.]]></phrase>
+  <phrase title="following_placeholders_will_be_replaced_in_message" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[I seguenti placeholder saranno sostituiti nel messaggio: {name}, {id}, {link}.]]></phrase>
+  <phrase title="following_placeholders_will_be_replaced_in_message_for_conversation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[I seguenti placeholder saranno sostituiti nel messaggio: {name}, {id}.]]></phrase>
+  <phrase title="following_placeholders_will_be_replaced_in_message_for_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti placeholder saranno sostituiti nel messaggio: {name}, {email}, {id}, {unsub}.]]></phrase>
+  <phrase title="following_placeholders_will_be_replaced_in_message_for_welcome_email" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[I seguenti placeholder saranno sostituiti nel messaggio: {name}, {email}, {id}.]]></phrase>
+  <phrase title="following_requirements_for_x_were_not_met_y" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[I seguenti requisiti per {title} non sono stati soddisfatti: {errors}]]></phrase>
+  <phrase title="following_sub_options_unknown_x" addon_id="XF" version_id="0" version_string=""><![CDATA[Le seguenti sotto-opzioni sono sconosciute: {subOptions}.]]></phrase>
+  <phrase title="following_tags_not_found_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[I seguenti tag non sono stati trovati: {tags}]]></phrase>
+  <phrase title="following_updates_official_add_ons_now_available" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[I seguenti aggiornamenti degli add-on ufficiali sono ora disponibili:]]></phrase>
+  <phrase title="following_users_not_found_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non è stato possibile trovare i seguenti utenti: {usernames}.]]></phrase>
   <phrase title="following_words_were_not_included_in_your_search_x" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Le seguenti parole non sono state incluse nella ricerca perchè troppo corte, lunghe o comuni: {words}]]></phrase>
-  <phrase title="font_awesome_icon" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Font Awesome icon]]></phrase>
+  <phrase title="font_awesome_icon" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Icone Font Awesome]]></phrase>
   <phrase title="font_family" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Font]]></phrase>
   <phrase title="font_size" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Dimensione font]]></phrase>
-  <phrase title="for_length" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[For length]]></phrase>
-  <phrase title="for_security_reasons_please_choose_different_password" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[For security reasons please choose a different password.]]></phrase>
-  <phrase title="for_time_period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[For time period]]></phrase>
-  <phrase title="force_privacy_policy_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force privacy policy agreement]]></phrase>
-  <phrase title="force_terms_and_rules_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force terms and rules agreement]]></phrase>
+  <phrase title="for_length" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Per lunghezza]]></phrase>
+  <phrase title="for_security_reasons_please_choose_different_password" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Per ragioni di sicurezza ti invitiamo a scegliere una password diversa.]]></phrase>
+  <phrase title="for_time_period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Per il periodo di tempo]]></phrase>
+  <phrase title="force_privacy_policy_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Forza l'approvazione sulla privacy]]></phrase>
+  <phrase title="force_terms_and_rules_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Forza l'approvazione dei Termini d'Uso]]></phrase>
   <phrase title="forgot_your_password" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Hai dimenticato la password?]]></phrase>
-  <phrase title="format_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Format parameters]]></phrase>
+  <phrase title="format_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parametri di formattazione]]></phrase>
   <phrase title="formatted" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Formattato]]></phrase>
   <phrase title="forum" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Forum]]></phrase>
   <phrase title="forum_import_log" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Forum import log]]></phrase>
-  <phrase title="forum_import_log_cannot_be_found" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[The forum import log cannot be found.]]></phrase>
-  <phrase title="forum_is_already_that_type" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The forum is already that type.]]></phrase>
+  <phrase title="forum_import_log_cannot_be_found" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[I log di importazione del forum non possono essere trovati.]]></phrase>
+  <phrase title="forum_is_already_that_type" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Questo forum è già di questo tipo.]]></phrase>
   <phrase title="forum_is_currently_closed_only_admins_may_access" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Il forum è attualmente chiuso. Solamente gli amministratori possono accedere al forum.]]></phrase>
-  <phrase title="forum_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum limit]]></phrase>
+  <phrase title="forum_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limite Forum]]></phrase>
   <phrase title="forum_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lista Forum]]></phrase>
-  <phrase title="forum_min_tags_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will require users to provide at least this many tags when creating a thread.]]></phrase>
-  <phrase title="forum_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum moderator]]></phrase>
+  <phrase title="forum_min_tags_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sarà richiesto agli utenti di fornire almeno questo numero di tag quando si crea una discussione.]]></phrase>
+  <phrase title="forum_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderatore Forum]]></phrase>
   <phrase title="forum_sort.first_post_reaction_score" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Punteggio reazione primo messaggio]]></phrase>
   <phrase title="forum_sort.last_post_date" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Ultimo messaggio]]></phrase>
   <phrase title="forum_sort.post_date" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Primo messaggio]]></phrase>
@@ -5511,7 +5511,7 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="forum_type.question" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Domanda]]></phrase>
   <phrase title="forum_type.suggestion" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Suggerimento]]></phrase>
   <phrase title="forum_type_desc.article" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Forum d'articoli mostreranno il primo messaggio di ciascuna discussione e potrebbero cambiare come le discussioni vengono mostrate quando si naviga il forum.]]></phrase>
-  <phrase title="forum_type_desc.discussion" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Forum generico contengono varie tipologie di discussioni.]]></phrase>
+  <phrase title="forum_type_desc.discussion" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Forum generico contiene varie tipologie di discussioni.]]></phrase>
   <phrase title="forum_type_desc.question" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Question forums allow users to ask questions which other users can answer. The best answer given to the question can be highlighted and pinned. Answers given to "Votable questions" can be up/down-voted and can be sorted by score.]]></phrase>
   <phrase title="forum_type_desc.suggestion" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Suggestion forums allow users to vote for ideas that they like. The most popular suggestions can be easily accessed.]]></phrase>
   <phrase title="forum_type_handler_not_found" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Forum type handler could not be found.]]></phrase>
@@ -5735,44 +5735,44 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="import_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Importa ora]]></phrase>
   <phrase title="import_smilies" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Importa smilie]]></phrase>
   <phrase title="import_smilies_xml_filename" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Nome output XML]]></phrase>
-  <phrase title="import_smilies_xml_filename_explain" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Smilies from the source system are not imported directly into XenForo, but rather all the available information is processed and placed into an XML file, which you can import using the <a href="{link}" target="_blank">Import smilies</a> system later.<br />
+  <phrase title="import_smilies_xml_filename_explain" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Gli smile non sono direttamente importati in Xenforo ma provengono da un file XML che puoi importare più tardi tramite <a href="{link}" target="_blank">Importazione smilies</a> system later.<br />
 <br />
-The XML file will be placed into your 'internal-data' folder, using the file name you specify here.]]></phrase>
-  <phrase title="import_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Import a style]]></phrase>
-  <phrase title="import_target" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Import target]]></phrase>
-  <phrase title="import_this_smilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Import this smilie]]></phrase>
+Il file XML sarà salvato nella cartella "internal-data", usando il nome del file che specifichi qui.]]></phrase>
+  <phrase title="import_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Importa uno stile]]></phrase>
+  <phrase title="import_target" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Importa target]]></phrase>
+  <phrase title="import_this_smilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Importa questo smilie]]></phrase>
   <phrase title="import_totals" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Import totals]]></phrase>
-  <phrase title="import_user" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Import a user]]></phrase>
+  <phrase title="import_user" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Importa utente]]></phrase>
   <phrase title="import_verification_errors_x_select_skip_checks" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Impossibile completare l'importazione perché sono stati rilevati i seguenti problemi:<br />
 <br />
 {errors}<br />
 <br />
 Se sei sicuro di voler continuare con l'importazione, seleziona l'opzione "Ignora controlli di importazione" e riprova.]]></phrase>
-  <phrase title="imported_content" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Imported content]]></phrase>
-  <phrase title="importing" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Importing]]></phrase>
-  <phrase title="importing_exporting_style_archives_only_supported_if_meet_requirements" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Importing to/exporting from style archives is only supported if you have <code>ZipArchive</code> support. You may need to ask your host to enable this.]]></phrase>
-  <phrase title="in_a_minute" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In a minute]]></phrase>
-  <phrase title="in_a_moment" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In a moment]]></phrase>
-  <phrase title="in_x_minutes" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In {minutes} minutes]]></phrase>
-  <phrase title="inactive_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inactive providers]]></phrase>
-  <phrase title="inactive_questions_are_not_presented_to_visitors" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Inactive questions are not presented to visitors.]]></phrase>
+  <phrase title="imported_content" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Contenuto importato]]></phrase>
+  <phrase title="importing" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Sto importando]]></phrase>
+  <phrase title="importing_exporting_style_archives_only_supported_if_meet_requirements" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Importare ed esportare da archivi di stile è possibile solo se si ha il supporto a <code>ZipArchive</code>. Potrebbe essere necessario chiedere al proprio host di abilitarlo..]]></phrase>
+  <phrase title="in_a_minute" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In un minuto]]></phrase>
+  <phrase title="in_a_moment" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In un momento]]></phrase>
+  <phrase title="in_x_minutes" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In {minutes} minuti]]></phrase>
+  <phrase title="inactive_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Providers non attivi]]></phrase>
+  <phrase title="inactive_questions_are_not_presented_to_visitors" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Le domande inattive non vengono mostrate ai visitatori.]]></phrase>
   <phrase title="inbox" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Conversazioni]]></phrase>
   <phrase title="include_default_email_wrapper" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Include default email wrapper]]></phrase>
-  <phrase title="include_default_email_wrapper_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If selected, your email content will be wrapped in the standard header and footer used in emails sent elsewhere in XenForo.]]></phrase>
-  <phrase title="include_forum_in_find_new_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Include threads from this forum when users click "New posts"]]></phrase>
-  <phrase title="include_notifications_for_content_in_sub_categories" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Includere le notifiche per il contenuto delle sottocategorie]]></phrase>
-  <phrase title="include_selected" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Include selected]]></phrase>
-  <phrase title="include_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Include threads]]></phrase>
-  <phrase title="include_url_token" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Include <strong>{$url}</strong> as a placeholder for the link.]]></phrase>
-  <phrase title="incoming_url_conversion_only" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Incoming URL conversion only]]></phrase>
-  <phrase title="incorrect_password" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Password sbagliata. Si prega di riprovare.]]></phrase>
+  <phrase title="include_default_email_wrapper_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se selezionato, il contenuto della tua email sarà avvolto nell'intestazione e nel piè di pagina standard utilizzati nelle email inviate altrove in XenForo.]]></phrase>
+  <phrase title="include_forum_in_find_new_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Include le discussioni di questo forum quando gli utenti fanno clic su "Nuovi messaggi".]]></phrase>
+  <phrase title="include_notifications_for_content_in_sub_categories" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Include le notifiche per il contenuto delle sottocategorie]]></phrase>
+  <phrase title="include_selected" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Includi selezionati]]></phrase>
+  <phrase title="include_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Includi discussioni]]></phrase>
+  <phrase title="include_url_token" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Includi <strong>{$url}</strong> come segnaposto del link.]]></phrase>
+  <phrase title="incoming_url_conversion_only" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Converti solo URL in entrata]]></phrase>
+  <phrase title="incorrect_password" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Password errata. Si prega di riprovare.]]></phrase>
   <phrase title="indent" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci rientro]]></phrase>
-  <phrase title="index_all_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Index all threads]]></phrase>
-  <phrase title="index_threads_based_on_criteria" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Index threads based on criteria]]></phrase>
-  <phrase title="information" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Information]]></phrase>
-  <phrase title="inherit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inherit]]></phrase>
-  <phrase title="inherit_permissions_from" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Inherit permissions from]]></phrase>
-  <phrase title="initiate_conversations_with_this_user" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Initiate conversations with this user]]></phrase>
+  <phrase title="index_all_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Indicizza tutte le discussioni]]></phrase>
+  <phrase title="index_threads_based_on_criteria" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Indicizza discussioni in base ai criteri]]></phrase>
+  <phrase title="information" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Informazione]]></phrase>
+  <phrase title="inherit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eredita]]></phrase>
+  <phrase title="inherit_permissions_from" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Permessi ereditati da]]></phrase>
+  <phrase title="initiate_conversations_with_this_user" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Avvia conversazione con questo utente]]></phrase>
   <phrase title="inline" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline]]></phrase>
   <phrase title="inline_code" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Codice inline]]></phrase>
   <phrase title="inline_moderation_copy_posts" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Moderazione inline - Copia messaggi]]></phrase>
@@ -5789,49 +5789,49 @@ Se sei sicuro di voler continuare con l'importazione, seleziona l'opzione "Ignor
   <phrase title="insert" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci]]></phrase>
   <phrase title="insert_all" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci tutto]]></phrase>
   <phrase title="insert_code" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci codice]]></phrase>
-  <phrase title="insert_column_after" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Insert column after]]></phrase>
-  <phrase title="insert_column_before" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Insert column before]]></phrase>
-  <phrase title="insert_gif" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Insert GIF]]></phrase>
-  <phrase title="insert_horizontal_line" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Insert horizontal line]]></phrase>
+  <phrase title="insert_column_after" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inserisci colonna dopo]]></phrase>
+  <phrase title="insert_column_before" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inserisci colonna prima]]></phrase>
+  <phrase title="insert_gif" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Inserisci GIF]]></phrase>
+  <phrase title="insert_horizontal_line" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Inserisci linea orizzontale]]></phrase>
   <phrase title="insert_image" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci immagine]]></phrase>
   <phrase title="insert_link" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci link]]></phrase>
   <phrase title="insert_media" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci media]]></phrase>
-  <phrase title="insert_multiple" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Insert multiple]]></phrase>
+  <phrase title="insert_multiple" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Inserisci multipli]]></phrase>
   <phrase title="insert_quotes" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci citazione]]></phrase>
-  <phrase title="insert_row_above" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Insert row above]]></phrase>
-  <phrase title="insert_row_below" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Insert row below]]></phrase>
+  <phrase title="insert_row_above" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inserisci riga sopra]]></phrase>
+  <phrase title="insert_row_below" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inserisci riga sotto]]></phrase>
   <phrase title="insert_spoiler" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Insererisci spoiler]]></phrase>
   <phrase title="insert_table" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Inserisci tabella]]></phrase>
-  <phrase title="insert_video" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Insert video]]></phrase>
-  <phrase title="inserted" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Inserted]]></phrase>
-  <phrase title="install" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Install]]></phrase>
-  <phrase title="install_app" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Install the app]]></phrase>
-  <phrase title="install_now" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Install now]]></phrase>
-  <phrase title="install_official_xenforo_add_ons" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Install official XenForo add-ons]]></phrase>
-  <phrase title="install_upgrade_from_archive" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Install/upgrade from archive]]></phrase>
+  <phrase title="insert_video" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inserisci video]]></phrase>
+  <phrase title="inserted" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Inserito]]></phrase>
+  <phrase title="install" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installa]]></phrase>
+  <phrase title="install_app" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Installa l'app]]></phrase>
+  <phrase title="install_now" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Installa ora]]></phrase>
+  <phrase title="install_official_xenforo_add_ons" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Installa add-on ufficiali Xenforo]]></phrase>
+  <phrase title="install_upgrade_from_archive" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Installa/aggiorna da archivio]]></phrase>
   <phrase title="installable_add_ons" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Add-on installabili]]></phrase>
-  <phrase title="installable_official_xenforo_add_on_explain" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[One or more official XenForo add-ons are available to install.<br />
+  <phrase title="installable_official_xenforo_add_on_explain" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sono disponibili uno o più add-on aggiuntivi ufficiali di XenForo da installare.<br />
 <br />
-Select the add-ons you want to install below. The selected add-ons will be downloaded and the add-ons will be installed immediately.]]></phrase>
-  <phrase title="installation_in_development_mode_upgrade_manually" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[This installation is in development mode. Upgrades must be installed manually.]]></phrase>
+Seleziona gli add-on aggiuntivi che vuoi installare qui sotto. Gli add-on selezionati saranno scaricati e installati immediatamente..]]></phrase>
+  <phrase title="installation_in_development_mode_upgrade_manually" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Questa installazione è in modalità di sviluppo. Gli aggiornamenti devono essere installati manualmente.]]></phrase>
   <phrase title="installed_add_ons" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Add-on installate]]></phrase>
-  <phrase title="installing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Installing]]></phrase>
-  <phrase title="installing_from_archives_is_only_supported_if_you_have_ziparchive_support" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Installing from archives is only supported if you have <code>ZipArchive</code> support. You may need to ask your host to enable this.]]></phrase>
-  <phrase title="installing_from_archives_must_be_explicitly_enabled_explain" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Installing from archives must be explicitly enabled by adding the following line to <code>src/config.php</code>:
+  <phrase title="installing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sto installando...]]></phrase>
+  <phrase title="installing_from_archives_is_only_supported_if_you_have_ziparchive_support" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[L'installazione da archivi è supportata solo se hai il supporto a <code>ZipArchive</code>. Potrebbe essere necessario chiedere al proprio host di abilitarlo.]]></phrase>
+  <phrase title="installing_from_archives_must_be_explicitly_enabled_explain" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[L'installazione da archivi deve essere esplicitamente abilitata aggiungendo la seguente linea in <code>src/config.php</code>:
 
 <pre class="u-screenContained"><code>$config['enableAddOnArchiveInstaller'] = true;</code></pre>
 
-Various directories must be writable by the web server user to install from an archive and this may be considered to be insecure in some hosting environments. Your server must also have ZipArchive support in PHP.]]></phrase>
-  <phrase title="integer" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Integer]]></phrase>
+Alcune directory devono essere scrivibili dall'utente del server web per installare da un archivio e questo può essere considerato insicuro in alcuni ambienti di hosting. Il tuo server deve anche avere il supporto ZipArchive in PHP.]]></phrase>
+  <phrase title="integer" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Integro]]></phrase>
   <phrase title="interact" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Interagisci]]></phrase>
   <phrase title="interface_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Interface group]]></phrase>
   <phrase title="interface_group_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Interface group ID]]></phrase>
   <phrase title="internal_data_directory" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Internal data directory]]></phrase>
-  <phrase title="invalid_callback" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Invalid callback]]></phrase>
-  <phrase title="invalid_class_x" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Invalid class: {class}]]></phrase>
-  <phrase title="invalid_or_unreadable_directory" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[The specified directory was not found or unreadable.]]></phrase>
-  <phrase title="invalid_page_requested" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Invalid page requested.]]></phrase>
-  <phrase title="invalid_purchase_request" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invalid purchase request. Your purchase cannot be processed at this time.]]></phrase>
+  <phrase title="invalid_callback" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Callback invalido]]></phrase>
+  <phrase title="invalid_class_x" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Classe non valida: {class}]]></phrase>
+  <phrase title="invalid_or_unreadable_directory" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[La cartella specificata non è stata trovata o non è leggibile.]]></phrase>
+  <phrase title="invalid_page_requested" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Richiesta pagina non valida.]]></phrase>
+  <phrase title="invalid_purchase_request" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Richiesta di acquisto non valida. Il suo acquisto non può essere elaborato in questo momento.]]></phrase>
   <phrase title="invalid_regular_expression" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Invalid regular expression]]></phrase>
   <phrase title="invalid_subscription_endpoint_provided" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Invalid subscription endpoint provided.]]></phrase>
   <phrase title="invite" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invita]]></phrase>
@@ -5846,46 +5846,46 @@ Various directories must be writable by the web server user to install from an a
   <phrase title="ip_addresses_logged_for_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Indirizzi IP utilizzati da {name}]]></phrase>
   <phrase title="ip_information_for_online_guest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP information for online guest]]></phrase>
   <phrase title="ip_information_for_online_user" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[IP address information for {user}]]></phrase>
-  <phrase title="ip_search_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Enter an IP address to see a list of all users logged as having posted content using that IP. You may enter a partial IP address such as 192.168.*, 192.168.0.0/16, or 2001:db8::/32.]]></phrase>
-  <phrase title="ip_to_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP to ban]]></phrase>
-  <phrase title="ip_to_discourage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP to discourage]]></phrase>
-  <phrase title="ip_x_and_y_more" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{ip} and {count} more]]></phrase>
-  <phrase title="issues_with_license_must_resolve_before_upgrading" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[There are issues with your license which you must resolve before upgrading.]]></phrase>
-  <phrase title="it_is_not_possible_to_change_vapid_keys_after_they_have_been_set" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[It is not possible to change the VAPID keys after they have been set.]]></phrase>
-  <phrase title="it_is_not_possible_to_deactivate_this_provider" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[It is not possible to deactivate this provider.]]></phrase>
-  <phrase title="it_is_not_possible_to_delete_default_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[It is not possible to delete the default reaction.]]></phrase>
-  <phrase title="it_is_not_possible_to_delete_last_language" addon_id="XF" version_id="0" version_string=""><![CDATA[It is not possible to delete the last language.]]></phrase>
-  <phrase title="it_is_not_possible_to_disable_default_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[It is not possible to disable the default reaction.]]></phrase>
-  <phrase title="it_is_not_possible_to_export_default_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[It is not possible to export the default reaction.]]></phrase>
-  <phrase title="it_is_not_possible_to_move_any_of_selected_posts_to_specified_target" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[It is not possible to move any of the selected posts to the specified target.]]></phrase>
-  <phrase title="it_is_not_possible_to_prevent_users_from_selecting_default_language" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[It is not possible to prevent users from selecting the default language.]]></phrase>
+  <phrase title="ip_search_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Inserisci un indirizzo IP per vedere una lista di tutti gli utenti registrati che hanno pubblicato contenuti usando quell'IP. Puoi inserire un indirizzo IP parziale come 192.168.*, 192.168.0.0/16, o 2001:db8::/32.]]></phrase>
+  <phrase title="ip_to_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP da bannare]]></phrase>
+  <phrase title="ip_to_discourage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP da scoraggiare]]></phrase>
+  <phrase title="ip_x_and_y_more" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{ip} e altri {count}]]></phrase>
+  <phrase title="issues_with_license_must_resolve_before_upgrading" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Ci sono problemi con la licenza che vanno risolti prima di aggiornare.]]></phrase>
+  <phrase title="it_is_not_possible_to_change_vapid_keys_after_they_have_been_set" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Non è possibile cambiare le chiavi VAPID una volta impostate.]]></phrase>
+  <phrase title="it_is_not_possible_to_deactivate_this_provider" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non è possibile disattivare questo provider.]]></phrase>
+  <phrase title="it_is_not_possible_to_delete_default_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Non è possibile cancellare la reazione predefinita.]]></phrase>
+  <phrase title="it_is_not_possible_to_delete_last_language" addon_id="XF" version_id="0" version_string=""><![CDATA[Non è possibile cancellare l'ultima lingua.]]></phrase>
+  <phrase title="it_is_not_possible_to_disable_default_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Non è possibile disabilitare la reazione predefinita.]]></phrase>
+  <phrase title="it_is_not_possible_to_export_default_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Non è possibile esportare la reazione predefinita.]]></phrase>
+  <phrase title="it_is_not_possible_to_move_any_of_selected_posts_to_specified_target" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Non è possibile spostare nessuno dei posti selezionati nella destinazione specificata.]]></phrase>
+  <phrase title="it_is_not_possible_to_prevent_users_from_selecting_default_language" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Non è possibile impedire agli utenti di selezionare la lingua predefinita.]]></phrase>
   <phrase title="it_is_not_possible_to_prevent_users_selecting_the_default_style" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non è possibile prevenire gli utenti dal selezionare il tema di default.]]></phrase>
-  <phrase title="it_is_not_possible_to_remove_default_language" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[It is not possible to remove the default language.]]></phrase>
+  <phrase title="it_is_not_possible_to_remove_default_language" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Non è possibile rimuovere la lingua predefinita.]]></phrase>
   <phrase title="it_is_not_possible_to_remove_default_style" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non è possibile rimuovere il tema di default.]]></phrase>
-  <phrase title="it_is_not_possible_to_remove_last_style" addon_id="XF" version_id="0" version_string=""><![CDATA[It is not possible to remove the last style.]]></phrase>
-  <phrase title="it_is_not_possible_to_test_this_provider" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[It is not possible to test this provider.]]></phrase>
+  <phrase title="it_is_not_possible_to_remove_last_style" addon_id="XF" version_id="0" version_string=""><![CDATA[Non è possibile rimuovere l'ultimo stile.]]></phrase>
+  <phrase title="it_is_not_possible_to_test_this_provider" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non è possibile testare questo provider.]]></phrase>
   <phrase title="it_is_recommended_that_you_use_image_that_is_at_least_x_pixels" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[È consigliato usare un'immagine di almeno {width}x{height} pixel.]]></phrase>
   <phrase title="italic" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Corsivo]]></phrase>
   <phrase title="item_cannot_be_deleted_associated_with_addon_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questa voce non può essere eliminata in quanto associata a un add-on o allo stesso XenForo. Se non si desidera utilizzare questa opzione, disabilitarla.]]></phrase>
   <phrase title="item_will_remain_viewable_by_moderators_and_may_be_restored_at_later" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il contenuto rimarrà visibile ai moderatori e sarà possibile ripristinarlo successivamente.]]></phrase>
-  <phrase title="items_of_this_type_cannot_be_purchased_at_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Items of this type cannot be purchased at the moment.]]></phrase>
+  <phrase title="items_of_this_type_cannot_be_purchased_at_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Articoli di questo tipo non possono essere acquistati al momento.]]></phrase>
   <phrase title="items_to_process_per_page" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Elementi da elaborare per pagina]]></phrase>
   <phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[JavaScript è disabilitato. Per una migliore esperienza si prega di attivare JavaScript sul suo browser.]]></phrase>
   <phrase title="join_date" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Data di registrazione]]></phrase>
   <phrase title="joined" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Iscritto dal]]></phrase>
-  <phrase title="jump_to_line" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Jump to line]]></phrase>
+  <phrase title="jump_to_line" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Salta alla linea]]></phrase>
   <phrase title="jump_to_new" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Vai a nuovo messaggio]]></phrase>
-  <phrase title="justify_text" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Justify text]]></phrase>
-  <phrase title="key_provided_to_api_via_header" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[This key should be provided to API requests via the <code>XF-Api-Key</code> header.]]></phrase>
-  <phrase title="key_type" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Key type]]></phrase>
+  <phrase title="justify_text" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Giustifica testo]]></phrase>
+  <phrase title="key_provided_to_api_via_header" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Questa chiave dovrebbe essere fornita alle richieste API tramite l'intestazione <code>XF-Api-Key</code>.]]></phrase>
+  <phrase title="key_type" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tipo di chiave]]></phrase>
   <phrase title="keywords" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Parole chiave]]></phrase>
-  <phrase title="label" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Label]]></phrase>
+  <phrase title="label" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Etichetta]]></phrase>
   <phrase title="label_separator" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Separatore etichette]]></phrase>
   <phrase title="labels" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Etichette]]></phrase>
   <phrase title="labels_must_be_unique" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Le etichette devono essere uniche. L'etichetta specificata è già esistente.]]></phrase>
   <phrase title="language" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lingua]]></phrase>
   <phrase title="language_chooser" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Scelta lingua]]></phrase>
-  <phrase title="language_code" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Language]]></phrase>
+  <phrase title="language_code" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Linguaggio]]></phrase>
   <phrase title="language_code.af_ZA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Afrikaans]]></phrase>
   <phrase title="language_code.am_ET" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Amharic]]></phrase>
   <phrase title="language_code.ar_AR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arabic]]></phrase>
