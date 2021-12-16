@@ -6288,66 +6288,66 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="merge" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Unisci]]></phrase>
   <phrase title="merge_into_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge into post]]></phrase>
   <phrase title="merge_posts" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Unisci messaggi]]></phrase>
-  <phrase title="merge_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge tags]]></phrase>
-  <phrase title="merge_template_changes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge template changes]]></phrase>
+  <phrase title="merge_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unisci tags]]></phrase>
+  <phrase title="merge_template_changes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unisci modifiche ai template]]></phrase>
   <phrase title="merge_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Unisci discussioni]]></phrase>
-  <phrase title="merge_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge users]]></phrase>
-  <phrase title="merge_with_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merge with user]]></phrase>
-  <phrase title="merging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merging]]></phrase>
-  <phrase title="merging_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merging users]]></phrase>
+  <phrase title="merge_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unisci utenti]]></phrase>
+  <phrase title="merge_with_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unisci con utente]]></phrase>
+  <phrase title="merging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sto unendo...]]></phrase>
+  <phrase title="merging_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sto unendo gli utenti...]]></phrase>
   <phrase title="message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Messaggio]]></phrase>
-  <phrase title="message_count_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Message count between]]></phrase>
-  <phrase title="message_edit_time_limit_expired" addon_id="XF" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[The time limit to edit this message ({minutes} minutes) has expired.]]></phrase>
-  <phrase title="message_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message template]]></phrase>
-  <phrase title="message_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message users]]></phrase>
-  <phrase title="message_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You can use this form to start a conversation with the users which match the criteria specified below.]]></phrase>
+  <phrase title="message_count_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conteggio dei messaggi tra]]></phrase>
+  <phrase title="message_edit_time_limit_expired" addon_id="XF" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Il tempo limite per modificare questo messaggio ({minutes} minuti) è scaduto.]]></phrase>
+  <phrase title="message_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio template]]></phrase>
+  <phrase title="message_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio utenti]]></phrase>
+  <phrase title="message_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Puoi usare questo modulo per iniziare una conversazione con gli utenti che corrispondono ai criteri specificati qui sotto.]]></phrase>
   <phrase title="messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggi]]></phrase>
   <phrase title="messages_have_been_posted_since_you_loaded_this_page" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Dei messaggi sono stati pubblicati mentre caricavi la pagina.]]></phrase>
-  <phrase title="messaging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Messaging]]></phrase>
-  <phrase title="method" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Method]]></phrase>
-  <phrase title="midnight" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Midnight]]></phrase>
-  <phrase title="minimum" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Minimum]]></phrase>
-  <phrase title="minimum_age" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum age]]></phrase>
-  <phrase title="minimum_number_of_bounces" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Minimum number of bounces]]></phrase>
-  <phrase title="minimum_number_of_days_between_oldest_and_newest_bounce" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Min. days between oldest and newest bounce]]></phrase>
-  <phrase title="minimum_number_of_days_with_bounces" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Minimum number of days with bounces]]></phrase>
+  <phrase title="messaging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Messaggistica]]></phrase>
+  <phrase title="method" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Metodo]]></phrase>
+  <phrase title="midnight" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Mezzanotte]]></phrase>
+  <phrase title="minimum" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Minimo]]></phrase>
+  <phrase title="minimum_age" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Età minima]]></phrase>
+  <phrase title="minimum_number_of_bounces" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Numero minimo di rimbalzi]]></phrase>
+  <phrase title="minimum_number_of_days_between_oldest_and_newest_bounce" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Giorni minimi tra il rimbalzo più vecchio e quello più recente]]></phrase>
+  <phrase title="minimum_number_of_days_with_bounces" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Numero minimo di giorni con rimbalzi]]></phrase>
   <phrase title="minimum_number_of_replies" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Numero minimo di risposte]]></phrase>
-  <phrase title="minimum_required_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum required tags]]></phrase>
-  <phrase title="minimum_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum value]]></phrase>
+  <phrase title="minimum_required_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag minimi richiesti]]></phrase>
+  <phrase title="minimum_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valore minimo]]></phrase>
   <phrase title="missing" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mancante]]></phrase>
   <phrase title="missing_files" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[File mancanti]]></phrase>
-  <phrase title="mixed" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Mixed]]></phrase>
-  <phrase title="mod_log.post_approve" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Approvato messaggio]]></phrase>
-  <phrase title="mod_log.post_attachment_deleted" addon_id="XF" version_id="2010870" version_string="2.1.8"><![CDATA[Post attachment deleted]]></phrase>
-  <phrase title="mod_log.post_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post permanently deleted]]></phrase>
+  <phrase title="mixed" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Misto]]></phrase>
+  <phrase title="mod_log.post_approve" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Messaggio approvato]]></phrase>
+  <phrase title="mod_log.post_attachment_deleted" addon_id="XF" version_id="2010870" version_string="2.1.8"><![CDATA[Allegato messaggio cancellato]]></phrase>
+  <phrase title="mod_log.post_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio eliminato definitivamente]]></phrase>
   <phrase title="mod_log.post_delete_soft" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Messaggio rimosso dalla visualizzazione pubblica (motivo: {reason})]]></phrase>
   <phrase title="mod_log.post_edit" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Modificato messaggio]]></phrase>
-  <phrase title="mod_log.post_merge_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post modified by merging posts ({ids})]]></phrase>
-  <phrase title="mod_log.post_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post unapproved]]></phrase>
-  <phrase title="mod_log.post_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post undeleted]]></phrase>
-  <phrase title="mod_log.post_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post author warning expired]]></phrase>
-  <phrase title="mod_log.post_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post author given warning]]></phrase>
-  <phrase title="mod_log.post_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post author warning removed]]></phrase>
-  <phrase title="mod_log.profile_post_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post approved]]></phrase>
-  <phrase title="mod_log.profile_post_comment_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment approved]]></phrase>
-  <phrase title="mod_log.profile_post_comment_delete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment by {username} deleted]]></phrase>
-  <phrase title="mod_log.profile_post_comment_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment permanently deleted]]></phrase>
-  <phrase title="mod_log.profile_post_comment_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment removed from public view (reason: {reason})]]></phrase>
-  <phrase title="mod_log.profile_post_comment_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment edited]]></phrase>
-  <phrase title="mod_log.profile_post_comment_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment unapproved]]></phrase>
-  <phrase title="mod_log.profile_post_comment_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment undeleted]]></phrase>
-  <phrase title="mod_log.profile_post_comment_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment author warning expired]]></phrase>
-  <phrase title="mod_log.profile_post_comment_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment author given warning]]></phrase>
-  <phrase title="mod_log.profile_post_comment_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post comment author warning removed]]></phrase>
-  <phrase title="mod_log.profile_post_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post permanently deleted]]></phrase>
-  <phrase title="mod_log.profile_post_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post removed from public view (reason: {reason})]]></phrase>
-  <phrase title="mod_log.profile_post_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post edited]]></phrase>
-  <phrase title="mod_log.profile_post_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post unapproved]]></phrase>
-  <phrase title="mod_log.profile_post_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post undeleted]]></phrase>
-  <phrase title="mod_log.profile_post_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post author warning expired]]></phrase>
-  <phrase title="mod_log.profile_post_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post author given warning]]></phrase>
-  <phrase title="mod_log.profile_post_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post author warning removed]]></phrase>
-  <phrase title="mod_log.thread_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread approved]]></phrase>
+  <phrase title="mod_log.post_merge_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio modificato unendo i messaggi ({ids})]]></phrase>
+  <phrase title="mod_log.post_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio non approvato]]></phrase>
+  <phrase title="mod_log.post_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio ripristinato]]></phrase>
+  <phrase title="mod_log.post_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avviso dell'autore del post scaduto]]></phrase>
+  <phrase title="mod_log.post_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'autore del post ha ricevuto un avvertimento]]></phrase>
+  <phrase title="mod_log.post_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avviso dell'autore del post rimosso]]></phrase>
+  <phrase title="mod_log.profile_post_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post del profilo approvato]]></phrase>
+  <phrase title="mod_log.profile_post_comment_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commento sul profilo approvato]]></phrase>
+  <phrase title="mod_log.profile_post_comment_delete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commento al profilo di {username} cancellato]]></phrase>
+  <phrase title="mod_log.profile_post_comment_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commento al post del profilo cancellato in modo permanente]]></phrase>
+  <phrase title="mod_log.profile_post_comment_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commento sul profilo rimosso dalla vista pubblica (motivo: {reason})]]></phrase>
+  <phrase title="mod_log.profile_post_comment_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commento al profilo modificato]]></phrase>
+  <phrase title="mod_log.profile_post_comment_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commento sul profilo non approvato]]></phrase>
+  <phrase title="mod_log.profile_post_comment_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commento sul profilo non cancellato]]></phrase>
+  <phrase title="mod_log.profile_post_comment_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profilo post commento autore avviso scaduto]]></phrase>
+  <phrase title="mod_log.profile_post_comment_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'autore del commento sul profilo ha ricevuto un avvertimento]]></phrase>
+  <phrase title="mod_log.profile_post_comment_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avvertimento dell'autore del commento del profilo rimosso]]></phrase>
+  <phrase title="mod_log.profile_post_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post del profilo cancellato in modo permanente]]></phrase>
+  <phrase title="mod_log.profile_post_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post del profilo rimosso dalla vista pubblica (motivo: {reason})]]></phrase>
+  <phrase title="mod_log.profile_post_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio del profilo modificato]]></phrase>
+  <phrase title="mod_log.profile_post_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post del profilo non approvato]]></phrase>
+  <phrase title="mod_log.profile_post_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio sul profilo non cancellato]]></phrase>
+  <phrase title="mod_log.profile_post_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avvertimento dell'autore del profilo scaduto]]></phrase>
+  <phrase title="mod_log.profile_post_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'autore del post del profilo ha ricevuto un avvertimento]]></phrase>
+  <phrase title="mod_log.profile_post_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avvertimento dell'autore del profilo rimosso]]></phrase>
+  <phrase title="mod_log.thread_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione approvata]]></phrase>
   <phrase title="mod_log.thread_custom_fields_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread custom fields edited]]></phrase>
   <phrase title="mod_log.thread_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread permanently deleted]]></phrase>
   <phrase title="mod_log.thread_delete_soft" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Discussione rimossa dalla visualizzazione pubblica (motivo: {reason})]]></phrase>
