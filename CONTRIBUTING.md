@@ -4,22 +4,34 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 ### Variabili di traduzione
 - Threads = Discussioni
 - Posts = Messaggi
-- Notices = Avvisi(?)
+- To Post = Pubblicare (verbo)
+- Notices = Notifiche
 - Themes = Temi
 - Nodes = Nodi
 - Attachments = Allegati
 - Thumbnails = Anteprime
 - Warn = Avvertimento
+- Alert = Avviso
 - Resource = Release
 - API Key = Chiave API
 - Parent = Parente
 - Child = Figlio
+- Guest = Ospiti
+- Username = Nome Utente
+- Ban = Bannato
+- Notable = Degno di Nota
+- Terms of Use = Termini e Condizioni d'Uso
+- Sticky = In Rilievo
 
 ### Rimangono invece nella loro forma
 - Templates
 - Smilies
 - BB code
-- Diciture esterne (es: App ID, App secret)
+- Asset
+- Avatar
+- Feed
+- Log
+- Informazioni tecniche specifiche, volte allo sviluppo di addon, template e altro.
 
 ### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
 - {user}
