@@ -22,6 +22,7 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Notable = Degno di Nota
 - Terms of Use = Termini e Condizioni d'Uso
 - Sticky = In Rilievo
+- Board = Forum
 
 ### Rimangono invece nella loro forma
 - Templates
@@ -31,6 +32,10 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Avatar
 - Feed
 - Log
+- Upgrade (User)
+- Directory
+- Add-on
+- Breadcrumbs
 - Informazioni tecniche specifiche, volte allo sviluppo di addon, template e altro.
 
 ### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
