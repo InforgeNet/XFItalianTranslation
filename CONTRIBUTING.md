@@ -12,6 +12,8 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Warn = Avvertimento
 - Resource = Release
 - API Key = Chiave API
+- Parent = Parente
+- Child = Figlio
 
 ### Rimangono invece nella loro forma
 - Templates

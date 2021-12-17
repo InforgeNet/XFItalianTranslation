@@ -6348,59 +6348,59 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.profile_post_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'autore del post del profilo ha ricevuto un avvertimento]]></phrase>
   <phrase title="mod_log.profile_post_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avvertimento dell'autore del profilo rimosso]]></phrase>
   <phrase title="mod_log.thread_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione approvata]]></phrase>
-  <phrase title="mod_log.thread_custom_fields_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread custom fields edited]]></phrase>
-  <phrase title="mod_log.thread_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread permanently deleted]]></phrase>
+  <phrase title="mod_log.thread_custom_fields_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Campi personalizzati della discussione modificati]]></phrase>
+  <phrase title="mod_log.thread_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione eliminata permanentemente]]></phrase>
   <phrase title="mod_log.thread_delete_soft" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Discussione rimossa dalla visualizzazione pubblica (motivo: {reason})]]></phrase>
-  <phrase title="mod_log.thread_discussion_type" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Thread type changed from '{old}']]></phrase>
-  <phrase title="mod_log.thread_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread edited ({elements})]]></phrase>
+  <phrase title="mod_log.thread_discussion_type" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Tipo di discussione cambiata da '{old}']]></phrase>
+  <phrase title="mod_log.thread_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione modificata ({elements})]]></phrase>
   <phrase title="mod_log.thread_lock" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Chiusa discussione]]></phrase>
-  <phrase title="mod_log.thread_merge_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread modified by merging threads ({ids})]]></phrase>
+  <phrase title="mod_log.thread_merge_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione modificata unendo ({ids})]]></phrase>
   <phrase title="mod_log.thread_move" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Discussione spostata dal forum {from}]]></phrase>
-  <phrase title="mod_log.thread_poll_add" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread poll added]]></phrase>
-  <phrase title="mod_log.thread_poll_create" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Thread poll created]]></phrase>
-  <phrase title="mod_log.thread_poll_delete" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Thread poll deleted]]></phrase>
-  <phrase title="mod_log.thread_poll_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread poll edited]]></phrase>
-  <phrase title="mod_log.thread_poll_reset" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Thread poll reset]]></phrase>
-  <phrase title="mod_log.thread_post_copy_source" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posts from thread copied to <a href="{url}">{title}</a>]]></phrase>
-  <phrase title="mod_log.thread_post_copy_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread created by copying posts ({ids})]]></phrase>
-  <phrase title="mod_log.thread_post_copy_target_existing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posts ({ids}) copied to thread]]></phrase>
-  <phrase title="mod_log.thread_post_move_source" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posts from thread moved to <a href="{url}">{title}</a>]]></phrase>
-  <phrase title="mod_log.thread_post_move_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread created by moving posts ({ids})]]></phrase>
-  <phrase title="mod_log.thread_post_move_target_existing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posts ({ids}) moved to thread]]></phrase>
+  <phrase title="mod_log.thread_poll_add" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sondaggio aggiunto]]></phrase>
+  <phrase title="mod_log.thread_poll_create" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Sondaggio creato]]></phrase>
+  <phrase title="mod_log.thread_poll_delete" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Sondaggio eliminato]]></phrase>
+  <phrase title="mod_log.thread_poll_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sondaggio modificato]]></phrase>
+  <phrase title="mod_log.thread_poll_reset" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Sondaggio resettato]]></phrase>
+  <phrase title="mod_log.thread_post_copy_source" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggi dalla discussione copiati in <a href="{url}">{title}</a>]]></phrase>
+  <phrase title="mod_log.thread_post_copy_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione creata copiando i messaggi ({ids})]]></phrase>
+  <phrase title="mod_log.thread_post_copy_target_existing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggi ({ids}) copiati nella discussione]]></phrase>
+  <phrase title="mod_log.thread_post_move_source" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggi dalla discussione spostati in <a href="{url}">{title}</a>]]></phrase>
+  <phrase title="mod_log.thread_post_move_target" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione creata spostando i messaggi ({ids})]]></phrase>
+  <phrase title="mod_log.thread_post_move_target_existing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggi ({ids}) spostati nella discussione]]></phrase>
   <phrase title="mod_log.thread_prefix" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Prefisso discussione modificato da '{old}']]></phrase>
-  <phrase title="mod_log.thread_reply_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} banned from replying to thread (reason: {reason})]]></phrase>
-  <phrase title="mod_log.thread_reply_ban_delete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}'s thread reply ban removed]]></phrase>
+  <phrase title="mod_log.thread_reply_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} bannato dal rispondere alla discussione (motivo: {reason})]]></phrase>
+  <phrase title="mod_log.thread_reply_ban_delete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ban di {name} sulla discussione rimosso]]></phrase>
   <phrase title="mod_log.thread_stick" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Discussione messa in rilievo]]></phrase>
   <phrase title="mod_log.thread_title" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Titolo discussione modificato da '{old}']]></phrase>
-  <phrase title="mod_log.thread_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread unapproved]]></phrase>
-  <phrase title="mod_log.thread_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread undeleted]]></phrase>
-  <phrase title="mod_log.thread_unlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread unlocked]]></phrase>
+  <phrase title="mod_log.thread_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione non approvata]]></phrase>
+  <phrase title="mod_log.thread_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione ripristinata]]></phrase>
+  <phrase title="mod_log.thread_unlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Discussione sbloccata]]></phrase>
   <phrase title="mod_log.thread_unstick" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Discussione tolta dal rilievo]]></phrase>
   <phrase title="mod_log.user_approved" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Account utente approvato]]></phrase>
-  <phrase title="mod_log.user_rejected" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Account utente respinto (reason: {reason})]]></phrase>
-  <phrase title="mod_log.user_spam_clean" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User spam cleaned]]></phrase>
-  <phrase title="mod_log.user_username_change_approved" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Username change from {old} to {new} approved]]></phrase>
-  <phrase title="mod_log.user_username_change_rejected" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Username change from {old} to {new} rejected (reason: {reason})]]></phrase>
-  <phrase title="mod_log.user_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User warned (warning: {warning_title})]]></phrase>
-  <phrase title="mod_log.user_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User warning expired]]></phrase>
+  <phrase title="mod_log.user_rejected" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Account utente respinto (motivo: {reason})]]></phrase>
+  <phrase title="mod_log.user_spam_clean" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User spam ripulito]]></phrase>
+  <phrase title="mod_log.user_username_change_approved" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cambio username da {old} a {new} approvato]]></phrase>
+  <phrase title="mod_log.user_username_change_rejected" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cambio username da {old} a {new} respinto (motivo: {reason})]]></phrase>
+  <phrase title="mod_log.user_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utente avvisato (avviso: {warning_title})]]></phrase>
+  <phrase title="mod_log.user_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avviso utente scaduto]]></phrase>
   <phrase title="mod_log.user_warning_given" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Inviato un avvertimento utente]]></phrase>
-  <phrase title="mod_log.user_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User warning removed]]></phrase>
-  <phrase title="moderate_new_threads_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Moderate new threads posted in this forum]]></phrase>
-  <phrase title="moderate_replies_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Moderate replies posted in this forum]]></phrase>
+  <phrase title="mod_log.user_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avviso utente rimosso]]></phrase>
+  <phrase title="moderate_new_threads_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Modera le nuove discussioni in questo forum]]></phrase>
+  <phrase title="moderate_replies_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Modera le risposte in questo forum]]></phrase>
   <phrase title="moderated" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Moderato]]></phrase>
   <phrase title="moderation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Moderazione]]></phrase>
   <phrase title="moderator" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Moderatore]]></phrase>
   <phrase title="moderator_actions" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Azioni moderatori]]></phrase>
-  <phrase title="moderator_editable" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Moderator editable]]></phrase>
+  <phrase title="moderator_editable" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Moderatore modificabile]]></phrase>
   <phrase title="moderator_log" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Log moderatori]]></phrase>
   <phrase title="moderator_log_entry" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Voce log moderatore]]></phrase>
   <phrase title="moderator_tools" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Strumenti di Moderazione]]></phrase>
-  <phrase title="moderator_user_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Username Moderatore]]></phrase>
+  <phrase title="moderator_user_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nome utente Moderatore]]></phrase>
   <phrase title="moderators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Moderatori]]></phrase>
   <phrase title="moderators_count_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderatori ({moderators})]]></phrase>
   <phrase title="modification_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modification key]]></phrase>
   <phrase title="modified_in_parent_language" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modificato nel linguaggio parente]]></phrase>
-  <phrase title="modified_in_parent_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Modified in a parent style]]></phrase>
+  <phrase title="modified_in_parent_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Modificato in uno stile parente]]></phrase>
   <phrase title="modified_in_this_language" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modificato in questa lingua]]></phrase>
   <phrase title="modified_in_this_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Modificato in questo stile]]></phrase>
   <phrase title="modify_in_this_style" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Modify in this style]]></phrase>
