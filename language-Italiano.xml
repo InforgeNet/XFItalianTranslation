@@ -7163,65 +7163,65 @@ Lo Unix time dell'ultimo aggiornamento di JS. Questo può essere cambiato per fo
   <phrase title="option_explain.readMarkingDataLifetime" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo è il numero di giorni per mantenere i dati di marcatura in lettura (come per le discussioni e i forum). I dati più vecchi di questo saranno sempre visti come letti.]]></phrase>
   <phrase title="option_explain.redditShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il pulsante Reddit <a href="https://www.reddit.com/buttons/" target="_blank">di condivisione</a> permette ai tuoi utenti di condividere rapidamente e facilmente il tuo contenuto direttamente su Reddit.]]></phrase>
   <phrase title="option_explain.registrationCheckDnsBl" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Controlla gli indirizzi IP negli elenchi di blocchi DNS quando un nuovo utente si registra per aiutare a prevenire lo spam. Se l'integrazione StopForumSpam non è abilitata, Tornevall DNSBL verrà controllato.]]></phrase>
-  <phrase title="option_explain.registrationDefaults" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In order to keep the registration form short, many preferences are not shown. This option allows you to set the default values for newly registered users.]]></phrase>
-  <phrase title="option_explain.registrationSetup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[These basic options set the foundation for new registrations to your forum.]]></phrase>
-  <phrase title="option_explain.registrationTimer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use this option to set a minimum number of seconds that a registration must take before being submitted. This can help prevent spam registrations. Use 0 to disable this option.]]></phrase>
+  <phrase title="option_explain.registrationDefaults" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Per mantenere il modulo di registrazione breve, molte preferenze non vengono mostrate. Questa opzione permette di impostare i valori predefiniti per i nuovi utenti registrati.]]></phrase>
+  <phrase title="option_explain.registrationSetup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste opzioni di base pongono le basi per le nuove registrazioni al tuo forum.]]></phrase>
+  <phrase title="option_explain.registrationTimer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usa questa opzione per impostare un numero minimo di secondi che una registrazione deve impiegare prima di essere inviata. Questo può aiutare a prevenire le registrazioni di spam. Usa 0 per disabilitare questa opzione.]]></phrase>
   <phrase title="option_explain.registrationWelcome" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.reportIntoForumId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If a forum is selected here, the report center will be disabled and a thread will be posted whenever content is reported.]]></phrase>
-  <phrase title="option_explain.romanizeUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If selected, accented and non-Latin characters in a URL will be converted to Latin equivalents if possible.]]></phrase>
+  <phrase title="option_explain.reportIntoForumId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se un forum è selezionato qui, il centro di segnalazione sarà disabilitato e verrà pubblicato un thread ogni volta che il contenuto viene segnalato.]]></phrase>
+  <phrase title="option_explain.romanizeUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se selezionato, i caratteri accentati e non latini in un URL saranno convertiti in equivalenti latini, se possibile.]]></phrase>
   <phrase title="option_explain.rootBreadcrumb" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Specificare la voce di navigazione che fungerà da "radice" della tua lista breadcrumb.]]></phrase>
   <phrase title="option_explain.saveDrafts" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Se abilitato, le bozze verranno periodicamente inviate al server e archiviate per consentire agli utenti di riprendere a lavorare sui propri messaggi in un secondo momento. Disabilitando questo si disabilita anche il controllo automatico di nuovi messaggi durante la composizione di una risposta.]]></phrase>
-  <phrase title="option_explain.searchMinWordLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the minimum length of a word that can be searched by the index. With the default search system, this should correspond with the MySQL full text minimum word length (normally 4).]]></phrase>
+  <phrase title="option_explain.searchMinWordLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questa è la lunghezza minima di una parola che può essere cercata dall'indice. Con il sistema di ricerca predefinito, questo dovrebbe corrispondere alla lunghezza minima delle parole del testo completo di MySQL (normalmente 4).]]></phrase>
   <phrase title="option_explain.searchResultsPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.selectQuotable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This feature enables users to quote snippets of messages by using their browser's text-selection tools.]]></phrase>
-  <phrase title="option_explain.sharedIpsCheckLimit" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[When checking for other users having used the same IP addresses, this control limits the search to the last X days.]]></phrase>
-  <phrase title="option_explain.shortcodeToEmoji" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[If enabled common <code>:short_code:</code> will be converted to emoji and, where supported, we will display suggestions as you type. If an emoji and smilie share the same short code, the smilie will be used.]]></phrase>
-  <phrase title="option_explain.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[If enabled, the smilie menu will display a categorised list of all emoji in addition to your custom smilies.]]></phrase>
-  <phrase title="option_explain.showFirstCookieNotice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When a user first views a page (with no XenForo cookies), if enabled, the user will see a notice stating that cookies are used by this site and continued use consents to the cookies. This option is designed to make compliance with EU cookie regulations easier.]]></phrase>
-  <phrase title="option_explain.showMessageOnlineStatus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, messages will display an icon if the author is currently online.]]></phrase>
-  <phrase title="option_explain.sitemapAutoRebuild" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If this option is enabled, the sitemap will be rebuilt automatically periodically. If this option is disabled, the sitemap will only be updated when it is rebuilt manually through <i>Tools &gt; Rebuild Caches</i>. The current sitemap can be accessed via <a href="sitemap.php">sitemap.php</a>.]]></phrase>
-  <phrase title="option_explain.sitemapAutoSubmit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Once a sitemap is built, if this option is enabled, the updated version will be automatically submitted to the search engines specified. {$url} is replaced with your sitemap URL automatically. If this option is not enabled, search engines will only know about the sitemap if it is listed in robots.txt or if you manually submit it to them.]]></phrase>
-  <phrase title="option_explain.sitemapExclude" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If you wish to exclude certain content types from the sitemap, that can be done here. Note that content must be guest accessible to be included in the sitemap, regardless of this setting.]]></phrase>
-  <phrase title="option_explain.sitemapExtraUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If desired, you may include additional URLs that would not otherwise be included in the sitemap. Place each URL on separate lines. Note that these URLs must match your board URL or they will not be included. Partial URLs will be converted to absolute URLs automatically.]]></phrase>
+  <phrase title="option_explain.selectQuotable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questa funzione permette agli utenti di citare frammenti di messaggi utilizzando gli strumenti di selezione del testo del loro browser.]]></phrase>
+  <phrase title="option_explain.sharedIpsCheckLimit" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Quando si verifica la presenza di altri utenti che hanno usato gli stessi indirizzi IP, questo controllo limita la ricerca agli ultimi X giorni.]]></phrase>
+  <phrase title="option_explain.shortcodeToEmoji" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Se abilitato, i comuni <code>:short_code:</code> saranno convertiti in emoji e, dove supportato, mostreremo suggerimenti durante la digitazione. Se un emoji e uno smilie condividono lo stesso codice breve, verrà utilizzato lo smilie.]]></phrase>
+  <phrase title="option_explain.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Se abilitato, il menu smilie mostrerà un elenco categorizzato di tutte le emoji oltre alle tue faccine personalizzate.]]></phrase>
+  <phrase title="option_explain.showFirstCookieNotice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando un utente visualizza per la prima volta una pagina (senza i cookie di XenForo), se abilitato, l'utente vedrà un avviso che dichiara che i cookie sono utilizzati da questo sito e l'uso continuato acconsente ai cookie. Questa opzione è stata progettata per rendere più facile la conformità con le normative UE sui cookie.]]></phrase>
+  <phrase title="option_explain.showMessageOnlineStatus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se abilitato, nei messaggi sarà mostrata un'icona se l'autore è attualmente online.]]></phrase>
+  <phrase title="option_explain.sitemapAutoRebuild" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se questa opzione è attivata, la mappa del sito sarà ricostruita automaticamente a intervalli regolari. Se questa opzione è disattivata, la mappa del sito sarà aggiornata solo quando viene ricostruita manualmente attraverso <i>Strumenti e Ricostruzione Cache</i>. La sitemap attuale è accessibile tramite <a href="sitemap.php">sitemap.php</a>.]]></phrase>
+  <phrase title="option_explain.sitemapAutoSubmit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Una volta costruita una sitemap, se questa opzione è abilitata, la versione aggiornata sarà automaticamente inviata ai motori di ricerca specificati. {$url} viene sostituito automaticamente con l'URL della tua sitemap. Se questa opzione non è abilitata, i motori di ricerca sapranno della sitemap solo se è elencata in robots.txt o se la invii manualmente.]]></phrase>
+  <phrase title="option_explain.sitemapExclude" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se vuoi escludere certi tipi di contenuto dalla sitemap, puoi farlo qui. Nota che il contenuto deve essere accessibile agli ospiti per essere incluso nella mappa del sito, indipendentemente da questa impostazione.]]></phrase>
+  <phrase title="option_explain.sitemapExtraUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se lo desideri, puoi includere ulteriori URL che altrimenti non sarebbero inclusi nella mappa del sito. Metti ogni URL su righe separate. Nota che questi URL devono corrispondere all'URL della tua scheda o non saranno inclusi. Gli URL parziali saranno convertiti automaticamente in URL assoluti.]]></phrase>
   <phrase title="option_explain.spamDefaultOptions" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Queste sono le opzioni predefinite che verranno controllate quando si esegue lo strumento di pulizia dello spam. La persona che esegue effettivamente il pulitore di spam avrà l'opportunità di modificare queste opzioni.]]></phrase>
-  <phrase title="option_explain.spamMessageAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This controls what happens to messages made by spammers when the spam cleaner is applied against them. Note that if content does not support removal from view, it will be permanently deleted regardless of this setting.]]></phrase>
-  <phrase title="option_explain.spamPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When any of these phrases are entered in a message, the action below will be taken. Enter one phrase per line. You may use a * as a wild card to match any words. If you start the line with /, the line will be treated as a regular expression (example: /test/i).]]></phrase>
-  <phrase title="option_explain.spamThreadAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This controls what happens to threads started by spammers when the spam cleaner is applied against them.]]></phrase>
-  <phrase title="option_explain.spamUserCriteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The spam cleaner will only be available to act against users who meet these criteria. If any of these criteria are set to 0 (zero) they will be ignored.]]></phrase>
+  <phrase title="option_explain.spamMessageAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo controlla cosa succede ai messaggi creati dagli spammer quando la pulizia spam viene applicato su di loro. Tieni presente che se il contenuto non supporta la rimozione soft, sarà permanentemente cancellato indipendentemente da questa impostazione.]]></phrase>
+  <phrase title="option_explain.spamPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando una di queste frasi viene inserita in un messaggio, viene eseguita l'azione seguente. Inserisci una frase per riga. Puoi usare un * come carattere jolly per abbinare qualsiasi parola. Se inizi la riga con /, la riga sarà trattata come un'espressione regolare (esempio: /test/i).]]></phrase>
+  <phrase title="option_explain.spamThreadAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo controlla cosa succede alle discussioni iniziate dagli spammer quando la pulizia spam viene applicata contro di loro.]]></phrase>
+  <phrase title="option_explain.spamUserCriteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La pulizia spam sarà disponibile solo verso gli utenti che soddisfano questi criteri. Se uno qualsiasi di questi criteri è impostato a 0 (zero) sarà ignorato.]]></phrase>
   <phrase title="option_explain.stopForumSpam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.tagCloud" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[If enabled, a tag cloud showing the most popular tags will be shown on the tag search page.]]></phrase>
-  <phrase title="option_explain.tagCloudMinUses" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tags will not be shown in the tag cloud unless they have been used at least this many times.]]></phrase>
-  <phrase title="option_explain.tagLength" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[This controls the minimum and maximum length of tags. Use 0 to disable a limit. Tags may never be longer than 100 characters. These limits only apply when a tag is created. Existing tags may always be used.]]></phrase>
+  <phrase title="option_explain.tagCloud" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Se abilitato, una cloud tag che mostra i tag più popolari sarà mostrata nella pagina di ricerca dei tag.]]></phrase>
+  <phrase title="option_explain.tagCloudMinUses" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[I tag non saranno mostrati nella tag cloud a meno che non siano stati usati almeno così tante volte.]]></phrase>
+  <phrase title="option_explain.tagLength" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Questo controlla la lunghezza minima e massima dei tag. Usa 0 per disabilitare un limite. I tag non possono mai essere più lunghi di 100 caratteri. Questi limiti si applicano solo quando un tag viene creato. I tag esistenti possono sempre essere utilizzati.]]></phrase>
   <phrase title="option_explain.tagValidation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The number of days to maintain template edit history records. Use 0 to never remove history.]]></phrase>
-  <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[The Unix time stamp of the last terms and rules update.]]></phrase>
-  <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[If you decide to <a href="admin.php?force-agreement/terms" target="_blank">Force terms and rules agreement</a> then the routes listed here will bypass being redirected to the force agreement page. The route path is the section of the URL to a page after your main forum directory URL, such as forums/ or pages/page-name/. Do not reference a route filter here.]]></phrase>
+  <phrase title="option_explain.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il numero di giorni per mantenere i record della cronologia di modifica dei template. Usare 0 per non rimuovere mai la cronologia.]]></phrase>
+  <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[La Unix timestamp dell'ultimo aggiornamento dei termini e delle regole.]]></phrase>
+  <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Puoi decidere di <a href="admin.php?force-agreement/terms" target="_blank">Forzare l'approvazione dei ToS</a> allora i percorsi elencati qui eviteranno di essere reindirizzati alla pagina dell'accordo di forza. Il percorso del percorso è la sezione dell'URL di una pagina dopo l'URL della directory principale del forum, come forums/ o pages/page-name/. Non fare riferimento a un filtro di route qui.]]></phrase>
   <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo link verrà mostrato nel footer, e gli utenti dovranno accettare i termini e le regole durante la registrazione.]]></phrase>
-  <phrase title="option_explain.tumblrShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The <a href="https://www.tumblr.com/docs/en/share_button" target="_blank">Tumblr share button</a> lets your users share pages to Tumblr.]]></phrase>
-  <phrase title="option_explain.tweet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enabling this button will allow your visitors to share pages easily using their Twitter account.<br />
+  <phrase title="option_explain.tumblrShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il <a href="https://www.tumblr.com/docs/en/share_button" target="_blank">pulsante di condivisione di Tumblr</a> permette ai tuoi utenti di condividere le pagine su Tumblr.]]></phrase>
+  <phrase title="option_explain.tweet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilitando questo pulsante, i tuoi visitatori potranno condividere facilmente le pagine utilizzando il loro account Twitter.<br />
 <br />
-You may also specify up to two Twitter accounts to recommend to visitors after they use the Tweet button. <a href="https://dev.twitter.com/web/tweet-button/web-intent" target="_blank">More info...</a>]]></phrase>
+Puoi anche specificare fino a due account Twitter da raccomandare ai visitatori dopo che hanno usato il pulsante Tweet. <a href="https://dev.twitter.com/web/tweet-button/web-intent" target="_blank">Più info...</a>]]></phrase>
   <phrase title="option_explain.unsubscribeEmailAddress" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Alcuni client di posta elettronica supportano la lettura a <code>List-Annulla l'iscrizione</code> intestazione all'interno delle e-mail che consente loro di visualizzare un'opzione importante per consentire a un utente di annullare l'iscrizione alle mailing list. Il meccanismo per avvisarti della richiesta di un utente di annullare l'iscrizione è un'e-mail inviata all'indirizzo specificato qui.<br />
 <br />
 <b>Note:</b> A meno che tu non abiliti il "Gestore automatico di e-mail di annullamento dell'iscrizione" di seguito, sarà interamente tua responsabilità controllare ed elaborare manualmente tali e-mail, a meno che tu non stia utilizzando un servizio di terze parti che lo farà per te. Un valore è richiesto qui se si abilita l'opzione automatizzata.]]></phrase>
   <phrase title="option_explain.upgradeCheckStableOnly" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Quando verifichiamo gli aggiornamenti, per impostazione predefinita cercheremo solo aggiornamenti stabili. Deseleziona questa casella per includere anche gli aggiornamenti "Non supportati".]]></phrase>
   <phrase title="option_explain.urlToPageTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Con questa opzione abilitata, se un URL viene utilizzato all'interno di un messaggio e non viene fornito un titolo dall'autore, ove possibile verrà recuperato e utilizzato il titolo della pagina collegata.<br />
 <br />
-Use the textbox above to specify a format. <b>{title}</b> will be replaced with the fetched page title and <b>{url}</b> will be replaced with the original URL. If no format is entered, the title itself will be displayed.]]></phrase>
+Usa la casella di testo qui sopra per specificare un formato. <b>{title}</b> sarà sostituito con il titolo della pagina recuperata e <b>{url}</b> sarà sostituito con l'URL originale. Se non viene inserito alcun formato, verrà visualizzato il titolo stesso.]]></phrase>
   <phrase title="option_explain.urlToRichPreview" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[Se un URL viene inserito in un post, può essere "spiegato" automaticamente per visualizzare una ricca anteprima dei contenuti del collegamento, come titolo, descrizione e immagine.]]></phrase>
   <phrase title="option_explain.useFriendlyUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se abiliti questa opzione, i link generati dal sistema non includeranno "index.php?". Tuttavia, per abilitare ciò, deve essere disponibile mod_rewrite e deve essere presente un file .htaccess appropriato.]]></phrase>
   <phrase title="option_explain.userBanners" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.userMentionKeepAt" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il carattere @ viene utilizzato per avviare le menzioni dell'utente. Se questa opzione è disabilitata, le menzioni degli utenti rimuoveranno questo carattere.]]></phrase>
-  <phrase title="option_explain.userTitleLadderField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The <a href="admin.php?user-title-ladder/">user title ladder</a> will use this field to determine how people move up the ladder.]]></phrase>
-  <phrase title="option_explain.usernameChangeRecentLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[When a username is changed, the change will be indicated on the user's profile and the previous username will be visible until the change is no longer "recent" based on this option. Note that moderators will be able to see full username change histories. Users will be able to see their own full username change history. Set this to 0 to disable displaying username changes publicly.]]></phrase>
-  <phrase title="option_explain.usernameChangeRequireReason" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[If enabled, the user will be required to provide a reason when requesting a username change.]]></phrase>
-  <phrase title="option_explain.usernameChangeTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Users will need to wait this number of days between username changes. If this is set to 0 users can change their username as frequently as they like.]]></phrase>
-  <phrase title="option_explain.usernameLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This controls the minimum and maximum length of user names. Use 0 to disable a limit. User names may never be longer than 50 characters.]]></phrase>
-  <phrase title="option_explain.usernameReuseTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[This controls how long a user must wait before they are able to pick a username that was recently used by another user. Set this to 0 to disable this feature.]]></phrase>
+  <phrase title="option_explain.userTitleLadderField" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La <a href="admin.php?user-title-ladder/">scala titoli utente</a> userà questo campo per determinare come le persone salgono nella scala.]]></phrase>
+  <phrase title="option_explain.usernameChangeRecentLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Quando un nome utente viene cambiato, il cambiamento sarà indicato sul profilo dell'utente e il nome utente precedente sarà visibile fino a quando il cambiamento non sarà più "recente" in base a questa opzione. Nota che i moderatori saranno in grado di vedere la cronologia completa dei cambi di nome utente. Gli utenti saranno in grado di vedere la cronologia completa dei cambiamenti del proprio nome utente. Impostalo a 0 per disabilitare la visualizzazione pubblica delle modifiche al nome utente..]]></phrase>
+  <phrase title="option_explain.usernameChangeRequireReason" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Se abilitato, all'utente sarà richiesto di fornire un motivo quando richiede un cambio di nome utente.]]></phrase>
+  <phrase title="option_explain.usernameChangeTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Gli utenti dovranno aspettare questo numero di giorni tra un cambio di nome utente e l'altro. Se questo è impostato a 0 gli utenti possono cambiare il loro nome utente con la frequenza che preferiscono.]]></phrase>
+  <phrase title="option_explain.usernameLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo controlla la lunghezza minima e massima dei nomi utente. Usa 0 per disabilitare il limite. I nomi utente non possono mai essere più lunghi di 50 caratteri.]]></phrase>
+  <phrase title="option_explain.usernameReuseTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Questo controlla quanto tempo un utente deve aspettare prima di essere in grado di scegliere un nome utente che è stato recentemente usato da un altro utente. Impostalo a 0 per disabilitare questa funzione.]]></phrase>
   <phrase title="option_explain.usernameValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, watched content alerts and emails will only be sent to users that have visited within the specified number of days. This can improve performance on large or very active installations.]]></phrase>
-  <phrase title="option_explain.webShare" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[On supported devices, this button will open the browser's web share prompt, allowing users to share the current page to other applications.]]></phrase>
-  <phrase title="option_explain.whatsAppShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If a user clicks this button WhatsApp will open a list of users to share the current page URL and title with. This button is hidden on larger screens as it is primarily for mobile users.]]></phrase>
+  <phrase title="option_explain.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se abilitato, gli avvisi di contenuto seguito e le e-mail saranno inviate solo agli utenti che hanno visitato entro il numero di giorni specificato. Questo può migliorare le prestazioni su installazioni grandi o molto attive.]]></phrase>
+  <phrase title="option_explain.webShare" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Sui dispositivi supportati, questo pulsante aprirà la richiesta di condivisione web del browser, permettendo agli utenti di condividere la pagina corrente con altre applicazioni.]]></phrase>
+  <phrase title="option_explain.whatsAppShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Se un utente clicca su questo pulsante WhatsApp aprirà un elenco di utenti con cui condividere l'URL e il titolo della pagina corrente. Questo pulsante è nascosto sugli schermi più grandi in quanto è principalmente per gli utenti mobili.]]></phrase>
   <phrase title="option_group.acp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pannello Amministratore]]></phrase>
   <phrase title="option_group.alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avvisi utente]]></phrase>
   <phrase title="option_group.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aspetto]]></phrase>
@@ -7240,7 +7240,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.newsfeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Feed notizie]]></phrase>
   <phrase title="option_group.nodeList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nodi & lista forum]]></phrase>
   <phrase title="option_group.performance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Performance]]></phrase>
-  <phrase title="option_group.pwa" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[PWA options]]></phrase>
+  <phrase title="option_group.pwa" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Opzioni PWA]]></phrase>
   <phrase title="option_group.searchOptions" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Cerca opzioni]]></phrase>
   <phrase title="option_group.seo" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ottimizzazione dei Motori di Ricerca (SEO)]]></phrase>
   <phrase title="option_group.serviceProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fornitori di servizi esterni]]></phrase>
@@ -7264,7 +7264,7 @@ Puoi attivare <em>{addon}</em> tramite la <a href="{link}">lista degli add-on in
   <phrase title="option_group_description.debug" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste opzioni sono concepite per essere modificate unicamente dagli sviluppatori di XenForo.]]></phrase>
   <phrase title="option_group_description.discourager" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lo "Scoraggiamento" è un sistema che punta a rendere frustrante l'esperienza di navigazione di determinati utenti con lo scopo di allontanarli dalla Board.<br />
 <br />
-You may set a user into 'discouraged' mode by editing their user profile, or discourage an IP address or IP address range.]]></phrase>
+Puoi impostare un utente in modalità "scoraggiato" modificando il suo profilo utente, o scoraggiare un indirizzo IP o un intervallo di indirizzi IP.]]></phrase>
   <phrase title="option_group_description.discussionOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste opzioni ti consentono di modificare i parametri relativi al box ed alla visualizzazione dei messaggi.]]></phrase>
   <phrase title="option_group_description.emailOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.imageLinkProxy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste opzioni ti consentono di monitorare il sistema di proxying relativo ad immagini e link.]]></phrase>
@@ -7276,7 +7276,7 @@ You may set a user into 'discouraged' mode by editing their user profile, or dis
 It is possible to filter the news feed down to just users you follow, or a single user.]]></phrase>
   <phrase title="option_group_description.nodeList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I nodi e l'elenco dei forum sono la struttura primaria della navigazione di XenForo.]]></phrase>
   <phrase title="option_group_description.performance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste opzioni ti permettono di modificare i parametri di sistema per incrementare le performance della Board.]]></phrase>
-  <phrase title="option_group_description.pwa" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[This group controls the options that will be shown on the PWA setup helper.]]></phrase>
+  <phrase title="option_group_description.pwa" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Questo gruppo controlla le opzioni che saranno mostrate sull'assistente di configurazione del PWA.]]></phrase>
   <phrase title="option_group_description.searchOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste opzioni ti consentono di modificare il comportamento del sistema di ricerca integrato in XenForo per consentire la ricerca di messaggi e altri contenuti.]]></phrase>
   <phrase title="option_group_description.seo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste opzioni ti consentono di modificare vari parametri dei contenuti e della costruzione dei link.]]></phrase>
   <phrase title="option_group_description.serviceProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Per alcune funzioni, XenForo si avvale di servizi esterni di terze parti. Puoi modificare i parametri di default da qui.]]></phrase>
@@ -7289,78 +7289,78 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gli ID del gruppo di opzioni devono essere univoci. L'ID specificato è già in uso.]]></phrase>
   <phrase title="option_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Opzioni ID]]></phrase>
-  <phrase title="option_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Option IDs must be unique. The specified ID is already in use.]]></phrase>
+  <phrase title="option_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Gli ID delle opzioni devono essere unici. L'ID specificato è già in uso.]]></phrase>
   <phrase title="option_match_regular_expression" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Opzione regex match]]></phrase>
-  <phrase title="option_tag_contains_unexpected_child_element" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Option tag contains an unexpected child element.]]></phrase>
+  <phrase title="option_tag_contains_unexpected_child_element" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il tag di opzione contiene un elemento figlio inaspettato.]]></phrase>
   <phrase title="optional" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Opzionale]]></phrase>
-  <phrase title="optional_components" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optional components]]></phrase>
+  <phrase title="optional_components" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Componenti facoltativi]]></phrase>
   <phrase title="optionally_describe_trophy_and_criteria_user_needs_to_award" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Facoltativo: descrivi i requisiti di ottenimento del trofeo per gli utenti che desiderano ottenerlo.]]></phrase>
   <phrase title="options" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Opzioni]]></phrase>
-  <phrase title="options_for_choice_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options for choice fields]]></phrase>
+  <phrase title="options_for_choice_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Opzioni per i campi di scelta]]></phrase>
   <phrase title="options_for_text_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Opzioni per i campi testo]]></phrase>
   <phrase title="options_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Opzioni gruppi]]></phrase>
   <phrase title="or_click_here" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Oppure clicca qui]]></phrase>
-  <phrase title="or_enter_payment_details_manually" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Or enter payment details manually]]></phrase>
+  <phrase title="or_enter_payment_details_manually" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[O inserisci manualmente i dettagli del pagamento]]></phrase>
   <phrase title="or_separator" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[oppure]]></phrase>
   <phrase title="order_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ordina per]]></phrase>
   <phrase title="ordered_by" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ordinato per]]></phrase>
   <phrase title="ordered_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lista ordinata]]></phrase>
   <phrase title="other" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Altro]]></phrase>
-  <phrase title="other_currencies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Other currencies]]></phrase>
+  <phrase title="other_currencies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Altre valute]]></phrase>
   <phrase title="other_devices_trusted_disable_desc" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Altri dispositivi sono attualmente autorizzati. Non devi attuare la verifica a due fattori su questi dispositivi. Se ne hai perso l'accesso, è consigliato rimuovere l'autorizzazione.]]></phrase>
   <phrase title="other_languages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Altre lingue]]></phrase>
   <phrase title="other_participants" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Altri partecipanti]]></phrase>
-  <phrase title="other_using_custom_css_class_name" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Other, using custom CSS class name]]></phrase>
+  <phrase title="other_using_custom_css_class_name" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Altro, usando il nome della classe CSS personalizzata]]></phrase>
   <phrase title="otherwise_insert_into_moderation_queue" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[In caso contrario, i messaggi verranno inseriti nella coda di moderazione.]]></phrase>
   <phrase title="outbound_email_test_body" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[<div>Ricevi questa email di testi da {username} da {board}.</div>]]></phrase>
-  <phrase title="outbound_email_test_subject" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Outbound email test from {board}]]></phrase>
+  <phrase title="outbound_email_test_subject" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Test delle e-mail in uscita da {board}]]></phrase>
   <phrase title="outdated_phrases" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Frasi obsolete]]></phrase>
   <phrase title="outdated_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template obsoleti]]></phrase>
-  <phrase title="outdated_templates_desc" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Customized templates become outdated when their last update was before the last update of the template they're based on, as these cannot incorporate the most recent changes. These templates should be updated to ensure that the latest features and bug fixes work as expected. If you are using a third-party style, you may be able to install a new version to update your templates.]]></phrase>
+  <phrase title="outdated_templates_desc" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[I template personalizzati diventano obsoleti quando il loro ultimo aggiornamento è stato precedente all'ultimo aggiornamento del template su cui sono basati, poiché questi non possono incorporare i cambiamenti più recenti. Questi modelli dovrebbero essere aggiornati per garantire che le ultime caratteristiche e le correzioni dei bug funzionino come previsto. Se stai usando uno stile di terze parti, potresti essere in grado di installare una nuova versione per aggiornare i tuoi modelli.]]></phrase>
   <phrase title="outdent" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Togli rientro]]></phrase>
   <phrase title="output" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Output]]></phrase>
-  <phrase title="override_articles_per_page" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Override articles per page]]></phrase>
-  <phrase title="override_articles_per_page_explain" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[This allows you to override the number of articles shown per page when viewing this forum. Use 0 to display the standard amount.]]></phrase>
+  <phrase title="override_articles_per_page" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Sovrascrivi gli articoli per pagina]]></phrase>
+  <phrase title="override_articles_per_page_explain" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Questo ti permette di sovrascrivere il numero di articoli mostrati per pagina quando si visualizza questo forum. Usa 0 per visualizzare la quantità standard.]]></phrase>
   <phrase title="override_user_style_choice" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sovrascrivi lo stile scelto dall'utente]]></phrase>
   <phrase title="overview" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Panoramica]]></phrase>
   <phrase title="overwrite_language" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sovrascrivi lingua]]></phrase>
-  <phrase title="overwrite_language_id_explain" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Overwriting the language will only replace the phrases in the language. All other language properties will remain the same.]]></phrase>
+  <phrase title="overwrite_language_id_explain" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[La sovrascrittura della lingua sostituirà solo le frasi della lingua. Tutte le altre proprietà della lingua rimarranno le stesse.]]></phrase>
   <phrase title="overwrite_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sovrascrivi stile]]></phrase>
   <phrase title="padding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding]]></phrase>
   <phrase title="page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pagina]]></phrase>
-  <phrase title="page_callback_explanation_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You may optionally specify a PHP callback here in order to fetch more data or alter the controller response for your page.<br />
+  <phrase title="page_callback_explanation_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Puoi opzionalmente specificare un callback PHP qui, al fine di recuperare più dati o alterare la risposta del controllore per la tua pagina.<br />
 <br />
 Callback arguments:
 <ol>
 	<li><code>\XF\Pub\Controller\AbstractController $controller</code><br />The controller instance. From this you can inspect the request, response etc.</li>
 	<li><code>\XF\Mvc\Reply\AbstractReply &$reply</code><br />The standard reply from the page controller.</li>
 </ol>]]></phrase>
-  <phrase title="page_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page content]]></phrase>
+  <phrase title="page_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contenuto della pagina]]></phrase>
   <phrase title="page_could_not_be_loaded" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[Page could not be loaded]]></phrase>
-  <phrase title="page_could_not_be_loaded_explain" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[The requested page could not be loaded.
+  <phrase title="page_could_not_be_loaded_explain" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[La pagina richiesta non può essere caricata.
 
 <ul>
-	<li>Check your internet connection and try again.</li>
-	<li>Certain browser extensions, such as ad blockers, may block pages unexpectedly. Disable these and try again.</li>
-	<li>{title} may be temporarily unavailable. Please check back later.</li>
+	<li>Controlla la tua connessione internet e riprova.</li>
+	<li>Alcune estensioni del browser, come gli ad blocker, possono bloccare le pagine inaspettatamente. Disattivale e prova di nuovo.</li>
+	<li>{title} potrebbe essere temporaneamente non disponibile. Si prega di controllare più tardi.</li>
 </ul>]]></phrase>
-  <phrase title="page_criteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page criteria]]></phrase>
-  <phrase title="page_information" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page information]]></phrase>
-  <phrase title="page_is_within_nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page is within nodes]]></phrase>
-  <phrase title="page_no_longer_available_back_try_again" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[This page is no longer available. Please go back and try again.]]></phrase>
-  <phrase title="page_only_available_debug_mode" addon_id="XF" version_id="0" version_string=""><![CDATA[This page is only available when debug mode is enabled.]]></phrase>
-  <phrase title="page_views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page views]]></phrase>
+  <phrase title="page_criteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Criteri pagina]]></phrase>
+  <phrase title="page_information" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Informazioni sulla pagina]]></phrase>
+  <phrase title="page_is_within_nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La pagina è all'interno dei nodi]]></phrase>
+  <phrase title="page_no_longer_available_back_try_again" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Questa pagina non è più disponibile. Si prega di tornare indietro e riprovare.]]></phrase>
+  <phrase title="page_only_available_debug_mode" addon_id="XF" version_id="0" version_string=""><![CDATA[Questa pagina è disponibile solo quando la modalità debug è abilitata.]]></phrase>
+  <phrase title="page_views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visite pagina]]></phrase>
   <phrase title="pages" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Pagine]]></phrase>
   <phrase title="palette" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Palette]]></phrase>
-  <phrase title="paragraph_format" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Paragraph format]]></phrase>
-  <phrase title="paragraph_normal" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Normal]]></phrase>
-  <phrase title="parent_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parent category]]></phrase>
-  <phrase title="parent_language" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Lingua parent]]></phrase>
-  <phrase title="parent_last_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parent last edited]]></phrase>
-  <phrase title="parent_navigation_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parent navigation entry]]></phrase>
-  <phrase title="parent_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parent node]]></phrase>
-  <phrase title="parent_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parent style]]></phrase>
-  <phrase title="parent_version" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Versione parent]]></phrase>
+  <phrase title="paragraph_format" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Formato del paragrafo]]></phrase>
+  <phrase title="paragraph_normal" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Normale]]></phrase>
+  <phrase title="parent_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Categoria parente]]></phrase>
+  <phrase title="parent_language" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Lingua parente]]></phrase>
+  <phrase title="parent_last_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ultimo aggiornamento parente]]></phrase>
+  <phrase title="parent_navigation_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voce di navigazione parente]]></phrase>
+  <phrase title="parent_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nodo parente]]></phrase>
+  <phrase title="parent_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stile parente]]></phrase>
+  <phrase title="parent_version" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Versione parente]]></phrase>
   <phrase title="parentheses_characters" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Caratteri parentesi]]></phrase>
   <phrase title="participants" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Partecipanti]]></phrase>
   <phrase title="password" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Password]]></phrase>
@@ -7378,133 +7378,133 @@ Callback arguments:
   <phrase title="password_reset_confirmation_will_be_emailed_to_user" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Una conferma di reset della password sarà spedita all'utente ed egli non potrà più accedere finché non avrà impostato una nuova password.]]></phrase>
   <phrase title="password_reset_request_has_been_emailed_to_you" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Una richiesta di reset della password ti è stata spedita. Segui le istruzioni nella email.]]></phrase>
   <phrase title="passwords_did_not_match" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Le password non combaciano. Si prega di inserire la stessa password in entrambi i campi.]]></phrase>
-  <phrase title="paused" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Paused]]></phrase>
-  <phrase title="pay_by_card" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pay by card]]></phrase>
-  <phrase title="pay_faster" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Pay faster]]></phrase>
-  <phrase title="pay_with_apple_pay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pay with Apple Pay]]></phrase>
-  <phrase title="pay_with_paypal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pay with PayPal]]></phrase>
-  <phrase title="pay_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pay {cost}]]></phrase>
-  <phrase title="payment" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Payment]]></phrase>
-  <phrase title="payment_could_not_be_processed_and_you_have_not_been_charged" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[The payment could not be processed and you have not been charged. Please try again or use a different payment method.]]></phrase>
+  <phrase title="paused" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[In Pausa]]></phrase>
+  <phrase title="pay_by_card" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Paga con carta]]></phrase>
+  <phrase title="pay_faster" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Paga più velocemente]]></phrase>
+  <phrase title="pay_with_apple_pay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Paga con Apple Pay]]></phrase>
+  <phrase title="pay_with_paypal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Paga con PayPal]]></phrase>
+  <phrase title="pay_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Paga {cost}]]></phrase>
+  <phrase title="payment" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Pagamento]]></phrase>
+  <phrase title="payment_could_not_be_processed_and_you_have_not_been_charged" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Non abbiamo potuto elaborare il pagamento, dunque non ti è stato addebitato nulla. Ti preghiamo di irprovare o di utilizzare un metodo di pagamento diverso.]]></phrase>
   <phrase title="payment_profile" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Profilo di pagamento]]></phrase>
-  <phrase title="payment_profile_display_title_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter a name for this payment profile to be shown to users when purchasing products with this profile. If no display title is entered, the profile title above will be used instead.]]></phrase>
+  <phrase title="payment_profile_display_title_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci un nome per questo profilo di pagamento da mostrare agli utenti quando acquistano prodotti con questo profilo. Se non viene inserito alcun titolo di visualizzazione, il titolo del profilo di cui sopra verrà utilizzato al suo posto.]]></phrase>
   <phrase title="payment_profiles" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Profili di pagamento]]></phrase>
   <phrase title="payment_provider_log" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Log fornitore pagamenti]]></phrase>
   <phrase title="payment_provider_log_search" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Cerca log fornitore pagamenti]]></phrase>
-  <phrase title="payments_processed_securely_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Payments are processed securely by <a href="{link}" target="_blank">{provider}</a>. We do not process or store your payment details.]]></phrase>
-  <phrase title="payments_received" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Payments received]]></phrase>
-  <phrase title="paypal_alternate_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PayPal Alternate Accounts]]></phrase>
-  <phrase title="paypal_alternate_accounts_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter the email address of any PayPal accounts other than the primary one that may receive payments for user upgrades. This can be useful if the primary account is changed and recurring payments are still coming from the old account, for example. If the old account is not listed as a valid alternative, payments will not be accepted for this account. Enter one account per line.]]></phrase>
-  <phrase title="paypal_primary_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PayPal Primary Account Email]]></phrase>
-  <phrase title="paypal_primary_account_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the primary email address on your PayPal account. If this is incorrect, payments may not be processed successfully. Note this must be a PayPal Premier or Business account and IPNs must be enabled. Please see our]]></phrase>
-  <phrase title="pcre_unicode_property_support_missing" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[The required PHP extension PCRE was found with Unicode support, but Unicode character property support is missing.]]></phrase>
-  <phrase title="pcre_unicode_support_missing" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[The required PHP extension PCRE was found, but Unicode support is missing. Please ask your host to add support for Unicode to PCRE.]]></phrase>
+  <phrase title="payments_processed_securely_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I pagamenti sono trattati in modo sicuro da <a href="{link}" target="_blank">{provider}</a>. Non trattiamo o conserviamo i tuoi dati di pagamento.]]></phrase>
+  <phrase title="payments_received" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pagamenti ricevuti]]></phrase>
+  <phrase title="paypal_alternate_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account alternativi di PayPal]]></phrase>
+  <phrase title="paypal_alternate_accounts_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci l'indirizzo email di qualsiasi account PayPal diverso da quello principale che può ricevere pagamenti per gli aggiornamenti degli utenti. Questo può essere utile se l'account principale è cambiato e i pagamenti ricorrenti provengono ancora dal vecchio account, per esempio. Se il vecchio account non è elencato come alternativa valida, i pagamenti non saranno accettati per questo account. Inserisci un account per riga.]]></phrase>
+  <phrase title="paypal_primary_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email dell'account principale di PayPal]]></phrase>
+  <phrase title="paypal_primary_account_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo è l'indirizzo email principale del tuo account PayPal. Se questo non è corretto, i pagamenti potrebbero non essere elaborati con successo. Nota questo deve essere un account PayPal Premier o Business e gli IPN devono essere abilitati. Si prega di leggere]]></phrase>
+  <phrase title="pcre_unicode_property_support_missing" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[L'estensione PHP richiesta PCRE è stata trovata con supporto Unicode, ma manca il supporto per le proprietà dei caratteri Unicode.]]></phrase>
+  <phrase title="pcre_unicode_support_missing" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[L'estensione PHP richiesta PCRE è stata trovata, ma manca il supporto Unicode. Per favore chiedi al tuo host di aggiungere il supporto per Unicode a PCRE.]]></phrase>
   <phrase title="pending" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[In sospeso]]></phrase>
   <phrase title="pending_changes" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Cambiamenti in sospeso]]></phrase>
-  <phrase title="pending_import_from_x_has_been_found" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[E' stata trovata un'importazione in coda {title}, puoi riavviarla utilizzando il bottone sottostante.]]></phrase>
-  <phrase title="pending_username_awaiting_approval" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You have recently requested to change your username and this is currently awaiting approval by a moderator.]]></phrase>
-  <phrase title="pending_username_change_message" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You recently requested to change your username to {username} and this is currently awaiting approval by a moderator.]]></phrase>
+  <phrase title="pending_import_from_x_has_been_found" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[È stata trovata un'importazione in coda {title}, puoi riavviarla utilizzando il bottone sottostante.]]></phrase>
+  <phrase title="pending_username_awaiting_approval" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hai recentemente richiesto di cambiare il tuo nome utente ed è attualmente in attesa di approvazione da parte di un moderatore.]]></phrase>
+  <phrase title="pending_username_change_message" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hai recentemente richiesto di cambiare il tuo nome utente in {username} ed è attualmente in attesa di approvazione da parte di un moderatore.]]></phrase>
   <phrase title="people_may_reply_to_this_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Consenti di rispondere a questa discussione]]></phrase>
-  <phrase title="people_x_follows" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[People {name} follows]]></phrase>
+  <phrase title="people_x_follows" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} persone seguono]]></phrase>
   <phrase title="people_you_follow" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Utenti che segui]]></phrase>
-  <phrase title="performing_moderation_duties" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Performing moderation duties]]></phrase>
+  <phrase title="performing_moderation_duties" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Esecuzione di compiti di moderazione]]></phrase>
   <phrase title="performing_upgrade_check" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Esecuzione del controllo di aggiornamento]]></phrase>
   <phrase title="period" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Periodo]]></phrase>
   <phrase title="permanent" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Permanente]]></phrase>
   <phrase title="permanently_delete" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Cancella permanentemente]]></phrase>
-  <phrase title="permission.avatar_allowed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload an avatar]]></phrase>
+  <phrase title="permission.avatar_allowed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Carica un avatar]]></phrase>
   <phrase title="permission.bookmark_create" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Creare segnalibri]]></phrase>
   <phrase title="permission.bookmark_view" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Vedere i propri segnalibri]]></phrase>
-  <phrase title="permission.conversation_alwaysInvite" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Always invite participants to conversations]]></phrase>
-  <phrase title="permission.conversation_editAnyMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit any message]]></phrase>
-  <phrase title="permission.conversation_editOwnMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit own messages]]></phrase>
-  <phrase title="permission.conversation_editOwnMessageTimeLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Time limit on editing own messages (minutes)]]></phrase>
-  <phrase title="permission.conversation_manageReports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage reported messages]]></phrase>
-  <phrase title="permission.conversation_maxRecipients" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum conversation recipients]]></phrase>
-  <phrase title="permission.conversation_react" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[React to messages]]></phrase>
+  <phrase title="permission.conversation_alwaysInvite" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invitare sempre i partecipanti alle conversazioni]]></phrase>
+  <phrase title="permission.conversation_editAnyMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modifica qualsiasi messaggio]]></phrase>
+  <phrase title="permission.conversation_editOwnMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modifica i propri messaggi]]></phrase>
+  <phrase title="permission.conversation_editOwnMessageTimeLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limite di tempo per modificare i propri messaggi (minuti)]]></phrase>
+  <phrase title="permission.conversation_manageReports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire i messaggi segnalati]]></phrase>
+  <phrase title="permission.conversation_maxRecipients" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Destinatari massimi della conversazione]]></phrase>
+  <phrase title="permission.conversation_react" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reagire ai messaggi]]></phrase>
   <phrase title="permission.conversation_receive" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Ricevere nuove conversazioni]]></phrase>
-  <phrase title="permission.conversation_start" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Start conversations]]></phrase>
-  <phrase title="permission.conversation_uploadAttachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload attachments to conversations]]></phrase>
-  <phrase title="permission.conversation_uploadVideo" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Upload videos to conversations]]></phrase>
-  <phrase title="permission.forum_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve / unapprove threads / posts]]></phrase>
-  <phrase title="permission.forum_contentVote" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Vote on threads/posts (when applicable)]]></phrase>
-  <phrase title="permission.forum_deleteAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any post]]></phrase>
-  <phrase title="permission.forum_deleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any thread]]></phrase>
-  <phrase title="permission.forum_deleteOwnPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete own post]]></phrase>
-  <phrase title="permission.forum_deleteOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete own thread]]></phrase>
-  <phrase title="permission.forum_editAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit any post]]></phrase>
-  <phrase title="permission.forum_editOwnPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit own post]]></phrase>
-  <phrase title="permission.forum_editOwnPostTimeLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Time limit on editing/deleting own posts (minutes)]]></phrase>
-  <phrase title="permission.forum_editOwnThreadTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit own thread title (requires edit own post)]]></phrase>
-  <phrase title="permission.forum_hardDeleteAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hard-delete any post]]></phrase>
-  <phrase title="permission.forum_hardDeleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hard-delete any thread]]></phrase>
+  <phrase title="permission.conversation_start" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Iniziare le conversazioni]]></phrase>
+  <phrase title="permission.conversation_uploadAttachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caricare allegati alle conversazioni]]></phrase>
+  <phrase title="permission.conversation_uploadVideo" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Carica i video nelle conversazioni]]></phrase>
+  <phrase title="permission.forum_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approvare / non approvare discussioni / messaggi]]></phrase>
+  <phrase title="permission.forum_contentVote" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Votare su discussioni/post (quando possibile)]]></phrase>
+  <phrase title="permission.forum_deleteAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cancellare qualsiasi messaggio]]></phrase>
+  <phrase title="permission.forum_deleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cancellare qualsiasi discussione]]></phrase>
+  <phrase title="permission.forum_deleteOwnPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cancella i propri messaggi]]></phrase>
+  <phrase title="permission.forum_deleteOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cancellare le proprie discussioni]]></phrase>
+  <phrase title="permission.forum_editAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modifica qualsiasi messaggio]]></phrase>
+  <phrase title="permission.forum_editOwnPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modificare i propri messaggi]]></phrase>
+  <phrase title="permission.forum_editOwnPostTimeLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limite di tempo per modificare/cancellare i propri messaggi (minuti)]]></phrase>
+  <phrase title="permission.forum_editOwnThreadTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modifica il titolo della propria discussione (richiede la modifica del proprio messaggio)]]></phrase>
+  <phrase title="permission.forum_hardDeleteAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cancellazione permanente di qualsiasi messaggio]]></phrase>
+  <phrase title="permission.forum_hardDeleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cancellazione permanente di qualsiasi discussione]]></phrase>
   <phrase title="permission.forum_inlineMod" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Utilizza moderazione inline sulle discussioni / messaggi]]></phrase>
-  <phrase title="permission.forum_lockUnlockThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lock / unlock threads]]></phrase>
-  <phrase title="permission.forum_manageAnyTag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage any tags]]></phrase>
-  <phrase title="permission.forum_manageAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage (move, merge, etc.) any thread]]></phrase>
-  <phrase title="permission.forum_manageOthersTagsOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage tags by others in own thread]]></phrase>
-  <phrase title="permission.forum_markSolution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mark post as solution to own question thread (when applicable)]]></phrase>
-  <phrase title="permission.forum_markSolutionAnyThread" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mark post as solution to any question thread (when applicable)]]></phrase>
-  <phrase title="permission.forum_postReply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post replies]]></phrase>
-  <phrase title="permission.forum_postThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post new thread]]></phrase>
-  <phrase title="permission.forum_react" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[React to posts]]></phrase>
-  <phrase title="permission.forum_stickUnstickThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stick / unstick thread]]></phrase>
-  <phrase title="permission.forum_tagAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag any thread]]></phrase>
-  <phrase title="permission.forum_tagOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag own thread]]></phrase>
-  <phrase title="permission.forum_threadReplyBan" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ban users from replying to a thread]]></phrase>
-  <phrase title="permission.forum_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete threads / posts]]></phrase>
-  <phrase title="permission.forum_uploadAttachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload attachments to posts]]></phrase>
-  <phrase title="permission.forum_uploadVideo" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Upload videos to posts]]></phrase>
-  <phrase title="permission.forum_viewAttachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View attachments to posts]]></phrase>
-  <phrase title="permission.forum_viewContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View thread content]]></phrase>
-  <phrase title="permission.forum_viewDeleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View deleted threads / posts]]></phrase>
-  <phrase title="permission.forum_viewModerated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View moderated threads / posts]]></phrase>
-  <phrase title="permission.forum_viewOthers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View threads by others]]></phrase>
-  <phrase title="permission.forum_votePoll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vote on polls]]></phrase>
-  <phrase title="permission.forum_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Give warnings on posts]]></phrase>
-  <phrase title="permission.general_approveRejectUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve / reject users]]></phrase>
-  <phrase title="permission.general_approveUsernameChange" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Approve / reject username change]]></phrase>
-  <phrase title="permission.general_banUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ban users]]></phrase>
-  <phrase title="permission.general_bypassFloodCheck" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bypass flood check]]></phrase>
-  <phrase title="permission.general_bypassNofollowLinks" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bypass "nofollow" in submitted content links]]></phrase>
+  <phrase title="permission.forum_lockUnlockThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bloccare/sbloccare discussioni]]></phrase>
+  <phrase title="permission.forum_manageAnyTag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire qualsiasi tag]]></phrase>
+  <phrase title="permission.forum_manageAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire (spostare, unire, ecc.) qualsiasi discussione]]></phrase>
+  <phrase title="permission.forum_manageOthersTagsOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire i tag degli altri nella propria discussione]]></phrase>
+  <phrase title="permission.forum_markSolution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Segnare un messaggio come soluzione sulla discussione della propria domanda (quando possibile)]]></phrase>
+  <phrase title="permission.forum_markSolutionAnyThread" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Segnare il messaggio come soluzione in qualsiasi discussione di domande (quando possibile)]]></phrase>
+  <phrase title="permission.forum_postReply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Risposte al messaggio]]></phrase>
+  <phrase title="permission.forum_postThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pubblicare nuove discussioni]]></phrase>
+  <phrase title="permission.forum_react" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reagire ai messaggi]]></phrase>
+  <phrase title="permission.forum_stickUnstickThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rilievo / Non rilievo discussioni]]></phrase>
+  <phrase title="permission.forum_tagAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Taggare qualunque discussione]]></phrase>
+  <phrase title="permission.forum_tagOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Taggare proprie discussioni]]></phrase>
+  <phrase title="permission.forum_threadReplyBan" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bannare gli utenti nel rispondere a una discussione]]></phrase>
+  <phrase title="permission.forum_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ripristinare discussioni / messaggi]]></phrase>
+  <phrase title="permission.forum_uploadAttachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caricare allegati ai messaggi]]></phrase>
+  <phrase title="permission.forum_uploadVideo" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Carica i video sui messaggi]]></phrase>
+  <phrase title="permission.forum_viewAttachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare gli allegati ai messaggi]]></phrase>
+  <phrase title="permission.forum_viewContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizza il contenuto delle discussioni]]></phrase>
+  <phrase title="permission.forum_viewDeleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare discussioni / messaggi eliminati]]></phrase>
+  <phrase title="permission.forum_viewModerated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare discussioni / messaggi moderati]]></phrase>
+  <phrase title="permission.forum_viewOthers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizzare discussioni degli altri]]></phrase>
+  <phrase title="permission.forum_votePoll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Votare nei sondaggi]]></phrase>
+  <phrase title="permission.forum_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dare avvertimenti sui messaggi]]></phrase>
+  <phrase title="permission.general_approveRejectUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approvare / rifiutare utenti]]></phrase>
+  <phrase title="permission.general_approveUsernameChange" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Approvare / rifiutare cambi nome utente]]></phrase>
+  <phrase title="permission.general_banUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bannare utenti]]></phrase>
+  <phrase title="permission.general_bypassFloodCheck" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bypassare il controllo flood]]></phrase>
+  <phrase title="permission.general_bypassNofollowLinks" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bypassare "nofollow" nei link dei contenuti pubblicati]]></phrase>
   <phrase title="permission.general_bypassSpamCheck" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Ignora controllo spam]]></phrase>
-  <phrase title="permission.general_bypassUserPrivacy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bypass user privacy]]></phrase>
-  <phrase title="permission.general_bypassUserTagLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bypass user content tag limit]]></phrase>
-  <phrase title="permission.general_changeUsername" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Change username]]></phrase>
-  <phrase title="permission.general_changeUsernameNoApproval" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Change username without approval]]></phrase>
-  <phrase title="permission.general_cleanSpam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use the spam cleaner]]></phrase>
-  <phrase title="permission.general_createTag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Create new content tag]]></phrase>
-  <phrase title="permission.general_editBasicProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit basic user profiles]]></phrase>
-  <phrase title="permission.general_editCustomTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit custom title]]></phrase>
-  <phrase title="permission.general_editProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit profile]]></phrase>
-  <phrase title="permission.general_editSignature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit signature]]></phrase>
-  <phrase title="permission.general_manageWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete all warnings]]></phrase>
-  <phrase title="permission.general_maxMentionedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum mention alerts]]></phrase>
-  <phrase title="permission.general_report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Report content]]></phrase>
-  <phrase title="permission.general_requireTfa" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Require two-step verification]]></phrase>
+  <phrase title="permission.general_bypassUserPrivacy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bypassare privacy utente]]></phrase>
+  <phrase title="permission.general_bypassUserTagLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bypassare il limite dei tag del contenuto dell'utente]]></phrase>
+  <phrase title="permission.general_changeUsername" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cambiare nome utente]]></phrase>
+  <phrase title="permission.general_changeUsernameNoApproval" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cambiare nome utente senza approvazione]]></phrase>
+  <phrase title="permission.general_cleanSpam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usare lo Spam Cleaner]]></phrase>
+  <phrase title="permission.general_createTag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Creare nuovi tag per i contenuti]]></phrase>
+  <phrase title="permission.general_editBasicProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modificare informazioni base profili]]></phrase>
+  <phrase title="permission.general_editCustomTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modificare titolo personalizzato]]></phrase>
+  <phrase title="permission.general_editProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modificare il profilo]]></phrase>
+  <phrase title="permission.general_editSignature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modificare la firma]]></phrase>
+  <phrase title="permission.general_manageWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cancellare tutti gli avvertimenti]]></phrase>
+  <phrase title="permission.general_maxMentionedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numero massimo di avvisi per le menzioni]]></phrase>
+  <phrase title="permission.general_report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Segnalare contenuto]]></phrase>
+  <phrase title="permission.general_requireTfa" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Richiesta verifica in due-fasi]]></phrase>
   <phrase title="permission.general_search" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Cerca]]></phrase>
-  <phrase title="permission.general_submitWithoutApproval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Submit content without approval]]></phrase>
-  <phrase title="permission.general_useContactForm" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use contact form]]></phrase>
-  <phrase title="permission.general_usePush" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Use push notifications]]></phrase>
-  <phrase title="permission.general_view" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View]]></phrase>
-  <phrase title="permission.general_viewIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View IP addresses]]></phrase>
-  <phrase title="permission.general_viewMemberList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View member lists]]></phrase>
-  <phrase title="permission.general_viewNode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View node]]></phrase>
-  <phrase title="permission.general_viewProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View member profiles]]></phrase>
-  <phrase title="permission.general_viewWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View warning details]]></phrase>
-  <phrase title="permission.general_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Give users warnings directly]]></phrase>
-  <phrase title="permission.profileBanner_allowed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload a profile banner]]></phrase>
-  <phrase title="permission.profilePost_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve / unapprove profile posts]]></phrase>
-  <phrase title="permission.profilePost_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Comment on profile posts]]></phrase>
-  <phrase title="permission.profilePost_deleteAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any profile posts]]></phrase>
-  <phrase title="permission.profilePost_deleteOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete own profile posts]]></phrase>
-  <phrase title="permission.profilePost_editAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit any profile posts]]></phrase>
-  <phrase title="permission.profilePost_editOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edit own profile posts]]></phrase>
-  <phrase title="permission.profilePost_hardDeleteAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hard-delete any profile posts]]></phrase>
+  <phrase title="permission.general_submitWithoutApproval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pubblicare contenuti senza approvazione]]></phrase>
+  <phrase title="permission.general_useContactForm" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utilizzare il form di contatto]]></phrase>
+  <phrase title="permission.general_usePush" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Utilizzare notifiche push]]></phrase>
+  <phrase title="permission.general_view" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedere]]></phrase>
+  <phrase title="permission.general_viewIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedere indirizzi IP]]></phrase>
+  <phrase title="permission.general_viewMemberList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedere lista membri]]></phrase>
+  <phrase title="permission.general_viewNode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedere nodi]]></phrase>
+  <phrase title="permission.general_viewProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedere profili utente]]></phrase>
+  <phrase title="permission.general_viewWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vedere dettagli avvertimenti]]></phrase>
+  <phrase title="permission.general_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dare avvertimenti agli utenti direttamente]]></phrase>
+  <phrase title="permission.profileBanner_allowed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Caricare un banner di profilo]]></phrase>
+  <phrase title="permission.profilePost_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approvare / rifiutare messaggi profili]]></phrase>
+  <phrase title="permission.profilePost_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Commentare nei profili utente]]></phrase>
+  <phrase title="permission.profilePost_deleteAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eliminare qualunque commento nei profili utente]]></phrase>
+  <phrase title="permission.profilePost_deleteOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eliminare commenti nel proprio profilo]]></phrase>
+  <phrase title="permission.profilePost_editAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modificare qualunque commento nei profili utente]]></phrase>
+  <phrase title="permission.profilePost_editOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Modificare i commenti nel proprio profilo utente]]></phrase>
+  <phrase title="permission.profilePost_hardDeleteAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eliminare permanentemente qualunque commento nei profili utente]]></phrase>
   <phrase title="permission.profilePost_inlineMod" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Può utilizzare la moderazione inline sui messaggi di profilo]]></phrase>
-  <phrase title="permission.profilePost_manageOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage profile posts on own profile]]></phrase>
-  <phrase title="permission.profilePost_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post new profile posts]]></phrase>
-  <phrase title="permission.profilePost_react" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[React to profile posts]]></phrase>
+  <phrase title="permission.profilePost_manageOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire i messaggi sul proprio profilo]]></phrase>
+  <phrase title="permission.profilePost_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pubblicare nuovi messaggi sui profili]]></phrase>
+  <phrase title="permission.profilePost_react" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reagiare ai messaggi sui profili]]></phrase>
   <phrase title="permission.profilePost_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete profile posts]]></phrase>
   <phrase title="permission.profilePost_uploadAttachment" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload attachments to profile posts and comments]]></phrase>
   <phrase title="permission.profilePost_uploadVideo" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload videos to profile posts and comments]]></phrase>

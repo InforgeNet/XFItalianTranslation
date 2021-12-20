@@ -24,6 +24,8 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Sticky = In Rilievo
 - Board = Forum
 - Rich = Avanzate
+- Spam Cleaner = Pulizia Spam
+- Hard-delete = Cancellazione permanente
 
 ### Rimangono invece nella loro forma
 - Templates
@@ -39,10 +41,11 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Breadcrumbs
 - Informazioni tecniche specifiche, volte allo sviluppo di addon, template e altro.
 - Home
+- Sitemap
+- Account
 
 ### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
 - {user}
-
 
 ## Come partecipare alla Traduzione
 La traduzione può contenere diverse parti divise da Backend e Frontend, si prega di non partecipare alla traduzione se non si conoscono le caratteristiche di XenForo 2.2 (si consiglia di avere una demo preinstallata su cui effettuare i propri test). Le frasi del frontend hanno la priorità!
