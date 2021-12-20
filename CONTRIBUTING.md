@@ -23,6 +23,7 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Terms of Use = Termini e Condizioni d'Uso
 - Sticky = In Rilievo
 - Board = Forum
+- Rich = Avanzate
 
 ### Rimangono invece nella loro forma
 - Templates
@@ -37,6 +38,7 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Add-on
 - Breadcrumbs
 - Informazioni tecniche specifiche, volte allo sviluppo di addon, template e altro.
+- Home
 
 ### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
 - {user}
