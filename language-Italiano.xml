@@ -7505,78 +7505,78 @@ Callback arguments:
   <phrase title="permission.profilePost_manageOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gestire i messaggi sul proprio profilo]]></phrase>
   <phrase title="permission.profilePost_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pubblicare nuovi messaggi sui profili]]></phrase>
   <phrase title="permission.profilePost_react" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reagiare ai messaggi sui profili]]></phrase>
-  <phrase title="permission.profilePost_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete profile posts]]></phrase>
-  <phrase title="permission.profilePost_uploadAttachment" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload attachments to profile posts and comments]]></phrase>
-  <phrase title="permission.profilePost_uploadVideo" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload videos to profile posts and comments]]></phrase>
-  <phrase title="permission.profilePost_view" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View profile posts]]></phrase>
-  <phrase title="permission.profilePost_viewAttachment" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[View attachments to profile posts and comments]]></phrase>
-  <phrase title="permission.profilePost_viewDeleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View deleted profile posts]]></phrase>
-  <phrase title="permission.profilePost_viewModerated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View moderated profile posts]]></phrase>
-  <phrase title="permission.profilePost_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Give warnings on profile posts]]></phrase>
-  <phrase title="permission.signature_align" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow alignment changes]]></phrase>
-  <phrase title="permission.signature_basicText" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow basic text formatting (bold, italic, etc)]]></phrase>
-  <phrase title="permission.signature_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow block tags (code, quote, etc)]]></phrase>
-  <phrase title="permission.signature_extendedText" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow extended text formatting (color, font, size)]]></phrase>
-  <phrase title="permission.signature_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow images]]></phrase>
-  <phrase title="permission.signature_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow links]]></phrase>
-  <phrase title="permission.signature_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow lists]]></phrase>
-  <phrase title="permission.signature_maxImages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum images]]></phrase>
-  <phrase title="permission.signature_maxLines" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum lines]]></phrase>
-  <phrase title="permission.signature_maxLinks" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum links]]></phrase>
-  <phrase title="permission.signature_maxPrintable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum printable characters]]></phrase>
-  <phrase title="permission.signature_maxSmilies" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Smilie massimi]]></phrase>
-  <phrase title="permission.signature_maxTextSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum text size (1 - 7)]]></phrase>
-  <phrase title="permission.signature_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allow embedded media]]></phrase>
-  <phrase title="permission_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission group]]></phrase>
-  <phrase title="permission_id" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permission ID]]></phrase>
-  <phrase title="permission_ids_must_be_unique_within_groups" addon_id="XF" version_id="0" version_string=""><![CDATA[Permission IDs must be unique within groups. The specified ID is already in use.]]></phrase>
+  <phrase title="permission.profilePost_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ripristinare i messaggi del profilo]]></phrase>
+  <phrase title="permission.profilePost_uploadAttachment" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Caricare allegati ai messaggi e ai commenti del profilo]]></phrase>
+  <phrase title="permission.profilePost_uploadVideo" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Carica video nei messaggi e nei commenti del profilo]]></phrase>
+  <phrase title="permission.profilePost_view" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizza i messaggi del profilo]]></phrase>
+  <phrase title="permission.profilePost_viewAttachment" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Visualizzare gli allegati ai messaggi e ai commenti del profilo]]></phrase>
+  <phrase title="permission.profilePost_viewDeleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizza i messaggi cancellati del profilo]]></phrase>
+  <phrase title="permission.profilePost_viewModerated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visualizza i messaggi moderati del profilo]]></phrase>
+  <phrase title="permission.profilePost_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dare avvertimenti sui messaggi del profilo]]></phrase>
+  <phrase title="permission.signature_align" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consenti cambiamenti di allineamento]]></phrase>
+  <phrase title="permission.signature_basicText" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consenti la formattazione di base del testo (grassetto, corsivo, ecc.)]]></phrase>
+  <phrase title="permission.signature_block" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consenti i tag di blocco (codice, citazione, ecc.)]]></phrase>
+  <phrase title="permission.signature_extendedText" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consenti la formattazione estesa del testo (colore, carattere, dimensione)]]></phrase>
+  <phrase title="permission.signature_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consenti le immagini]]></phrase>
+  <phrase title="permission.signature_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consenti i link]]></phrase>
+  <phrase title="permission.signature_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consenti le liste]]></phrase>
+  <phrase title="permission.signature_maxImages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[N° massimo immagini]]></phrase>
+  <phrase title="permission.signature_maxLines" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[N° massimo linee]]></phrase>
+  <phrase title="permission.signature_maxLinks" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[N° massimo link]]></phrase>
+  <phrase title="permission.signature_maxPrintable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[N° massimo caratteri stampabili]]></phrase>
+  <phrase title="permission.signature_maxSmilies" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[N° massimo smilies]]></phrase>
+  <phrase title="permission.signature_maxTextSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione massima del testo (1 - 7)]]></phrase>
+  <phrase title="permission.signature_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permettere i media incorporati]]></phrase>
+  <phrase title="permission_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gruppo di permessi]]></phrase>
+  <phrase title="permission_id" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[ID Permesso]]></phrase>
+  <phrase title="permission_ids_must_be_unique_within_groups" addon_id="XF" version_id="0" version_string=""><![CDATA[Gli ID dei permessi devono essere unici all'interno dei gruppi. L'ID specificato è già in uso.]]></phrase>
   <phrase title="permission_interface.bookmarkPermissions" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Permessi segnalibro]]></phrase>
-  <phrase title="permission_interface.conversationModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation moderator permissions]]></phrase>
-  <phrase title="permission_interface.conversationPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation permissions]]></phrase>
-  <phrase title="permission_interface.forumModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum moderator permissions]]></phrase>
-  <phrase title="permission_interface.forumPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum permissions]]></phrase>
-  <phrase title="permission_interface.generalModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[General moderator permissions]]></phrase>
-  <phrase title="permission_interface.generalPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[General permissions]]></phrase>
-  <phrase title="permission_interface.postAttachmentPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post attachment permissions]]></phrase>
-  <phrase title="permission_interface.profilePostModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post moderator permissions]]></phrase>
-  <phrase title="permission_interface.profilePostPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post permissions]]></phrase>
-  <phrase title="permission_interface.signaturePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Signature permissions]]></phrase>
-  <phrase title="permission_interface_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission interface group IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="permission_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission limit]]></phrase>
+  <phrase title="permission_interface.conversationModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi di moderatore di conversazioni]]></phrase>
+  <phrase title="permission_interface.conversationPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi di conversazione]]></phrase>
+  <phrase title="permission_interface.forumModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi di moderatore del forum]]></phrase>
+  <phrase title="permission_interface.forumPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi del forum]]></phrase>
+  <phrase title="permission_interface.generalModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi generali del moderatore]]></phrase>
+  <phrase title="permission_interface.generalPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi generali]]></phrase>
+  <phrase title="permission_interface.postAttachmentPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Autorizzazioni per gli allegati nei messaggi]]></phrase>
+  <phrase title="permission_interface.profilePostModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi di moderatore dei messaggi nel profilo]]></phrase>
+  <phrase title="permission_interface.profilePostPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi di pubblicazione del profilo]]></phrase>
+  <phrase title="permission_interface.signaturePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permessi di firma]]></phrase>
+  <phrase title="permission_interface_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gli ID dei gruppi di interfacce di autorizzazione devono essere unici. L'ID specificato è già in uso.]]></phrase>
+  <phrase title="permission_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limite dei permessi]]></phrase>
   <phrase title="permission_limit_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If a permission is specified here, this stat will only be visible to users with that permission.]]></phrase>
-  <phrase title="permission_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission type]]></phrase>
-  <phrase title="permissions" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permissions]]></phrase>
-  <phrase title="personal_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Personal details]]></phrase>
-  <phrase title="php_built_in_gd" addon_id="XF" version_id="1000270" version_string="1.0.2"><![CDATA[PHP built-in GD image library]]></phrase>
-  <phrase title="php_built_in_mail_system" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[PHP built-in mail system]]></phrase>
+  <phrase title="permission_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tipo di permesso]]></phrase>
+  <phrase title="permissions" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permessi]]></phrase>
+  <phrase title="personal_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dettagli personali]]></phrase>
+  <phrase title="php_built_in_gd" addon_id="XF" version_id="1000270" version_string="1.0.2"><![CDATA[Libreria di immagini GD integrata in PHP]]></phrase>
+  <phrase title="php_built_in_mail_system" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sistema di posta integrato in PHP]]></phrase>
   <phrase title="php_callback" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Callback PHP]]></phrase>
-  <phrase title="php_function_x_disabled_fundamental" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Your server has disabled a fundamental core PHP function <code><b>{function}</b></code> via the <code>disable_functions</code> directive in php.ini. This will cause unexpected problems in XenForo.]]></phrase>
-  <phrase title="php_functions_disabled_impossible_check" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Your server has disabled functions that make it impossible to detect server information. Other errors may occur.]]></phrase>
-  <phrase title="php_version" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[PHP version]]></phrase>
-  <phrase title="php_version_minimum" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[You have only the minimum required PHP version. Future versions of XenForo will require a higher minimum PHP version of 7.0.0. We recommend PHP version 7.2.0 or above.]]></phrase>
-  <phrase title="php_version_not_newest" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[Your version of PHP is outdated. We recommend PHP 7.2 or higher.]]></phrase>
-  <phrase title="php_version_recommended" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[You have the recommended PHP version. ]]></phrase>
+  <phrase title="php_function_x_disabled_fundamental" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Il tuo server ha disabilitato una funzione fondamentale di PHP <code><b>{function}</b></code> attraverso la direttiva <code>disable_functions</code>in php.ini. Ciò potrebbe causare problemi inaspettati in Xenforo.]]></phrase>
+  <phrase title="php_functions_disabled_impossible_check" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Il tuo server ha disattivato delle funzioni che rendono impossibile rilevare le informazioni sul server. Possono verificarsi altri errori.]]></phrase>
+  <phrase title="php_version" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Versione PHP]]></phrase>
+  <phrase title="php_version_minimum" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[Hai solo la versione minima richiesta di PHP. Le versioni future di XenForo richiederanno una versione minima di PHP più alta di 7.0.0. Raccomandiamo di utilizzare la versione di PHP 7.2.0 o superiore.]]></phrase>
+  <phrase title="php_version_not_newest" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[La tua versione di PHP non è aggiornata. Raccomandiamo PHP 7.2 o superiore.]]></phrase>
+  <phrase title="php_version_recommended" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[Hai la versione raccomandata di PHP. ]]></phrase>
   <phrase title="phrase_group_titles_must_be_no_more_than_50_characters" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I titoli dei gruppi di frasi non devono avere più di 50 caratteri.]]></phrase>
-  <phrase title="phrase_name_must_be_literal" addon_id="XF" version_id="0" version_string=""><![CDATA[Phrase name must be literal]]></phrase>
-  <phrase title="phrase_parameters_must_be_provided_with_literal_names_inside_hash" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Phrase parameters must be provided with literal names inside a hash.]]></phrase>
+  <phrase title="phrase_name_must_be_literal" addon_id="XF" version_id="0" version_string=""><![CDATA[Il nome della frase deve essere letterale]]></phrase>
+  <phrase title="phrase_parameters_must_be_provided_with_literal_names_inside_hash" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I parametri di frase devono essere forniti con nomi letterali all'interno di un hash.]]></phrase>
   <phrase title="phrase_search_results" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Frase risultati di ricerca]]></phrase>
   <phrase title="phrase_status" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Stato frase]]></phrase>
   <phrase title="phrase_text" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Testo]]></phrase>
-  <phrase title="phrase_text_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You may use HTML here, but ideally markup should be made in templates, rather than phrases.]]></phrase>
-  <phrase title="phrase_titles_cannot_contain_dot_as_last_character" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Phrase titles cannot contain dot as the last character.]]></phrase>
+  <phrase title="phrase_text_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Puoi usare l'HTML qui, ma idealmente il markup dovrebbe essere fatto nei template, piuttosto che nelle frasi.]]></phrase>
+  <phrase title="phrase_titles_cannot_contain_dot_as_last_character" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[I titoli delle frasi non possono contenere punti come ultimo carattere.]]></phrase>
   <phrase title="phrase_titles_may_only_contain_single_dot_character" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I titoli delle frasi possono contenere solo un punto.]]></phrase>
-  <phrase title="phrase_titles_must_be_unique_in_language" addon_id="XF" version_id="0" version_string=""><![CDATA[Phrase titles must be unique in a language. The specified phrase is already in use.]]></phrase>
+  <phrase title="phrase_titles_must_be_unique_in_language" addon_id="XF" version_id="0" version_string=""><![CDATA[I titoli delle frasi devono essere unici in una lingua. La frase specificata è già in uso.]]></phrase>
   <phrase title="phrases" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Frasi]]></phrase>
   <phrase title="phrases_in_this_language_can_not_be_modified" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Le frasi in questa lingua non possono essere modificate. Selezionane un'altra.]]></phrase>
   <phrase title="picker" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Picker]]></phrase>
-  <phrase title="picture" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Picture]]></phrase>
+  <phrase title="picture" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Immagine]]></phrase>
   <phrase title="pinterest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pinterest]]></phrase>
-  <phrase title="plain_text" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Plain text]]></phrase>
-  <phrase title="please_answer_the_question_above" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Please answer the question above...]]></phrase>
-  <phrase title="please_choose_valid_moderator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please choose a valid moderator type]]></phrase>
-  <phrase title="please_choose_valid_node_type" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Please choose a valid node type.]]></phrase>
-  <phrase title="please_choose_valid_payment_profile_to_continue_with_your_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please choose a valid payment profile to continue with your purchase.]]></phrase>
-  <phrase title="please_choose_valid_text_color" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Please choose a valid text color.]]></phrase>
+  <phrase title="plain_text" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Testo semplice]]></phrase>
+  <phrase title="please_answer_the_question_above" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Per favore, rispondi alla domanda in alto...]]></phrase>
+  <phrase title="please_choose_valid_moderator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Per favore scegli un tipo di moderatore valido]]></phrase>
+  <phrase title="please_choose_valid_node_type" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Scegli un tipo di nodo valido.]]></phrase>
+  <phrase title="please_choose_valid_payment_profile_to_continue_with_your_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Si prega di scegliere un profilo di pagamento valido per continuare l'acquisto.]]></phrase>
+  <phrase title="please_choose_valid_text_color" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Scegli un colore di testo valido.]]></phrase>
   <phrase title="please_complete_required_fields" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Si prega di completare tutti i campi richiesti.]]></phrase>
   <phrase title="please_confirm_reversion_of_customized_components_from_style" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler ripristinare {numTemplates} template e {numProperties} proprietà di stile dallo stile <em>{style}</em> ai loro valori predefiniti.]]></phrase>
   <phrase title="please_confirm_that_you_want_to_approve_the_following" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler approvare]]></phrase>
@@ -7591,12 +7591,12 @@ Callback arguments:
   <phrase title="please_confirm_that_you_want_to_discourage_following_ip" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler scoraggiare il seguente indirizzo IP]]></phrase>
   <phrase title="please_confirm_that_you_want_to_downgrade_following_user" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler declassare il seguente utente]]></phrase>
   <phrase title="please_confirm_that_you_want_to_enable_following_add_on" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler attivare la seguente add-on]]></phrase>
-  <phrase title="please_confirm_that_you_want_to_force_all_current_users_to_accept_following" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Please confirm that you want to force all current users to accept the following:]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_force_all_current_users_to_accept_following" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Per favore, conferma che vuoi forzare tutti gli utenti attuali ad accettare quanto segue:]]></phrase>
   <phrase title="please_confirm_that_you_want_to_install_following_add_on" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler installare la seguente add-on]]></phrase>
   <phrase title="please_confirm_that_you_want_to_lift_ban_on_following_user" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler revocare il ban dal seguente utente]]></phrase>
-  <phrase title="please_confirm_that_you_want_to_mark_all_alerts_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Please confirm that you want to mark all alerts read.]]></phrase>
-  <phrase title="please_confirm_that_you_want_to_mark_this_alert_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Please confirm that you want to mark this alert read.]]></phrase>
-  <phrase title="please_confirm_that_you_want_to_mark_this_alert_unread" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Please confirm that you want to mark this alert unread.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_mark_all_alerts_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Conferma che vuoi contrassegnare tutti gli avvisi come letti.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_mark_this_alert_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Conferma che vuoi contrassegnare questo avviso come letto.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_mark_this_alert_unread" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Conferma che vuoi contrassegnare questo avviso come non letto.]]></phrase>
   <phrase title="please_confirm_that_you_want_to_rebuild_following_add_on" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler ricostruire la seguente add-on master data]]></phrase>
   <phrase title="please_confirm_that_you_want_to_regenerate_following_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Please confirm that you want to regenerate the following API key]]></phrase>
   <phrase title="please_confirm_that_you_want_to_remove_following_user_as_moderator" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler rimuovere il seguente utente dai moderatori]]></phrase>
