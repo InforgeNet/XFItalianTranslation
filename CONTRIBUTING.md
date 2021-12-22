@@ -1,7 +1,19 @@
 # Linee Guida
 Il seguente documento contiene i comportamenti da seguire per evitare traduzioni incoerenti e la procedura che consigliamo per contribuire al lavoro.
 
+I **Verbi** vengono coniugati con la forma del tu. Ad esempio:
+
+- "Please enter your name" diventa "Inserisci il tuo nome".
+
+Il termine **Please** è variabile  . Es:
+
+* _In caso di divieto non si applica_. Es: "Please don't forget to enter your name" diventa "Non dimenticare di inserire il tuo nome"
+* _In caso di invito si applica_. Es: "Please enter your name" diventa "Per favore, inserisci il tuo nome"
+
 ### Variabili di traduzione
+
+In questa parte troverai la forma con cui traduciamo le stringhe più comuni. Se hai dubbi su una traduzione, fai riferimento a questo blocco.
+
 - Threads = Discussioni
 - Posts = Messaggi
 - To Post = Pubblicare (verbo)
@@ -14,13 +26,12 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Alert = Avviso
 - Resource = Release
 - API Key = Chiave API
-- Parent = Parente
+- Parent = Genitore
 - Child = Figlio
 - Guest = Ospiti
 - Username = Nome Utente
 - Ban = Bannato
 - Notable = Degno di Nota
-- Terms of Use = Termini e Condizioni d'Uso
 - Sticky = In Rilievo
 - Board = Forum
 - Rich = Avanzate
@@ -43,6 +54,7 @@ Il seguente documento contiene i comportamenti da seguire per evitare traduzioni
 - Home
 - Sitemap
 - Account
+- Scope
 
 ### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
 - {user}
