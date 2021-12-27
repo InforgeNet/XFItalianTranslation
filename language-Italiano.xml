@@ -8385,54 +8385,54 @@ Contenuto riportato:
   <phrase title="selected_navigation_tab_id_is" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La scheda di navigazione selezionata è]]></phrase>
   <phrase title="selected_payment_profile_is_not_valid_for_this_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il profilo di pagamento selezionato non è valido per questo acquisto.]]></phrase>
   <phrase title="selected_scopes_only" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Solo scopi selezionati]]></phrase>
-  <phrase title="selected_tab_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[ID of selected navigation tab, such as <b>forums</b>, <b>members</b> or <b>help</b>.]]></phrase>
-  <phrase title="selected_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Selected user groups]]></phrase>
+  <phrase title="selected_tab_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[ID della tab di navigazione selezionata, come <b>forums</b>, <b>membri</b> o <b>aiuto</b>.]]></phrase>
+  <phrase title="selected_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gruppi di utenti selezionati]]></phrase>
   <phrase title="selecting_bypass_checks_made_by_import_prevent_accidents" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Selezionando questa opzione si eviteranno i controlli effettuati dal processo di importazione per prevenire incidenti. Seleziona questo solo se capisci cosa stai bypassando.]]></phrase>
-  <phrase title="selecting_this_option_will_permanently_and_irreversibly_delete_item" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Selecting this option will permanently and irreversibly delete the item.]]></phrase>
+  <phrase title="selecting_this_option_will_permanently_and_irreversibly_delete_item" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Selezionando questa opzione, l'elemento verrà eliminato in modo permanente e irreversibile.]]></phrase>
   <phrase title="send" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invia]]></phrase>
   <phrase title="send_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invia messaggio]]></phrase>
   <phrase title="send_notifications_for" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Manda notifiche per]]></phrase>
   <phrase title="send_notifications_via" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Manda notifiche via]]></phrase>
-  <phrase title="send_password_reset" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Invia reset password]]></phrase>
+  <phrase title="send_password_reset" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Invia recupero password]]></phrase>
   <phrase title="send_resolution_rejection_alert" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Invia notifica di soluzione/rifiuto]]></phrase>
-  <phrase title="send_summary_email_while_user_is_inactive_every" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Send summary email while user is inactive every]]></phrase>
-  <phrase title="send_test" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Send test]]></phrase>
-  <phrase title="send_test_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Send test email]]></phrase>
-  <phrase title="send_welcome_email_on_registration" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Send welcome email on registration]]></phrase>
-  <phrase title="sending" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sending]]></phrase>
+  <phrase title="send_summary_email_while_user_is_inactive_every" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Invia email di riepilogo mentre l'utente è inattivo ogni]]></phrase>
+  <phrase title="send_test" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invia test]]></phrase>
+  <phrase title="send_test_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Invia un'email di prova]]></phrase>
+  <phrase title="send_welcome_email_on_registration" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Inviare email di benvenuto alla registrazione]]></phrase>
+  <phrase title="sending" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sto inviando]]></phrase>
   <phrase title="separate_names_with_comma" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Separa i nomi usando la virgola.]]></phrase>
-  <phrase title="sequences_like_abc_or_6543_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sequences like "abc" or "6543" are easy to guess.]]></phrase>
-  <phrase title="serve_from_preferred_cdn" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Serve from preferred CDN]]></phrase>
-  <phrase title="server_based_trigger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Server based trigger]]></phrase>
-  <phrase title="server_did_not_respond_in_time_try_again" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[The server did not respond in time. Please try again.]]></phrase>
-  <phrase title="server_environment_report" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Server environment report]]></phrase>
+  <phrase title="sequences_like_abc_or_6543_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sequenze come "abc" o "6543" sono facili da indovinare.]]></phrase>
+  <phrase title="serve_from_preferred_cdn" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Eroga da CDN preferita]]></phrase>
+  <phrase title="server_based_trigger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Basato su evento del server]]></phrase>
+  <phrase title="server_did_not_respond_in_time_try_again" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Il server non ha risposto in tempo. Si prega di riprovare.]]></phrase>
+  <phrase title="server_environment_report" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Rapporto sull'ambiente del server]]></phrase>
   <phrase title="server_error_log" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Log errore server]]></phrase>
   <phrase title="server_error_occurred" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Si è verificato un errore con il server. Si prega di riprovare più tardi.]]></phrase>
   <phrase title="server_errors_have_been_logged" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sono stati registrati errori del server. Dovresti riguardarli.]]></phrase>
   <phrase title="server_software" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Server software]]></phrase>
-  <phrase title="server_was_too_slow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Server was too slow.]]></phrase>
-  <phrase title="set_all_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Set all to: {value}]]></phrase>
-  <phrase title="set_custom_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Set custom title]]></phrase>
+  <phrase title="server_was_too_slow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il server è troppo lento.]]></phrase>
+  <phrase title="set_all_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IImposta tutto su: {value}]]></phrase>
+  <phrase title="set_custom_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Imposta titolo personalizzato]]></phrase>
   <phrase title="set_new_password" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Imposta nuova password]]></phrase>
-  <phrase title="set_permissions_for_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Set permissions for user]]></phrase>
+  <phrase title="set_permissions_for_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Impostare i permessi per l'utente]]></phrase>
   <phrase title="set_prefix" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Imposta un prefisso]]></phrase>
-  <phrase title="set_primary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Set primary user group]]></phrase>
-  <phrase title="set_security_lock" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Set security lock]]></phrase>
+  <phrase title="set_primary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Imposta il gruppo di utenti primario]]></phrase>
+  <phrase title="set_security_lock" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Impostare il blocco di sicurezza]]></phrase>
   <phrase title="set_thread_status" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Stato della discussione]]></phrase>
-  <phrase title="set_user_state" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Set user state]]></phrase>
+  <phrase title="set_user_state" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Imposta lo stato dell'utente]]></phrase>
   <phrase title="settings" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Impostazioni]]></phrase>
   <phrase title="setup" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Setup]]></phrase>
-  <phrase title="sfs_matched_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[StopForumSpam matched ({matches})]]></phrase>
+  <phrase title="sfs_matched_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[StopForumSpam trovato ({matches})]]></phrase>
   <phrase title="share" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Condividi]]></phrase>
   <phrase title="share_this_content" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Condividi questo contenuto]]></phrase>
-  <phrase title="share_this_post" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Condividi questo post]]></phrase>
-  <phrase title="share_this_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Condividi questo thread]]></phrase>
-  <phrase title="shared_ip_banned_user_x" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Shared IP with banned users ({users})]]></phrase>
-  <phrase title="shared_ip_rejected_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Shared IP with rejected users ({users})]]></phrase>
+  <phrase title="share_this_post" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Condividi questo messaggio]]></phrase>
+  <phrase title="share_this_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Condividi questa discussione]]></phrase>
+  <phrase title="shared_ip_banned_user_x" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[IP condiviso con utenti bannati ({users})]]></phrase>
+  <phrase title="shared_ip_rejected_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP condiviso con utenti respinti ({users})]]></phrase>
   <phrase title="shared_ips" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[IP Condivisi]]></phrase>
   <phrase title="shared_ips_for_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[IP condivisi con {name}]]></phrase>
   <phrase title="shift" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Shift]]></phrase>
-  <phrase title="short_keyboard_patterns_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Short keyboard patterns are easy to guess.]]></phrase>
+  <phrase title="short_keyboard_patterns_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[I pattern brevi della tastiera sono facilii da indovinare.]]></phrase>
   <phrase title="shortcut.alerts_menu" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[.]]></phrase>
   <phrase title="shortcut.bookmarks_menu" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[b]]></phrase>
   <phrase title="shortcut.conversations_menu" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[,]]></phrase>
@@ -8447,51 +8447,51 @@ Contenuto riportato:
   <phrase title="shortcut.visitor_menu" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[m]]></phrase>
   <phrase title="should_conversation_receive_responses_restored_to_inbox" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questa conversazione riceverà altre risposte in futuro e questa verrà ripristinata nella tua casella.]]></phrase>
   <phrase title="show" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Mostra]]></phrase>
-  <phrase title="show_advanced_control_panel_options" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Show advanced control panel options]]></phrase>
-  <phrase title="show_advanced_options" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Show advanced options]]></phrase>
+  <phrase title="show_advanced_control_panel_options" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mostra le opzioni avanzate del pannello di controllo]]></phrase>
+  <phrase title="show_advanced_options" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mostra opzioni avanzate]]></phrase>
   <phrase title="show_all" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra tutto]]></phrase>
   <phrase title="show_all_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra tutte le conversazioni]]></phrase>
-  <phrase title="show_all_matches" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Show all matches]]></phrase>
+  <phrase title="show_all_matches" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Mostra tutte le corrispondenze]]></phrase>
   <phrase title="show_changes" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Mostra modifiche]]></phrase>
-  <phrase title="show_current_activity" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Show current activity]]></phrase>
+  <phrase title="show_current_activity" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Mostra l'attività corrente]]></phrase>
   <phrase title="show_day_and_month_of_birth" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra giorno e mese di nascita]]></phrase>
-  <phrase title="show_during_registration" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show during registration]]></phrase>
+  <phrase title="show_during_registration" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Mostra durante la registrazione]]></phrase>
   <phrase title="show_full_post_thread_editor" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Apri editor completo per scrivere la nuova discussione, con le opzioni per allegare files, creare sondaggi e altro]]></phrase>
   <phrase title="show_hidden_content_by_x" addon_id="XF" global_cache="1" version_id="2010270" version_string="2.1.2"><![CDATA[Mostra il contenuto nascosto da {names}]]></phrase>
   <phrase title="show_ignored_content" addon_id="XF" global_cache="1" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra contenuto ignorato]]></phrase>
-  <phrase title="show_in_advanced_mode_only" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Show in advanced mode only]]></phrase>
+  <phrase title="show_in_advanced_mode_only" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mostra solo in modalità avanzata]]></phrase>
   <phrase title="show_older_items" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra contenuto più vecchio]]></phrase>
-  <phrase title="show_on_overview_tab" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show on overview tab]]></phrase>
-  <phrase title="show_online_status" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Show online status]]></phrase>
+  <phrase title="show_on_overview_tab" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra nella scheda panoramica]]></phrase>
+  <phrase title="show_online_status" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Mostra lo stato online]]></phrase>
   <phrase title="show_only" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra solo]]></phrase>
   <phrase title="show_peoples_signatures_with_their_messages" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra la firma degli utenti insieme al loro messaggio]]></phrase>
-  <phrase title="show_signatures_with_messages" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[Show signatures with messages]]></phrase>
-  <phrase title="show_staff_and_group_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show staff and group banner]]></phrase>
-  <phrase title="show_staff_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show staff banner]]></phrase>
-  <phrase title="show_them" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Show them.]]></phrase>
-  <phrase title="show_this_site_on_list_of_supported_sites_shown_to_visitors" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Show this site on the list of 'supported' sites shown to visitors]]></phrase>
+  <phrase title="show_signatures_with_messages" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[Mostra le firme con i messaggi]]></phrase>
+  <phrase title="show_staff_and_group_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra il banner dello staff e del gruppo]]></phrase>
+  <phrase title="show_staff_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra banner staff]]></phrase>
+  <phrase title="show_them" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mostrali.]]></phrase>
+  <phrase title="show_this_site_on_list_of_supported_sites_shown_to_visitors" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Mostra questo sito nella lista dei siti 'supportati' mostrati ai visitatori]]></phrase>
   <phrase title="show_this_smilie_in_the_text_editor" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Mostra questo smilie nell'editor di testo]]></phrase>
-  <phrase title="show_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show value]]></phrase>
-  <phrase title="show_visitors_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show visitor's avatar]]></phrase>
+  <phrase title="show_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra valore]]></phrase>
+  <phrase title="show_visitors_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mostra l'avatar del visitatore]]></phrase>
   <phrase title="show_year_of_birth" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra anno di nascita]]></phrase>
   <phrase title="show_your_current_activity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra la tua attività attuale]]></phrase>
   <phrase title="show_your_online_status" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra il tuo stato online]]></phrase>
   <phrase title="showing_all_items" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Mostrando tutti gli elementi]]></phrase>
   <phrase title="showing_x_of_y_items" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Mostrando {count} su {total} oggetti]]></phrase>
-  <phrase title="sibling" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sibling]]></phrase>
-  <phrase title="side_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Side navigation]]></phrase>
+  <phrase title="sibling" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fratello]]></phrase>
+  <phrase title="side_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigazione laterale]]></phrase>
   <phrase title="signature" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Firma]]></phrase>
-  <phrase title="simple" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple]]></phrase>
-  <phrase title="simple_border_color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple border color]]></phrase>
-  <phrase title="simple_border_radius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple border radius]]></phrase>
-  <phrase title="simple_border_width" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple border width]]></phrase>
+  <phrase title="simple" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Semplice]]></phrase>
+  <phrase title="simple_border_color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo semplice]]></phrase>
+  <phrase title="simple_border_radius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Raggio del bordo semplice]]></phrase>
+  <phrase title="simple_border_width" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larghezza del bordo semplice]]></phrase>
   <phrase title="simple_replacement" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Sostituzione semplice]]></phrase>
   <phrase title="single_choice" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Singola scelta]]></phrase>
-  <phrase title="single_line_text_box" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Single-line text box]]></phrase>
+  <phrase title="single_line_text_box" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Casella di testo a linea singola]]></phrase>
   <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[Il sito è in aggiornamento. Si prega di riprovare più tardi.]]></phrase>
-  <phrase title="site_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Site key]]></phrase>
-  <phrase title="site_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Site title]]></phrase>
-  <phrase title="site_url" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site URL]]></phrase>
+  <phrase title="site_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chiave del sito]]></phrase>
+  <phrase title="site_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titolo del Sito]]></phrase>
+  <phrase title="site_url" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[URL Sito]]></phrase>
   <phrase title="sitemap" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Sitemap]]></phrase>
   <phrase title="sitemap_contents_can_be_controlled_via_sitemap_options" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Il contenuto della sitemap può essere controllato tramite l'opzione <a href="admin.php?options/groups/sitemap/">Generazione sitemap XML</a>.]]></phrase>
   <phrase title="sitemap_log" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Log sitemap]]></phrase>
@@ -8499,90 +8499,90 @@ Contenuto riportato:
   <phrase title="skip" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Salta]]></phrase>
   <phrase title="skip_import_checks" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Salta i controlli di importazione]]></phrase>
   <phrase title="skipped_untrusted" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Saltato (untrusted)]]></phrase>
-  <phrase title="small_toolbar" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Small toolbar]]></phrase>
-  <phrase title="small_toolbar_desc" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[For small devices (>= 768px)]]></phrase>
+  <phrase title="small_toolbar" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Piccola barra degli strumenti]]></phrase>
+  <phrase title="small_toolbar_desc" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Per i piccoli dispositivi (>= 768px)]]></phrase>
   <phrase title="smilie_category" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Categoria smilie]]></phrase>
   <phrase title="smilie_category_ids_must_be_unique" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Gli ID delle categorie smilie devono essere unici]]></phrase>
   <phrase title="smilie_category_title.uncategorized" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Smilie non categorizzati]]></phrase>
   <phrase title="smilie_pre_import_directory_explain" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Usa quest'opzione per scansionare una directory contenente le immagini degli smilie, successivamente configurare manualmente i dati di ciascuno smile da importare. Assicurati che le immagini degli smilie sono stati caricati prima di procedere con questo step.]]></phrase>
   <phrase title="smilie_pre_import_explain" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Usa quest'opzione per importare gli smile tramite un file XML. Prima di procedere allo step successivo, dovresti caricare manualmente tutte le immagini necessarie degli smile sul server, nella posizione appropriata.]]></phrase>
-  <phrase title="smilie_replacement_text_must_be_unique_x_in_use" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Smilie replacement text must be unique. The replacement '{text}' is already in use.]]></phrase>
+  <phrase title="smilie_replacement_text_must_be_unique_x_in_use" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Il testo di sostituzione dello smiley deve essere unico. Il rimpiazzo '{text}' è già in uso.]]></phrase>
   <phrase title="smilies" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Smilie]]></phrase>
-  <phrase title="smilies_provided_free_by_emojione" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smilies provided free by <a href="http://emojione.com" target="_blank">EmojiOne</a>.]]></phrase>
-  <phrase title="soft_bounce_logged" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soft bounce logged]]></phrase>
-  <phrase title="soft_delete_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soft delete threads]]></phrase>
-  <phrase title="solution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Solution]]></phrase>
-  <phrase title="solutions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Solutions]]></phrase>
-  <phrase title="solved" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Solved]]></phrase>
+  <phrase title="smilies_provided_free_by_emojione" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smilie fornite gratuitamente da <a href="http://emojione.com" target="_blank">EmojiOne</a>.]]></phrase>
+  <phrase title="soft_bounce_logged" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rimbalzo morbido registrato]]></phrase>
+  <phrase title="soft_delete_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rimuovi pubblicamente discussioni]]></phrase>
+  <phrase title="solution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Soluzione]]></phrase>
+  <phrase title="solutions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Soluzioni]]></phrase>
+  <phrase title="solved" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Risolto]]></phrase>
   <phrase title="some_data_can_not_be_rebuilt" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Qualche dato può non esser ricostruito retroattivamente. Utilizza quest'opzione solamente se hai un motivo per farlo. La cancellazione dei dati non può essere annullata.]]></phrase>
-  <phrase title="some_fields_contained_unexpected_data_try_again" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Some fields contained unexpected data. Please try again or contact the administrator.]]></phrase>
-  <phrase title="some_files_or_directories_for_this_add_on_missing_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Some files or directories for this add-on are missing ({missing_files}). Please re-upload all add-on files.]]></phrase>
-  <phrase title="some_steps_may_require_other_steps_as_prerequisite" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[Some steps may require other steps as a prerequisite. Unselected steps will be automatically included if a selected step requires them.]]></phrase>
-  <phrase title="some_tags_not_valid_please_change_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Some tags were not valid because they are too short, too long, or contain disallowed text. Please change the following tags: {tags}]]></phrase>
-  <phrase title="something_went_wrong_please_try_again" addon_id="XF" version_id="1010470" version_string="1.1.4"><![CDATA[Something went wrong. Please try again or contact the administrator.]]></phrase>
-  <phrase title="sorry_dave" addon_id="XF" version_id="0" version_string=""><![CDATA[I'm sorry Dave, I'm afraid I can't do that.]]></phrase>
-  <phrase title="sorry_you_must_wait_longer_to_create_account" addon_id="XF" version_id="1010470" version_string="1.1.4"><![CDATA[Sorry, you must wait longer to create an account.]]></phrase>
-  <phrase title="sorry_you_too_young_to_create_an_account" addon_id="XF" version_id="0" version_string=""><![CDATA[Sorry, you are too young to create an account.]]></phrase>
-  <phrase title="sort" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sort]]></phrase>
-  <phrase title="sort_activity_summary_sections" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sort activity summary sections]]></phrase>
-  <phrase title="sort_admin_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort admin navigation]]></phrase>
+  <phrase title="some_fields_contained_unexpected_data_try_again" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Alcuni campi contenevano dati inaspettati. Per favore riprova o contatta l'amministratore.]]></phrase>
+  <phrase title="some_files_or_directories_for_this_add_on_missing_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mancano alcuni file o directory per questo add-on ({missing_files}). Per favore ricarica tutti i file dell'add-on.]]></phrase>
+  <phrase title="some_steps_may_require_other_steps_as_prerequisite" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[Alcuni step possono richiedere altri step come prerequisito. Gli step non selezionati saranno automaticamente inclusi se uno step selezionato li richiede.]]></phrase>
+  <phrase title="some_tags_not_valid_please_change_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Alcuni tag non erano validi perché sono troppo corti, troppo lunghi o contengono testo non consentito. Per favore cambia i seguenti tag: {tags}]]></phrase>
+  <phrase title="something_went_wrong_please_try_again" addon_id="XF" version_id="1010470" version_string="1.1.4"><![CDATA[Qualcosa è andato storto. Per favore riprova o contatta l'amministratore.]]></phrase>
+  <phrase title="sorry_dave" addon_id="XF" version_id="0" version_string=""><![CDATA[Mi spiace Dave. Purtroppo non posso farlo.]]></phrase>
+  <phrase title="sorry_you_must_wait_longer_to_create_account" addon_id="XF" version_id="1010470" version_string="1.1.4"><![CDATA[Spiacente, devi aspettare più a lungo per creare un account.]]></phrase>
+  <phrase title="sorry_you_too_young_to_create_an_account" addon_id="XF" version_id="0" version_string=""><![CDATA[Spiacente, sei troppo giovane per creare un account.]]></phrase>
+  <phrase title="sort" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ordina]]></phrase>
+  <phrase title="sort_activity_summary_sections" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ordina le sezioni di riepilogo delle attività]]></phrase>
+  <phrase title="sort_admin_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ordina la navigazione admin]]></phrase>
   <phrase title="sort_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ordina per]]></phrase>
-  <phrase title="sort_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort categories]]></phrase>
-  <phrase title="sort_direction" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Sort direction]]></phrase>
-  <phrase title="sort_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort navigation]]></phrase>
-  <phrase title="sort_nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort nodes]]></phrase>
-  <phrase title="sort_order" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Sort order]]></phrase>
-  <phrase title="sort_reactions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sort reactions]]></phrase>
+  <phrase title="sort_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ordina le categorie]]></phrase>
+  <phrase title="sort_direction" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Direzione ordine]]></phrase>
+  <phrase title="sort_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ordina navigazione]]></phrase>
+  <phrase title="sort_nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ordina nodi]]></phrase>
+  <phrase title="sort_order" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Scegli ordine]]></phrase>
+  <phrase title="sort_reactions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Ordina reazioni]]></phrase>
   <phrase title="sort_smilies" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ordina smilie]]></phrase>
-  <phrase title="source_database_configuration" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Source database configuration]]></phrase>
-  <phrase title="source_database_connection_details_not_correct_x" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[The source database connection details are not correct: {message}]]></phrase>
-  <phrase title="source_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Source tag]]></phrase>
-  <phrase title="source_user" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Source user]]></phrase>
+  <phrase title="source_database_configuration" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Configurazione del database di origine]]></phrase>
+  <phrase title="source_database_connection_details_not_correct_x" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[I dettagli della connessione al database di origine non sono corretti: {message}]]></phrase>
+  <phrase title="source_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sorgente tag]]></phrase>
+  <phrase title="source_user" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Sorgente utente]]></phrase>
   <phrase title="spam" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Spam]]></phrase>
-  <phrase title="spam_clean" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Spam clean]]></phrase>
-  <phrase title="spam_cleaner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleaner]]></phrase>
-  <phrase title="spam_cleaner_actions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleaner actions]]></phrase>
-  <phrase title="spam_cleaner_ban_reason" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Spam. Please contact the administrator if this was done in error.]]></phrase>
-  <phrase title="spam_cleaner_cannot_be_run_at_moment" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[The spam cleaner cannot be run at the moment. The selected forum to move spam threads to does not exist.]]></phrase>
-  <phrase title="spam_cleaner_ip_address_check" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Controllo dell'indirizzo IP del pulitore spam]]></phrase>
+  <phrase title="spam_clean" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Pulizia Spam]]></phrase>
+  <phrase title="spam_cleaner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pulitore Spam]]></phrase>
+  <phrase title="spam_cleaner_actions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azioni pulizia Spam]]></phrase>
+  <phrase title="spam_cleaner_ban_reason" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Spam. Per favore contatta l'amministratore se pensi che sia un errore.]]></phrase>
+  <phrase title="spam_cleaner_cannot_be_run_at_moment" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[La pulizia spam non può essere eseguita al momento. Il forum selezionato per spostare le discussioni di spam non esiste.]]></phrase>
+  <phrase title="spam_cleaner_ip_address_check" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Controllo dell'indirizzo IP della pulizia spam]]></phrase>
   <phrase title="spam_cleaner_log" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Log pulizia spam]]></phrase>
-  <phrase title="spam_cleaner_no_admins_or_mods" addon_id="XF" version_id="0" version_string=""><![CDATA[It is not possible to use the spam cleaner against administrators or moderators.]]></phrase>
-  <phrase title="spam_cleaner_reaction_score_too_high" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[You may not use the spam cleaner against users who have received a reaction score higher than {reaction_score}.]]></phrase>
-  <phrase title="spam_cleaner_registered_too_long" addon_id="XF" version_id="0" version_string=""><![CDATA[You may not use the spam cleaner against users who have been registered for longer than {register_days} days.]]></phrase>
-  <phrase title="spam_cleaner_too_many_messages" addon_id="XF" version_id="0" version_string=""><![CDATA[You may not use the spam cleaner against users with more than {message_count} messages.]]></phrase>
-  <phrase title="spam_cleanings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam cleanings]]></phrase>
-  <phrase title="spam_deleted" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The spam has been deleted.]]></phrase>
+  <phrase title="spam_cleaner_no_admins_or_mods" addon_id="XF" version_id="0" version_string=""><![CDATA[Non è possibile utilizzare la pulizia spam contro amministratori o moderatori.]]></phrase>
+  <phrase title="spam_cleaner_reaction_score_too_high" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Non puoi usare la pulizia spam contro utenti che hanno ricevuto un punteggio di reazioni superiore a {reaction_score}.]]></phrase>
+  <phrase title="spam_cleaner_registered_too_long" addon_id="XF" version_id="0" version_string=""><![CDATA[Non puoi usare la pulizia spam contro utenti che sono registrati da più di{register_days} giorni.]]></phrase>
+  <phrase title="spam_cleaner_too_many_messages" addon_id="XF" version_id="0" version_string=""><![CDATA[Non puoi usare la pulizia spam contro utenti che hanno più di {message_count} messaggi.]]></phrase>
+  <phrase title="spam_cleanings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pulizie Spam]]></phrase>
+  <phrase title="spam_deleted" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Lo spam è stato eliminato.]]></phrase>
   <phrase title="spam_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam log]]></phrase>
   <phrase title="spam_phrase_matched_x" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Corrispondenza frase spam ({phrase})]]></phrase>
-  <phrase title="spam_prevention_registration_rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your registration has been rejected as it resembles spam-like or automated behavior. Please contact the administrator for further information or assistance.]]></phrase>
+  <phrase title="spam_prevention_registration_rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La tua registrazione è stata rifiutata in quanto assomiglia a un comportamento simile allo spam automatizzato. Si prega di contattare l'amministratore per ulteriori informazioni o assistenza.]]></phrase>
   <phrase title="spam_trigger_log" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Log innesco spam]]></phrase>
   <phrase title="spam_triggers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam triggers]]></phrase>
-  <phrase title="specific_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Specific users]]></phrase>
-  <phrase title="specified_ip_address_match_already_exists" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The specified IP address match already exists.]]></phrase>
-  <phrase title="specified_member_cannot_be_found_enter_entire_name" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[The specified member cannot be found. Please enter a member's entire name.]]></phrase>
-  <phrase title="specified_table_already_exists_choose_another" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[The specified table already exists. Please choose another name.]]></phrase>
-  <phrase title="specified_thread_does_not_have_poll_attached_to_it" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The specified thread does not have a poll attached to it.]]></phrase>
-  <phrase title="specified_url_cannot_be_embedded_as_media" addon_id="XF" version_id="0" version_string=""><![CDATA[The specified URL cannot be embedded as media.]]></phrase>
-  <phrase title="specified_user_is_already_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The specified user is already an administrator.]]></phrase>
-  <phrase title="specify_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Specify an image]]></phrase>
+  <phrase title="specific_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Utenti specifici]]></phrase>
+  <phrase title="specified_ip_address_match_already_exists" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La corrispondenza dell'indirizzo IP specificato esiste già.]]></phrase>
+  <phrase title="specified_member_cannot_be_found_enter_entire_name" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Il membro specificato non può essere trovato. Inserisci il nome completo di un membro.]]></phrase>
+  <phrase title="specified_table_already_exists_choose_another" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[La tabella specificata esiste già. Si prega di scegliere un altro nome.]]></phrase>
+  <phrase title="specified_thread_does_not_have_poll_attached_to_it" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La discussione specificata non ha un sondaggio collegato ad esso.]]></phrase>
+  <phrase title="specified_url_cannot_be_embedded_as_media" addon_id="XF" version_id="0" version_string=""><![CDATA[L'URL specificato non può essere incorporato come media.]]></phrase>
+  <phrase title="specified_user_is_already_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'utente specificato è già un amministratore.]]></phrase>
+  <phrase title="specify_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Specifica un'immagine]]></phrase>
   <phrase title="spin_box" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spin box]]></phrase>
   <phrase title="spoiler" addon_id="XF" global_cache="1" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Spoiler]]></phrase>
   <phrase title="spoiler_content_hidden" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Spoilera il contenuto nascosto.]]></phrase>
   <phrase title="sprite_dimensions" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Dimensioni sprite]]></phrase>
   <phrase title="sprite_mode" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Modalità sprite]]></phrase>
   <phrase title="sprite_position" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Posizione sprite]]></phrase>
-  <phrase title="src_attribute_must_not_be_specified_when_using_dev_or_prod_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A 'src' attribute must not be specified when using 'dev' or 'prod' attributes.]]></phrase>
+  <phrase title="src_attribute_must_not_be_specified_when_using_dev_or_prod_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Un attributo 'src' non va specificato quando si usano gli attributii 'dev' o 'prod'.]]></phrase>
   <phrase title="stack_trace" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stack trace]]></phrase>
   <phrase title="staff_member" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Staff Forum]]></phrase>
   <phrase title="staff_members_cannot_be_reply_banned" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Membri dello Staff non possono essere proibiti dal rispondere.]]></phrase>
-  <phrase title="staff_members_may_not_be_ignored" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Staff members may not be ignored.]]></phrase>
+  <phrase title="staff_members_may_not_be_ignored" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[I membri dello staff non possono essere ignorati.]]></phrase>
   <phrase title="staff_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff online]]></phrase>
-  <phrase title="staff_state" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff state]]></phrase>
+  <phrase title="staff_state" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stato Staff]]></phrase>
   <phrase title="standard" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Standard]]></phrase>
-  <phrase title="standard_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Standard search]]></phrase>
+  <phrase title="standard_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ricerca Standard]]></phrase>
   <phrase title="star" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segna]]></phrase>
   <phrase title="star_conversations" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Inserisci tra i preferiti]]></phrase>
-  <phrase title="star_rating" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Star rating]]></phrase>
+  <phrase title="star_rating" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Classificazione a stelle]]></phrase>
   <phrase title="starred" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Preferito]]></phrase>
   <phrase title="starred_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Conversazioni segnate]]></phrase>
   <phrase title="start_conversation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inizia una conversazione]]></phrase>
@@ -8591,18 +8591,18 @@ Contenuto riportato:
   <phrase title="start_date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data d'inizio]]></phrase>
   <phrase title="start_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Start import]]></phrase>
   <phrase title="start_new_conversation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inizia una nuova conversazione]]></phrase>
-  <phrase title="start_sending_summary_email_when_user_inactive_for" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Start sending summary email when user has been inactive for]]></phrase>
-  <phrase title="start_welcome_conversation_on_registration" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Start welcome conversation on registration]]></phrase>
+  <phrase title="start_sending_summary_email_when_user_inactive_for" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Inizia l'invio di email riassuntive quando l'utente è stato inattivo per]]></phrase>
+  <phrase title="start_welcome_conversation_on_registration" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Avvia una conversazione di benvenuto dopo la registrazione]]></phrase>
   <phrase title="started_by" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Iniziata da]]></phrase>
   <phrase title="started_by_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Iniziata da {name}]]></phrase>
-  <phrase title="starting_upgrade" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Starting upgrade]]></phrase>
-  <phrase title="state" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[State]]></phrase>
+  <phrase title="starting_upgrade" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inizio dell'aggiornamento]]></phrase>
+  <phrase title="state" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stato]]></phrase>
   <phrase title="statistics" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Statistiche]]></phrase>
   <phrase title="status" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Stato]]></phrase>
   <phrase title="status_changed" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Stato cambiato]]></phrase>
-  <phrase title="status_update_by_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Status update by {username}]]></phrase>
+  <phrase title="status_update_by_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Stato aggioirnato da {username}]]></phrase>
   <phrase title="stay_logged_in" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Resta collegato al forum]]></phrase>
-  <phrase title="step_x_of_y" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Step {current} of {total}]]></phrase>
+  <phrase title="step_x_of_y" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Fase {current} di {total}]]></phrase>
   <phrase title="stick_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Metti in rilievo la discussione]]></phrase>
   <phrase title="stick_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Metti in rilievo]]></phrase>
   <phrase title="sticky" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[In evidenza]]></phrase>
@@ -8611,200 +8611,200 @@ Contenuto riportato:
   <phrase title="stop_all_emails_from_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più email da {title}]]></phrase>
   <phrase title="stop_email_notifications" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più le notifiche via email]]></phrase>
   <phrase title="stop_emails" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più le email]]></phrase>
-  <phrase title="stop_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop following]]></phrase>
-  <phrase title="stop_following_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stop following {name}]]></phrase>
-  <phrase title="stop_ignoring" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop ignoring]]></phrase>
-  <phrase title="stop_ignoring_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop ignoring {name}]]></phrase>
-  <phrase title="stop_notification_emails_from_all_categories" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Stop notification emails from all categories]]></phrase>
+  <phrase title="stop_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smetti di seguire]]></phrase>
+  <phrase title="stop_following_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Smetti di seguire {name}]]></phrase>
+  <phrase title="stop_ignoring" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smetti di ignorare]]></phrase>
+  <phrase title="stop_ignoring_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smetti di ignorare {name}]]></phrase>
+  <phrase title="stop_notification_emails_from_all_categories" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Non ricevere più le email di notifica di tutte le categorie]]></phrase>
   <phrase title="stop_notification_emails_from_all_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più le notifiche via email da tutte le discussioni]]></phrase>
   <phrase title="stop_notification_emails_from_conversations" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più le notifiche via email dalle conversazioni private]]></phrase>
   <phrase title="stop_notification_emails_from_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più le notifiche via email da '{title}']]></phrase>
   <phrase title="stop_parsing_bb_code" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Disabilita conversione del BB code]]></phrase>
-  <phrase title="stop_receiving_activity_summary_emails" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Stop receiving activity summary emails.]]></phrase>
-  <phrase title="stop_sending_summary_email_when_user_inactive_for" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Stop sending summary email when user has been inactive for]]></phrase>
-  <phrase title="stop_trusting_other_devices" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Stop trusting other devices]]></phrase>
+  <phrase title="stop_receiving_activity_summary_emails" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Non ricevere più email di riepilogo delle attività.]]></phrase>
+  <phrase title="stop_sending_summary_email_when_user_inactive_for" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Non inviare più email di riepilogo quando l'utente è stato inattivo per]]></phrase>
+  <phrase title="stop_trusting_other_devices" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Non fidarti più degli altri dispositivi]]></phrase>
   <phrase title="stop_trusting_this_device" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Rimuovi questo dispositivo]]></phrase>
   <phrase title="stop_watching" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Smetti di seguire]]></phrase>
   <phrase title="stop_watching_forums" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Smettila di seguire le sezioni]]></phrase>
   <phrase title="stop_watching_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Smettila di seguire le discussioni]]></phrase>
   <phrase title="stopforumspam_enable_registration_check" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Controlla le nuove registrazioni rispetto al database StopForumSpam.]]></phrase>
-  <phrase title="stopforumspam_enable_registration_check_explain" addon_id="XF" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[StopForumSpam will test the data collected from registering users and attempt to determine if they are a known spammer. Each warning flag that the user generates will be counted. Flags include user name, email and IP address.]]></phrase>
-  <phrase title="stopforumspam_frequencycutoff_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[You may choose to only count hits against the spam database that have previously been reported a certain number of times.]]></phrase>
-  <phrase title="stopforumspam_frequencycutoff_label" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Only count flags recorded at least this many times]]></phrase>
+  <phrase title="stopforumspam_enable_registration_check_explain" addon_id="XF" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[StopForumSpam testerà i dati raccolti dagli utenti che si registrano e cercherà di determinare se sono uno spammer conosciuto. Ogni flag di avviso che l'utente genera sarà contato. I flags includono il nome dell'utente, l'email e l'indirizzo IP.]]></phrase>
+  <phrase title="stopforumspam_frequencycutoff_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Si può scegliere di contare solo gli hit contro il database dello spam che sono stati precedentemente segnalati entro un certo numero di volte.]]></phrase>
+  <phrase title="stopforumspam_frequencycutoff_label" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conta solo le segnalazioni registrate almeno un certo numero di volte]]></phrase>
   <phrase title="stopforumspam_hashemail_explain" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Se selezionato, l'indirizzo e-mail dell'utente verrà convertito in un hash MD5 prima dell'invio. Ciò riduce il numero di controlli possibili, inclusi i controlli nella lista nera.]]></phrase>
-  <phrase title="stopforumspam_hashemail_label" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Hash emails before submission]]></phrase>
-  <phrase title="stopforumspam_lastseencutoff_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[In order to avoid false positives, you may opt to only count hits against the spam database that have been previously recorded within a limited time period.]]></phrase>
-  <phrase title="stopforumspam_lastseencutoff_label" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Only count flags recorded within the last]]></phrase>
-  <phrase title="stopforumspam_moderate_registration_threshold" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Moderate registrations when this many warning flags are detected]]></phrase>
-  <phrase title="stopforumspam_moderate_registration_threshold_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Specify the number of warning flags (1-3) that are required for a registration to be placed in the moderation queue rather than accepted automatically.]]></phrase>
-  <phrase title="stopforumspam_reject_registration_threshold" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reject registrations when this many warning flags are detected]]></phrase>
-  <phrase title="stopforumspam_reject_registration_threshold_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Specify the number of warning flags (1-3) that are required for a registration to be automatically rejected. This number should be equal to or greater than the value for the moderation threshold above.]]></phrase>
-  <phrase title="stopforumspam_submit_information" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Submit spammer information to StopForumSpam using API key]]></phrase>
-  <phrase title="stopforumspam_submit_information_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If you have an API key from StopForumSpam, you may have spammer activity on your site automatically reported back to StopForumSpam in order to improve the database for other users. This option will cause users who are banned via the spam cleaner to be reported.]]></phrase>
-  <phrase title="store_drafts_for_x_hours" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Store drafts for X hours]]></phrase>
-  <phrase title="stored_account_provider_does_not_match_this_request" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The stored account provider does not match this request. Please try again.]]></phrase>
-  <phrase title="straight_rows_of_keys_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Straight rows of keys are easy to guess.]]></phrase>
+  <phrase title="stopforumspam_hashemail_label" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Esegui hash delle email prima dell'invio]]></phrase>
+  <phrase title="stopforumspam_lastseencutoff_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Al fine di evitare falsi positivi, si può scegliere di contare solo gli hit contro il database dello spam che sono stati precedentemente registrati entro un periodo di tempo limitato.]]></phrase>
+  <phrase title="stopforumspam_lastseencutoff_label" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Considera solo le segnalazioni nell'ultimo]]></phrase>
+  <phrase title="stopforumspam_moderate_registration_threshold" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Modera le registrazioni quando vengono rilevati così tante segnalazioni di avvertimento]]></phrase>
+  <phrase title="stopforumspam_moderate_registration_threshold_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Specificare il numero di segnalazioni di avvertimento (1-3) che sono necessari perché una registrazione sia messa in coda di moderazione piuttosto che accettata automaticamente.]]></phrase>
+  <phrase title="stopforumspam_reject_registration_threshold" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Rifiuta le registrazioni quando vengono rilevati così tante segnalazioni di avvertimento]]></phrase>
+  <phrase title="stopforumspam_reject_registration_threshold_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Specificare il numero di segnalazioni di avvertimento (1-3) che sono necessari perché una registrazione sia automaticamente rifiutata. Questo numero deve essere uguale o superiore al valore della soglia di moderazione di cui sopra.]]></phrase>
+  <phrase title="stopforumspam_submit_information" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Invia informazioni sugli spammer a StopForumSpam usando la chiave API]]></phrase>
+  <phrase title="stopforumspam_submit_information_explain" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Se hai una chiave API di StopForumSpam, puoi fare in modo che l'attività degli spammer sul tuo sito venga automaticamente segnalata a StopForumSpam al fine di migliorare il database per gli altri utenti. Questa opzione farà sì che gli utenti che vengono bannati tramite il pulitore di spam vengano segnalati.]]></phrase>
+  <phrase title="store_drafts_for_x_hours" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Conserva le bozze per X ore]]></phrase>
+  <phrase title="stored_account_provider_does_not_match_this_request" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il fornitore dell'account memorizzato non corrisponde a questa richiesta. Per favore riprova.]]></phrase>
+  <phrase title="straight_rows_of_keys_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Le file diritte di tasti sono facili da indovinare.]]></phrase>
   <phrase title="strike_through" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sbarrato]]></phrase>
   <phrase title="string" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[String]]></phrase>
-  <phrase title="stripe_custom_statement_descriptor_required" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[A custom Stripe statement descriptor is required. A valid descriptor cannot be derived from your board title.]]></phrase>
-  <phrase title="stripe_live_publishable_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Live publishable key]]></phrase>
-  <phrase title="stripe_live_secret_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Live secret key]]></phrase>
-  <phrase title="stripe_live_secret_key_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enter the live secret and publishable keys from your <a href="https://dashboard.stripe.com/account/apikeys" target="_blank">Stripe Dashboard</a>.<br />
+  <phrase title="stripe_custom_statement_descriptor_required" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[È necessario un descrittore di dichiarazione personalizzato di Stripe. Un descrittore valido non può essere derivato dal titolo della tua scheda.]]></phrase>
+  <phrase title="stripe_live_publishable_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chiave pubblica live]]></phrase>
+  <phrase title="stripe_live_secret_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chiave segreta live]]></phrase>
+  <phrase title="stripe_live_secret_key_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci le chiavi pubbliche e private da <a href="https://dashboard.stripe.com/account/apikeys" target="_blank">Stripe Dashboard</a>.<br />
 <br />
-You will also need to set up a webhook endpoint in your Stripe account with the following URL: {boardUrl}/payment_callback.php?_xfProvider=stripe]]></phrase>
-  <phrase title="stripe_pay_faster_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Click the button above to pay faster using your saved payment details.]]></phrase>
-  <phrase title="stripe_statement_descriptor" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Statement descriptor]]></phrase>
-  <phrase title="stripe_statement_descriptors_explain_charges_or_payments_on_bank_statements" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Statement descriptors explain charges or payments on bank statements. Leaving this empty will use the board title. If you wish to set a custom descriptor, it must follow the format <a href="https://stripe.com/docs/statement-descriptors#requirements" target="_blank">outlined in Stripe's documentation</a>.]]></phrase>
-  <phrase title="stripe_subscription_cancelled_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stripe subscription cancelled successfully]]></phrase>
-  <phrase title="stripe_test_publishable_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Test publishable key]]></phrase>
-  <phrase title="stripe_test_secret_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Test secret key]]></phrase>
-  <phrase title="stripe_test_secret_key_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The test keys will only be used if <code>enableLivePayments</code> is set to false in <code>config.php</code>.<br />
-<br /><b>Note:</b> Before accepting live payments, you must activate your Stripe account from the Stripe Dashboard.]]></phrase>
-  <phrase title="stripe_verify_webhook_with_signing_secret" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Verify webhook with signing secret]]></phrase>
-  <phrase title="stripe_verify_webhook_with_signing_secret_explain" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[To verify incoming webhook signatures and prevent replay attacks you must provide the &quot;Signing secret&quot; from your Stripe dashboard under the API > Webhooks section.]]></phrase>
-  <phrase title="stripe_webhook_explain" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[<strong>Note:</strong> You must set up a webhook endpoint so that Stripe can send messages in order to verify and process payments. You can do this on the <a href="https://dashboard.stripe.com/account/webhooks">Developers > Webhooks</a> page in your dashboard with the following URL:
+Dovrai anche impostare un endpoint webhook nel tuo account Stripe con il seguente URL: {boardUrl}/payment_callback.php?_xfProvider=stripe]]></phrase>
+  <phrase title="stripe_pay_faster_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Clicca il pulsante qui sopra per pagare più velocemente usando i tuoi dettagli di pagamento salvati.]]></phrase>
+  <phrase title="stripe_statement_descriptor" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Descrittore di dichiarazione]]></phrase>
+  <phrase title="stripe_statement_descriptors_explain_charges_or_payments_on_bank_statements" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[I descrittori degli estratti conto spiegano le spese o i pagamenti sugli estratti conto. Lasciandolo vuoto verrà utilizzato il titolo della scheda. Se desideri impostare un descrittore personalizzato, esso deve seguire il formato <a href="https://stripe.com/docs/statement-descriptors#requirements" target="_blank">specificato nella documentazione Stripe</a>.]]></phrase>
+  <phrase title="stripe_subscription_cancelled_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abbonamento Stripe cancellato con successo]]></phrase>
+  <phrase title="stripe_test_publishable_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Testa chiave pubblica]]></phrase>
+  <phrase title="stripe_test_secret_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Testa chiave privata]]></phrase>
+  <phrase title="stripe_test_secret_key_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Le chiavi di prova saranno utilizzate solo se <code>enableLivePayments</code> è impostato su false all'interno di <code>config.php</code>.<br />
+<br /><b>Nota:</b> Prima di accettare pagamenti dal vivo, devi attivare il tuo account Stripe dalla Dashboard di Stripe.]]></phrase>
+  <phrase title="stripe_verify_webhook_with_signing_secret" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Verificare il webhook con il segreto di firma]]></phrase>
+  <phrase title="stripe_verify_webhook_with_signing_secret_explain" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Per verificare le firme dei webhook in arrivo e prevenire gli attacchi di replay, devi fornire la &quot;firma segreta&quot; dalla tua dashboard di Stripe nella sezione API > Webhooks.]]></phrase>
+  <phrase title="stripe_webhook_explain" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[<strong>Nota:</strong> Devi impostare un endpoint webhook in modo che Stripe possa inviare messaggi per verificare ed elaborare i pagamenti. Puoi farlo attraverso la pagina <a href="https://dashboard.stripe.com/account/webhooks">Developers > Webhooks</a> nella tua dashboard, attraverso il link:
 		<pre><code>{boardUrl}/payment_callback.php?_xfProvider=stripe</code></pre>
-		For additional security, it is also recommended to input your "Signing secret" below.]]></phrase>
-  <phrase title="strongly_recommended_backup_database_and_files" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[It is strongly recommended that you backup your database and files before proceeding. This is not done automatically.]]></phrase>
+		Per maggiore sicurezza, si raccomanda anche di inserire la tua "firma segreta" qui sotto.]]></phrase>
+  <phrase title="strongly_recommended_backup_database_and_files" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Si raccomanda vivamente di fare un backup del database e dei file prima di procedere. Questo non viene fatto automaticamente.]]></phrase>
   <phrase title="style" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tema]]></phrase>
-  <phrase title="style_archives_only_contain_files_extensions_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Style archives may only contain files with the following extensions: {extensions}.]]></phrase>
-  <phrase title="style_assets" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Style assets]]></phrase>
+  <phrase title="style_archives_only_contain_files_extensions_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Gli archivi di stile possono contenere solo file con le seguenti estensioni: {extensions}.]]></phrase>
+  <phrase title="style_assets" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Assets stile]]></phrase>
   <phrase title="style_chooser" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Scelta stile]]></phrase>
-  <phrase title="style_contains_no_customized_templates_or_style_properties" addon_id="XF" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[This style contains no customized templates or style properties.]]></phrase>
-  <phrase title="style_designer_mode_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Style designer mode IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="style_prop.animationSpeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Base animation speed]]></phrase>
-  <phrase title="style_prop.avatarBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar background color]]></phrase>
-  <phrase title="style_prop.avatarBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar border radius]]></phrase>
+  <phrase title="style_contains_no_customized_templates_or_style_properties" addon_id="XF" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Questo stile non contiene template personalizzati o proprietà di stile.]]></phrase>
+  <phrase title="style_designer_mode_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gli ID delle modalità di progettazione dello stile devono essere unici. L'ID specificato è già in uso.]]></phrase>
+  <phrase title="style_prop.animationSpeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Velocità di animazione di base]]></phrase>
+  <phrase title="style_prop.avatarBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore di sfondo dell'avatar]]></phrase>
+  <phrase title="style_prop.avatarBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Raggio del bordo dell'avatar]]></phrase>
   <phrase title="style_prop.avatarDefaultImage" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[URL immagine avatar predefinito]]></phrase>
   <phrase title="style_prop.avatarDefaultTextContent" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Testo avatar predefinito]]></phrase>
   <phrase title="style_prop.avatarDefaultType" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Tipo avatar predefinito]]></phrase>
-  <phrase title="style_prop.avatarDynamicFont" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dynamic avatar font]]></phrase>
-  <phrase title="style_prop.avatarDynamicLineHeight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dynamic avatar base line height]]></phrase>
-  <phrase title="style_prop.avatarDynamicTextPercent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dynamic avatar text size (%)]]></phrase>
+  <phrase title="style_prop.avatarDynamicFont" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Font avatar dinamico]]></phrase>
+  <phrase title="style_prop.avatarDynamicLineHeight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Altezza dinamica della linea di base dell'avatar]]></phrase>
+  <phrase title="style_prop.avatarDynamicTextPercent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione dinamica del testo dell'avatar (%)]]></phrase>
   <phrase title="style_prop.badge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Badge]]></phrase>
-  <phrase title="style_prop.badgeHighlighted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Badge - highlighted]]></phrase>
-  <phrase title="style_prop.bbCodeBlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB code blocks]]></phrase>
+  <phrase title="style_prop.badgeHighlighted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Badge - evidenziato]]></phrase>
+  <phrase title="style_prop.bbCodeBlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocchi BB code]]></phrase>
   <phrase title="style_prop.bbCodeBlockExpandHeight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum expandable BB code block height]]></phrase>
   <phrase title="style_prop.bbCodeBlockTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB code blocks - title]]></phrase>
-  <phrase title="style_prop.bbCodeImgFloatMargin" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Floated image margin]]></phrase>
-  <phrase title="style_prop.bbCodeImgFloatMarginAfter" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Floated image side and bottom margin]]></phrase>
-  <phrase title="style_prop.bbCodeImgLarge" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Code Image - Large Max Width]]></phrase>
-  <phrase title="style_prop.bbCodeImgMedium" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Code Image - Medium Max Width]]></phrase>
-  <phrase title="style_prop.bbCodeImgSmall" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Code Image - Small Max Width]]></phrase>
-  <phrase title="style_prop.bbCodeInlineCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB code block - inline code]]></phrase>
+  <phrase title="style_prop.bbCodeImgFloatMargin" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Margine dell'immagine fluttuante]]></phrase>
+  <phrase title="style_prop.bbCodeImgFloatMarginAfter" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Margine laterale e inferiore dell'immagine fluttuante]]></phrase>
+  <phrase title="style_prop.bbCodeImgLarge" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Code Image - Grande larghezza massima]]></phrase>
+  <phrase title="style_prop.bbCodeImgMedium" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Code Image - Larghezza massima media]]></phrase>
+  <phrase title="style_prop.bbCodeImgSmall" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Immagine del codice BB - piccola larghezza massima]]></phrase>
+  <phrase title="style_prop.bbCodeInlineCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocco di codice BB - codice in linea]]></phrase>
   <phrase title="style_prop.blockBorder" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block border framework]]></phrase>
-  <phrase title="style_prop.blockBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block border radius]]></phrase>
-  <phrase title="style_prop.blockFilterBar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block filter bar]]></phrase>
+  <phrase title="style_prop.blockBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block border raggio]]></phrase>
+  <phrase title="style_prop.blockFilterBar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block barra filtro]]></phrase>
   <phrase title="style_prop.blockFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block footer]]></phrase>
-  <phrase title="style_prop.blockFooterBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Block footer background color]]></phrase>
-  <phrase title="style_prop.blockFooterTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Block footer text color]]></phrase>
-  <phrase title="style_prop.blockHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block header]]></phrase>
-  <phrase title="style_prop.blockLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block link]]></phrase>
-  <phrase title="style_prop.blockLinkSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block link - selected]]></phrase>
-  <phrase title="style_prop.blockMinorHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block minor header]]></phrase>
-  <phrase title="style_prop.blockMinorTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block minor tab header]]></phrase>
-  <phrase title="style_prop.blockMinorTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block minor tab header - selected tab]]></phrase>
-  <phrase title="style_prop.blockPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block padding horizontal]]></phrase>
-  <phrase title="style_prop.blockPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block padding vertical]]></phrase>
-  <phrase title="style_prop.blockTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block tab header]]></phrase>
-  <phrase title="style_prop.blockTabHeaderBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Block tab header background color]]></phrase>
-  <phrase title="style_prop.blockTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block tab header - selected tab]]></phrase>
-  <phrase title="style_prop.blockTabHeaderTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Block tab header text color]]></phrase>
-  <phrase title="style_prop.blockTextHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Block text header]]></phrase>
-  <phrase title="style_prop.borderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Border color]]></phrase>
-  <phrase title="style_prop.borderColorAccentContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent content border color]]></phrase>
-  <phrase title="style_prop.borderColorAttention" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attention-grabbing border color]]></phrase>
-  <phrase title="style_prop.borderColorFaint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Faint border color]]></phrase>
-  <phrase title="style_prop.borderColorFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Feature border color]]></phrase>
-  <phrase title="style_prop.borderColorHeavy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Heavy border color]]></phrase>
-  <phrase title="style_prop.borderColorHighlight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Highlight border color]]></phrase>
-  <phrase title="style_prop.borderColorLight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Light border color]]></phrase>
-  <phrase title="style_prop.borderRadiusLarge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Large border radius]]></phrase>
-  <phrase title="style_prop.borderRadiusMedium" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medium border radius]]></phrase>
-  <phrase title="style_prop.borderRadiusSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Small border radius]]></phrase>
-  <phrase title="style_prop.borderSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Border size]]></phrase>
-  <phrase title="style_prop.borderSizeFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Feature border size]]></phrase>
-  <phrase title="style_prop.borderSizeMinorFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minor feature border size]]></phrase>
-  <phrase title="style_prop.buttonBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button base]]></phrase>
-  <phrase title="style_prop.buttonBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Default button background color]]></phrase>
-  <phrase title="style_prop.buttonCta" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button - call to action]]></phrase>
-  <phrase title="style_prop.buttonCtaBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Call-to-action button background]]></phrase>
-  <phrase title="style_prop.buttonDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button - default]]></phrase>
-  <phrase title="style_prop.buttonDisabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button - disabled]]></phrase>
-  <phrase title="style_prop.buttonPrimary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button - primary]]></phrase>
-  <phrase title="style_prop.buttonPrimaryBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Primary button background color]]></phrase>
-  <phrase title="style_prop.buttonTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Default button text color]]></phrase>
+  <phrase title="style_prop.blockFooterBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Block footer sfondo colore]]></phrase>
+  <phrase title="style_prop.blockFooterTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Block footer colore testo]]></phrase>
+  <phrase title="style_prop.blockHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione del blocco]]></phrase>
+  <phrase title="style_prop.blockLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Collegamento al blocco]]></phrase>
+  <phrase title="style_prop.blockLinkSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocca collegamento - selezionato]]></phrase>
+  <phrase title="style_prop.blockMinorHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione minore del blocco]]></phrase>
+  <phrase title="style_prop.blockMinorTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocco di intestazione della scheda minore]]></phrase>
+  <phrase title="style_prop.blockMinorTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocca l'intestazione minore della scheda - scheda selezionata]]></phrase>
+  <phrase title="style_prop.blockPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocco padding orizzontale]]></phrase>
+  <phrase title="style_prop.blockPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocco padding verticale]]></phrase>
+  <phrase title="style_prop.blockTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione della scheda del blocco]]></phrase>
+  <phrase title="style_prop.blockTabHeaderBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Blocco colore di sfondo dell'intestazione della scheda]]></phrase>
+  <phrase title="style_prop.blockTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione della scheda di blocco - scheda selezionata]]></phrase>
+  <phrase title="style_prop.blockTabHeaderTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Blocco del colore del testo dell'intestazione della scheda]]></phrase>
+  <phrase title="style_prop.blockTextHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione del testo del blocco]]></phrase>
+  <phrase title="style_prop.borderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore bordo]]></phrase>
+  <phrase title="style_prop.borderColorAccentContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo del contenuto accento]]></phrase>
+  <phrase title="style_prop.borderColorAttention" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo che attira l'attenzione]]></phrase>
+  <phrase title="style_prop.borderColorFaint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo tenue]]></phrase>
+  <phrase title="style_prop.borderColorFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo in primo piano]]></phrase>
+  <phrase title="style_prop.borderColorHeavy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo pesante]]></phrase>
+  <phrase title="style_prop.borderColorHighlight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo evidenziato]]></phrase>
+  <phrase title="style_prop.borderColorLight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo chiaro]]></phrase>
+  <phrase title="style_prop.borderRadiusLarge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Raggio bordo largo]]></phrase>
+  <phrase title="style_prop.borderRadiusMedium" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Raggio bordo medio]]></phrase>
+  <phrase title="style_prop.borderRadiusSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Raggio bordo piccolo]]></phrase>
+  <phrase title="style_prop.borderSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Grandezza bordo]]></phrase>
+  <phrase title="style_prop.borderSizeFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione bordo in primo piano]]></phrase>
+  <phrase title="style_prop.borderSizeMinorFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione del bordo della caratteristica minore]]></phrase>
+  <phrase title="style_prop.buttonBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pulsante base]]></phrase>
+  <phrase title="style_prop.buttonBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore di sfondo del pulsante predefinito]]></phrase>
+  <phrase title="style_prop.buttonCta" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pulsante - invito all'azione]]></phrase>
+  <phrase title="style_prop.buttonCtaBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sfondo del pulsante di invito all'azione]]></phrase>
+  <phrase title="style_prop.buttonDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bottone - default]]></phrase>
+  <phrase title="style_prop.buttonDisabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bottone - disabilitato]]></phrase>
+  <phrase title="style_prop.buttonPrimary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bottone - primario]]></phrase>
+  <phrase title="style_prop.buttonPrimaryBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore di sfondo del pulsante primario]]></phrase>
+  <phrase title="style_prop.buttonTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore predefinito del testo del pulsante]]></phrase>
   <phrase title="style_prop.chip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chips]]></phrase>
-  <phrase title="style_prop.chipHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chips - hovered]]></phrase>
-  <phrase title="style_prop.chromeBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page chrome background color]]></phrase>
-  <phrase title="style_prop.chromeTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page chrome text color]]></phrase>
-  <phrase title="style_prop.contentAccentBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accented content area base]]></phrase>
-  <phrase title="style_prop.contentAccentBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accented content background color]]></phrase>
-  <phrase title="style_prop.contentAccentLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accented content area links]]></phrase>
-  <phrase title="style_prop.contentAltBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alternate content area base]]></phrase>
-  <phrase title="style_prop.contentAltBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alternate content background color]]></phrase>
-  <phrase title="style_prop.contentBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content area base]]></phrase>
-  <phrase title="style_prop.contentBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content background color]]></phrase>
-  <phrase title="style_prop.contentHighlightBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Highlighted content area base]]></phrase>
-  <phrase title="style_prop.contentHighlightBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Highlighted content background color]]></phrase>
-  <phrase title="style_prop.dataListFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data list footer]]></phrase>
-  <phrase title="style_prop.dataListHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data list header]]></phrase>
-  <phrase title="style_prop.dataListPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data list padding horizontal]]></phrase>
-  <phrase title="style_prop.dataListPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data list padding vertical]]></phrase>
+  <phrase title="style_prop.chipHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chips - mouse sopra]]></phrase>
+  <phrase title="style_prop.chromeBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page chrome colore sfondo]]></phrase>
+  <phrase title="style_prop.chromeTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page chrome colore testo]]></phrase>
+  <phrase title="style_prop.contentAccentBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Base dell'area di contenuto accentuata]]></phrase>
+  <phrase title="style_prop.contentAccentBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore di sfondo del contenuto accentuato]]></phrase>
+  <phrase title="style_prop.contentAccentLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link accentati all'area del contenuto]]></phrase>
+  <phrase title="style_prop.contentAltBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Area di contenuto alternativa di base]]></phrase>
+  <phrase title="style_prop.contentAltBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore di sfondo del contenuto alternativo]]></phrase>
+  <phrase title="style_prop.contentBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Area di contenuto di base]]></phrase>
+  <phrase title="style_prop.contentBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore di sfondo del contenuto]]></phrase>
+  <phrase title="style_prop.contentHighlightBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Base dell'area di contenuto evidenziata]]></phrase>
+  <phrase title="style_prop.contentHighlightBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore di sfondo del contenuto evidenziato]]></phrase>
+  <phrase title="style_prop.dataListFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Piè di pagina dell'elenco di dati]]></phrase>
+  <phrase title="style_prop.dataListHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione dell'elenco di dati]]></phrase>
+  <phrase title="style_prop.dataListPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding orizzontale dell'elenco di dati]]></phrase>
+  <phrase title="style_prop.dataListPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding verticale dell'elenco di dati]]></phrase>
   <phrase title="style_prop.dataListSection" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data list section header]]></phrase>
-  <phrase title="style_prop.editorBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor background]]></phrase>
-  <phrase title="style_prop.editorButtonActiveColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor button active color]]></phrase>
-  <phrase title="style_prop.editorButtonColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor button icon color]]></phrase>
-  <phrase title="style_prop.editorButtonDisabledColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor button icon disabled color]]></phrase>
-  <phrase title="style_prop.editorButtonHoverBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor button hover background]]></phrase>
-  <phrase title="style_prop.editorButtonHoverColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor button icon hover color]]></phrase>
-  <phrase title="style_prop.editorButtonSelectedBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor button selected background]]></phrase>
-  <phrase title="style_prop.editorButtonSize" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor button size]]></phrase>
-  <phrase title="style_prop.editorColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor text color]]></phrase>
-  <phrase title="style_prop.editorFocusBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor background when focused]]></phrase>
-  <phrase title="style_prop.editorFocusColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor text when focused]]></phrase>
-  <phrase title="style_prop.editorImageHandles" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor image border and handles]]></phrase>
-  <phrase title="style_prop.editorSelectionBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor selection background]]></phrase>
-  <phrase title="style_prop.editorSelectionColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor selection text color]]></phrase>
-  <phrase title="style_prop.editorToolsBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor toolbar background]]></phrase>
-  <phrase title="style_prop.editorToolsFocusBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor toolbar background when focused]]></phrase>
-  <phrase title="style_prop.editorToolsOverflowBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor toolbar overflow background]]></phrase>
-  <phrase title="style_prop.elementSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Element spacer]]></phrase>
-  <phrase title="style_prop.emailBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email background color]]></phrase>
-  <phrase title="style_prop.emailBorderColor" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Email border color]]></phrase>
-  <phrase title="style_prop.emailContentAltBg" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Email alternate content background color]]></phrase>
-  <phrase title="style_prop.emailContentBg" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Email content background color]]></phrase>
-  <phrase title="style_prop.emailFont" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email font]]></phrase>
-  <phrase title="style_prop.emailHeaderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email header text color]]></phrase>
-  <phrase title="style_prop.emailLinkColor" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Email link color]]></phrase>
-  <phrase title="style_prop.emailPublicLogoUrl" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Email logo URL]]></phrase>
-  <phrase title="style_prop.emailTextColor" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Email text color]]></phrase>
-  <phrase title="style_prop.emailTextColorMuted" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Email muted text color]]></phrase>
-  <phrase title="style_prop.errorBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Error message background]]></phrase>
-  <phrase title="style_prop.errorColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Error message text color]]></phrase>
-  <phrase title="style_prop.errorFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Error message feature color]]></phrase>
-  <phrase title="style_prop.findThreadsNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find threads navigation style]]></phrase>
-  <phrase title="style_prop.fixedMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fixed message bar]]></phrase>
-  <phrase title="style_prop.flashMessage" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Flash message bar]]></phrase>
-  <phrase title="style_prop.fontAwesomeWeight" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Font Awesome weight]]></phrase>
-  <phrase title="style_prop.fontFamilyBody" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Body Text Font]]></phrase>
-  <phrase title="style_prop.fontFamilyCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Code Font]]></phrase>
-  <phrase title="style_prop.fontFamilyUi" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User Interface Font]]></phrase>
+  <phrase title="style_prop.editorBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo editor]]></phrase>
+  <phrase title="style_prop.editorButtonActiveColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore attivo del pulsante dell'editor]]></phrase>
+  <phrase title="style_prop.editorButtonColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore dell'icona del pulsante dell'editor]]></phrase>
+  <phrase title="style_prop.editorButtonDisabledColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore dell'icona del pulsante dell'editor disabilitato]]></phrase>
+  <phrase title="style_prop.editorButtonHoverBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo del pulsante hover dell'editor]]></phrase>
+  <phrase title="style_prop.editorButtonHoverColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore dell'icona del pulsante dell'editor in hover]]></phrase>
+  <phrase title="style_prop.editorButtonSelectedBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo selezionato del pulsante dell'editor]]></phrase>
+  <phrase title="style_prop.editorButtonSize" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Dimensione del pulsante dell'editor]]></phrase>
+  <phrase title="style_prop.editorColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore del testo dell'editor]]></phrase>
+  <phrase title="style_prop.editorFocusBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo dell'editor quando è focalizzato]]></phrase>
+  <phrase title="style_prop.editorFocusColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Testo dell'editor quando è focalizzato]]></phrase>
+  <phrase title="style_prop.editorImageHandles" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editor bordo immagine e maniglie]]></phrase>
+  <phrase title="style_prop.editorSelectionBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo di selezione dell'editor]]></phrase>
+  <phrase title="style_prop.editorSelectionColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore del testo di selezione dell'editor]]></phrase>
+  <phrase title="style_prop.editorToolsBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo della barra degli strumenti dell'editor]]></phrase>
+  <phrase title="style_prop.editorToolsFocusBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo della barra degli strumenti dell'editor quando è focalizzata]]></phrase>
+  <phrase title="style_prop.editorToolsOverflowBg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sfondo della barra degli strumenti dell'editor]]></phrase>
+  <phrase title="style_prop.elementSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Distanziatore dell'elemento]]></phrase>
+  <phrase title="style_prop.emailBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore di sfondo dell'e-mail]]></phrase>
+  <phrase title="style_prop.emailBorderColor" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Colore del bordo dell'e-mail]]></phrase>
+  <phrase title="style_prop.emailContentAltBg" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Colore di sfondo del contenuto alternativo dell'email]]></phrase>
+  <phrase title="style_prop.emailContentBg" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Colore di sfondo del contenuto dell'e-mail]]></phrase>
+  <phrase title="style_prop.emailFont" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Carattere dell'email]]></phrase>
+  <phrase title="style_prop.emailHeaderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del testo dell'intestazione dell'email]]></phrase>
+  <phrase title="style_prop.emailLinkColor" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Colore del link dell'e-mail]]></phrase>
+  <phrase title="style_prop.emailPublicLogoUrl" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[URL del logo dell'e-mail]]></phrase>
+  <phrase title="style_prop.emailTextColor" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Colore del testo dell'e-mail]]></phrase>
+  <phrase title="style_prop.emailTextColorMuted" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Colore del testo mutato via e-mail]]></phrase>
+  <phrase title="style_prop.errorBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sfondo del messaggio di errore]]></phrase>
+  <phrase title="style_prop.errorColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore del testo del messaggio di errore]]></phrase>
+  <phrase title="style_prop.errorFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore della caratteristica del messaggio di errore]]></phrase>
+  <phrase title="style_prop.findThreadsNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trova lo stile di navigazione delle discussioni]]></phrase>
+  <phrase title="style_prop.fixedMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Barra dei messaggi fissa]]></phrase>
+  <phrase title="style_prop.flashMessage" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Barra dei messaggi flash]]></phrase>
+  <phrase title="style_prop.fontAwesomeWeight" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Font Awesome peso]]></phrase>
+  <phrase title="style_prop.fontFamilyBody" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Carattere del testo del corpo]]></phrase>
+  <phrase title="style_prop.fontFamilyCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Carattere del codice]]></phrase>
+  <phrase title="style_prop.fontFamilyUi" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Font dell'interfaccia utente]]></phrase>
   <phrase title="style_prop.fontSizeLarge" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Grandezza font Large]]></phrase>
-  <phrase title="style_prop.fontSizeLarger" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larger font size]]></phrase>
-  <phrase title="style_prop.fontSizeLargest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Largest font size]]></phrase>
-  <phrase title="style_prop.fontSizeNormal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normal font size]]></phrase>
-  <phrase title="style_prop.fontSizeSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Small font size]]></phrase>
-  <phrase title="style_prop.fontSizeSmaller" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smaller font size]]></phrase>
-  <phrase title="style_prop.fontSizeSmallest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smallest font size]]></phrase>
-  <phrase title="style_prop.fontWeightHeavy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Heavy font weight]]></phrase>
-  <phrase title="style_prop.fontWeightLight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Light font weight]]></phrase>
-  <phrase title="style_prop.fontWeightNormal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normal font weight]]></phrase>
-  <phrase title="style_prop.formExplain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form element explanation text]]></phrase>
-  <phrase title="style_prop.formHint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form element hint text]]></phrase>
-  <phrase title="style_prop.formLabel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form label column]]></phrase>
-  <phrase title="style_prop.formLabelWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form label column width]]></phrase>
-  <phrase title="style_prop.formResponsive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form row responsive break point]]></phrase>
+  <phrase title="style_prop.fontSizeLarger" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione dei caratteri più grande]]></phrase>
+  <phrase title="style_prop.fontSizeLargest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione del carattere più grande]]></phrase>
+  <phrase title="style_prop.fontSizeNormal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione normale dei caratteri]]></phrase>
+  <phrase title="style_prop.fontSizeSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione piccola dei caratteri]]></phrase>
+  <phrase title="style_prop.fontSizeSmaller" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione dei caratteri più piccola]]></phrase>
+  <phrase title="style_prop.fontSizeSmallest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimensione del carattere piccolissima]]></phrase>
+  <phrase title="style_prop.fontWeightHeavy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Peso del carattere pesante]]></phrase>
+  <phrase title="style_prop.fontWeightLight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Peso del carattere leggero]]></phrase>
+  <phrase title="style_prop.fontWeightNormal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Peso del carattere normale]]></phrase>
+  <phrase title="style_prop.formExplain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Testo di spiegazione dell'elemento del form]]></phrase>
+  <phrase title="style_prop.formHint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Testo di suggerimento dell'elemento del form]]></phrase>
+  <phrase title="style_prop.formLabel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colonna dell'etichetta del form]]></phrase>
+  <phrase title="style_prop.formLabelWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larghezza della colonna dell'etichetta del form]]></phrase>
+  <phrase title="style_prop.formResponsive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Punto di rottura reattivo della fila del form]]></phrase>
   <phrase title="style_prop.formRowPaddingHInner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form row horizontal padding (inner)]]></phrase>
   <phrase title="style_prop.formRowPaddingHOuter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form row horizontal padding (outer)]]></phrase>
   <phrase title="style_prop.formRowPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form row vertical padding]]></phrase>

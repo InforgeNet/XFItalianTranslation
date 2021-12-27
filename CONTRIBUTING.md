@@ -28,6 +28,7 @@ In questa parte troverai la forma con cui traduciamo le stringhe più comuni. Se
 - API Key = Chiave API
 - Parent = Genitore
 - Child = Figlio
+- Sibling = Fratello
 - Guest = Ospiti
 - Username = Nome Utente
 - Ban = Bannato
@@ -36,7 +37,10 @@ In questa parte troverai la forma con cui traduciamo le stringhe più comuni. Se
 - Board = Forum
 - Rich = Avanzate
 - Spam Cleaner = Pulizia Spam
-- Hard-delete = Cancellazione permanente
+- Hard-delete = Eliminazione permanente
+- Soft-delete = Rimozione pubblica
+- Flag = Segnalazioni (inteso come "only count flags recorded ...")
+- Featured = In primo piano
 
 ### Rimangono invece nella loro forma
 - Templates
@@ -54,7 +58,8 @@ In questa parte troverai la forma con cui traduciamo le stringhe più comuni. Se
 - Home
 - Sitemap
 - Account
-- Scope
+- Scope 
+- Staff
 
 ### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
 - {user}
