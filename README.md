@@ -8,7 +8,10 @@ Siamo lieti di comunicarvi che la traduzione è attualmente utilizzata dai segue
 * [Spaziogames](https://forum.spaziogames.it)
 
 ## Caratteristiche della Traduzione
-La traduzione è rilasciata *opensource*, pertanto il suo download è disponibile liberamente.
+La traduzione è **completa al 100%**, sia lato frontend che backend. 
+
+È rilasciata *opensource*, pertanto il suo download è disponibile liberamente.
+
 Essendo distribuito come tale, si chiede di supportare il progetto lasciando inalterato il breve link affianco al copyright.
 
 ## Partecipare alla Traduzione
@@ -21,5 +24,7 @@ Se non hai mai usato GitHub ecco cosa devi fare:
 4. (Opzionale) Per una maggiore organizzazione, commenta le modifiche che hai fatto dall'oggetto del Commit
 5. Dalla pagina delle merge requests (trovi un link in alto) fai una richiesta al nostro progetto
 6. Se approveremo le tue modifiche riceverai una notifica e il tuo nome comparirà tra i collaboratori del progetto!
+
+In caso di dubbi sulla traduzione ti invitiamo a visionare il file *CONTRIBUTING.md*.
 
 Bye :)

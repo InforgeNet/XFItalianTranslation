@@ -8805,189 +8805,189 @@ Dovrai anche impostare un endpoint webhook nel tuo account Stripe con il seguent
   <phrase title="style_prop.formLabel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colonna dell'etichetta del form]]></phrase>
   <phrase title="style_prop.formLabelWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larghezza della colonna dell'etichetta del form]]></phrase>
   <phrase title="style_prop.formResponsive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Punto di rottura reattivo della fila del form]]></phrase>
-  <phrase title="style_prop.formRowPaddingHInner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form row horizontal padding (inner)]]></phrase>
-  <phrase title="style_prop.formRowPaddingHOuter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form row horizontal padding (outer)]]></phrase>
-  <phrase title="style_prop.formRowPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form row vertical padding]]></phrase>
-  <phrase title="style_prop.formSectionHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form section header]]></phrase>
-  <phrase title="style_prop.formSubmitRow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form submit row]]></phrase>
-  <phrase title="style_prop.formSubmitSticky" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable sticky form submit rows]]></phrase>
-  <phrase title="style_prop.globalActionColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Global action indicator color]]></phrase>
+  <phrase title="style_prop.formRowPaddingHInner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding orizzontale della riga del form (interno)]]></phrase>
+  <phrase title="style_prop.formRowPaddingHOuter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding orizzontale della riga del form (esterno)]]></phrase>
+  <phrase title="style_prop.formRowPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding verticale della riga del form]]></phrase>
+  <phrase title="style_prop.formSectionHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione della sezione del form]]></phrase>
+  <phrase title="style_prop.formSubmitRow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di invio del form]]></phrase>
+  <phrase title="style_prop.formSubmitSticky" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilitare le righe di invio del form in rilievo]]></phrase>
+  <phrase title="style_prop.globalActionColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore dell'indicatore di azione globale]]></phrase>
   <phrase title="style_prop.inlineModBar" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Barra di moderazione inline]]></phrase>
   <phrase title="style_prop.inlineModHighlightColor" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Evidenzia colore moderazione inline]]></phrase>
   <phrase title="style_prop.input" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form input]]></phrase>
-  <phrase title="style_prop.inputBgColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Text input box background color]]></phrase>
-  <phrase title="style_prop.inputDisabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form input - disabled]]></phrase>
-  <phrase title="style_prop.inputFocus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form input - focused]]></phrase>
-  <phrase title="style_prop.inputFocusBgColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Focused text box background color]]></phrase>
-  <phrase title="style_prop.inputTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Text input box text color]]></phrase>
-  <phrase title="style_prop.lineHeightDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Line height]]></phrase>
+  <phrase title="style_prop.inputBgColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore di sfondo della casella di input del testo]]></phrase>
+  <phrase title="style_prop.inputDisabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form input - disabilitato]]></phrase>
+  <phrase title="style_prop.inputFocus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form input - focalizzato]]></phrase>
+  <phrase title="style_prop.inputFocusBgColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore di sfondo della casella di testo focalizzato]]></phrase>
+  <phrase title="style_prop.inputTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore del testo della casella di immissione del testo]]></phrase>
+  <phrase title="style_prop.lineHeightDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Interlinea]]></phrase>
   <phrase title="style_prop.link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Links]]></phrase>
-  <phrase title="style_prop.linkColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link color]]></phrase>
+  <phrase title="style_prop.linkColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore Link]]></phrase>
   <phrase title="style_prop.linkHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Links - hovered]]></phrase>
   <phrase title="style_prop.linkHoverColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link hover color]]></phrase>
-  <phrase title="style_prop.majorHeadingBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Major heading background color]]></phrase>
-  <phrase title="style_prop.majorHeadingTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Major heading text color]]></phrase>
-  <phrase title="style_prop.memberHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member profile header]]></phrase>
-  <phrase title="style_prop.memberHeaderBlurbContainerBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Member profile header - blurb container (with banner)]]></phrase>
-  <phrase title="style_prop.memberHeaderName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member profile header - name]]></phrase>
-  <phrase title="style_prop.memberHeaderNameBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Member profile header - name (with banner)]]></phrase>
-  <phrase title="style_prop.memberTooltipBlurbContainerBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Member tooltip header - blurb container (with banner)]]></phrase>
-  <phrase title="style_prop.memberTooltipHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member tooltip header]]></phrase>
-  <phrase title="style_prop.memberTooltipName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member tooltip header - name]]></phrase>
-  <phrase title="style_prop.memberTooltipNameBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Member tooltip header - name (with banner)]]></phrase>
+  <phrase title="style_prop.majorHeadingBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore di sfondo del titolo principale]]></phrase>
+  <phrase title="style_prop.majorHeadingTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore del testo del titolo principale]]></phrase>
+  <phrase title="style_prop.memberHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione del profilo del membro]]></phrase>
+  <phrase title="style_prop.memberHeaderBlurbContainerBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Intestazione del profilo del membro - contenitore di blurb (con banner)]]></phrase>
+  <phrase title="style_prop.memberHeaderName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione del profilo del membro - nome]]></phrase>
+  <phrase title="style_prop.memberHeaderNameBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Intestazione del profilo del membro - nome (con banner)]]></phrase>
+  <phrase title="style_prop.memberTooltipBlurbContainerBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Intestazione tooltip membro - contenitore blurb (con banner)]]></phrase>
+  <phrase title="style_prop.memberTooltipHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione del tooltip del membro]]></phrase>
+  <phrase title="style_prop.memberTooltipName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione del tooltip del membro - nome]]></phrase>
+  <phrase title="style_prop.memberTooltipNameBanner" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Intestazione tooltip membro - nome (con banner)]]></phrase>
   <phrase title="style_prop.menu" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu]]></phrase>
   <phrase title="style_prop.menuBorderRadius" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Raggio bordo menu]]></phrase>
-  <phrase title="style_prop.menuFeatureBorderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu feature border color]]></phrase>
-  <phrase title="style_prop.menuFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu footer]]></phrase>
-  <phrase title="style_prop.menuHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu header]]></phrase>
-  <phrase title="style_prop.menuLinkRow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu link row]]></phrase>
-  <phrase title="style_prop.menuLinkRowSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu link row - selected]]></phrase>
-  <phrase title="style_prop.menuTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu tab header]]></phrase>
-  <phrase title="style_prop.menuTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menu tab header - selected tab]]></phrase>
-  <phrase title="style_prop.messageNewIndicator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New message indicator]]></phrase>
-  <phrase title="style_prop.messagePadding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message padding]]></phrase>
-  <phrase title="style_prop.messagePaddingSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message padding small]]></phrase>
-  <phrase title="style_prop.messageSignature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message signature]]></phrase>
-  <phrase title="style_prop.messageSingleColumnWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message single column break point]]></phrase>
-  <phrase title="style_prop.messageUserBlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message user info block]]></phrase>
-  <phrase title="style_prop.messageUserBlockWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message user info block width]]></phrase>
-  <phrase title="style_prop.messageUserElements" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message user info elements]]></phrase>
-  <phrase title="style_prop.metaThemeColor" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Chrome meta theme color]]></phrase>
-  <phrase title="style_prop.minorBlockContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minor internal block content]]></phrase>
-  <phrase title="style_prop.minorHeadingTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Minor heading text color]]></phrase>
-  <phrase title="style_prop.nodeIconReadColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Read node icon color]]></phrase>
-  <phrase title="style_prop.nodeIconUnreadColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unread node icon color]]></phrase>
-  <phrase title="style_prop.nodeListDescriptionDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Description display style]]></phrase>
-  <phrase title="style_prop.nodeListSubDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sub-forums display style]]></phrase>
-  <phrase title="style_prop.noticeScrollInterval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Scrollable notice interval]]></phrase>
-  <phrase title="style_prop.overlayHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Overlay header]]></phrase>
-  <phrase title="style_prop.overlayMaskBlur" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Overlay mask blur amount]]></phrase>
-  <phrase title="style_prop.overlayMaskColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Overlay mask color]]></phrase>
-  <phrase title="style_prop.overlayTopMargin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Overlay top margin]]></phrase>
-  <phrase title="style_prop.paddingLarge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Large padding]]></phrase>
-  <phrase title="style_prop.paddingLargest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Largest padding]]></phrase>
-  <phrase title="style_prop.paddingMedium" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medium padding]]></phrase>
-  <phrase title="style_prop.paddingSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Small padding]]></phrase>
-  <phrase title="style_prop.pageBackground" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page background]]></phrase>
-  <phrase title="style_prop.pageBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page background color]]></phrase>
-  <phrase title="style_prop.pageEdgeSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page edge spacer]]></phrase>
+  <phrase title="style_prop.menuFeatureBorderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del bordo del menu]]></phrase>
+  <phrase title="style_prop.menuFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Piè di pagina del menu]]></phrase>
+  <phrase title="style_prop.menuHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione del menu]]></phrase>
+  <phrase title="style_prop.menuLinkRow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di collegamento del menu]]></phrase>
+  <phrase title="style_prop.menuLinkRowSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di collegamento del menu - selezionato]]></phrase>
+  <phrase title="style_prop.menuTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione della scheda del menu]]></phrase>
+  <phrase title="style_prop.menuTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione della scheda del menu - scheda selezionata]]></phrase>
+  <phrase title="style_prop.messageNewIndicator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indicatore del nuovo messaggio]]></phrase>
+  <phrase title="style_prop.messagePadding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding del messaggio]]></phrase>
+  <phrase title="style_prop.messagePaddingSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding del messaggio piccolo]]></phrase>
+  <phrase title="style_prop.messageSignature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Firma del messaggio]]></phrase>
+  <phrase title="style_prop.messageSingleColumnWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messaggio punto di interruzione di una singola colonna]]></phrase>
+  <phrase title="style_prop.messageUserBlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocco informazioni utente del messaggio]]></phrase>
+  <phrase title="style_prop.messageUserBlockWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larghezza del blocco informazioni utente del messaggio]]></phrase>
+  <phrase title="style_prop.messageUserElements" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elementi di informazione dell'utente del messaggio]]></phrase>
+  <phrase title="style_prop.metaThemeColor" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Chrome meta colore del tema]]></phrase>
+  <phrase title="style_prop.minorBlockContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contenuto minore del blocco interno]]></phrase>
+  <phrase title="style_prop.minorHeadingTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore del testo del titolo minore]]></phrase>
+  <phrase title="style_prop.nodeIconReadColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Leggere il colore dell'icona del nodo]]></phrase>
+  <phrase title="style_prop.nodeIconUnreadColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore dell'icona del nodo non letto]]></phrase>
+  <phrase title="style_prop.nodeListDescriptionDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Descrizione stile di visualizzazione]]></phrase>
+  <phrase title="style_prop.nodeListSubDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stile di visualizzazione dei sottoforum]]></phrase>
+  <phrase title="style_prop.noticeScrollInterval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intervallo di avviso scrollabile]]></phrase>
+  <phrase title="style_prop.overlayHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intestazione overlay]]></phrase>
+  <phrase title="style_prop.overlayMaskBlur" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Quantità di sfocatura della maschera di sovrapposizione]]></phrase>
+  <phrase title="style_prop.overlayMaskColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore della maschera di sovrapposizione]]></phrase>
+  <phrase title="style_prop.overlayTopMargin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sovrapposizione del margine superiore]]></phrase>
+  <phrase title="style_prop.paddingLarge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding largo]]></phrase>
+  <phrase title="style_prop.paddingLargest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding larghissimo]]></phrase>
+  <phrase title="style_prop.paddingMedium" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding medio]]></phrase>
+  <phrase title="style_prop.paddingSmall" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding piccolo]]></phrase>
+  <phrase title="style_prop.pageBackground" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sfondo pagina]]></phrase>
+  <phrase title="style_prop.pageBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore sfondo pagina]]></phrase>
+  <phrase title="style_prop.pageEdgeSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Distanziatore del bordo della pagina]]></phrase>
   <phrase title="style_prop.pageNavStyle" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Stile navigazione pagine]]></phrase>
-  <phrase title="style_prop.pageWidthMax" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum page width]]></phrase>
-  <phrase title="style_prop.paletteAccent1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent 1]]></phrase>
-  <phrase title="style_prop.paletteAccent2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent 2]]></phrase>
-  <phrase title="style_prop.paletteAccent3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent 3]]></phrase>
-  <phrase title="style_prop.paletteColor1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color 1]]></phrase>
-  <phrase title="style_prop.paletteColor2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color 2]]></phrase>
-  <phrase title="style_prop.paletteColor3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color 3]]></phrase>
-  <phrase title="style_prop.paletteColor4" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color 4]]></phrase>
-  <phrase title="style_prop.paletteColor5" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color 5]]></phrase>
-  <phrase title="style_prop.paletteNeutral1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Neutral 1]]></phrase>
-  <phrase title="style_prop.paletteNeutral2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Neutral 2]]></phrase>
-  <phrase title="style_prop.paletteNeutral3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Neutral 3]]></phrase>
-  <phrase title="style_prop.profilePostCommentToggle" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enable profile post comment input toggle]]></phrase>
-  <phrase title="style_prop.progressBarColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Progress bar color]]></phrase>
+  <phrase title="style_prop.pageWidthMax" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larghezza massima della pagina]]></phrase>
+  <phrase title="style_prop.paletteAccent1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accento 1]]></phrase>
+  <phrase title="style_prop.paletteAccent2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accento 2]]></phrase>
+  <phrase title="style_prop.paletteAccent3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accento 3]]></phrase>
+  <phrase title="style_prop.paletteColor1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore 1]]></phrase>
+  <phrase title="style_prop.paletteColor2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore 2]]></phrase>
+  <phrase title="style_prop.paletteColor3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore 3]]></phrase>
+  <phrase title="style_prop.paletteColor4" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore 4]]></phrase>
+  <phrase title="style_prop.paletteColor5" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore 5]]></phrase>
+  <phrase title="style_prop.paletteNeutral1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Neutrale 1]]></phrase>
+  <phrase title="style_prop.paletteNeutral2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Neutrale 2]]></phrase>
+  <phrase title="style_prop.paletteNeutral3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Neutrale 3]]></phrase>
+  <phrase title="style_prop.profilePostCommentToggle" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Abilita il toggle per l'inserimento dei commenti del profilo]]></phrase>
+  <phrase title="style_prop.progressBarColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore della barra di avanzamento]]></phrase>
   <phrase title="style_prop.publicFaviconUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Favicon URL (32x32)]]></phrase>
-  <phrase title="style_prop.publicFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Footer]]></phrase>
-  <phrase title="style_prop.publicFooterLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Footer links]]></phrase>
-  <phrase title="style_prop.publicHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Header/logo row]]></phrase>
-  <phrase title="style_prop.publicHeaderAdjustColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Header adjustment color]]></phrase>
+  <phrase title="style_prop.publicFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Piè di pagina]]></phrase>
+  <phrase title="style_prop.publicFooterLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link a piè di pagina]]></phrase>
+  <phrase title="style_prop.publicHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di intestazione/logo]]></phrase>
+  <phrase title="style_prop.publicHeaderAdjustColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore di regolazione dell'intestazione]]></phrase>
   <phrase title="style_prop.publicIconUrl" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Icon URL (192x192)]]></phrase>
   <phrase title="style_prop.publicIconUrlLarge" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Icon URL (512x512)]]></phrase>
-  <phrase title="style_prop.publicIconsMaskable" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Icons are maskable]]></phrase>
-  <phrase title="style_prop.publicLogoHeight" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Public logo height]]></phrase>
+  <phrase title="style_prop.publicIconsMaskable" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Le icone sono mascherabili]]></phrase>
+  <phrase title="style_prop.publicLogoHeight" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Altezza del logo pubblico]]></phrase>
   <phrase title="style_prop.publicLogoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Logo URL]]></phrase>
   <phrase title="style_prop.publicLogoUrl2x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x logo URL]]></phrase>
-  <phrase title="style_prop.publicLogoWidth" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Public logo width]]></phrase>
+  <phrase title="style_prop.publicLogoWidth" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Larghezza del logo pubblico]]></phrase>
   <phrase title="style_prop.publicMetadataLogoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Metadata Logo URL]]></phrase>
-  <phrase title="style_prop.publicNav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation row]]></phrase>
-  <phrase title="style_prop.publicNavCollapseWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation collapse width]]></phrase>
-  <phrase title="style_prop.publicNavPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation padding horizontal]]></phrase>
-  <phrase title="style_prop.publicNavPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation padding vertical]]></phrase>
-  <phrase title="style_prop.publicNavSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation row - selected tab]]></phrase>
-  <phrase title="style_prop.publicNavSticky" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sticky navigation element]]></phrase>
-  <phrase title="style_prop.publicNavTab" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation row - tab]]></phrase>
-  <phrase title="style_prop.publicNavTabHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation row - hovered tab]]></phrase>
-  <phrase title="style_prop.publicNavTabMenuOpen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation row - menu open]]></phrase>
-  <phrase title="style_prop.publicPushBadgeUrl" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Push notification badge URL]]></phrase>
-  <phrase title="style_prop.publicStaffBar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff tools bar]]></phrase>
-  <phrase title="style_prop.publicSubNav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sub-navigation row]]></phrase>
-  <phrase title="style_prop.publicSubNavElHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sub-navigation row - hovered element]]></phrase>
-  <phrase title="style_prop.publicSubNavElMenuOpen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sub-navigation row - menu-open element]]></phrase>
+  <phrase title="style_prop.publicNav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di navigazione]]></phrase>
+  <phrase title="style_prop.publicNavCollapseWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larghezza navigazione collassabile]]></phrase>
+  <phrase title="style_prop.publicNavPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding di navigazione orizzontale]]></phrase>
+  <phrase title="style_prop.publicNavPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Padding di navigazione verticale]]></phrase>
+  <phrase title="style_prop.publicNavSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di navigazione - scheda selezionata]]></phrase>
+  <phrase title="style_prop.publicNavSticky" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elemento di navigazione in rilievo]]></phrase>
+  <phrase title="style_prop.publicNavTab" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di navigazione - scheda]]></phrase>
+  <phrase title="style_prop.publicNavTabHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di navigazione - scheda passata con il mouse]]></phrase>
+  <phrase title="style_prop.publicNavTabMenuOpen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di navigazione - menu aperto]]></phrase>
+  <phrase title="style_prop.publicPushBadgeUrl" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[URL del badge di notifica push]]></phrase>
+  <phrase title="style_prop.publicStaffBar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Barra degli strumenti dello staff]]></phrase>
+  <phrase title="style_prop.publicSubNav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di sub-navigazione]]></phrase>
+  <phrase title="style_prop.publicSubNavElHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di sub-navigazione - elemento passato con il mouse]]></phrase>
+  <phrase title="style_prop.publicSubNavElMenuOpen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Riga di sub-navigazione - elemento menu-open]]></phrase>
   <phrase title="style_prop.publicSubNavPaddingH" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Padding orizzontale per il menù di sotto-navigazione]]></phrase>
   <phrase title="style_prop.publicSubNavPaddingV" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Padding verticale per il menù di sotto-navigazione]]></phrase>
-  <phrase title="style_prop.reactionSummaryOnLists" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Show reaction summary on lists]]></phrase>
-  <phrase title="style_prop.responsiveEdgeSpacerRemoval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page edge spacer removal break point]]></phrase>
-  <phrase title="style_prop.responsiveMedium" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medium responsive break point]]></phrase>
-  <phrase title="style_prop.responsiveNarrow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Narrow responsive break point]]></phrase>
-  <phrase title="style_prop.responsiveWide" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Wide responsive break point]]></phrase>
+  <phrase title="style_prop.reactionSummaryOnLists" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Mostra il riassunto delle reazioni nelle liste]]></phrase>
+  <phrase title="style_prop.responsiveEdgeSpacerRemoval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Break point del distanziatore del bordo della pagina]]></phrase>
+  <phrase title="style_prop.responsiveMedium" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Break point medio reattivo]]></phrase>
+  <phrase title="style_prop.responsiveNarrow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Break point stretto e reattivo]]></phrase>
+  <phrase title="style_prop.responsiveWide" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ampio break point reattivo]]></phrase>
   <phrase title="style_prop.scrollJumpButtons" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Visualizza i pulsanti di salto pagina durante lo scorrimento]]></phrase>
-  <phrase title="style_prop.sidebarSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sidebar and side navigation spacer]]></phrase>
-  <phrase title="style_prop.sidebarWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sidebar and side navigation width]]></phrase>
-  <phrase title="style_prop.standaloneTab" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Standalone tabs]]></phrase>
-  <phrase title="style_prop.standaloneTabSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Standalone tabs - selected tab]]></phrase>
-  <phrase title="style_prop.starEmptyColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Empty rating star color]]></phrase>
-  <phrase title="style_prop.starFullColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Full rating star color]]></phrase>
-  <phrase title="style_prop.styleType" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Style type]]></phrase>
-  <phrase title="style_prop.subNavBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page sub-navigation background]]></phrase>
-  <phrase title="style_prop.subNavTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page sub-navigation text color]]></phrase>
-  <phrase title="style_prop.successBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Success message background]]></phrase>
-  <phrase title="style_prop.successColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Success message text color]]></phrase>
-  <phrase title="style_prop.successFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Success message feature color]]></phrase>
+  <phrase title="style_prop.sidebarSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Barra laterale e distanziatore di navigazione laterale]]></phrase>
+  <phrase title="style_prop.sidebarWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Larghezza della barra laterale e della navigazione laterale]]></phrase>
+  <phrase title="style_prop.standaloneTab" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Schede indipendenti]]></phrase>
+  <phrase title="style_prop.standaloneTabSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Schede indipendenti - scheda selezionata]]></phrase>
+  <phrase title="style_prop.starEmptyColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore della stella di valutazione vuota]]></phrase>
+  <phrase title="style_prop.starFullColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore della stella di valutazione completa]]></phrase>
+  <phrase title="style_prop.styleType" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tipo di stile]]></phrase>
+  <phrase title="style_prop.subNavBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sfondo della sub-navigazione della pagina]]></phrase>
+  <phrase title="style_prop.subNavTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore del testo della sub-navigazione della pagina]]></phrase>
+  <phrase title="style_prop.successBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sfondo del messaggio di successo]]></phrase>
+  <phrase title="style_prop.successColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore del testo del messaggio di successo]]></phrase>
+  <phrase title="style_prop.successFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore della caratteristica del messaggio di successo]]></phrase>
   <phrase title="style_prop.textColor" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Colore testo]]></phrase>
-  <phrase title="style_prop.textColorAccentContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accented content text color]]></phrase>
-  <phrase title="style_prop.textColorAttention" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attention-grabbing text color]]></phrase>
-  <phrase title="style_prop.textColorDimmed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dimmed text color]]></phrase>
-  <phrase title="style_prop.textColorEmphasized" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Emphasized text color]]></phrase>
-  <phrase title="style_prop.textColorFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Feature text color]]></phrase>
-  <phrase title="style_prop.textColorMuted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muted text color]]></phrase>
+  <phrase title="style_prop.textColorAccentContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del testo del contenuto accentuato]]></phrase>
+  <phrase title="style_prop.textColorAttention" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del testo che attira l'attenzione]]></phrase>
+  <phrase title="style_prop.textColorDimmed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del testo attenuato]]></phrase>
+  <phrase title="style_prop.textColorEmphasized" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del testo enfatizzato]]></phrase>
+  <phrase title="style_prop.textColorFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del testo in evidenza]]></phrase>
+  <phrase title="style_prop.textColorMuted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Colore del testo mutato]]></phrase>
   <phrase title="style_prop.tooltip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tooltip]]></phrase>
-  <phrase title="style_prop.voteNegativeColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Negative vote color]]></phrase>
-  <phrase title="style_prop.votePositiveColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Positive vote color]]></phrase>
-  <phrase title="style_prop.warningBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Warning message background]]></phrase>
-  <phrase title="style_prop.warningColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Warning message text color]]></phrase>
-  <phrase title="style_prop.warningFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Warning message feature color]]></phrase>
-  <phrase title="style_prop.whatsNewNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[What's new navigation style]]></phrase>
-  <phrase title="style_prop.zIndexMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Z-index multiplier]]></phrase>
-  <phrase title="style_prop_desc.animationSpeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All animations within the system base their speed on this value. Smaller values (in seconds) make for faster animations]]></phrase>
-  <phrase title="style_prop_desc.avatarBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The basic background of all avatars, graphical and generic]]></phrase>
-  <phrase title="style_prop_desc.avatarBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls the size of the rounded corners on avatars - a sufficiently large value will make avatars circular]]></phrase>
-  <phrase title="style_prop_desc.avatarDefaultImage" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[L' URL dell'immagine qui specificato verrà utilizzato come immagine all'interno dell'avatar predefinito. Si applica solo se il tipo "Immagine" è stato selezionato.]]></phrase>
+  <phrase title="style_prop.voteNegativeColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore del voto negativo]]></phrase>
+  <phrase title="style_prop.votePositiveColor" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Colore del voto positivo]]></phrase>
+  <phrase title="style_prop.warningBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sfondo del messaggio di avvertimento]]></phrase>
+  <phrase title="style_prop.warningColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore del testo del messaggio di avvertimento]]></phrase>
+  <phrase title="style_prop.warningFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Colore della caratteristica del messaggio di avvertimento]]></phrase>
+  <phrase title="style_prop.whatsNewNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cosa c'è di nuovo nello stile di navigazione]]></phrase>
+  <phrase title="style_prop.zIndexMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moltiplicatore Z-index]]></phrase>
+  <phrase title="style_prop_desc.animationSpeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tutte le animazioni all'interno del sistema basano la loro velocità su questo valore. Valori più piccoli (in secondi) rendono le animazioni più veloci]]></phrase>
+  <phrase title="style_prop_desc.avatarBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lo sfondo di base di tutti gli avatar, grafici e generici]]></phrase>
+  <phrase title="style_prop_desc.avatarBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controlla la dimensione degli angoli arrotondati sugli avatar - un valore sufficientemente grande renderà gli avatar circolari]]></phrase>
+  <phrase title="style_prop_desc.avatarDefaultImage" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[L'URL dell'immagine qui specificato verrà utilizzato come immagine all'interno dell'avatar predefinito. Si applica solo se il tipo "Immagine" è stato selezionato.]]></phrase>
   <phrase title="style_prop_desc.avatarDefaultTextContent" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il carattere o i caratteri qui specificati saranno usati come testo all' interno dell' avatar predefinito. Si applica solo se il tipo "Testo" è stato selezionato.]]></phrase>
   <phrase title="style_prop_desc.avatarDefaultType" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Controlla se l'avatar predefinito è basato su testo o immagine. A meno che non sia disattivato nelle opzioni, gli avatar predefiniti saranno generati dinamicamente in base al nome dell'utente.]]></phrase>
-  <phrase title="style_prop_desc.avatarDynamicFont" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[For letter-based avatars, this is the font employed for the text]]></phrase>
-  <phrase title="style_prop_desc.avatarDynamicLineHeight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use this to help vertically center a dynamic avatar character when changing the font. This will be scaled based on the font size percentage.]]></phrase>
-  <phrase title="style_prop_desc.avatarDynamicTextPercent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Using a value between 0 and 100, this represents the approximate height of a dynamic avatar text character as a percentage of avatar.]]></phrase>
-  <phrase title="style_prop_desc.badge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Badges appear to indicate a number if items requiring attention, such as unread messages in your inbox]]></phrase>
-  <phrase title="style_prop_desc.badgeHighlighted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Highlighted badges grab the viewer's attention more and tend to indicate new items to be reviewed]]></phrase>
-  <phrase title="style_prop_desc.bbCodeBlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All BB code blocks within messages make use of these styling rules]]></phrase>
-  <phrase title="style_prop_desc.bbCodeBlockExpandHeight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When a large quote is posted in a message, it will expand to this height before a scrollbar appears]]></phrase>
-  <phrase title="style_prop_desc.bbCodeBlockTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Styles the title section of BB code blocks within messages]]></phrase>
+  <phrase title="style_prop_desc.avatarDynamicFont" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Per gli avatar basati su lettere, questo è il font utilizzato per il testo]]></phrase>
+  <phrase title="style_prop_desc.avatarDynamicLineHeight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usalo per aiutare a centrare verticalmente il carattere dell'avatar dinamico quando si cambia il carattere. Questo sarà scalato in base alla percentuale della dimensione del carattere.]]></phrase>
+  <phrase title="style_prop_desc.avatarDynamicTextPercent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usando un valore tra 0 e 100, questo rappresenta l'altezza approssimativa di un carattere di testo dinamico dell'avatar come percentuale dell'avatar.]]></phrase>
+  <phrase title="style_prop_desc.badge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I badge appaiono per indicare un numero di elementi che richiedono attenzione, come i messaggi non letti nella tua casella di posta.]]></phrase>
+  <phrase title="style_prop_desc.badgeHighlighted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I badge evidenziati attirano maggiormente l'attenzione dell'utente e tendono a indicare nuovi elementi da rivedere]]></phrase>
+  <phrase title="style_prop_desc.bbCodeBlock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tutti i blocchi di codice BB all'interno dei messaggi fanno uso di queste regole di stile]]></phrase>
+  <phrase title="style_prop_desc.bbCodeBlockExpandHeight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando una grande citazione viene inserita in un messaggio, si espanderà a questa altezza prima che appaia una barra di scorrimento]]></phrase>
+  <phrase title="style_prop_desc.bbCodeBlockTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stilizza la sezione del titolo dei blocchi di codice BB nei messaggi]]></phrase>
   <phrase title="style_prop_desc.bbCodeImgFloatMargin" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.bbCodeImgFloatMarginAfter" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[This margin is used for the image side facing any wrapped text, and the bottom of the image]]></phrase>
-  <phrase title="style_prop_desc.bbCodeImgLarge" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enter a maximum width in pixels for BB code images defined as 'large']]></phrase>
+  <phrase title="style_prop_desc.bbCodeImgFloatMarginAfter" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Questo margine è usato per il lato dell'immagine di fronte a qualsiasi testo avvolto, e il fondo dell'immagine]]></phrase>
+  <phrase title="style_prop_desc.bbCodeImgLarge" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inserisci una larghezza massima in pixel per le immagini del codice BB definite come 'grandi'.]]></phrase>
   <phrase title="style_prop_desc.bbCodeImgMedium" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.bbCodeImgSmall" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.bbCodeInlineCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Special styling rules for inline code ([ICODE]) elements.]]></phrase>
-  <phrase title="style_prop_desc.blockBorder" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Virtually all blocks have their borders styled with these settings]]></phrase>
-  <phrase title="style_prop_desc.blockBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls the size of the curve on block border corners]]></phrase>
-  <phrase title="style_prop_desc.blockFilterBar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When the content of a block can be filtered, the controls to do so are styled here]]></phrase>
-  <phrase title="style_prop_desc.blockFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When information needs to be conveyed in a footer element for a block, its style is controlled here]]></phrase>
+  <phrase title="style_prop_desc.bbCodeInlineCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Regole di stile speciali per elementi di codice in linea ([ICODE]).]]></phrase>
+  <phrase title="style_prop_desc.blockBorder" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Praticamente tutti i blocchi hanno i loro bordi in stile con queste impostazioni]]></phrase>
+  <phrase title="style_prop_desc.blockBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controlla la dimensione della curva sugli angoli del bordo del blocco]]></phrase>
+  <phrase title="style_prop_desc.blockFilterBar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando il contenuto di un blocco può essere filtrato, i controlli per farlo sono stilizzati qui]]></phrase>
+  <phrase title="style_prop_desc.blockFooter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando è necessario trasmettere informazioni in un elemento di piè di pagina per un blocco, il suo stile è controllato qui]]></phrase>
   <phrase title="style_prop_desc.blockFooterBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.blockFooterTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.blockHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blocks often have title bars at their tops, which are styled here]]></phrase>
-  <phrase title="style_prop_desc.blockLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Some links are displayed as small blocks such as choices in a popup menu, and their background will highlight when hovered]]></phrase>
-  <phrase title="style_prop_desc.blockLinkSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Styling for block-type links when in their selected state]]></phrase>
-  <phrase title="style_prop_desc.blockMinorHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sub-headings in blocks use these settings]]></phrase>
-  <phrase title="style_prop_desc.blockMinorTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Used for multi-part, tabbed sub-headings]]></phrase>
+  <phrase title="style_prop_desc.blockHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I blocchi hanno spesso delle barre del titolo nella parte superiore, che sono stilizzate qui]]></phrase>
+  <phrase title="style_prop_desc.blockLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alcuni link sono visualizzati come piccoli blocchi, come le scelte in un menu a comparsa, e il loro sfondo si evidenzia quando si passa il mouse]]></phrase>
+  <phrase title="style_prop_desc.blockLinkSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Styling per i link di tipo blocco quando sono nello stato selezionato]]></phrase>
+  <phrase title="style_prop_desc.blockMinorHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I sottotitoli nei blocchi usano queste impostazioni]]></phrase>
+  <phrase title="style_prop_desc.blockMinorTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usato per sottotitoli a più parti e a schede]]></phrase>
   <phrase title="style_prop_desc.blockMinorTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Selected tabs from block sub-headings]]></phrase>
-  <phrase title="style_prop_desc.blockPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The horizontal space between the edges of a block and its content]]></phrase>
-  <phrase title="style_prop_desc.blockPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The vertical space between a block's content and its edges]]></phrase>
-  <phrase title="style_prop_desc.blockTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Occasionally, blocks will have multi-part, tab headers, styled with these settings]]></phrase>
+  <phrase title="style_prop_desc.blockPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lo spazio orizzontale tra i bordi di un blocco e il suo contenuto]]></phrase>
+  <phrase title="style_prop_desc.blockPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lo spazio verticale tra il contenuto di un blocco e i suoi bordi]]></phrase>
+  <phrase title="style_prop_desc.blockTabHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Occasionalmente, i blocchi avranno intestazioni a schede in più parti, stilizzate con queste impostazioni]]></phrase>
   <phrase title="style_prop_desc.blockTabHeaderBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.blockTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The selected tab in multi-part headers takes additional styling from here]]></phrase>
+  <phrase title="style_prop_desc.blockTabHeaderSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La scheda selezionata nelle intestazioni in più parti prende uno stile aggiuntivo da qui]]></phrase>
   <phrase title="style_prop_desc.blockTabHeaderTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.blockTextHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Text headers are used for subtle identification of content areas, without changing the background style or color]]></phrase>
-  <phrase title="style_prop_desc.borderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Structural borders around blocks of content generally use this color]]></phrase>
+  <phrase title="style_prop_desc.blockTextHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Le intestazioni di testo sono usate per una sottile identificazione delle aree di contenuto, senza cambiare lo stile o il colore dello sfondo]]></phrase>
+  <phrase title="style_prop_desc.borderColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I bordi strutturali intorno ai blocchi di contenuto usano generalmente questo colore]]></phrase>
   <phrase title="style_prop_desc.borderColorAccentContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.borderColorAttention" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.borderColorFaint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
@@ -9001,20 +9001,20 @@ Dovrai anche impostare un endpoint webhook nel tuo account Stripe con il seguent
   <phrase title="style_prop_desc.borderSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.borderSizeFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.borderSizeMinorFeature" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.buttonBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Defines the styling for the basic elements that are common to all text-based buttons]]></phrase>
+  <phrase title="style_prop_desc.buttonBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Definisce lo stile per gli elementi di base che sono comuni a tutti i pulsanti basati sul testo]]></phrase>
   <phrase title="style_prop_desc.buttonBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.buttonCta" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Call to action buttons sit alone and invite the user to do something, like post a new thread]]></phrase>
+  <phrase title="style_prop_desc.buttonCta" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I pulsanti di chiamata all'azione invitano l'utente a fare qualcosa, come postare una nuova discussione]]></phrase>
   <phrase title="style_prop_desc.buttonCtaBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.buttonDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Most buttons use this styling, except for primary form submit buttons]]></phrase>
-  <phrase title="style_prop_desc.buttonDisabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When buttons are disabled and unclickable, they use these styling rules]]></phrase>
-  <phrase title="style_prop_desc.buttonPrimary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[These rules are used mostly for the main submit button for forms]]></phrase>
+  <phrase title="style_prop_desc.buttonDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La maggior parte dei pulsanti usa questo stile, ad eccezione dei pulsanti primari di invio dei moduli]]></phrase>
+  <phrase title="style_prop_desc.buttonDisabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando i pulsanti sono disabilitati e non cliccabili, usano queste regole di stile]]></phrase>
+  <phrase title="style_prop_desc.buttonPrimary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Queste regole sono usate soprattutto per il pulsante principale di invio dei moduli]]></phrase>
   <phrase title="style_prop_desc.buttonPrimaryBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.buttonTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.chip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The primary use for chips is in tagging content, where each tag will appear as a chip]]></phrase>
-  <phrase title="style_prop_desc.chipHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chip styling is adjusted using these settings when they are hovered]]></phrase>
+  <phrase title="style_prop_desc.chip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[L'uso principale dei chip è nel tagging del contenuto, dove ogni tag apparirà come un chip]]></phrase>
+  <phrase title="style_prop_desc.chipHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lo stile dei chip è regolato usando queste impostazioni quando vengono passati con il mouse]]></phrase>
   <phrase title="style_prop_desc.chromeBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.chromeTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.contentAccentBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When attention needs to be directed to content, this background may be employed]]></phrase>
+  <phrase title="style_prop_desc.contentAccentBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando l'attenzione deve essere diretta al contenuto, verrà utilizzato questo sfondo]]></phrase>
   <phrase title="style_prop_desc.contentAccentBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This background color is used for further differentiation from regular content]]></phrase>
   <phrase title="style_prop_desc.contentAccentLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Links within accented content will be styled with these settings]]></phrase>
   <phrase title="style_prop_desc.contentAltBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When an alternative background needs to be presented along side the main content background, this will be employed]]></phrase>

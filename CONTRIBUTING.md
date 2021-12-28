@@ -60,6 +60,10 @@ In questa parte troverai la forma con cui traduciamo le stringhe più comuni. Se
 - Account
 - Scope 
 - Staff
+- Padding
+- Form
+- Break point
+- Tooltip
 
 ### In nessun caso modificare i valori tra parentesi graffe, ad esempio*
 - {user}
