@@ -17,5 +17,5 @@ def remove_empty_phrases(xml_file):
 
 # Esempio di utilizzo
 if __name__ == "__main__":
-	xml_file = './language-italiano.xml'
+	xml_file = 'language-italiano.xml'
 	remove_empty_phrases(xml_file)
