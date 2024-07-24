@@ -1,7 +1,9 @@
 # Traduzione Italiana Xenforo 2.x
-Versione attuale: 2.2.8
+
+Versione attuale: 2.3.x
+
 ### Sponsor
-Siamo lieti di comunicarvi che la traduzione è attualmente utilizzata dai seguenti forum:
+Siamo lieti di comunicarvi che la traduzione è attualmente sponsorizzata dai seguenti forum:
 
 * [Inforge.net](https://www.inforge.net)
 * [Tom's Hardware](https://forum.tomshw.it)
@@ -10,7 +12,7 @@ Siamo lieti di comunicarvi che la traduzione è attualmente utilizzata dai segue
 ## Caratteristiche della Traduzione
 La traduzione è **completa al 100%**, sia lato frontend che backend. 
 
-È rilasciata *opensource*, pertanto il suo download è disponibile liberamente.
+È rilasciata *opensource*, pertanto il suo download è disponibile liberamente su licenza MIT.
 
 Essendo distribuito come tale, si chiede di supportare il progetto lasciando inalterato il breve link affianco al copyright.
 
