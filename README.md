@@ -1,4 +1,4 @@
-# Traduzione Italiana Xenforo 2.x
+# 🇮🇹 Traduzione Italiana Xenforo 2.x
 
 Versione attuale: 2.3.x
 
