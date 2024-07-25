@@ -25,6 +25,7 @@ In questa parte troverai la forma con cui traduciamo le stringhe più comuni. Se
 
 - Threads = Discussioni
 - Posts = Messaggi
+- Direct message = Messaggio privato
 - To Post = Pubblicare (verbo)
 - Notices = Notifiche
 - Themes = Temi

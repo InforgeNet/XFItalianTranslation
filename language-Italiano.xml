@@ -471,7 +471,7 @@
   <phrase title="all_x_values_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tutti i valori {key} devono essere unici.]]></phrase>
   <phrase title="allow_answer_voting_in_question_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Permetti la votazione delle risposte nelle discussioni Q&A]]></phrase>
   <phrase title="allow_answers_given_to_votable_questions_to_be_downvoted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Permetti alle risposte di essere votate in giù]]></phrase>
-  <phrase title="allow_anyone_in_direct_message_to_invite_others" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Consenti a chiunque nel messaggio diretto di invitare altre persone.]]></phrase>
+  <phrase title="allow_anyone_in_direct_message_to_invite_others" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Consenti a chiunque nel messaggio priivato di invitare altre persone.]]></phrase>
   <phrase title="allow_banner_stacking" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permetti stack dei banner]]></phrase>
   <phrase title="allow_cron_entry_to_run_automatically_when_scheduled" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Permetti al cron entry di essere eseguito automaticamente quando programmato]]></phrase>
   <phrase title="allow_new_messages_to_be_posted_in_this_forum" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Permetti la scrittura di nuovi messaggi in questa sezione]]></phrase>
@@ -485,7 +485,7 @@
   <phrase title="allow_user_selection" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permetti selezione utenti]]></phrase>
   <phrase title="allow_users_to" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permetti agli utenti di]]></phrase>
   <phrase title="allow_voters_to_change_their_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consentire di cambiare il voto nei sondaggi]]></phrase>
-  <phrase title="allow_x_to_invite_others_to_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Consenti a {user} di invitare altri utenti a questo messaggio diretto]]></phrase>
+  <phrase title="allow_x_to_invite_others_to_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Consenti a {user} di invitare altri utenti a questo messaggio priivato]]></phrase>
   <phrase title="allowed_scopes" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Allowed scopes]]></phrase>
   <phrase title="allowed_thread_types" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Allowed thread types]]></phrase>
   <phrase title="allows_search_engines_to_index_this_thread_based_on_settings_of" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Consenti ai motori di ricerca di indicizzare questa discussione in base alle impostazioni del forum a cui appartiene.]]></phrase>
@@ -656,7 +656,7 @@
   <phrase title="automatically_apply_template_modification" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Applica automaticamente le modifiche del template]]></phrase>
   <phrase title="automatically_dismiss_notice" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nascondi automaticamente l'avviso quando sparisce]]></phrase>
   <phrase title="automatically_dismiss_notice_explain" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questa opzione è valida solo per gli avvisi galleggianti e se una durata di visualizzazione è specificata sopra.]]></phrase>
-  <phrase title="automatically_feature_threads" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Automatically feature threads]]></phrase>  <!-- TODO -->
+  <phrase title="automatically_feature_threads" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Automatically feature threads]]></phrase>
   <phrase title="automatically_include_unsubscribe_link" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Inserisci automaticamente un link di disiscrizione.]]></phrase>
   <phrase title="automatically_include_unsubscribe_link_desc" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Se selezionato, questa email avrà automaticamente un link di disiscrizione in fondo al messaggio. Se usi il token 'unsub' nel corpo del messaggio, quest'opzione sarà ignorata.]]></phrase>
   <phrase title="automatically_merge" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unisci automaticamente]]></phrase>
@@ -1215,7 +1215,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="cookie_consent.cookie_description_tfa_trust" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questo cookie viene utilizzato per determinare se un utente ha scelto in precedenza di fidarsi di questo dispositivo senza richiedere un'ulteriore verifica in due fasi per un periodo di tempo.]]></phrase>
   <phrase title="cookie_consent.cookie_description_toggle" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questo cookie e l'elemento di memorizzazione locale vengono utilizzati per memorizzare le preferenze dell'utente per l'apertura o la chiusura di vari controlli.]]></phrase>
   <phrase title="cookie_consent.cookie_description_user" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questo cookie viene utilizzato per memorizzare il token “ricordami” di un utente, consentendo alle sue credenziali di persistere in più sessioni.]]></phrase>
-  <phrase title="cookie_consent.cookie_description_visitorCounts" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Questo elemento di memoria locale viene utilizzato per memorizzare il conteggio dei messaggi diretti e degli avvisi non letti di un utente..]]></phrase>
+  <phrase title="cookie_consent.cookie_description_visitorCounts" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Questo elemento di memoria locale viene utilizzato per memorizzare il conteggio dei messaggi privati e degli avvisi non letti di un utente..]]></phrase>
   <phrase title="cookie_consent.group_description__required" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questi cookie sono necessari per abilitare funzionalità fondamentali come la sicurezza, la gestione della rete e l'accessibilità. L'utente non può rifiutarli.]]></phrase>
   <phrase title="cookie_consent.group_description__third_party" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[I cookie impostati da terzi possono essere necessari per alimentare le funzionalità in collaborazione con vari fornitori di servizi per scopi di sicurezza, analisi, prestazioni o pubblicità.]]></phrase>
   <phrase title="cookie_consent.group_description_optional" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Grazie all'impostazione di questi cookie, forniamo funzionalità avanzate per la vostra esperienza di navigazione. Se li rifiutate, le funzionalità avanzate non saranno disponibili.]]></phrase>
@@ -1700,19 +1700,20 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="development_mode_is_enabled_and_dev_output_is_available" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La modalità Sviluppo è abilitata e l'output di sviluppo è disponibile. Se i dati dell'add-on non sono stati esportati di recente, potrebbero essere non aggiornati e questa azione causerebbe la perdita dati. Prendi in considerazione l'idea di esportare prima i dati o di utilizzare l'interfaccia da linea di comando.]]></phrase>
   <phrase title="device_trusted_until_x_disable_desc" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo dispositivo è ritenuto affidabile fino al {until}. Non sarà necessario completare la verifica a due fattori da questo dispositivo fino ad allora. È possibile scegliere di smettere di fidarsi del dispositivo in modo che venga richiesto di completare la verifica a due fattori al successivo accesso.]]></phrase>
   <phrase title="did_not_complete_the_captcha_verification_properly" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[La verifica CAPTCHA non è stata completata correttamente. Si prega di riprovare.]]></phrase>
-  <phrase title="direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggio diretto]]></phrase>
-  <phrase title="direct_message_body" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Corpo del messaggio diretto]]></phrase>
+  <phrase title="direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggio privato]]></phrase>
+  <phrase title="direct_message_body" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Corpo del messaggio priivato]]></phrase>
   <phrase title="direct_message_email_html_footer" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[<p class="minorText">Non rispondere a questo messaggio. Per rispondere è necessario visitare il forum.</p>
 
-<p class="minorText">Questo messaggio ti è stato inviato perché nelle tue preferenze è impostato che vuoi ricevere messaggi diretti. Se così non fosse, dovresti receive these emails, you may <a href="{disable_link}">disalibilitare le notifiche dirette via mail</a> o <a href="{disable_all_link}">disabilitare tutte le mail</a>.</p>]]></phrase>
-  <phrase title="direct_message_from_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggio diretto da {username}]]></phrase>
-  <phrase title="direct_message_info" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Info messaggio diretto]]></phrase>
-  <phrase title="direct_message_insert_email_html" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[<p>{sender} ti ha inviato un messaggio diretto su {board}.</p>]]></phrase>
-  <phrase title="direct_message_insert_email_subject" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{username} ti ha inviato un messaggio diretto: "{title}"]]></phrase>
-  <phrase title="direct_message_is_closed" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questo messaggio diretto è chiuso e non accetterà ulteriori risposte o modifiche.]]></phrase>
-  <phrase title="direct_message_join_email_html" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[<p>{sender} ti ha aggiunto a un messaggio diretto esistente a {board}.</p>]]></phrase>
-  <phrase title="direct_message_join_email_subject" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{username} ti ha aggiunto al messaggio diretto "{title}"]]></phrase>
-  <phrase title="direct_message_marked_as_read" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggio diretto contrassegnato come letto.]]></phrase>
+<p class="minorText">Questo messaggio ti è stato inviato perché nelle tue preferenze è impostato che vuoi ricevere messaggi privati. Se così non fosse, dovresti receive these emails, you may <a href="{disable_link}">disalibilitare le notifiche dirette via mail</a> o <a href="{disable_all_link}">disabilitare tutte le mail</a>.</p>]]></phrase>
+  <phrase title="direct_message_from_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggio privato da {username}]]></phrase>
+  <phrase title="direct_message_info" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Info messaggio priivato]]></phrase>
+  <phrase title="direct_message_insert_email_html" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[<p>{sender} ti ha inviato un messaggio priivato su {board}.</p>]]></phrase>
+  <phrase title="direct_message_insert_email_subject" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{username} ti ha inviato un messaggio priivato: "{title}"]]></phrase>
+  <phrase title="direct_message_is_closed" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questo messaggio priivato è chiuso e non accetterà ulteriori risposte o modifiche.]]></phrase>
+  <phrase title="direct_message_join_email_html" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[<p>{sender} ti ha aggiunto a un messaggio priivato esistente a {board}.</p>]]></phrase>
+  <phrase title="direct_message_join_email_subject" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{username} ti ha aggiunto al messaggio priivato "{title}"]]></phrase>
+  <phrase title="direct_message_marked_as_read" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggio privato contrassegnato come letto.]]></phrase>
+  <phrase title="direct_messages" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[Messaggi privati]]></phrase>
   <phrase title="directory_specified_as_x_y_not_found_is_not_readable" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[La cartella specificata come <i>{type}</i>: <code><b>{dir}</b></code> non può essere trovata o non è leggibile.]]></phrase>
   <phrase title="directory_x_does_not_contain_expected_contents" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[La cartella {dir} non contiene i contenuti attesi.]]></phrase>
   <phrase title="directory_x_must_be_writable" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[La cartella {directory} deve essere scrivibile. Verifica che i suoi permessi siano di scrittura globale (chmod 0777). Se la cartella non esiste, creala.]]></phrase>
@@ -1758,7 +1759,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="display_location" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra la posizione]]></phrase>
   <phrase title="display_node_title_instead_of_navigation_entry_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra il titolo del nodo invece del titolo del navigation entry]]></phrase>
   <phrase title="display_order" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ordine di visualizzazione]]></phrase>
-  <phrase title="display_results_as_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Visualizza risultati come messaggi diretti]]></phrase>
+  <phrase title="display_results_as_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Visualizza risultati come messaggi privati]]></phrase>
   <phrase title="display_results_as_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra i risultati come discussioni]]></phrase>
   <phrase title="display_statistics" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra statistiche]]></phrase>
   <phrase title="display_style" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra stile]]></phrase>
@@ -1780,7 +1781,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="do_not_display_username_change_publicly_if_changed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Do not display username change publicly (if changed)]]></phrase>
   <phrase title="do_not_have_permission" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non hai il permesso per visualizzare questa pagina o eseguire questa azione.]]></phrase>
   <phrase title="do_not_index_any_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Do not index any threads]]></phrase>
-  <phrase title="do_not_leave_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non lasciare messaggio diretto]]></phrase>
+  <phrase title="do_not_leave_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non lasciare messaggio priivato]]></phrase>
   <phrase title="do_not_leave_redirect" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non lasciare un reindirizzamento]]></phrase>
   <phrase title="do_not_optimize_images" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non ottimizzare immagini]]></phrase>
   <phrase title="do_not_rename_this_user" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Non rinominare questo utente]]></phrase>
@@ -1837,7 +1838,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="edit_content_type_field" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica campo content type]]></phrase>
   <phrase title="edit_cron_entry" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica cron entry]]></phrase>
   <phrase title="edit_date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica data]]></phrase>
-  <phrase title="edit_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Modifica messaggio diretto]]></phrase>
+  <phrase title="edit_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Modifica messaggio priivato]]></phrase>
   <phrase title="edit_dropdown" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Modificà menù a cascata]]></phrase>
   <phrase title="edit_extension" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica estensione]]></phrase>
   <phrase title="edit_feed" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica feed]]></phrase>
@@ -1853,7 +1854,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="edit_link_forum" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica link forum]]></phrase>
   <phrase title="edit_member" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica membro]]></phrase>
   <phrase title="edit_member_stat" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica statistiche membro]]></phrase>
-  <phrase title="edit_message_in_direct_message" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Modifica messaggio nel messaggio diretto]]></phrase>
+  <phrase title="edit_message_in_direct_message" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Modifica messaggio nel messaggio priivato]]></phrase>
   <phrase title="edit_moderator" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica moderatore]]></phrase>
   <phrase title="edit_navigation" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica navigazione]]></phrase>
   <phrase title="edit_notice" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Modifica notizia]]></phrase>
@@ -1939,7 +1940,7 @@ Se un evento è evocato con un suggerimento, i potenziali valori di quest'ultimo
   <phrase title="email_confirmation_code" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Codice di conferma email]]></phrase>
   <phrase title="email_conflicts" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Conflitti email]]></phrase>
   <phrase title="email_conversation_notifications" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Notifiche conversazione email]]></phrase>
-  <phrase title="email_direct_message_notifications" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Notifiche di messaggi diretti via email]]></phrase>
+  <phrase title="email_direct_message_notifications" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Notifiche di messaggi privati via email]]></phrase>
   <phrase title="email_footer_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="email_footer_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="email_format" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Formato email]]></phrase>
@@ -1974,7 +1975,6 @@ Il tuo callback dovrebbe restituire una stringa HTML e utilizzare una signature 
   <phrase title="embedded_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embedded media]]></phrase>
   <phrase title="embedded_media_from_this_media_site_is_no_longer_available" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[I media incorporati da questo sito non sono più disponibili]]></phrase>
   <phrase title="embedded_youtube_player_would_appear_here" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Un player Youtube incorporato apparirà qui.]]></phrase>
-  <!-- TODO: tradurre tutte le emoji? -->
   <phrase title="emoji.100" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hundred points]]></phrase>
   <phrase title="emoji.1234" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Input numbers]]></phrase>
   <phrase title="emoji.8ball" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Pool 8 ball]]></phrase>
@@ -5688,7 +5688,6 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="enable_variations_hint" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Le variazioni consentono alle proprietà di stile di avere più set di valori.]]></phrase>
   <phrase title="enable_webhook_verification" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Abilita la verifica del webhook]]></phrase>
   <phrase title="enable_webhook_verification_explain" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Per verificare le firme dei webhook in arrivo e prevenire attacchi di replay, è necessario abilitare la casella di controllo sopra.]]></phrase>
-
   <phrase title="enable_writing_before_registering" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Consenti di scrivere prima della registrazione]]></phrase>
   <phrase title="enabled" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Attivato]]></phrase>
   <phrase title="enabled_providers_x" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Attivo ({providers})]]></phrase>
@@ -5705,7 +5704,7 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="enter_media_url" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Inserisci il link del media]]></phrase>
   <phrase title="enter_multiple_values_to_replace_on_separate_lines" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Puoi inserire più valori se li posizioni in linee separate.]]></phrase>
   <phrase title="enter_name_for_this_connected_account_provider_to_be_shown_to_users_when" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Inserisci un nome per questo provider di account connesso da mostrare agli utenti quando associano i loro account. Tipicamente, questo sarebbe il titolo del forum della tua altra istanza di XenForo.]]></phrase>
-  <phrase title="enter_name_of_existing_user_direct_message_should_be_started_by" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Inserisci il nome di un utente esistente da cui dovrebbe partire il messaggio diretto.]]></phrase>
+  <phrase title="enter_name_of_existing_user_direct_message_should_be_started_by" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Inserisci il nome di un utente esistente da cui dovrebbe partire il messaggio priivato.]]></phrase>
   <phrase title="enter_page_title_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci il formato del titolo della pagina]]></phrase>
   <phrase title="enter_payment_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci dettagli di pagamento]]></phrase>
   <phrase title="enter_spoiler_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci titolo della spoiler]]></phrase>
@@ -5776,7 +5775,14 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="extension_x_already_defined" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[L'estensione '{name}' è già stata definita.]]></phrase>
   <phrase title="extra" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Extra]]></phrase>
   <phrase title="extra_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attributi extra]]></phrase>
-  <phrase title="extra_copyright" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[<a href="https://github.com/InforgeNet/XFItalianTranslation" rel="nofollow">Traduzione italiana Xenforo</a>]]></phrase>
+  <phrase title="extra_copyright" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[<p>
+3LABS S.R.L. • Via Dante 16 - Milano (MI) 20121
+CF/P.IVA: 04146420965 - REA: MI - 1729249 - Capitale Sociale: 10.000 euro
+</p><p>
+© 2024 3Labs Srl. Tutti i diritti riservati.
+</p>
+
+<p><a href="https://github.com/InforgeNet/XFItalianTranslation" rel="nofollow">Traduzione italiana Xenforo</a></p>]]></phrase>
   <phrase title="extra_email_footer_html" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (HTML)]]></phrase>
   <phrase title="extra_email_footer_plain_text" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (testo semplice)]]></phrase>
   <phrase title="extra_footer_copyright" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra footer copyright]]></phrase>
@@ -5899,7 +5905,7 @@ Se abilitato, gli utenti saranno in grado di pagare con Apple Pay, Android Pay, 
   <phrase title="following_payment_providers_do_not_support_recurring_payments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti fornitori di pagamento non supportano i pagamenti ricorrenti: {invalidRecurring}. Assicurati che tutti i profili di pagamento siano validi.]]></phrase>
   <phrase title="following_payment_providers_do_not_support_x_as_valid_currency" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti fornitori di pagamento non supportano {currency} come opzione di valuta valida: {invalidCurrency}. Assicurati che tutti i profili di pagamento siano validi.]]></phrase>
   <phrase title="following_payment_providers_support_recurring_payments_but_invalid_length" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti fornitori di pagamento supportano i pagamenti ricorrenti, ma la lunghezza scelta è troppo lunga o troppo corta: {invalidLength}. Assicurati che tutti i profili di pagamento siano validi.]]></phrase>
-  <phrase title="following_placeholders_will_be_replaced_in_body_for_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[I seguenti segnaposto saranno sostituiti nel corpo del messaggio diretto: {name}, {email}, {id}.]]></phrase>
+  <phrase title="following_placeholders_will_be_replaced_in_body_for_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[I seguenti segnaposto saranno sostituiti nel corpo del messaggio priivato: {name}, {email}, {id}.]]></phrase>
   <phrase title="following_placeholders_will_be_replaced_in_message" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[I seguenti placeholder saranno sostituiti nel messaggio: {name}, {id}, {link}.]]></phrase>
   <phrase title="following_placeholders_will_be_replaced_in_message_for_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I seguenti placeholder saranno sostituiti nel messaggio: {name}, {email}, {id}, {unsub}.]]></phrase>
   <phrase title="following_placeholders_will_be_replaced_in_message_for_welcome_email" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[I seguenti placeholder saranno sostituiti nel messaggio: {name}, {email}, {id}.]]></phrase>
@@ -6296,9 +6302,9 @@ Alcune directory devono essere scrivibili dall'utente del server web per install
   <phrase title="invalid_subscription_endpoint_provided" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Invalid subscription endpoint provided.]]></phrase>
   <phrase title="invite" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invita]]></phrase>
   <phrase title="invite_members" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invita utenti]]></phrase>
-  <phrase title="invite_members_to_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invita membri al messaggio diretto]]></phrase>
+  <phrase title="invite_members_to_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invita membri al messaggio priivato]]></phrase>
   <phrase title="invite_more" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invita altri]]></phrase>
-  <phrase title="invited_members_see_entire_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[I membri invitati potranno vedere l'intero messaggio diretto dall'inizio.]]></phrase>
+  <phrase title="invited_members_see_entire_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[I membri invitati potranno vedere l'intero messaggio priivato dall'inizio.]]></phrase>
   <phrase title="ip" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[IP]]></phrase>
   <phrase title="ip_address" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Indirizzo IP]]></phrase>
   <phrase title="ip_address_information_for_content_by_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Informazioni sull'indirizzo IP del contenuto di {name}]]></phrase>
@@ -6524,15 +6530,15 @@ Alcune directory devono essere scrivibili dall'utente del server web per install
   <phrase title="learn_more" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Leggi altro.]]></phrase>
   <phrase title="least_recent" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Meno recente]]></phrase>
   <phrase title="leave" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Abbandona]]></phrase>
-  <phrase title="leave_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lascia messaggio diretto]]></phrase>
-  <phrase title="leave_direct_message_and_accept_future_responses" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Lascia messaggio diretto e accetta risposte future]]></phrase>
-  <phrase title="leave_direct_message_and_ignore_future_responses" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lascia messaggio diretto e ignora risposte future]]></phrase>
-  <phrase title="leave_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lascia messaggi diretti]]></phrase>
+  <phrase title="leave_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lascia messaggio priivato]]></phrase>
+  <phrase title="leave_direct_message_and_accept_future_responses" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Lascia messaggio priivato e accetta risposte future]]></phrase>
+  <phrase title="leave_direct_message_and_ignore_future_responses" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lascia messaggio priivato e ignora risposte future]]></phrase>
+  <phrase title="leave_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lascia messaggi privati]]></phrase>
   <phrase title="leave_permanent_redirect" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lascia un reindirizzamento permanente]]></phrase>
   <phrase title="leave_rating" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Lascia una recensione]]></phrase>
   <phrase title="leave_redirect_for_merged_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lascia un reindirizzamento per i messaggi uniti]]></phrase>
   <phrase title="leave_redirect_that_expires_after" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lascia un reindirizzamento che scade dopo:]]></phrase>
-  <phrase title="leaving_direct_message_will_remove_it_from_your_direct_message_list" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lasciare un messaggio diretto lo rimuoverà dalla tua lista di messaggi diretti.]]></phrase>
+  <phrase title="leaving_direct_message_will_remove_it_from_your_direct_message_list" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lasciare un messaggio priivato lo rimuoverà dalla tua lista di messaggi privati.]]></phrase>
   <phrase title="left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinistra]]></phrase>
   <phrase title="left_to_right" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Da sinistra a destra]]></phrase>
   <phrase title="legacy_add_on" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Legacy add-on]]></phrase>
@@ -6604,7 +6610,7 @@ Argomenti di callback:
   <phrase title="list_contains_advanced_options_hidden" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Questa lista contiene opzioni avanzate che possono essere nascoste.]]></phrase>
   <phrase title="list_of_uris_that_may_be_used_for_redirecting_users_back_to_your_application" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Un elenco di URI che possono essere utilizzati per reindirizzare gli utenti alla tua applicazione. Questo deve corrispondere durante l'autenticazione con OAuth2.]]></phrase>
   <phrase title="list_sibling_nodes" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Elenca nodi fratello]]></phrase>
-  <phrase title="list_usernames_of_users_who_will_be_invited_to_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Elenca i nomi utente degli utenti che saranno invitati a questo messaggio diretto. Il primo utente sarà l'iniziatore del messaggio diretto. Il nuovo utente sarà aggiunto automaticamente al messaggio diretto.]]></phrase>
+  <phrase title="list_usernames_of_users_who_will_be_invited_to_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Elenca i nomi utente degli utenti che saranno invitati a questo messaggio priivato. Il primo utente sarà l'iniziatore del messaggio priivato. Il nuovo utente sarà aggiunto automaticamente al messaggio priivato.]]></phrase>
   <phrase title="listed_below_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elencato sotto il nodo]]></phrase>
   <phrase title="listen_to_event" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ascolta l'evento]]></phrase>
   <phrase title="live_payments_have_been_disabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I pagamenti in tempo reale sono stati disabilitati quindi, dove disponibili, le richieste di acquisto saranno fatte agli endpoint di sandbox/test. Per effettuare una correzione, si prega di modificare il file config.php.]]></phrase>
@@ -6614,8 +6620,8 @@ Argomenti di callback:
   <phrase title="locale_of_language_importing_differs_overwriting_is_correct" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[The locale of the language you're importing differs from the language you're overwriting. Is this the correct language?]]></phrase>
   <phrase title="locally_hosted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Locally hosted]]></phrase>
   <phrase title="location" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Località]]></phrase>
-  <phrase title="lock_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Blocca messaggio diretto]]></phrase>
-  <phrase title="lock_direct_message_no_responses_will_be_allowed" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Blocca messaggio diretto (non saranno permesse risposte)]]></phrase>
+  <phrase title="lock_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Blocca messaggio priivato]]></phrase>
+  <phrase title="lock_direct_message_no_responses_will_be_allowed" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Blocca messaggio priivato (non saranno permesse risposte)]]></phrase>
   <phrase title="lock_out" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bloccato]]></phrase>
   <phrase title="lock_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Chiudi discussione]]></phrase>
   <phrase title="lock_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Chiudi discussioni]]></phrase>
@@ -6661,7 +6667,7 @@ Argomenti di callback:
   <phrase title="mark_alert_unread" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Segna avviso come non letto]]></phrase>
   <phrase title="mark_all_alerts_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Segna tutti gli avvisi letti]]></phrase>
   <phrase title="mark_as_solution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Contrassegna come soluzione]]></phrase>
-  <phrase title="mark_direct_messages_read" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Segna messaggi diretti come letti]]></phrase>
+  <phrase title="mark_direct_messages_read" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Segna messaggi privati come letti]]></phrase>
   <phrase title="mark_forum_read" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Contrassegna forum come letto]]></phrase>
   <phrase title="mark_forums_read" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Segna come letto]]></phrase>
   <phrase title="mark_read" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Segna come letta]]></phrase>
@@ -6985,7 +6991,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.news" addon_id="" version_id="0" version_string=""><![CDATA[Notizie]]></phrase>
   <phrase title="nav.registeredMembers" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Membri registrati]]></phrase>
   <phrase title="nav.sconti" addon_id="" version_id="0" version_string=""><![CDATA[Sconti]]></phrase>
-  <phrase title="nav.searchConversations" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Cerca nei messaggi diretti]]></phrase>
+  <phrase title="nav.searchConversations" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Cerca nei messaggi privati]]></phrase>
   <phrase title="nav.searchForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cerca nel forum]]></phrase>
   <phrase title="nav.searchProfilePosts" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ricerca degli stati della bacheca]]></phrase>
   <phrase title="nav.tariffe" addon_id="" version_id="0" version_string=""><![CDATA[Tariffe]]></phrase>
@@ -7016,7 +7022,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="new_avatar_could_not_be_processed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Il nuovo avatar non può essere elaborato. Per favore prova un'altra immagine.]]></phrase>
   <phrase title="new_banner_could_not_be_processed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Il nuovo banner non può essere elaborato. Si prega di provare un'altra immagine.]]></phrase>
   <phrase title="new_comments" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Nuovi commenti]]></phrase>
-  <phrase title="new_direct_message_at_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Nuovo messaggio diretto su {boardTitle}]]></phrase>
+  <phrase title="new_direct_message_at_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Nuovo messaggio priivato su {boardTitle}]]></phrase>
   <phrase title="new_forum_type" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Nuova tipologia di forum]]></phrase>
   <phrase title="new_message_in_watched_forum_x" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[{title} - Nuovo messaggio nella sezione seguita]]></phrase>
   <phrase title="new_messages" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nuovi messaggi]]></phrase>
@@ -7169,7 +7175,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="not_discouraged" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non scoraggiato]]></phrase>
   <phrase title="not_featured" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Non in evidenza]]></phrase>
   <phrase title="not_in_secondary_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non nei gruppi secondari]]></phrase>
-  <phrase title="not_notified_of_responses_direct_message_remain_deleted" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non verrai notificato di eventuali risposte future e il messaggio diretto rimarrà eliminato.]]></phrase>
+  <phrase title="not_notified_of_responses_direct_message_remain_deleted" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non verrai notificato di eventuali risposte future e il messaggio priivato rimarrà eliminato.]]></phrase>
   <phrase title="not_open_for_further_replies" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Discussione chiusa ad ulteriori risposte.]]></phrase>
   <phrase title="not_staff_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non membro dello staff]]></phrase>
   <phrase title="not_sticky" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Non in rilievo]]></phrase>
@@ -7545,7 +7551,6 @@ Dovrai anche fornire la dimensione massima del file video in kilobyte (KB). I vi
   <phrase title="option_explain.attachmentMaxPerMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usa 0 per permettere un numero illimitato di allegati per messaggio. Per disabilitare gli allegati dei messaggi, usa il sistema di autorizzazioni.]]></phrase>
   <phrase title="option_explain.attachmentThumbnailDimensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[La larghezza e l'altezza massima delle miniature degli allegati generati.]]></phrase>
   <phrase title="option_explain.autoEmbedMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abilita questa opzione per far sì che il sistema tenti di incorporare automaticamente i media dagli URL pubblicati dai visitatori che puntano a siti multimediali registrati. Se scegli di includere anche un link al contenuto, l'incorporamento dei media potrebbe essere duplicato quando il messaggio viene citato.]]></phrase>
-  <!-- TODO: manca traduzione? -->
   <phrase title="option_explain.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[TODO: Manca traduzione?]]></phrase>
   <phrase title="option_explain.boardDescription" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci una descrizione per il tuo forum. Questo verrà inserito all'interno del tag meta description per la home page del forum, quindi evita di usare l'HTML.]]></phrase>
   <phrase title="option_explain.boardInactiveMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quando il forum è inattivo / chiuso, questo messaggio sarà mostrato ai visitatori del sito. Puoi usare l'HTML.]]></phrase>
@@ -7941,7 +7946,7 @@ Callback arguments:
   <phrase title="parent_version" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Versione parente]]></phrase>
   <phrase title="parentheses_characters" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Caratteri parentesi]]></phrase>
   <phrase title="participants" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Partecipanti]]></phrase>
-  <phrase title="passkey" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Chiave di accesso]]></phrase>
+  <phrase title="passkey" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[Passkey]]></phrase>
   <phrase title="passkey_date_x" addon_id="XF" version_id="2030033" version_string="2.3.0 Beta 3"><![CDATA[Chiave di accesso {date}]]></phrase>
   <phrase title="passkey_login" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Accesso con chiave di accesso]]></phrase>
   <phrase title="passkeys_secure_replacement_for_passwords_allowing_you_to_use" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Le chiavi di accesso sono una sostituzione sicura delle password, permettendoti di utilizzare l'autenticazione biometrica o basata sul dispositivo per accedere al tuo account.]]></phrase>
@@ -8207,14 +8212,14 @@ Callback arguments:
   <phrase title="please_confirm_that_you_want_to_uninstall_following_add_on" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler disinstallare quest'add-on]]></phrase>
   <phrase title="please_confirm_that_you_want_to_upgrade_following_add_on" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler aggiornare quest'add-on]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_delete_files_from_following_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Sei sicuro di voler eliminare i file del seguente componente aggiuntivo]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_mark_following_direct_message_read" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri segnare come letto il seguente messaggio diretto]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_mark_following_direct_message_unread" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri segnare come non letto il seguente messaggio diretto]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_star_following_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri aggiungere una stella al seguente messaggio diretto]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_mark_following_direct_message_read" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri segnare come letto il seguente messaggio priivato]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_mark_following_direct_message_unread" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri segnare come non letto il seguente messaggio priivato]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_star_following_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri aggiungere una stella al seguente messaggio priivato]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_start_following_this_user" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler seguire quest'utente]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler ignorare quest'utente]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_following_this_user" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler smettere di seguire quest'utente]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler smettere d'ignorare quest'utente]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_unstar_following_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri rimuovere la stella dal seguente messaggio diretto]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_unstar_following_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per favore, conferma che desideri rimuovere la stella dal seguente messaggio priivato]]></phrase>
   <phrase title="please_confirm_that_you_would_like_to_change_to_following_style" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler cambiare lo stile con il seguente]]></phrase>
   <phrase title="please_confirm_want_enable_promotion_for_user" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler attivare questa promozione per l'utente selezionato]]></phrase>
   <phrase title="please_confirm_want_remove_user_from_promotion" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Sei sicuro di voler rimuovere da questo utente la promozione selezionata]]></phrase>
@@ -8300,7 +8305,7 @@ Callback arguments:
   <phrase title="please_enter_valid_media_site_id" addon_id="XF" version_id="0" version_string=""><![CDATA[Inserisci un ID valido per il sito dei media.]]></phrase>
   <phrase title="please_enter_valid_member_stat_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci una chiave di stato membro valida.]]></phrase>
   <phrase title="please_enter_valid_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci un messaggio valido.]]></phrase>
-  <phrase title="please_enter_valid_message_to_start_direct_message" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Per favore, inserisci un messaggio valido per avviare un messaggio diretto.]]></phrase>
+  <phrase title="please_enter_valid_message_to_start_direct_message" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Per favore, inserisci un messaggio valido per avviare un messaggio priivato.]]></phrase>
   <phrase title="please_enter_valid_name" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci un nome valido.]]></phrase>
   <phrase title="please_enter_valid_navigation_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci un ID di navigazione valido.]]></phrase>
   <phrase title="please_enter_valid_option_group_id" addon_id="XF" version_id="0" version_string=""><![CDATA[Inserisci un ID valido per il gruppo di opzioni.]]></phrase>
@@ -8320,14 +8325,14 @@ Callback arguments:
   <phrase title="please_enter_valid_template_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci un titolo valido per il template.]]></phrase>
   <phrase title="please_enter_valid_time_format" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Si prega di inserire un formato tempo valido.]]></phrase>
   <phrase title="please_enter_valid_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci un titolo valido.]]></phrase>
-  <phrase title="please_enter_valid_title_to_start_direct_message" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Per favore, inserisci un titolo valido per avviare un messaggio diretto.]]></phrase>
+  <phrase title="please_enter_valid_title_to_start_direct_message" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Per favore, inserisci un titolo valido per avviare un messaggio priivato.]]></phrase>
   <phrase title="please_enter_valid_twitter_name_using_alphanumeric" addon_id="XF" version_id="0" version_string=""><![CDATA[Inserisci un nome Twitter valido, usando solo caratteri a-z, 0-9 e _.]]></phrase>
   <phrase title="please_enter_valid_url" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Inserisci un URL valido.]]></phrase>
   <phrase title="please_enter_valid_url_portion" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Inserisci una porzione di URL valida.]]></phrase>
   <phrase title="please_enter_valid_user_name_css_rules" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Inserisci una regola CSS valida per il nome utente.]]></phrase>
   <phrase title="please_enter_valid_validator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inserisci un nome valido per il validatore]]></phrase>
   <phrase title="please_enter_valid_value" addon_id="XF" version_id="0" version_string=""><![CDATA[Inserisci un valore valido.]]></phrase>
-  <phrase title="please_enter_valid_welcome_direct_message_contents" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Per favore, inserisci contenuti validi per il messaggio diretto di benvenuto.]]></phrase>
+  <phrase title="please_enter_valid_welcome_direct_message_contents" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Per favore, inserisci contenuti validi per il messaggio priivato di benvenuto.]]></phrase>
   <phrase title="please_enter_value_for_all_required_fields" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Compila tutti i campi della discussione.]]></phrase>
   <phrase title="please_enter_value_for_required_field" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[Inserisci un valore per il campo richiesto.]]></phrase>
   <phrase title="please_enter_value_for_required_field_x" addon_id="XF" version_id="0" version_string=""><![CDATA[Inserisci un valore per il campo richiesto '{field}'.]]></phrase>
@@ -8595,10 +8600,10 @@ Prima che il tuo contenuto possa essere pubblicato, per favore prenditi un momen
   <phrase title="push_blocked_label" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Notifiche Push Bloccate]]></phrase>
   <phrase title="push_checking_device_capabilities" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Verifica delle funzionalità del dispositivo]]></phrase>
   <phrase title="push_conversation_notifications" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Notifiche di conversazione push]]></phrase>
-  <phrase title="push_direct_message_create" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} ti ha inviato un messaggio diretto {title}.]]></phrase>
-  <phrase title="push_direct_message_invite" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} ti ha aggiunto al messaggio diretto {title}.]]></phrase>
-  <phrase title="push_direct_message_notifications" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Notifiche push per messaggi diretti]]></phrase>
-  <phrase title="push_direct_message_reply" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} ha risposto al messaggio diretto {title}.]]></phrase>
+  <phrase title="push_direct_message_create" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} ti ha inviato un messaggio priivato {title}.]]></phrase>
+  <phrase title="push_direct_message_invite" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} ti ha aggiunto al messaggio priivato {title}.]]></phrase>
+  <phrase title="push_direct_message_notifications" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Notifiche push per messaggi privati]]></phrase>
+  <phrase title="push_direct_message_reply" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} ha risposto al messaggio priivato {title}.]]></phrase>
   <phrase title="push_disable_label" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Disabilita Notifiche Push]]></phrase>
   <phrase title="push_enable_label" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Abilita Notifiche Push]]></phrase>
   <phrase title="push_enable_notification_body" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Da ora riceverai le notifiche direttamente sul tuo dispositivo.]]></phrase>
@@ -8684,8 +8689,8 @@ Prima che il tuo contenuto possa essere pubblicato, per favore prenditi un momen
   <phrase title="rebuild_attachment_thumbnails" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ricostruisci miniature degli allegati]]></phrase>
   <phrase title="rebuild_caches" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ricostruisci cache]]></phrase>
   <phrase title="rebuild_daily_statistics" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ricostruisci statistiche giornaliere]]></phrase>
-  <phrase title="rebuild_direct_message_embed_metadata" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricostruisci i metadati incorporati dei messaggi diretti]]></phrase>
-  <phrase title="rebuild_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricostruisci messaggi diretti]]></phrase>
+  <phrase title="rebuild_direct_message_embed_metadata" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricostruisci i metadati incorporati dei messaggi privati]]></phrase>
+  <phrase title="rebuild_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricostruisci messaggi privati]]></phrase>
   <phrase title="rebuild_forums" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ricostruisci forum]]></phrase>
   <phrase title="rebuild_icon_usage" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Ricostruisci l'uso delle icone]]></phrase>
   <phrase title="rebuild_likes_counted_status" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ricostruisci stato del contatore "Mi piace"]]></phrase>
@@ -8712,9 +8717,9 @@ Prima che il tuo contenuto possa essere pubblicato, per favore prenditi un momen
   <phrase title="receipt_for_your_account_upgrade_at_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ricevuta per l'upgrade del tuo account a {board_title}]]></phrase>
   <phrase title="receive_email_when_content_is_pending_approval" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricevi email quando il contenuto è in attesa di approvazione]]></phrase>
   <phrase title="receive_email_when_content_is_reported" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricevi email quando un contenuto è segnalato]]></phrase>
-  <phrase title="receive_email_when_new_direct_message_is_received" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricevi email quando viene ricevuto un nuovo messaggio diretto]]></phrase>
+  <phrase title="receive_email_when_new_direct_message_is_received" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricevi email quando viene ricevuto un nuovo messaggio priivato]]></phrase>
   <phrase title="receive_notification_when_someone" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Ricevi una notifica quando qualcuno]]></phrase>
-  <phrase title="receive_push_notification_when_new_direct_message_is_received" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricevi una notifica push quando viene ricevuto un nuovo messaggio diretto]]></phrase>
+  <phrase title="receive_push_notification_when_new_direct_message_is_received" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ricevi una notifica push quando viene ricevuto un nuovo messaggio priivato]]></phrase>
   <phrase title="receive_site_mailings" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ricevi email sito]]></phrase>
   <phrase title="receive_site_mailings_hint" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[]]></phrase>
   <phrase title="receive_site_mailings_option" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Ricevi email per notizie e aggiornamenti]]></phrase>
@@ -8812,8 +8817,8 @@ Prima che il tuo contenuto possa essere pubblicato, per favore prenditi un momen
   <phrase title="reply_count_between" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Contatore risposta tra]]></phrase>
   <phrase title="reply_placeholder" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Scrivi la tua risposta...]]></phrase>
   <phrase title="reply_quoting_this_message" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Rispondi, quotando questo messaggio]]></phrase>
-  <phrase title="reply_to_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Rispondi al messaggio diretto]]></phrase>
-  <phrase title="reply_to_direct_message_at_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Rispondi al messaggio diretto su {boardTitle}]]></phrase>
+  <phrase title="reply_to_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Rispondi al messaggio priivato]]></phrase>
+  <phrase title="reply_to_direct_message_at_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Rispondi al messaggio priivato su {boardTitle}]]></phrase>
   <phrase title="reply_to_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Rispondi alla discussione]]></phrase>
   <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[{title} - Nuova risposta nella discussione seguita]]></phrase>
   <phrase title="report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Segnala]]></phrase>
@@ -8848,7 +8853,7 @@ Contenuto riportato:
   <phrase title="requested_category_not_found" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[La categoria richiesta non è stata trovata.]]></phrase>
   <phrase title="requested_comment_not_found" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[Il commento richiesto non è stato trovato]]></phrase>
   <phrase title="requested_content_for_url_x_unavailable" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Il contenuto richiesto per l'URL {url} non è disponibile.]]></phrase>
-  <phrase title="requested_direct_message_not_found" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Il messaggio diretto richiesto non è stato trovato.]]></phrase>
+  <phrase title="requested_direct_message_not_found" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Il messaggio priivato richiesto non è stato trovato.]]></phrase>
   <phrase title="requested_forum_not_found" addon_id="XF" version_id="0" version_string=""><![CDATA[Il forum richiesto non è stato trovato.]]></phrase>
   <phrase title="requested_history_not_found" addon_id="XF" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Non è stato possibile trovare la cronologia richiesta.]]></phrase>
   <phrase title="requested_log_entry_not_found" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[Non è stato possibile trovare il log richiesto.]]></phrase>
@@ -8906,7 +8911,7 @@ Contenuto riportato:
   <phrase title="restore_dismissed_notices" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ripristina notizie chiuse]]></phrase>
   <phrase title="restore_dismissed_notices_hint" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Se questa opzione è attiva, ogni notizia che avevi precedentemente chiuso verrà ripristinata e sarà possibile vederla.]]></phrase>
   <phrase title="restored" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Ripristinato]]></phrase>
-  <phrase title="restrict_search_to_specified_direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Limita la ricerca al messaggio diretto specificato]]></phrase>
+  <phrase title="restrict_search_to_specified_direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Limita la ricerca al messaggio priivato specificato]]></phrase>
   <phrase title="restrict_search_to_specified_thread" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[Limita la ricerca alla discussione specificata]]></phrase>
   <phrase title="results" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Risultati]]></phrase>
   <phrase title="results_only_viewable_after_voting" addon_id="XF" version_id="2000970" version_string="2.0.9"><![CDATA[I risultati saranno visibili solamente dopo aver votato.]]></phrase>
@@ -8983,7 +8988,7 @@ Contenuto riportato:
   <phrase title="search_by_ip_address" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Cerca tramite indirizzo IP]]></phrase>
   <phrase title="search_could_not_be_completed_because_number_of_keywords_exceeds_limit_x" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[La ricerca non può essere completata perché il numero di parole chiave supera il limite consentito di {maxKeywords}.]]></phrase>
   <phrase title="search_could_not_be_completed_because_search_keywords_were_too" addon_id="XF" version_id="0" version_string=""><![CDATA[La ricerca non può essere completata perché le parole chiave della ricerca sono troppo corte, troppo lunghe o troppo comuni.]]></phrase>
-  <phrase title="search_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Cerca nei messaggi diretti]]></phrase>
+  <phrase title="search_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Cerca nei messaggi privati]]></phrase>
   <phrase title="search_engine_index_criteria" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Criteri di indicizzazione dei motori di ricerca]]></phrase>
   <phrase title="search_engine_index_exceptions" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Eccezioni all'indice dei motori di ricerca]]></phrase>
   <phrase title="search_everything" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Cerca tutto]]></phrase>
@@ -9039,11 +9044,11 @@ Contenuto riportato:
   <phrase title="selecting_this_option_will_permanently_and_irreversibly_delete_item" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Selezionando questa opzione, l'elemento verrà eliminato in modo permanente e irreversibile.]]></phrase>
   <phrase title="send" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invia]]></phrase>
   <phrase title="send_all_events" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia tutti gli eventi]]></phrase>
-  <phrase title="send_direct_message" addon_id="XF" version_id="2030038" version_string="2.3.0 Beta 8"><![CDATA[Invia messaggio diretto]]></phrase>
-  <phrase title="send_direct_message_to_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia un messaggio diretto a {name}]]></phrase>
-  <phrase title="send_direct_message_to_you" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia messaggio diretto a te]]></phrase>
-  <phrase title="send_direct_messages_to_this_user" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia messaggi diretti a questo utente]]></phrase>
-  <phrase title="send_direct_messages_to_you" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Inizia messaggi diretti a te]]></phrase>
+  <phrase title="send_direct_message" addon_id="XF" version_id="2030038" version_string="2.3.0 Beta 8"><![CDATA[Invia messaggio priivato]]></phrase>
+  <phrase title="send_direct_message_to_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia un messaggio priivato a {name}]]></phrase>
+  <phrase title="send_direct_message_to_you" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia messaggio priivato a te]]></phrase>
+  <phrase title="send_direct_messages_to_this_user" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia messaggi privati a questo utente]]></phrase>
+  <phrase title="send_direct_messages_to_you" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Inizia messaggi privati a te]]></phrase>
   <phrase title="send_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invia messaggio]]></phrase>
   <phrase title="send_notifications_for" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Manda notifiche per]]></phrase>
   <phrase title="send_notifications_via" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Manda notifiche via]]></phrase>
@@ -9055,7 +9060,7 @@ Contenuto riportato:
   <phrase title="send_test_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Invia un'email di prova]]></phrase>
   <phrase title="send_unsubscribe_requests_via_email" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Invia richieste di disiscrizione via email]]></phrase>
   <phrase title="send_unsubscribe_requests_via_http" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Invia richieste di disiscrizione via HTTP]]></phrase>
-  <phrase title="send_welcome_direct_message_on_registration" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia messaggio diretto di benvenuto alla registrazione]]></phrase>
+  <phrase title="send_welcome_direct_message_on_registration" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia messaggio priivato di benvenuto alla registrazione]]></phrase>
   <phrase title="send_welcome_email_on_registration" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Inviare email di benvenuto alla registrazione]]></phrase>
   <phrase title="sending" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sto inviando]]></phrase>
   <phrase title="sending_push_notifications" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Invia notifiche push]]></phrase>
@@ -9120,12 +9125,12 @@ Contenuto riportato:
   <phrase title="shortcut.search_menu" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[/]]></phrase>
   <phrase title="shortcut.style_chooser" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[alt+z]]></phrase>
   <phrase title="shortcut.visitor_menu" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[m]]></phrase>
-  <phrase title="should_direct_message_receive_responses_restored_to_inbox" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Se questo messaggio diretto riceverà ulteriori risposte in futuro, verrà ripristinato nella tua casella di posta.]]></phrase>
+  <phrase title="should_direct_message_receive_responses_restored_to_inbox" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Se questo messaggio priivato riceverà ulteriori risposte in futuro, verrà ripristinato nella tua casella di posta.]]></phrase>
   <phrase title="show" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Mostra]]></phrase>
   <phrase title="show_advanced_control_panel_options" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mostra le opzioni avanzate del pannello di controllo]]></phrase>
   <phrase title="show_advanced_options" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mostra opzioni avanzate]]></phrase>
   <phrase title="show_all" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra tutto]]></phrase>
-  <phrase title="show_all_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Mostra tutti i messaggi diretti]]></phrase>
+  <phrase title="show_all_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Mostra tutti i messaggi privati]]></phrase>
   <phrase title="show_all_matches" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Mostra tutte le corrispondenze]]></phrase>
   <phrase title="show_changes" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Mostra modifiche]]></phrase>
   <phrase title="show_current_activity" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Mostra l'attività corrente]]></phrase>
@@ -9262,10 +9267,10 @@ Contenuto riportato:
   <phrase title="standard_cookies_we_set" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Cookie standard che impostiamo]]></phrase>
   <phrase title="standard_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ricerca Standard]]></phrase>
   <phrase title="star" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Segna]]></phrase>
-  <phrase title="star_direct_messages" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Aggiungi stella ai messaggi diretti]]></phrase>
+  <phrase title="star_direct_messages" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Aggiungi stella ai messaggi privati]]></phrase>
   <phrase title="star_rating" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Classificazione a stelle]]></phrase>
   <phrase title="starred" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Preferito]]></phrase>
-  <phrase title="starred_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggi diretti con stella]]></phrase>
+  <phrase title="starred_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggi privati con stella]]></phrase>
   <phrase title="start_date" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Data d'inizio]]></phrase>
   <phrase title="start_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Start import]]></phrase>
   <phrase title="start_sending_summary_email_when_user_inactive_for" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Inizia l'invio di email riassuntive quando l'utente è stato inattivo per]]></phrase>
@@ -9293,7 +9298,7 @@ Contenuto riportato:
   <phrase title="stop_ignoring_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smetti di ignorare {name}]]></phrase>
   <phrase title="stop_notification_emails_from_all_categories" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Non ricevere più le email di notifica di tutte le categorie]]></phrase>
   <phrase title="stop_notification_emails_from_all_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più le notifiche via email da tutte le discussioni]]></phrase>
-  <phrase title="stop_notification_emails_from_direct_messages" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Interrompi le email di notifica dai messaggi diretti]]></phrase>
+  <phrase title="stop_notification_emails_from_direct_messages" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Interrompi le email di notifica dai messaggi privati]]></phrase>
   <phrase title="stop_notification_emails_from_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ricevere più le notifiche via email da '{title}']]></phrase>
   <phrase title="stop_parsing_bb_code" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Disabilita conversione del BB code]]></phrase>
   <phrase title="stop_receiving_activity_summary_emails" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Non ricevere più email di riepilogo delle attività.]]></phrase>
@@ -10100,7 +10105,7 @@ Dovrai anche impostare un endpoint webhook nel tuo account Stripe con il seguent
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="0" version_string=""><![CDATA[I template in questo stile non possono essere modificati. Per favore prova un altro.]]></phrase>
   <phrase title="temporary" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temporaneo]]></phrase>
   <phrase title="terms_and_rules" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Termini d'uso]]></phrase>
-  <phrase title="terms_rules_text" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[<p>I fornitori ("noi", "nostra", "nostro", "ci") del servizio fornito da questo sito web non sono responsabili di nessun contenuto creato dall'utente e il suo account stesso. L'unico responsabile di un contenuto è l'autore stesso.</p>
+  <phrase title="terms_rules_text" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[<p>I fornitori ("noi", "nostra", "nostro", "ci") del servizio fornito da questo sito web non sono responsabili di nessun contenuto creato dall'utente e il suo account stesso. L'unico responsabile di un contenuto è l'autore stesso.</p>
 
 <p>Questo servizio è disponibile esclusivamente agli utenti che hanno almeno {age} anni. Se sei più piccolo, per favore non registrarti a questo sito. Se ti registri al sito, dichiari di aver questa età o di essere più grande.</p>
 
@@ -10116,7 +10121,7 @@ Dovrai anche impostare un endpoint webhook nel tuo account Stripe con il seguent
 <p>Questi termini possono subire variazioni e cambiamenti in qualsiasi momento senza preavviso.</p>
 
 <p>Se non accetti questi termini, per favore non registrarti e non utilizzare questo sito. Usando questo servizio, sottoscrivi e accetti questi termini.
- Se desideri chiudere il tuo account, per favore contattaci.</p>]]></phrase>
+ Se desideri chiudere il tuo account, per favore contattaci all'indirizzo supporto@tomshw.it.</p>]]></phrase>
   <phrase title="terrible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pessimo]]></phrase>
   <phrase title="test" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Test]]></phrase>
   <phrase title="test_activity_summary_email_sent_to_x_successfully" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Email di riepilogo dell'attività di prova inviata a {email} con successo.]]></phrase>
@@ -10186,7 +10191,7 @@ Quando il pagamento è stato approvato, il tuo account sarà aggiornato.]]></phr
   <phrase title="there_no_active_providers_yet" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ci sono fornitori attivi al momento.]]></phrase>
   <phrase title="there_no_active_reports_requiring_your_attention" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ci sono segnalazioni attive che richiedono la tua attenzione.]]></phrase>
   <phrase title="there_no_banned_users" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ci sono utenti bannati.]]></phrase>
-  <phrase title="there_no_direct_messages_to_display" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non ci sono messaggi diretti da visualizzare.]]></phrase>
+  <phrase title="there_no_direct_messages_to_display" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non ci sono messaggi privati da visualizzare.]]></phrase>
   <phrase title="there_no_messages_on_xs_profile_yet" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ci sono ancora messaggi sul profilo di {name}.]]></phrase>
   <phrase title="there_no_more_items_to_show" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non c'è altro da vedere...]]></phrase>
   <phrase title="there_no_posts_matching_your_filters" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Non ci sono messaggi corrispondenti ai tuoi filtri.]]></phrase>
@@ -10235,8 +10240,8 @@ Messaggio d'erroer: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_content_moderator_relates_to_unknown_content_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo moderatore di contenuti si riferisce a un tipo di contenuto sconosciuto.]]></phrase>
   <phrase title="this_content_must_have_at_least_x_tags" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Questo contenuto deve avere almeno {min} tag.]]></phrase>
   <phrase title="this_device_will_remain_trusted" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo dispositivo rimarrà affidabile.]]></phrase>
-  <phrase title="this_direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Questo messaggio diretto]]></phrase>
-  <phrase title="this_direct_message_is_closed_for_new_replies" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Questo messaggio diretto è chiuso per nuove risposte.]]></phrase>
+  <phrase title="this_direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Questo messaggio priivato]]></phrase>
+  <phrase title="this_direct_message_is_closed_for_new_replies" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Questo messaggio priivato è chiuso per nuove risposte.]]></phrase>
   <phrase title="this_does_not_apply_to_fields_displayed_within_preferences_page" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Questo non si applica ai campi visualizzati nella pagina delle preferenze.]]></phrase>
   <phrase title="this_feature_attempt_automatically_merge_custom_template_changes" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[Questa funzione tenterà di unire automaticamente le modifiche al modello personalizzato con tutti gli aggiornamenti al modello su cui si basano. Poiché si tratta di un processo automatizzato, si consiglia di controllare i modelli personalizzati dopo l'unione per assicurarsi che siano corretti.]]></phrase>
   <phrase title="this_feature_currently_may_not_be_available_in_some_browsers" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questa funzionalità potrebbe non essere disponibile in alcuni browser.]]></phrase>
@@ -10316,7 +10321,7 @@ Messaggio d'erroer: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_will_be_used_to_identify_media_site_to_load_in_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Questo sarà usato per identificare il sito media da caricare nel codice BB. Non può essere cambiato una volta impostato.]]></phrase>
   <phrase title="this_will_be_visible_to_anyone_who_can_see_content_for_warning" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo sarà visibile a chiunque può vedere il contenuto per cui l'utente è stato avvertito.]]></phrase>
   <phrase title="this_will_clean_up_permission_combinations_no_longer_in_use" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Questo ripulirà qualsiasi combinazione di permessi che non vengono più utilizzati. Questo può velocizzare l'aggiornamento dei permessi e le operazioni di ricostruzione, inoltre rimuove i dati non utilizzati dal database.]]></phrase>
-  <phrase title="this_will_delete_all_direct_messages_started_by_this_user" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questo eliminerà tutti i messaggi diretti avviati da questo utente. Questa azione non può essere annullata.]]></phrase>
+  <phrase title="this_will_delete_all_direct_messages_started_by_this_user" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Questo eliminerà tutti i messaggi privati avviati da questo utente. Questa azione non può essere annullata.]]></phrase>
   <phrase title="this_will_delete_all_reactions_of_this_type" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Questo cancellerà tutte le reazioni di questo tipo.]]></phrase>
   <phrase title="this_will_generate_new_backup_codes" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Questo genererà nuovi codici di backup. Tutti i codici di backup precedenti non funzioneranno più.]]></phrase>
   <phrase title="this_will_not_be_shown_to_member_receiving_warning" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Questo non verrà mostrato all'utente che riceve l'avvertimento.]]></phrase>
@@ -10652,7 +10657,7 @@ Per favore conferma che stai spostando la discussione nel forum corretto.]]></ph
   <phrase title="to_load_prefixes_dynamically_you_must_also_provide_listen_to_attribute" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Per caricare dinamicamente i prefissi è necessario fornire anche un attributo "listen-to" contenente il selettore di un elemento da ascoltare per i cambiamenti.]]></phrase>
   <phrase title="to_view_this_content_we_will_need_your_consent_to_set_third_party_cookies" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Per visualizzare questo contenuto avremo bisogno del tuo consenso per impostare cookie di terze parti.<br>
 Per informazioni più dettagliate, consulta la nostra <a href="{cookies_link}">pagina dei cookie</a>.
-]]>  </phrase>
+  ]]></phrase>
   <phrase title="today_at_x" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Oggi alle {time}]]></phrase>
   <phrase title="toggle_bb_code" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Attiva BB code]]></phrase>
   <phrase title="toggle_expanded" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alterna espansione]]></phrase>
@@ -10952,13 +10957,13 @@ Questi codici dovrebbero essere conservati in un posto sicuro.]]></phrase>
   <phrase title="unmark_as_solution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Deseleziona come soluzione]]></phrase>
   <phrase title="unmodified" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non modificato]]></phrase>
   <phrase title="unordered_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lista non ordinata]]></phrase>
-  <phrase title="unread_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggi diretti non letti]]></phrase>
+  <phrase title="unread_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Messaggi privati non letti]]></phrase>
   <phrase title="unread_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discussioni non lette]]></phrase>
   <phrase title="unsigned_integer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Intero positivo]]></phrase>
   <phrase title="unsigned_numeric" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numerico posiivo]]></phrase>
   <phrase title="unsolved" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Irrisolto]]></phrase>
   <phrase title="unstar" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non segnare]]></phrase>
-  <phrase title="unstar_direct_messages" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Rimuovi la stella dai messaggi diretti]]></phrase>
+  <phrase title="unstar_direct_messages" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Rimuovi la stella dai messaggi privati]]></phrase>
   <phrase title="unstick_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Togli dal rilievo la discussione]]></phrase>
   <phrase title="unstick_threads" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Togli dal rilievo]]></phrase>
   <phrase title="unsubscribe_from_mailing_list" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Cancella la sottoscrizione alla newsletter]]></phrase>
@@ -11076,7 +11081,7 @@ Seleziona gli aggiornamenti che vuoi installare qui sotto. Gli aggiornamenti sel
   <phrase title="user_email_confirmation_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, per completare la tua registrazione o riattivare il tuo account su {board}, devi confermare il tuo indirizzo email cliccando sul pulsante qui sotto.</p>]]></phrase>
   <phrase title="user_email_confirmation_plain_link_html" addon_id="XF" version_id="2021670" version_string="2.2.16"><![CDATA[<p class="minorText">Oppure, incolla il seguente link nel tuo browser: {link}</p>]]></phrase>
   <phrase title="user_email_confirmation_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - È richiesta la conferma dell'account]]></phrase>
-  <phrase title="user_email_unsubscribed_all_except_dm_body_html" addon_id="XF" version_id="2021470" version_string="2.2.14"><![CDATA[<p>Attualmente non abbiamo disabilitato le email relative ai messaggi diretti. Se desideri disabilitare anche queste <a href="{unsub_all}">clicca qui</a>.]]></phrase>
+  <phrase title="user_email_unsubscribed_all_except_dm_body_html" addon_id="XF" version_id="2021470" version_string="2.2.14"><![CDATA[<p>Attualmente non abbiamo disabilitato le email relative ai messaggi privati. Se desideri disabilitare anche queste <a href="{unsub_all}">clicca qui</a>.]]></phrase>
   <phrase title="user_email_unsubscribed_body_html" addon_id="XF" version_id="2021470" version_string="2.2.14"><![CDATA[<p>{username},</p>
 
 <p>Le tue preferenze email su {board} sono state recentemente modificate come richiesto.</p>
@@ -11361,7 +11366,7 @@ Seleziona gli aggiornamenti che vuoi installare qui sotto. Gli aggiornamenti sel
   <phrase title="view_all_available_trophies" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Mostra tutti i trofei disponibili]]></phrase>
   <phrase title="view_all_featured_content" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza tutti i contenuti in evidenza]]></phrase>
   <phrase title="view_all_reports" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza tutti i report]]></phrase>
-  <phrase title="view_all_your_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza tutti i tuoi messaggi diretti]]></phrase>
+  <phrase title="view_all_your_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza tutti i tuoi messaggi privati]]></phrase>
   <phrase title="view_approval_queue" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza la coda di approvazione]]></phrase>
   <phrase title="view_attachment_x" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Visualizza allegato {name}]]></phrase>
   <phrase title="view_class_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Il nome della classe della vista che ha reso la pagina corrente.]]></phrase>
@@ -11387,7 +11392,7 @@ Seleziona gli aggiornamenti che vuoi installare qui sotto. Gli aggiornamenti sel
   <phrase title="view_secret" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Vedi segreto]]></phrase>
   <phrase title="view_solution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Vedi soluzione]]></phrase>
   <phrase title="view_them" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Vuoi vedere?]]></phrase>
-  <phrase title="view_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza questo messaggio diretto]]></phrase>
+  <phrase title="view_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza questo messaggio priivato]]></phrase>
   <phrase title="view_this_report" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizza questo report]]></phrase>
   <phrase title="view_this_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Vedi la discussione]]></phrase>
   <phrase title="view_this_users_identities" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Visualizza le identità di questo utente]]></phrase>
@@ -11403,7 +11408,7 @@ Seleziona gli aggiornamenti che vuoi installare qui sotto. Gli aggiornamenti sel
   <phrase title="viewable_on_profile_pages" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Visualizzabile sulle pagine del profilo]]></phrase>
   <phrase title="viewing_an_error" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[mentre guardava un errore]]></phrase>
   <phrase title="viewing_category" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[mentre guardava una categoria]]></phrase>
-  <phrase title="viewing_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizzando messaggi diretti]]></phrase>
+  <phrase title="viewing_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizzando messaggi privati]]></phrase>
   <phrase title="viewing_featured_content" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Visualizzando contenuti in evidenza]]></phrase>
   <phrase title="viewing_forum" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[mentre guardava il forum]]></phrase>
   <phrase title="viewing_forum_list" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[mentre guardava la lista delle sezioni]]></phrase>
@@ -12109,14 +12114,14 @@ Argomenti di callback:
   <phrase title="x_reacted_to_your_message_in_the_conversation_y" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[{name} ha reagito al tuo messaggio nella conversazione {title} con un {reaction}.]]></phrase>
   <phrase title="x_reacted_to_your_post_in_the_thread_y" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} ha reagito al tuo messaggio nella discussione <a {posterParams}>{title}</a> con un {reaction}.]]></phrase>
   <phrase title="x_reacted_to_your_post_on_ys_profile" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} ha risposto al <a {post_attributes}>tuo commento</a> nel profilo di {profile} con {reaction}.]]></phrase>
-  <phrase title="x_reacted_to_your_reply_in_the_direct_message_y" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{name} ha reagito alla tua risposta nel messaggio diretto {title} con {reaction}.]]></phrase>
+  <phrase title="x_reacted_to_your_reply_in_the_direct_message_y" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{name} ha reagito alla tua risposta nel messaggio priivato {title} con {reaction}.]]></phrase>
   <phrase title="x_reacted_to_your_status" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[{name} ha reagito al tuo <a {status_attributes}>status</a> con un {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_comment_on_your_profile_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} ha risposto al <a {post_params}>commento di {poster}</a> nel post profilo con {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_comment_on_zs_profile_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} ha reagito al <a {post_params}>commento di {poster}</a> nel post profilo di {profile} con {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_post_in_the_thread_z" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[{name} ha reagito <a {posterParams}> al post di {poster}</a> nella discussione {title} con {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_post_on_your_profile" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} ha reagito al <a {post_params}>post di {poster}</a> nel tuo profilo con {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_post_on_zs_profile" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} ha reagito al <a {post_params}>post di {poster}</a> nel profilo di {profile} con {reaction}.]]></phrase>
-  <phrase title="x_reacted_to_ys_reply_in_the_direct_message_z" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{name} ha reagito alla <a {posterParams}>risposta di {poster}</a> nel messaggio diretto {title} con {reaction}.]]></phrase>
+  <phrase title="x_reacted_to_ys_reply_in_the_direct_message_z" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{name} ha reagito alla <a {posterParams}>risposta di {poster}</a> nel messaggio priivato {title} con {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_status" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} ha reagito allo <a {status_params}>status di {poster}</a> con {reaction}.]]></phrase>
   <phrase title="x_replied_to_thread_y_may_be_more" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[{name} ha risposto alla discussione {title}. Ci potrebbero essere ulteriori risposte dopo questa.]]></phrase>
   <phrase title="x_restricts_who_may_view_their_latest_activity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[{name} ha limitato chi può vedere le sue ultime attività.]]></phrase>
@@ -12246,7 +12251,7 @@ Per maggiori dettagli, consulta la pagina <a href="https://xenforo.com/community
   <phrase title="you_can_choose_whether_or_not_to_allow_external_search_engines_to_index" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Puoi scegliere se permettere ai motori di ricerca esterni di indicizzare tutte le discussioni in questo forum, o solo le discussioni che soddisfano determinati criteri.]]></phrase>
   <phrase title="you_can_drag_image_to_change_focal_point_of_banner_explain" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Puoi trascinare l'immagine per cambiare il punto focale del banner, poi clicca su Ok per confermare.]]></phrase>
   <phrase title="you_can_get_client_id_via_microsoft_azure_portal" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Puoi ottenere un ID client tramite il <a href='https://portal.azure.com/' target='_blank'>Microsoft Azure Portal</a>.]]></phrase>
-  <phrase title="you_can_not_send_direct_message_to_following_users_because_of_privacy" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio diretto ai seguenti utenti a causa delle loro impostazioni di privacy: {usernames}.]]></phrase>
+  <phrase title="you_can_not_send_direct_message_to_following_users_because_of_privacy" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio priivato ai seguenti utenti a causa delle loro impostazioni di privacy: {usernames}.]]></phrase>
   <phrase title="you_can_preview_icons_and_their_names_here" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Puoi vedere in anteprima le icone e i loro nomi <a href="https://fontawesome.com/icons?d=gallery" target="_blank">qui</a>.]]></phrase>
   <phrase title="you_cannot_compare_custom_changes_for_master_template" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Non si possono confrontare le modifiche personalizzate per un template principale.]]></phrase>
   <phrase title="you_cannot_create_payment_profile_as_there_no_valid_payment_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non puoi creare un profilo di pagamento perché non ci sono fornitori di pagamento validi.]]></phrase>
@@ -12255,7 +12260,7 @@ Per maggiori dettagli, consulta la pagina <a href="https://xenforo.com/community
   <phrase title="you_cannot_demote_yourself_from_being_super_admin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non puoi degradarti dall'essere un super amministratore.]]></phrase>
   <phrase title="you_cannot_reassign_this_report_to_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Non puoi riassegnare questa segnalazione a questo utente.]]></phrase>
   <phrase title="you_cannot_security_lock_your_own_account" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Non puoi bloccare il tuo account in modo sicuro!]]></phrase>
-  <phrase title="you_cannot_send_direct_message_to_yourself" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio diretto a te stesso.]]></phrase>
+  <phrase title="you_cannot_send_direct_message_to_yourself" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio priivato a te stesso.]]></phrase>
   <phrase title="you_did_not_grant_permission_to_access_connected_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sfortunatamente, non hai concesso il permesso di accedere al tuo account collegato. Ciò è necessario per continuare.]]></phrase>
   <phrase title="you_do_not_currently_have_privacy_policy_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Attualmente non hai un URL di politica sulla privacy.]]></phrase>
   <phrase title="you_do_not_currently_have_terms_and_rules_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Attualmente non hai un URL di termini d'uso.]]></phrase>
@@ -12269,7 +12274,7 @@ Per maggiori dettagli, consulta la pagina <a href="https://xenforo.com/community
   <phrase title="you_have_new_notification_at_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hai una nuova notifica su {boardTitle}]]></phrase>
   <phrase title="you_have_new_or_updated_conversation_message_at" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hai un messaggio di nuova conversazione o aggiornata su {boardTitle}]]></phrase>
   <phrase title="you_have_no_new_alerts" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Non ci sono nuove notifiche.]]></phrase>
-  <phrase title="you_have_no_recent_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non hai messaggi diretti recenti.]]></phrase>
+  <phrase title="you_have_no_recent_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non hai messaggi privati recenti.]]></phrase>
   <phrase title="you_have_not_added_any_bookmarks_yet" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Non hai ancora aggiunto nessun segnalibro.]]></phrase>
   <phrase title="you_have_not_authorized_any_applications_to_access_your_account" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non hai autorizzato alcuna applicazione ad accedere al tuo account.]]></phrase>
   <phrase title="you_have_posted_x_messages_in_this_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Hai inviato {count} messaggi in questa discussione.]]></phrase>
@@ -12298,13 +12303,13 @@ Per maggiori dettagli, consulta la pagina <a href="https://xenforo.com/community
   <phrase title="you_may_not_perform_this_action_because_forum_does_not_allow_posting" addon_id="XF" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Non puoi eseguire questa azione perché questo forum non permette di postare.]]></phrase>
   <phrase title="you_may_not_remove_following_tags_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Non puoi rimuovere i seguenti tag: {tags}]]></phrase>
   <phrase title="you_may_not_report_this_content" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[Non puoi segnalare questo contenutoNon puoi segnalare questo contenuto.]]></phrase>
-  <phrase title="you_may_not_send_a_direct_message_to_the_following_recipients_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio diretto ai seguenti destinatari: {names}.]]></phrase>
-  <phrase title="you_may_not_send_direct_message_to_x_because_of_their_privacy_settings" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio diretto a {name} a causa delle loro impostazioni sulla privacy.]]></phrase>
+  <phrase title="you_may_not_send_a_direct_message_to_the_following_recipients_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio priivato ai seguenti destinatari: {names}.]]></phrase>
+  <phrase title="you_may_not_send_direct_message_to_x_because_of_their_privacy_settings" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Non puoi inviare un messaggio priivato a {name} a causa delle loro impostazioni sulla privacy.]]></phrase>
   <phrase title="you_may_only_apply_x_tags_to_this_content" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Puoi applicare solamente {count} tag a questo contenuto.]]></phrase>
   <phrase title="you_may_only_attach_x_files" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Puoi allegare solo {count} files.]]></phrase>
   <phrase title="you_may_only_follow_x_people" addon_id="XF" version_id="1020270" version_string="1.2.2"><![CDATA[Puoi seguire solo un totale di {count} persone.]]></phrase>
   <phrase title="you_may_only_ignore_x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Puoi ignorare solo {count} persone.]]></phrase>
-  <phrase title="you_may_only_invite_x_members_to_join_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Puoi invitare solo {count} membri a partecipare a questo messaggio diretto.]]></phrase>
+  <phrase title="you_may_only_invite_x_members_to_join_this_direct_message" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Puoi invitare solo {count} membri a partecipare a questo messaggio priivato.]]></phrase>
   <phrase title="you_may_select_up_to_x_choices" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Puoi selezionare fino a {max} scelte.]]></phrase>
   <phrase title="you_may_use_bb_code" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Puoi usare il codice BB]]></phrase>
   <phrase title="you_may_use_html" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[Puoi utilizzare l'HTML]]></phrase>
@@ -12413,7 +12418,7 @@ La verifica a due fattori migliora la sicurezza del tuo account forzando l'utent
   <phrase title="your_comment_will_re_open_this_report" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Il tuo commento riaprirà questa segnalazione.]]></phrase>
   <phrase title="your_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[I tuoi contenuti]]></phrase>
   <phrase title="your_content_cannot_be_submitted_try_later" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Il tuo contenuto non può essere inviato. Questo probabilmente perché il tuo contenuto è di tipo spam o contiene elementi inappropriati. Per favore cambia il tuo contenuto o riprova più tardi. Se hai ancora problemi, contatta un amministratore.]]></phrase>
-  <phrase title="your_direct_message_was_sent_to_x_users" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Il tuo messaggio diretto è stato inviato a {sent} utenti.]]></phrase>
+  <phrase title="your_direct_message_was_sent_to_x_users" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Il tuo messaggio priivato è stato inviato a {sent} utenti.]]></phrase>
   <phrase title="your_email_address" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo indirizzo email]]></phrase>
   <phrase title="your_email_cannot_be_changed_while_your_account_does_not_have_password" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[La tua email non può essere cambiata dal momento che il tuo account non ha una password.]]></phrase>
   <phrase title="your_email_could_not_be_confirmed_use_resend" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Il tuo indirizzo e-mail non può essere confermato. Ti preghiamo di richiedere una nuova conferma email e segui le istruzioni.]]></phrase>
