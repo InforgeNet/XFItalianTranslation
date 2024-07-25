@@ -25,6 +25,7 @@ In questa parte troverai la forma con cui traduciamo le stringhe più comuni. Se
 
 - Threads = Discussioni
 - Posts = Messaggi
+- Direct message = Messaggio privato
 - To Post = Pubblicare (verbo)
 - Notices = Notifiche
 - Themes = Temi
@@ -91,3 +92,11 @@ In definitiva per partecipare a questo progetto bisogna:
 1. Creare un fork
 2. Effettua le modifiche
 3. Richiedi di integrare il tuo lavoro tramite pull request
+
+## Workflows
+Abbiamo due workflow sulla repository:
+
+- Validate: controlla che l'XML sia valido
+- Cleaner: rimuove ogni personalizzazione di traduzione, rimuovendo i `<phrase>` con `addon_id=""`
+
+Non è necessaria alcuna operazione, i workflow vengono eseguiti automaticamente alla PR e alla Push
